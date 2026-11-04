@@ -9,8 +9,8 @@ src = "src"
 [output.html]
 default-theme = "navy"
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/wishnoblog/nord-stage-4-manual-zh"
-edit-url-template = "https://github.com/wishnoblog/nord-stage-4-manual-zh/edit/main/{path}"
+git-repository-url = "https://github.com/wishnoblog/NordStage4UserManual"
+edit-url-template = "https://github.com/wishnoblog/NordStage4UserManual/edit/main/{path}"
 site-url = "/"
 
 [output.html.search]
