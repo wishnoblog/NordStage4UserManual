@@ -104,7 +104,7 @@ This section is further described in the Piano chapter, beginning on page 23.
 
 ## 程式區段 / PROGRAM SECTION
 
-Nord Stage 4 上的一個程式包含所有音層及其效果的音源引擎設定。樂器中央區域——程式區段——是導覽和儲存程式、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設值載入程式的任何音層或區段。
+Nord Stage 4 上的一個程式（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——程式區段——是導覽和儲存程式、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設值載入程式的任何音層或區段。
 
 A program on the Nord Stage 4 contains settings for the sound engines of all Layers and their effects. The center area of the instrument - the Program section - is where programs are navigated and stored, and various performance features and settings menus are accessed. Additionally, this is also where the Organ, Piano and Synth Preset banks are found, allowing for complete presets – including effects – to be loaded into any Layer or Section of your program.
 
