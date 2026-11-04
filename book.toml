@@ -1,0 +1,22 @@
+[book]
+title = "Nord Stage 4 使用手冊（中英雙語）"
+authors = ["Clavia DMI AB（原著）", "Claude 翻譯"]
+description = "Nord Stage 4 User Manual — 中英雙語版，適合新手閱讀"
+language = "zh-TW"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/wish/nord-stage-4-manual-zh"
+edit-url-template = "https://github.com/wish/nord-stage-4-manual-zh/edit/main/{path}"
+site-url = "/nord-stage-4-manual-zh/"
+
+[output.html.search]
+enable = true
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
