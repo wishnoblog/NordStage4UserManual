@@ -4,6 +4,9 @@
 
 ---
 
+
+![圖 1](img/ch04/fig_01_p18.png)
+
 ## 關於風琴區段 / ABOUT THE ORGAN SECTION
 
 Nord Stage 4 內建六種風琴音色模型，全部以數位方式模擬：一種音輪式 B3 風琴（另附獨立的 B3 Bass 模式）、兩種電晶體風琴（Vox 和 Farfisa），以及兩種管風琴（Pipe Organ）模型。
@@ -97,6 +100,8 @@ Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定�
 
 The Nord Stage 4 comes with a large selection of complete and ready-to-use Organ Presets, including effects. These are browsed and loaded using the ORGAN button in the PRESET LIBRARY area, of the central Program section. User-created sounds can be stored to the Preset Library as well, for quick and easy recall from within any Program.
 
+![ch04 圖 1](img/ch04/fig_01_p18.png)
+
 詳細說明請參閱第 40 頁的預設音色庫章節。
 
 Read more about the Preset Library on page 40.
@@ -106,6 +111,9 @@ Read more about the Preset Library on page 40.
 ## 音桿與 LED 顯示 / DRAWBARS AND LED GRAPHS
 
 每支實體音桿（Drawbar——類似滑桿的控制器，拉出越多、該泛音聲音越大）旁邊都有一排 LED 指示燈顯示目前的設定值。載入程式時，LED 會顯示程式中儲存的音桿預設值。
+
+![圖 2](img/ch04/fig_02_p19.png)
+
 
 > 💡 「泛音」是聲音的組成成分。每支音桿代表不同的頻率成分，透過組合各音桿的位置，你就能調出各種不同特色的風琴音色——這正是風琴最有趣的地方！
 
@@ -120,6 +128,12 @@ If the Preset is turned Off, the Organ is in Drawbar Live mode for that Layer, m
 > The drawbars can be Morph controlled, in Preset mode, if you want to make dramatic changes with for example the Wheel or a control pedal.
 
 ---
+
+
+![圖 3](img/ch04/fig_03_p20.png)
+
+
+![圖 4](img/ch04/fig_04_p21.png)
 
 ## B3 模型 / THE B3 MODEL
 
@@ -151,6 +165,8 @@ The B3 model is based on a digital model of the classic electro-mechanical tonew
 音輪風琴的泛音音程標示印在面板音桿下方。每支音桿代表一個固定泛音音程，與所彈奏的音符之間維持固定的音高關係。面板上的圖示顯示彈奏 C3 時，九支音桿各自的音高關係。請注意，5⅓′ 音桿實際上是基頻（8′）高五度的泛音，但在多數情況下聽起來反而像在它下方。
 
 The harmonic intervals for the tonewheel organ are printed on the panel below the drawbars. Each drawbar represents a partial with a fixed harmonic interval in relationship with the played note. The illustration below shows the pitch interval among the nine drawbars when the key of C3 is played. Note that the 5⅓′ drawbar actually is a 5th above the fundamental harmonic (8′) but in most situations is perceived as sounding below it.
+
+![ch04 圖 2](img/ch04/fig_02_p19.png)
 
 ---
 
@@ -386,3 +402,7 @@ If you have only one expression pedal, it can be used to control both Morphs and
 旋轉喇叭效果的詳細設定，請參閱效果章節第 52 頁。
 
 The Rotary Speaker settings are described in detail in the Effects chapter on page 52.
+
+![ch04 圖 3](img/ch04/fig_03_p20.png)
+
+![ch04 圖 4](img/ch04/fig_04_p21.png)

@@ -2,7 +2,12 @@
 
 ---
 
+
+![圖 1](img/appendix/fig_01_p65.png)
+
 ## 附錄 I：連接埠 / APPENDIX I: CONNECTIONS
+
+![appendix 圖 1](img/appendix/fig_01_p65.png)
 
 ![第 65 頁](img/appendix/page_65.png)
 

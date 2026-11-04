@@ -2,6 +2,9 @@
 
 ![Page 11](img/ch03/page_11.png)
 
+![圖 1](img/ch03/fig_01_p13.png)
+
+
 ---
 
 讓我們花幾分鐘熟悉 Nord Stage 4 最基本的功能。本章將以循序漸進的方式描述最常見的操作情境和任務，希望作為進一步編輯和音色創作的良好起點。
@@ -213,6 +216,9 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 1. 按一下顯示器左側的 STORE 按鈕，開始儲存當前程式的過程。  
    Press the STORE button to the left of the display once, to begin the process of storing the current program.
 
+![圖 2](img/ch03/fig_02_p13.png)
+
+
 2. STORE LED 將開始閃爍，顯示器將詢問您要儲存程式的位置。  
    The STORE LED will begin to flash and the display will ask you for the location to where you want to store the program.
 
@@ -234,6 +240,18 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 在第 39 頁的程式章節中閱讀更多關於儲存和命名程式的資訊。
 
 Read more about Store and how to name a program in the Program chapter, on page 39.
+
+
+![圖 3](img/ch03/fig_03_p14.png)
+
+
+![圖 4](img/ch03/fig_04_p15.png)
+
+
+![圖 5](img/ch03/fig_05_p16.png)
+
+
+![圖 6](img/ch03/fig_06_p17.png)
 
 ### 即時模式 / LIVE MODE
 
@@ -701,3 +719,15 @@ What's more, the Master Clock operates on all Layers simultaneously so you can c
 部分配備主時鐘的功能有大於 1/1 的除法設定，允許比一小節更長的掃描。當然，您也可以同步某些功能，同時讓其他功能自由運行。
 
 Some of the Mst Clk equipped functions have division settings that are larger than 1/1 that allows for sweeps that are longer than one bar. And you can of course synchronize some functions, while leaving others free-running if you like.
+
+![ch03 圖 1](img/ch03/fig_01_p13.png)
+
+![ch03 圖 2](img/ch03/fig_02_p13.png)
+
+![ch03 圖 3](img/ch03/fig_03_p14.png)
+
+![ch03 圖 4](img/ch03/fig_04_p15.png)
+
+![ch03 圖 5](img/ch03/fig_05_p16.png)
+
+![ch03 圖 6](img/ch03/fig_06_p17.png)

@@ -1,5 +1,10 @@
 # 第十二章：Nord Sound Manager / Chapter 12: Nord Sound Manager
 
+![ch12 圖 1](img/ch12/fig_01_p63.png)
+
+![圖 1](img/ch12/fig_01_p63.png)
+
+
 ![第 63 頁](img/ch12/page_63.png)
 
 ---

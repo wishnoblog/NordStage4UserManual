@@ -2,6 +2,9 @@
 
 ![Page 9](img/ch02/page_09.png)
 
+![圖 1](img/ch02/fig_01_p9.png)
+
+
 ---
 
 ## 風琴區段 / ORGAN SECTION
@@ -183,3 +186,5 @@ Many of the effect parameters can be "morph" controlled, which means they can be
 本區段——以及旋轉喇叭——的詳細說明請見第 47 頁起的音層效果章節。
 
 This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 47.
+
+![ch02 圖 1](img/ch02/fig_01_p9.png)

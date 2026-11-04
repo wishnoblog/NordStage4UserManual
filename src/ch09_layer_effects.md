@@ -2,6 +2,9 @@
 
 ![Page 47](img/ch09/page_47.png)
 
+![圖 1](img/ch09/fig_01_p47.png)
+
+
 ---
 
 ## 概覽 / OVERVIEW
@@ -110,6 +113,9 @@ The VARIATION mode provides a stereo version of the Ring Modulation effect.
 
 A-WAH（Auto-Wah——跟著演奏力度自動變化的哇哇效果）跟下面介紹的 Wah-Wah 是親戚，差別在於它用訊號的音量大小（包絡追蹤器）來驅動濾波器掃描，所以彈得越用力，哇哇效果越明顯。**SENS（Rate）** 旋鈕控制靈敏度和掃描範圍，**Amount** 控制效果的乾/濕混合比例。
 
+![圖 2](img/ch09/fig_02_p48.png)
+
+
 A-WAH (Auto-Wah) is a close relative to the Wah-Wah effect described below. The A-Wah uses the signal's amplitude (envelope follower) to control the filter sweep range, making the effect velocity sensitive. The sensitivity and range of the effect is controlled with the SENS (Rate) knob and the wet/dry mix with the Amount knob.
 
 VARIATION 採用不同的模型，產生截然不同的音色特性。
@@ -117,6 +123,18 @@ VARIATION 採用不同的模型，產生截然不同的音色特性。
 The VARIATION of the A-Wah works in the same way, but is based on a different model which produces a distinctly different character.
 
 ---
+
+
+![圖 3](img/ch09/fig_03_p49.png)
+
+
+![圖 4](img/ch09/fig_04_p50.png)
+
+
+![圖 5](img/ch09/fig_05_p51.png)
+
+
+![圖 6](img/ch09/fig_06_p52.png)
 
 ### WAH（哇哇）/ WAH
 
@@ -475,3 +493,15 @@ In STOP mode (Shift+Rotary Speed) the Rotary Speaker simulation freezes to a hal
 旋轉喇叭的控制設定是所有路由到它的音層共用的。
 
 The Rotary Speaker controls are shared for all Layers that are routed to it.
+
+![ch09 圖 1](img/ch09/fig_01_p47.png)
+
+![ch09 圖 2](img/ch09/fig_02_p48.png)
+
+![ch09 圖 3](img/ch09/fig_03_p49.png)
+
+![ch09 圖 4](img/ch09/fig_04_p50.png)
+
+![ch09 圖 5](img/ch09/fig_05_p51.png)
+
+![ch09 圖 6](img/ch09/fig_06_p52.png)

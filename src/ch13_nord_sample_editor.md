@@ -1,5 +1,10 @@
 # 第十三章：Nord Sample Editor 4 / Chapter 13: Nord Sample Editor 4
 
+![ch13 圖 1](img/ch13/fig_01_p64.png)
+
+![圖 1](img/ch13/fig_01_p64.png)
+
+
 ![第 64 頁](img/ch13/page_64.png)
 
 ---

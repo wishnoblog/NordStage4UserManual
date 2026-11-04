@@ -2,6 +2,9 @@
 
 ![第 37 頁](img/ch07/page_37.png)
 
+![圖 1](img/ch07/fig_01_p37.png)
+
+
 ---
 
 ## 程式區段概覽 / PROGRAM OVERVIEW
@@ -136,6 +139,9 @@ After a split has been activated, use the KB ZONE controls (accessed with SHIFT)
 ### 選擇分割點位置 / CHOOSING A SPLIT POSITION
 
 在鍵盤分區頁面，可以將三個分割點各自指定到一個鍵盤位置，或停用某個分割點。共有 11 個可用的鍵盤分割位置，從 C2 到 C7。
+
+![圖 2](img/ch07/fig_02_p38.png)
+
 
 The Keyboard Split page allows for assigning each of the three split points to a keyboard position, or for deactivating a split point. There are 11 possible keyboard split positions, ranging from C2 to C7.
 
@@ -488,11 +494,17 @@ The MIDI Channel for Aux KB is set in the MIDI Menu.
 
 許多按鈕和旋鈕都有按住 SHIFT 才能存取的次要功能。Shift 也作為選單的 EXIT（退出）功能，以及取消儲存操作使用。
 
+![圖 3](img/ch07/fig_03_p38.png)
+
+
 Many buttons and knobs have a secondary function accessed by holding SHIFT. Shift is also used as an EXIT function for menus and for cancelling Store operations.
 
 Nord Stage 4 上有兩個功能相同的 Shift 按鈕。
 
 There are two Shift buttons on the Nord Stage 4 with the same functionality.
+
+
+![圖 4](img/ch07/fig_04_p39.png)
 
 ### 長按啟動 Shift 功能 / HOLD TO SHIFT FUNCTION
 
@@ -506,11 +518,20 @@ Most Shift functions can also be activated by pressing down the corresponding bu
 
 Nord Stage 4 有八個方便存取的**即時模式（Live Mode）程式（Live Program——一種自動儲存的程式，調整後不需要手動存檔）**位置。對即時模式程式的任何編輯，在離開或關機時都會自動儲存，省去手動存檔的步驟。
 
+![圖 5](img/ch07/fig_05_p39.png)
+
+
 The Nord Stage 4 has eight easy-to-access Live program locations. Any edits to Live programs are automatically stored when leaving or powering off.
 
 按 LIVE MODE，再按 1-8 任一按鈕即可選取即時程式。
 
 To select a Live Program, press LIVE MODE and then any of the 1-8 buttons.
+
+
+![圖 6](img/ch07/fig_06_p41.png)
+
+
+![圖 7](img/ch07/fig_07_p41.png)
 
 ### 數字鍵盤模式 / NUM PAD (NUMERIC PAD)
 
@@ -538,6 +559,9 @@ The PROGRAM 1-8 buttons are used for accessing the menus when used in conjunctio
 
 程式和預設音色的排列順序可以使用**整理（Organize）**（Shift+Program 3）的 Swap（互換）和 Move（移動）功能來重新排列。
 
+![圖 8](img/ch07/fig_08_p44.png)
+
+
 The order of Programs and Presets can be rearranged using the Swap and Move ORGANIZE functions (Shift+Program 3).
 
 - **SWAP**（互換）：交換兩個程式的位置。/ Interchanges the positions of two programs.
@@ -549,8 +573,39 @@ Content can also be organized using the Nord Sound Manager.
 
 ---
 
+
+![圖 9](img/ch07/fig_09_p44.png)
+
+
+![圖 10](img/ch07/fig_10_p44.png)
+
+
+![圖 11](img/ch07/fig_11_p44.png)
+
 ## 程式音量 / PROGRAM LEVELS
 
 **程式音量（Program Levels）**功能提供一個快速調整整個程式總音量的方法，讓你在不調整主音量的情況下調高或調低某個程式的整體音量——在準備現場演出的程式時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動程式旋鈕可以等量調整所有區段所有音層的音量。
 
 The Program Levels function provides a shortcut for adjusting the total volume level of an entire program. Found on the first page of the SOUND menu (Shift+Program 2 button). Turning the Program dial adjusts the levels of all Layers, for all Sections, by an equal amount.
+
+![ch07 圖 1](img/ch07/fig_01_p37.png)
+
+![ch07 圖 2](img/ch07/fig_02_p38.png)
+
+![ch07 圖 3](img/ch07/fig_03_p38.png)
+
+![ch07 圖 4](img/ch07/fig_04_p39.png)
+
+![ch07 圖 5](img/ch07/fig_05_p39.png)
+
+![ch07 圖 6](img/ch07/fig_06_p41.png)
+
+![ch07 圖 7](img/ch07/fig_07_p41.png)
+
+![ch07 圖 8](img/ch07/fig_08_p44.png)
+
+![ch07 圖 9](img/ch07/fig_09_p44.png)
+
+![ch07 圖 10](img/ch07/fig_10_p44.png)
+
+![ch07 圖 11](img/ch07/fig_11_p44.png)

@@ -2,6 +2,9 @@
 
 ![第 27 頁](img/ch06/page_27.png)
 
+![圖 1](img/ch06/fig_01_p27.png)
+
+
 ---
 
 ## 關於合成器區段 / ABOUT THE SYNTH SECTION
@@ -130,6 +133,9 @@ Turning INFO (Shift+left dial) toggles the screen to show information about the 
 
 Nord Sample Library 4 的樣本附帶特定合成器參數的預設值，讓樣本載入後即可立即演奏。這包括 Amp 包絡線和力度感應（Velocity）設定，通常在載入時會套用樣本本身定義的數值；同時，濾波器會關閉，LFO 設定也會停用。
 
+![圖 2](img/ch06/fig_02_p28.png)
+
+
 Samples from the Nord Sample Library 4 come with a set of preset values for certain Synth parameters, in order to make them instantly playable. These include Amp Envelope and Velocity settings, which are normally set to values defined in the Sample itself when loaded. Furthermore, the Filter is turned Off and active LFO settings are deactivated.
 
 > 💡 如果你想在不套用預設值的情況下載入樣本（保留所有已編輯的合成器參數），按住 WAVEFORM 按鈕的同時轉動 SAMPLE 旋鈕即可，面板標示為「KEEP EDITS」。
@@ -169,6 +175,9 @@ Oscillator Control, OSC CTRL, is used to alter the sound in various ways dependi
 
 在類比模式下，按下 Waveform Select 按鈕，使用左側 Type 旋鈕可選擇以下類型：
 
+![圖 3](img/ch06/fig_03_p28.png)
+
+
 In Analog mode pressing the Waveform Select button presents a number of Types, selected with the left Type dial:
 
 - **Analog（類比）**：涵蓋基本單振盪器到雙重／多重振盪器配置，以及噪音等雜項波形的類比風格波形。
@@ -192,6 +201,12 @@ In Analog mode pressing the Waveform Select button presents a number of Types, s
 中間的 Category（類別）旋鈕用於在指定振盪器類型內選擇類別，右側的 Waveform 旋鈕則用於選擇具體波形。按下 Shift 並轉動 Waveform 旋鈕可進入清單檢視模式。
 
 The middle Category dial is used for choosing a category within the specified oscillator Type and the right Waveform dial selects the specific waveform to be used. Use the LIST command (Shift+Waveform dial) to display a list view of the waveforms or samples in your current selection.
+
+
+![圖 4](img/ch06/fig_04_p29.png)
+
+
+![圖 5](img/ch06/fig_05_p29.png)
 
 ### 類比－純音波（PURE） / ANALOG - PURE
 
@@ -352,6 +367,9 @@ Most filters share the same parameters: FREQ (Frequency) controls the cut-off fr
 
 濾波器類型、鍵盤追蹤和濾波器驅動，均透過合成器顯示螢幕設定。按下 Filter TYPE 按鈕，使用下方三個旋鈕進行設定。
 
+![圖 6](img/ch06/fig_06_p31.png)
+
+
 Filter Type, along with Filter Keyboard Tracking and Filter Drive is selected using the Synth display. Press the Filter TYPE button and use the three dials under the display to set these parameters as desired.
 
 **LP 24 & LP 12（低通濾波器）**
@@ -388,6 +406,18 @@ If HP (high-pass) is used, frequencies below the Filter Frequency setting will b
 帶通濾波器只讓接近截止頻率的頻率通過，可用於製作窄帶、鼻音感或「受控制」的聲音。
 
 The BP (band-pass) filter allows frequencies close to the Filter Frequency setting to pass, while frequencies above and below the cutoff are attenuated.
+
+
+![圖 7](img/ch06/fig_07_p31.png)
+
+
+![圖 8](img/ch06/fig_08_p31.png)
+
+
+![圖 9](img/ch06/fig_09_p31.png)
+
+
+![圖 10](img/ch06/fig_10_p31.png)
 
 ### 鍵盤追蹤 / KEYBOARD TRACKING
 
@@ -650,11 +680,20 @@ There are three available modes for the Arpeggiator/Gate section:
 
 三種模式都可以使用 PATTERN 設定（Shift+琶音器模式）。開啟後，琶音或閘門的步驟會按照所選型式的節奏進行。
 
+![圖 11](img/ch06/fig_11_p35.png)
+
+
 All three modes can use the PATTERN setting. With Pattern On, the notes or steps conform to the rhythm defined by the selected pattern.
 
 除了現有的預設型式外，還可以建立自訂長度的型式。型式的選擇和定義在琶音器選單中進行。
 
 Apart from the available set of preset patterns, custom patterns of varying length can be created.
+
+
+![圖 12](img/ch06/fig_12_p35.png)
+
+
+![圖 13](img/ch06/fig_13_p36.png)
 
 ### 音域 / 包絡（RANGE / ENV） / RANGE / ENV
 
@@ -669,6 +708,9 @@ When the GATE is active this knob controls the envelope (ENV) of the Gate.
 ### 琶音器選單 / ARPEGGIATOR MENU
 
 琶音器選單共有五頁，使用左側旋鈕在頁面間切換：
+
+![圖 14](img/ch06/fig_14_p36.png)
+
 
 The Arpeggiator MENU has five pages:
 
@@ -763,3 +805,31 @@ Pressing SOUND INIT (Shift+Waveform) allows for initializing all synthesizer par
 此操作可透過按下 UNDO 撤銷。
 
 The Sound Init operation can be undone by pressing UNDO.
+
+![ch06 圖 1](img/ch06/fig_01_p27.png)
+
+![ch06 圖 2](img/ch06/fig_02_p28.png)
+
+![ch06 圖 3](img/ch06/fig_03_p28.png)
+
+![ch06 圖 4](img/ch06/fig_04_p29.png)
+
+![ch06 圖 5](img/ch06/fig_05_p29.png)
+
+![ch06 圖 6](img/ch06/fig_06_p31.png)
+
+![ch06 圖 7](img/ch06/fig_07_p31.png)
+
+![ch06 圖 8](img/ch06/fig_08_p31.png)
+
+![ch06 圖 9](img/ch06/fig_09_p31.png)
+
+![ch06 圖 10](img/ch06/fig_10_p31.png)
+
+![ch06 圖 11](img/ch06/fig_11_p35.png)
+
+![ch06 圖 12](img/ch06/fig_12_p35.png)
+
+![ch06 圖 13](img/ch06/fig_13_p36.png)
+
+![ch06 圖 14](img/ch06/fig_14_p36.png)

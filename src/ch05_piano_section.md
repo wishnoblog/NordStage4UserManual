@@ -2,6 +2,9 @@
 
 ![第 23 頁](img/ch05/page_23.png)
 
+![圖 1](img/ch05/fig_01_p23.png)
+
+
 ---
 
 ## 開關與音量 / ON/OFF AND LEVEL
@@ -132,6 +135,9 @@ Read more about the Preset Library on page 40.
 
 按下 **TYPE** 按鈕可以選擇鋼琴的類型（大分類），共有六種類型：
 
+![圖 2](img/ch05/fig_02_p24.png)
+
+
 Use the TYPE button for selecting the desired type, or category, of piano sound. These are the six types into which all piano sounds are placed:
 
 | 類型 / TYPE | 說明 / DESCRIPTION |
@@ -148,6 +154,12 @@ Use the TYPE button for selecting the desired type, or category, of piano sound.
 Use the PIANO SELECT dial to choose a piano sound within the selected Type. The Piano Select LEDs indicate the Type of the currently selected piano model. Depending on Prog View mode (see page 41), which governs what info is shown in the display, the name of the selected model may also be shown in the Program area display.
 
 ---
+
+
+![圖 3](img/ch05/fig_03_p25.png)
+
+
+![圖 4](img/ch05/fig_04_p26.png)
 
 ### 關於 Clavinet / ABOUT THE CLAVINET
 
@@ -353,6 +365,9 @@ When an Electric Piano is selected, the Timbre settings are tailored specificall
 
 原版 Clavinet 內建 4 個搖桿開關控制 EQ，Nord Stage 4 提供了這些開關大部分的組合選項。
 
+![圖 5](img/ch05/fig_05_p26.png)
+
+
 An original Clavinet is equipped with 4 rocker switches which control the onboard EQ. Most of the combinations produced by these switches are available on the Nord Stage 4.
 
 可用設定：Soft、Treble、Soft+Treble、Brilliant、Soft+Brilliant、Treble+Brilliant、Soft+Treble+Brilliant。
@@ -368,3 +383,13 @@ Available settings are: Soft, Treble, Soft+Treble, Brilliant, Soft+Brilliant, Tr
 The UNISON feature uses transposed voices from neighbouring keys to create a stereo Unison effect. This can be used for stereo widening of mono sources such as electric pianos or for adding width and chorus-like shimmer to acoustic pianos. At the highest setting larger degrees of detune is applied. There are three different degrees of Unison, 1, 2 and 3, ranging from a subtle stereo effect to more obvious detuning.
 
 > 💡 在電鋼琴上開啟 UNISON 1 或 2，可以讓原本較為單薄的音色立刻變得豐厚有層次，非常適合流行樂或 R&B 曲風。
+
+![ch05 圖 1](img/ch05/fig_01_p23.png)
+
+![ch05 圖 2](img/ch05/fig_02_p24.png)
+
+![ch05 圖 3](img/ch05/fig_03_p25.png)
+
+![ch05 圖 4](img/ch05/fig_04_p26.png)
+
+![ch05 圖 5](img/ch05/fig_05_p26.png)

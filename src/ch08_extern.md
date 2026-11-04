@@ -2,7 +2,16 @@
 
 ![第 45 頁](img/ch08/page_45.png)
 
+![圖 1](img/ch08/fig_01_p45.png)
+
+
 ---
+
+
+![圖 2](img/ch08/fig_02_p45.png)
+
+
+![圖 3](img/ch08/fig_03_p46.png)
 
 ## 外部 MIDI 控制模式 / EXTERN MODE
 
@@ -197,3 +206,9 @@ The Extern menu setting for "Echo Global To Extern Channel" must in these cases 
 Extern 模式還有一些額外的選單設定，本章未涵蓋。請參閱第 61 頁的選單章節，以獲取更多資訊。
 
 There are additional menu settings for the Extern Mode, that have not been covered in this chapter. Refer to the Menu chapter, on page 61, for further information on those.
+
+![ch08 圖 1](img/ch08/fig_01_p45.png)
+
+![ch08 圖 2](img/ch08/fig_02_p45.png)
+
+![ch08 圖 3](img/ch08/fig_03_p46.png)

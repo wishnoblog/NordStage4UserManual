@@ -10,6 +10,8 @@ Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵�
 
 The Nord Stage 4 is designed to be as flexible as possible in regard to its MIDI capabilities. It can be used as a master keyboard to control other hardware units or software sound sources, or have Layers in the Organ, Piano and Synth section be individually controlled by outboard gear such as a computer or sequencer. It is also possible to control only parts of the Nord Stage 4 from a separate keyboard, on a per-program basis. If you like, you can even do all these things at the same time.
 
+![ch10 圖 1](img/ch10/fig_01_p55.png)
+
 Nord Stage 4 的 MIDI 功能分為四個主要區域：**全域（Global）**、**音層（Layer，風琴/鋼琴/合成器 A/B/C）**、**輔助鍵盤（Aux KB）**和**外部 MIDI（Extern）**。每個都可以獨立指定到任意 MIDI 頻道。將相關頻道設定為 Off 也可以停用 MIDI 功能。所有 MIDI 頻道都在 MIDI 選單中定義，詳見第 59 頁。
 
 The MIDI functionality can be divided into four main areas: Global, Layer (Organ/Piano/Synth A/B/C), Aux KB and Extern. Each of these are independently assignable to any MIDI channel. All MIDI channels are defined in the MIDI menu, see page 59.
@@ -192,6 +194,9 @@ The following MIDI messages can be transmitted and received by the Nord Stage 4:
 ## 鍵盤力度 / KEYBOARD VELOCITY
 
 Nord Stage 4 可以發送和接收鍵盤力度訊息。無論傳入的 MIDI 力度資料為何，管風琴音色始終以標準音量播放。發送離鍵力度，但在 MIDI In 上忽略。
+
+![圖 1](img/ch10/fig_01_p55.png)
+
 
 The Nord Stage 4 can transmit and receive Keyboard Velocity messages. Organ sounds will always be played back at nominal level regardless of incoming MIDI Velocity data.
 
