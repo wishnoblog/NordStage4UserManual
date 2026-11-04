@@ -135,11 +135,11 @@ If the Preset is turned Off, the Organ is in Drawbar Live mode for that Layer, m
 
 ![圖 4](img/ch04/fig_04_p21.png)
 
-## B3 模型 / THE B3 MODEL
+## B3 電風琴模組 / THE B3 MODEL
 
-B3 模型以經典機電式音輪風琴（Tonewheel Organ）為基礎，透過創新且精密的數位建模方式，重現原始樂器的每一個細節。以下是幾個建模的具體面向：
+B3 電風琴模組以經典機電式音輪風琴（Tonewheel Organ）為基礎，透過創新且精密的數位建模方式，重現原始樂器的每一個細節。以下是幾個建模的具體面向：
 
-> 💡 B3 風琴是 1950–60 年代最具代表性的鍵盤樂器之一，常見於爵士樂、福音音樂和搖滾樂中。Nord 花費大量心力精確模擬了它機械結構的每個特性。
+> 💡 Hammond B3 是 1950–60 年代最具代表性的電風琴（Electric Organ），常見於爵士樂、福音音樂和搖滾樂中，通常搭配 Leslie 旋轉喇叭使用。Nord 花費大量心力精確模擬了它機械結構的每個特性。
 
 The B3 model is based on a digital model of the classic electro-mechanical tonewheel organ. This simulation utilizes innovative and advanced methods to capture every nuance of the original sound. Here are some examples:
 
@@ -341,9 +341,9 @@ The pipe lengths available for both Pipe models correspond to those of the B3 mo
 
 ---
 
-## B3 Bass 模型 / B3 BASS
+## B3 Bass 電風琴模組 / B3 BASS
 
-B3 Bass 模型提供傳統 B3 低音的 16′ 和 8′ 兩支音桿。除了單獨使用外，也可以搭配鍵盤左側分區，或透過 MIDI 的 Aux KB 功能由外接鍵盤或踏鍵演奏。
+B3 Bass 電風琴模組提供傳統 B3 低音的 16′ 和 8′ 兩支音桿。除了單獨使用外，也可以搭配鍵盤左側分區，或透過 MIDI 的 Aux KB 功能由外接鍵盤或踏鍵演奏。
 
 > 💡 這個模式適合雙鍵盤演奏設定——右手操作主要的 B3 音色，左手或腳踩踏板控制專屬的低音音桿，重現傳統雙層鍵盤 B3 的演奏方式。
 
