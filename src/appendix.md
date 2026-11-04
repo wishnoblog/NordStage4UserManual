@@ -2,65 +2,45 @@
 
 ---
 
-## 附錄一：接線說明 / APPENDIX I: CONNECTIONS
+## 附錄 I：連接埠 / APPENDIX I: CONNECTIONS
 
-![Page 65](img/appendix/page_65.png)
-
----
-
-### 音訊連接 / AUDIO CONNECTIONS
-
-連接音訊設備的基本原則：**先接好所有音訊線，再開擴大機的電源。關機時，請先關擴大機或主動喇叭，最後再關 Nord Stage 4。**
-
-General guide on audio connections: Before turning on your amplifier, make all audio connections. Always turn on the amplifier last, and when shutting down, always turn off your amplifier or active speakers first.
-
-> ⚠️ 長時間以高音量使用 Nord Stage 4 可能會損傷聽力，請注意保護耳朵。  
-> Using the Nord Stage 4 at high volumes can damage your hearing.
+![第 65 頁](img/appendix/page_65.png)
 
 ---
 
-### 耳機輸出 / HEADPHONES
+### 音頻連接 / AUDIO CONNECTIONS
 
-標準 1/4 吋立體聲耳機插孔，輸出的是路由到聲道 1 和 2 的所有音訊。
+> ⚠️ 音頻連接的一般指南：開啟擴大機前，先完成所有音頻連接。**最後**開啟擴大機；關機時，**先**關閉擴大機或主動喇叭。在高音量下使用 Nord Stage 4 可能損傷您的聽力。
+
+General guide on audio connections: Before turning on your amplifier, make all audio connections. Always turn on the amplifier last, and when shutting down, always turn off your amplifier or active speakers first. Using the Nord Stage 4 at high volumes can damage your hearing.
+
+**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出路由到 CH 1&2 的所有音頻。
 
 1/4 inch stereo headphone jack, which outputs any audio routed to CH 1&2.
 
----
-
-### OUT 1&2、OUT 3&4 輸出 / OUT 1&2, OUT 3&4
-
-標準 1/4 吋非平衡線路輸出（Line Level Output——適合接擴大機或錄音設備的訊號強度），Nord Stage 4 是立體聲樂器，左右聲道的訊號各自獨立。
+**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻頻道有獨立的訊號路徑。
 
 1/4 inch unbalanced line level outputs for amplifier or recording equipment. The Nord Stage 4 is a stereo instrument with separate signal paths for the left and right audio channels.
 
-出廠預設是從 1&2 輸出音訊。如需使用 3&4 輸出（立體聲或單聲道），請參閱第 57 頁的輸出選單（Output Menu）設定。
+出廠時，Nord Stage 4 設定為透過 1&2 輸出音頻。關於如何使用 3&4 輸出（立體聲或單聲道配置），請參閱第 57 頁的輸出選單章節。
 
-When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 57 for details on how to utilise the 3&4 outputs, in stereo or mono configurations.
+When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 57 for details on how to utilise the 3&4 outputs.
 
----
+**監聽輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監聽輸入訊號路由到耳機和 Out 1&2。
 
-### 監聽輸入 / MONITOR IN
+1/8 inch jack for connecting devices such as smartphones, tablets or computers. The Monitor In signal is routed to the Headphones and Out 1&2.
 
-標準 1/8 吋（3.5mm）輸入插孔，可連接手機、平板或電腦。適合一邊播放參考音樂或節拍器，一邊練習。Monitor In 訊號會同時路由到耳機輸出和 Out 1&2。
-
-1/8 inch jack for connecting devices such as smartphones, tablets or computers to the Nord Stage 4. This is useful for playing and rehearsing to pre-recorded music or a metronome, or to use an additional sound source on stage. The Monitor In signal is routed to the Headphones and Out 1&2.
-
-> 💡 注意：Nord Stage 4 的主音量旋鈕（Master Level）不會影響 Monitor In 的音量。  
-> The Nord Stage 4 Master Level control does not affect the level of the Monitor In signal.
+> ⚠️ Nord Stage 4 主音量控制不影響監聽輸入訊號的音量。
 
 ---
 
 ### MIDI 連接 / MIDI CONNECTIONS
 
-#### MIDI IN
-
-標準 5 針 MIDI 輸入接頭，用於接收來自外部設備（如控制器鍵盤、音序器或電腦）發送的 MIDI（Musical Instrument Digital Interface——讓樂器之間溝通的數位訊號協議）資料。
+**MIDI IN**：5 針 MIDI 輸入連接埠，用於接收從外部裝置（如控制器鍵盤、音序器或電腦）發送的 MIDI 資料。
 
 The 5 pin MIDI In connection is used for receiving MIDI data sent from external devices such as controller keyboards, sequencers or computers.
 
-#### MIDI OUT
-
-標準 5 針 MIDI 輸出接頭，將 MIDI 資料發送到外部設備，如音源模組或電腦。
+**MIDI OUT**：5 針 MIDI 輸出連接埠，向外部音源模組或電腦等裝置發送 MIDI 資料。
 
 The 5 pin MIDI Out connection will send MIDI data to devices such as external sound modules or computers.
 
@@ -68,94 +48,231 @@ The 5 pin MIDI Out connection will send MIDI data to devices such as external so
 
 ### USB 連接 / USB CONNECTION
 
-USB 連接埠用於將 Nord Stage 4 連接到電腦，可用於 MIDI 通訊、作業系統更新，以及連接 Nord Sound Manager 或 Nord Sample Editor 4 等應用程式。最新 OS 版本和應用程式都可在 www.nordkeyboards.com 下載。
+USB 連接埠用於將 Nord Stage 4 連接到電腦，可用於 MIDI 通訊、作業系統更新，以及連接 Nord Sound Manager 或 Nord Sample Editor 4 等應用程式。
 
 The USB port is used for connecting the Nord Stage 4 to a computer. The connection can be used for MIDI communication, for OS updates and for connecting to applications such as the Nord Sound Manager or Nord Sample Editor 4.
 
-> 💡 USB MIDI 和傳統 5 針 MIDI 接頭可以同時使用，不需要選擇其中一個。  
-> MIDI over USB and standard 5 pin MIDI connectors are always active simultaneously.
+> 💡 USB MIDI 和標準 5 針 MIDI 連接器始終同時活躍。
+
+MIDI over USB and standard 5 pin MIDI connectors are always active simultaneously.
 
 ---
 
 ### 踏板連接 / PEDAL CONNECTIONS
 
-![Page 65](img/appendix/page_65.png)
+**三踏板（TRIPLE PEDAL）**：5 針三踏板輸入插孔，僅相容 Nord Triple Pedal 2（TP-2）裝置。三個踏板可以專用於鋼琴相關功能和延音，或用於控制多種其他功能。詳見第 58 頁的踏板選單。
 
-#### TRIPLE PEDAL（三踏板）
+The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 2 (TP-2) unit.
 
-標準 5 針接頭，**只相容於 Nord Triple Pedal 2（TP-2）**。三個踏板可以專門用於鋼琴功能和延音，也可以設定控制其他功能。詳見第 58 頁的踏板選單。
+**延音踏板（SUSTAIN PEDAL）**：1/4 吋連接埠，適用於所有常見類型的延音踏板，包括 Nord Sustain Pedal 1 和 2，以及 Nord Triple Pedal 1（TP-1）。延音踏板類型和極性在踏板選單中手動設定。
 
-The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 2 (TP-2) unit. The three pedals can be used exclusively for Piano related functionality and Sustain, or for controlling a number of other functions.
+1/4 inch connector for all common types of sustain pedals, including the Nord Sustain Pedal 1 and 2, and the Nord Triple Pedal 1 (TP-1).
 
-#### SUSTAIN PEDAL（延音踏板）
+**控制踏板（CONTROL PEDAL）**：1/4 吋連接埠，用於連續表情踏板，用於控制 Morph 和/或風琴 Swell。大多數常見的表情踏板型號都受支援，可在踏板選單中選擇。
 
-標準 1/4 吋接頭，相容於大多數延音踏板（Sustain Pedal——踩下時讓音符持續延響），包括 Nord Sustain Pedal 1 和 2，以及 Nord Triple Pedal 1（TP-1）。踏板類型和極性需在踏板選單中手動設定。
+1/4 inch connector for a continuous expression pedal, used for controlling morphs and/or Organ swell.
 
-1/4 inch connector for all common types of sustain pedals, including the Nord Sustain Pedal 1 and 2, and the Nord Triple Pedal 1 (TP-1). Sustain pedal type and polarity is set manually in the Pedal menu.
-
-#### CONTROL PEDAL（控制踏板）
-
-標準 1/4 吋接頭，用於連接表情踏板（Expression Pedal——可連續變化的踏板，不是只有開關），用來控制變形（Morph）和/或風琴音量推桿（Swell）。大多數常見的表情踏板都受支援，可在踏板選單中選擇。
-
-1/4 inch connector for a continuous expression pedal, used for controlling morphs and/or Organ swell. Most of the common expression pedal models are supported, and can be selected in the Pedal menu.
-
-#### ORGAN SWELL（風琴音量踏板）
-
-標準 1/4 吋接頭，用於連接表情踏板，可設定為風琴區段的音量推桿、全域音量控制，或複製調制輪的變形（Wheel Morph）功能。
+**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區段的 Swell 踏板、全域音量控制或鏡像調製輪 Morph 功能。
 
 1/4 inch connector for an expression pedal used either as swell pedal with the Organ section, for global Volume control or to mirror the Wheel Morph functionality.
 
-#### FOOT SWITCH（腳踏開關）
+**腳踏開關（FOOT SWITCH）**：1/4 吋連接埠，用於一個或兩個按鈕的瞬時踏板。腳踏開關可以指定多種功能，如切換程式、在音層場景之間切換或控制特定效果。
 
-標準 1/4 吋接頭，用於連接一或兩個按鈕的瞬時踏板（Momentary Pedal——按下時動作，放開時恢復）。腳踏開關可指定多種功能，例如切換程式、在音層場景之間切換，或控制某些效果器。詳見踏板選單。
-
-1/4 inch connector for a one or two button, momentary pedal. The Foot Switch can be assigned to a variety of functions, such as changing Programs, switching between Layer Scenes or controlling certain effects. See the Pedal menu for details on how to set this up.
-
-#### ROTOR PEDAL（旋轉喇叭踏板）
-
-標準 1/4 吋接頭，用於連接開關型踏板，用來切換旋轉喇叭（Rotary Speaker）效果的慢速/停止和快速旋轉。踏板可設定為按住模式（Hold）或切換模式（Toggle），詳見踏板選單。
-
-Nord Stage 4 Compact 型號可選用 Nord Half Moon Switch 半月形開關，接在此插孔上。
-
-1/4 inch connector for a switch type pedal, used for switching between slow/stopped and fast rotor speed for the Rotary Speaker effect. The pedal can work in either hold or toggle mode, as set in the Pedal menu. The optional Nord Half Moon Switch, compatible with the Nord Stage 4 Compact model, is also attached to the Rotor Pedal jack.
+1/4 inch connector for a one or two button, momentary pedal, assignable to a variety of functions.
 
 ---
 
-## 附錄二：MIDI 控制器列表 / APPENDIX II: MIDI CONTROLLER LIST
+![第 66 頁](img/appendix/page_66.png)
 
-![Page 67](img/appendix/page_67.png)
+**旋轉踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。
 
-> 💡 下表列出 Nord Stage 4 主要參數對應的 MIDI CC（控制訊息，Control Change——用數字編號控制樂器各種參數的 MIDI 訊號）編號。完整列表請參閱原版 PDF 手冊第 67 頁。
+1/4 inch connector for a switch type pedal, used for switching between slow/stopped and fast rotor speed for the Rotary Speaker effect.
 
-| 參數名稱 | Parameter | CC# |
-|----------|-----------|-----|
-| 音色庫選擇 MSB | Bank Select MSB | 0 |
-| 音色庫選擇 LSB | Bank Select LSB | 32 |
-| 整體音量 | Volume (Global) | 7 |
-| 延音踏板 | Sustain Pedal | 64 |
-| Sostenuto 踏板 | Sostenuto Pedal | 66 |
-| 柔音踏板 | Soft Pedal | 67 |
-| 控制踏板（表情）| Ctrl Pedal (Expression) | 11 |
-| 音層場景切換 | Layer Scene | 8 |
-| 區段效果焦點 | Section FX Focus | 31 |
-| 風琴 A 音量 | Organ A Level | 13 |
-| 風琴 B 音量 | Organ B Level | 14 |
-| 風琴區段啟用 | Organ Section Enable | 9 |
-| 風琴音桿 1 | Organ Drawbar 1 | 16 |
-| 風琴音桿 2 | Organ Drawbar 2 | 17 |
-| 風琴音桿 3 | Organ Drawbar 3 | 18 |
-| 風琴音桿 4 | Organ Drawbar 4 | 19 |
-| 風琴音桿 5 | Organ Drawbar 5 | 20 |
-| 風琴音桿 6 | Organ Drawbar 6 | 21 |
-| 風琴音桿 7 | Organ Drawbar 7 | 22 |
-| 風琴音桿 8 | Organ Drawbar 8 | 23 |
-| 風琴音桿 9 | Organ Drawbar 9 | 24 |
-| 鋼琴 A 音量 | Piano A Level | 34 |
-| 鋼琴 B 音量 | Piano B Level | 63 |
-| 鋼琴區段啟用 | Piano Section Enable | 33 |
-| 合成器 A 音量 | Synth A Level | 35 |
-| 合成器 B 音量 | Synth B Level | 36 |
-| 合成器 C 音量 | Synth C Level | 37 |
+可選配的 Nord Half Moon Switch 也可連接到 Rotor Pedal 插孔，與 Nord Stage 4 Compact 型號相容。
 
-> 完整的 MIDI CC 列表請參閱原版 PDF 手冊第 66-70 頁。  
-> For the full MIDI Controller list, refer to pages 66-70 of the original PDF manual.
+The optional Nord Half Moon Switch, compatible with the Nord Stage 4 Compact model, is also attached to the Rotor Pedal jack.
+
+---
+
+## 附錄 II：MIDI 控制器列表 / APPENDIX II: MIDI CONTROLLER LIST
+
+Nord Stage 4 同時實作使用每個參數一個控制器的 MIDI CC 訊息，以及基於 NRPN（Non-Registered Parameter Number——非注冊參數號碼，一種允許更多參數的擴展 MIDI 控制訊息）標準、每個參數使用多個控制器的訊息。
+
+The Nord Stage 4 implements both MIDI CC messages using only one controller per parameter, as well as messages using multiple controllers per parameter based on the NRPN standard.
+
+在下表中，使用一個或多個冒號書寫的參數使用 NRPN 進行 MIDI 資料傳輸。第一個數字對應 CC#99（NRPN MSB），第二個對應 CC#98（NRPN LSB）。參數值由 CC#38（Data Entry LSB）定義。除非另有說明，Data Entry MSB（CC#6）預期為 0。完整的 NRPN 封包由四個訊息組成：CC#99、CC#98、CC#6 和 CC#38。
+
+In the table below, parameters written using one or more colons utilize NRPN for MIDI data transfer. The first number corresponds to CC#99 (NRPN MSB) and the second to CC#98 (NRPN LSB). A complete NRPN package consists of four messages: CC#99, CC#98, CC#6 and CC#38.
+
+### 全域參數 / Global Parameters
+
+| 參數 / Parameter | CC#/NRPN |
+|---|---|
+| Bank Select MSB | 0 |
+| Bank Select LSB | 32 |
+| Volume (Global) | 7 |
+| Sustain Pedal | 64 |
+| Sostenuto Pedal | 66 |
+| Soft Pedal | 67 |
+| Ctrl Pedal (Expression) | 11 |
+| Layer Scene | 8 |
+| Section FX Focus | 31 |
+| Section Edit | 118 |
+
+### 風琴參數 / Organ Parameters
+
+| 參數 / Parameter | CC#/NRPN |
+|---|---|
+| Organ A Level | 13 |
+| Organ B Level | 14 |
+| Organ Section Enable Scene I | 9 |
+| Organ Section Enable Scene II | 2 |
+| Organ Layers Enable Scene I | 80 |
+| Organ Layers Enable Scene II | 81 |
+| Organ Layers Focus Scene I | 82 |
+| Organ Layers Focus Scene II | 83 |
+| Organ Octave Shift | 12 |
+| Organ Model | 2:16 |
+| Organ Preset | 16-24 |
+| Organ Drawbar 1-9 | 16-24 |
+| Organ Percussion Enable | 2:18 |
+| Organ Vibrato Type | 2:19 |
+| Organ Vibrato Enable | 2:20 |
+| Organ Percussion Harmonic | 2:21 |
+| Organ Percussion Speed | 2:22 |
+| Organ Percussion Level | 2:23 |
+
+### 鋼琴參數 / Piano Parameters
+
+| 參數 / Parameter | CC#/NRPN |
+|---|---|
+| Piano A Level | 34 |
+| Piano B Level | 63 |
+| Piano Section Enable Scene I | 33 |
+| Piano Section Enable Scene II | 3 |
+| Piano Layers Enable Scene I | 72 |
+| Piano Layers Enable Scene II | 88 |
+| Piano Layers Focus Scene I | 109 |
+| Piano Layers Focus Scene II | 112 |
+| Piano Octave Shift | 35 |
+| Piano Type/Model/Variation | 2:32-34 |
+| Piano Unison | 2:40 |
+| Piano Timbre | 2:41 |
+| Piano Dyn Comp | 2:42 |
+| Piano KB Touch | 2:43 |
+| Piano Acoustics | 2:44 |
+
+### 合成器參數 / Synth Parameters
+
+| 參數 / Parameter | CC#/NRPN |
+|---|---|
+| Synth A Level | 43 |
+| Synth B Level | 37 |
+| Synth C Level | 39 |
+| Synth A/B/C Pan | 40/41/36 |
+| Synth Section Enable Scene I | 42 |
+| Synth Section Enable Scene II | 5 |
+| Synth Octave Shift | 44 |
+| Synth Glide Rate | 48 |
+| Synth Voice Mode | 3:16 |
+| Synth Vibrato Mode | 3:19 |
+| Synth Vibrato Amount | 45 |
+| Synth Vibrato Rate | 46 |
+| Synth Osc Ctrl | 56 |
+| Synth Osc Pitch Course | 55 |
+| Synth Osc Pitch Fine | 47 |
+| Synth Filter Freq | 59 |
+| Synth Filter Resonance | 60 |
+| Synth Filter Type | 3:51 |
+| Synth Filter Envelope Attack/Decay/Release | 49/50/51 |
+| Synth Filter Envelope Amount | 73 |
+| Synth Amp Envelope Attack/Decay/Release | 68/69/71 |
+| Synth Arp/Gate Mode | 3:72 |
+| Synth Arp/Gate Rate | 74 |
+| Synth Arp/Gate Range | 76 |
+| Synth Arp/Gate Run | 77 |
+| Synth LFO Rate | 79 |
+| Synth LFO Amount | 54 |
+
+### 效果參數 / Effects Parameters
+
+| 參數 / Parameter | CC#/NRPN |
+|---|---|
+| Mod 1 Enable | 2:64 |
+| Mod 1 Type/Variation | 2:65 |
+| Mod 1 Amount | 85 |
+| Mod 1 Rate | 86 |
+| Mod 2 Enable | 2:72 |
+| Mod 2 Type/Variation | 2:73 |
+| Mod 2 Amount | 89 |
+| Mod 2 Rate | 90 |
+| Delay Enable | 2:88 |
+| Delay Dry Wet | 93 |
+| Delay Tempo | 94 |
+| Delay Feedback | 95 |
+| Delay Global | 29 |
+| Amp/EQ Enable | 2:80 |
+| Amp/EQ Drive | 101 |
+| Amp/EQ Bass/Mid/Treble | 102/103/104 |
+| Amp/EQ Mid Frequency | 107 |
+| Rotary Speed | 108 |
+| Rotary Drive | 110 |
+| Reverb Enable | 2:104 |
+| Reverb Amount | 113 |
+| Reverb Type/Variation | 2:105 |
+| Reverb Global | 30 |
+| Compressor Enable | 2:96 |
+| Compressor Amount | 117 |
+| Compressor Fast | 2:97 |
+| Compressor Global | 28 |
+
+---
+
+## 附錄 III：索引 / APPENDIX III: INDEX
+
+請參考原版手冊第 69-70 頁的完整英文索引。以下列出本翻譯中使用的主要中文術語對照：
+
+For complete index, refer to pages 69-70 of the original manual. Below are the key Chinese term translations used throughout this manual:
+
+| 英文 / English | 中文 / Chinese |
+|---|---|
+| Program | 程式 |
+| Organ | 風琴 |
+| Pipe Organ | 管風琴 |
+| Piano | 鋼琴 |
+| Synth / Synthesizer | 合成器 |
+| Layer | 音層 |
+| Preset | 預設音色 |
+| Split | 分區 |
+| Morph | 變形控制 |
+| KB Zone / Keyboard Zone | 鍵盤分區 |
+| Master Clock | 主時鐘 |
+| Arpeggiator | 琶音器 |
+| Transpose | 移調 |
+| Live Mode | 即時模式 |
+| Layer Scene | 音層場景 |
+| Solo | 獨奏監聽 |
+| Undo | 復原 |
+| Section Edit | 區段編輯 |
+| Rotary Speaker | 旋轉喇叭 |
+| Drawbars | 音桿 |
+| Compressor | 壓縮效果 |
+| Reverb | 殘響效果 |
+| Delay | 延遲效果 |
+| Extern | 外部 MIDI 控制 |
+| Aux KB | 輔助鍵盤 |
+| Aftertouch | 後觸鍵 |
+| Velocity | 力度 |
+| LFO | 低頻振盪器 |
+| Filter | 濾波器 |
+| Envelope | 包絡 |
+| Oscillator | 振盪器 |
+| Waveform | 波形 |
+| Glide / Portamento | 滑音 |
+| Unison | 同音疊加 |
+| Vibrato | 顫音 |
+| Tremolo | 音量顫音 |
+| Chorus | 合唱效果 |
+| Phaser | 移相器 |
+| Flanger | 鑲邊效果 |
+| Ring Modulation | 環形調製 |
