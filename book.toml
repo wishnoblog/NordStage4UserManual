@@ -13,6 +13,9 @@ git-repository-url = "https://github.com/wishnoblog/NordStage4UserManual"
 edit-url-template = "https://github.com/wishnoblog/NordStage4UserManual/edit/main/{path}"
 site-url = "/"
 
+additional-js = ["theme/attribution.js"]
+additional-css = ["theme/attribution.css"]
+
 [output.html.search]
 enable = true
 limit-results = 20
