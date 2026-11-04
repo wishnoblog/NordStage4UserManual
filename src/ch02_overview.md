@@ -7,9 +7,10 @@
 
 ---
 
-## 風琴區段 / ORGAN SECTION
+## 風琴區 / ORGAN SECTION
 
-專屬的風琴區段配備兩個獨立音層，擁有實體音桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。
+![風琴](fig_01_p9-1.png)
+專屬的風琴區配備兩個獨立音層，擁有實體音桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。
 
 The dedicated Organ section, with its two independent Layers, features physical drawbars accompanied by LED graphs for hands-on control and ease of use.
 
@@ -163,7 +164,7 @@ The Extern mode is described in detail in the Extern chapter, beginning on page 
 
 ## 音層效果區段 / LAYER EFFECTS SECTION
 
-每個鋼琴和合成器音層以及風琴區段都可以獨立使用各種經典效果：
+每個鋼琴和合成器音層以及風琴區都可以獨立使用各種經典效果：
 
 A wide array of classic effects are independently available for each Piano and Synth Layer and for the Organ Section:
 

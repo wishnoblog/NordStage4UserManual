@@ -96,7 +96,7 @@ Just like other Layers on the panel, Extern Layers are completely independent fr
 
 ### 輔助鍵盤（Aux KB）/ AUX KB (AUXILIARY KEYBOARD)
 
-透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個程式獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的程式章節，以下是基本設定示範（僅控制風琴區段的音層 B）：
+透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個程式獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的程式章節，以下是基本設定示範（僅控制風琴區的音層 B）：
 
 With this function it is possible to use an external keyboard for playing any combination of Layers on the Nord Stage 4. Here is a basic example of how to set it up, in this case just controlling Layer B of the Organ section:
 

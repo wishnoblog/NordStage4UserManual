@@ -18,7 +18,7 @@ Nord Stage 4 具備以下主要功能：
 
 The Nord Stage 4 has the following main features:
 
-- **風琴區段**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
+- **風琴區**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
   **Organ section** with faithful reproductions of three classic organ models: B3 with a dedicated B3 Bass mode, Vox and Farfisa. There are also two Pipe organ models, each with its own distinct character.
 
 - **實體風琴音桿**，配備 LED 顯示。  

@@ -419,7 +419,7 @@ MIDI Local control determines if the Nord Stage 4 keyboard and front panel contr
 
 ### 3 - 風琴頻道 / ORGAN CHANNEL
 
-用此設定決定透過傳入 MIDI 控制兩個風琴音層的 MIDI 頻道。用軟按鍵切換風琴 A 和 B 的設定。使用 Sect（區段）On 設定可在音層 A 設定的頻道上定址風琴區段的兩個音層。
+用此設定決定透過傳入 MIDI 控制兩個風琴音層的 MIDI 頻道。用軟按鍵切換風琴 A 和 B 的設定。使用 Sect（區段）On 設定可在音層 A 設定的頻道上定址風琴區的兩個音層。
 
 **A 範圍**：1-16、Off（預設 Off）
 **B 範圍**：1-16、Off、←（預設 Off）

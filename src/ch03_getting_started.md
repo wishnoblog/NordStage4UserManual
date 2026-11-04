@@ -464,7 +464,7 @@ Press the Synth A KB ZONE ◄/► (Shift+Octave Shift Up/Down) so that only the 
 
 Let's add an Organ sound to the Synth/Piano split we just created.
 
-6. 按下 ON 按鈕開啟風琴區段。  
+6. 按下 ON 按鈕開啟風琴區。  
    Turn on the Organ Section by pressing its ON button.
 
 7. 試試已載入的風琴音色並根據需要調整，或按預設音色庫 Organ 按鈕載入一個風琴預設值並選擇預設值（如上例）。  
@@ -488,7 +488,7 @@ The Layer Scene functionality allows for creating two independent Layer configur
 1. 確保音層場景 II 的 LED 未亮（表示我們在音層場景 I），關閉鋼琴和合成器區段。現在應該只有風琴音色指定到整個鍵盤。  
    Make sure that the Layer Scene II LED is unlit, meaning that we are on Layer Scene I, and turn the Piano and Synth Sections off. You should now have just the Organ sound, assigned to the entire keyboard.
 
-2. 按音層場景 II 並開啟鋼琴和合成器區段。同時確保風琴區段已關閉。  
+2. 按音層場景 II 並開啟鋼琴和合成器區段。同時確保風琴區已關閉。  
    Press Layer Scene II and turn the Piano and Synth sections On. Also make sure that the Organ section is turned Off.
 
 3. 使用音層場景 II 按鈕在兩種音層配置之間切換。  

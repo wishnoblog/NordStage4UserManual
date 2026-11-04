@@ -12,7 +12,7 @@
 
 # 音色區段
 
-- [第四章：風琴區段 / Organ Section](ch04_organ_section.md)
+- [第四章：風琴區 / Organ Section](ch04_organ_section.md)
 - [第五章：鋼琴區段 / Piano Section](ch05_piano_section.md)
 - [第六章：合成器區段 / Synth Section](ch06_synth_section.md)
 

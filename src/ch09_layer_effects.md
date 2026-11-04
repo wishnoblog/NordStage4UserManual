@@ -9,7 +9,7 @@
 
 ## 概覽 / OVERVIEW
 
-Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區段的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個程式（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
+Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個程式（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
 
 Each Layer on the Nord Stage 4 has its own complete set of effects, apart from the two Organ Layers (A and B) which share the same effects chain. This means there are six instances of each effects unit for every Program, each of which can have its own settings.
 

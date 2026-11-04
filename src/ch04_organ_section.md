@@ -1,4 +1,4 @@
-# 第四章：風琴區段 / Chapter 4: Organ Section
+# 第四章：風琴區 / Chapter 4: Organ Section
 
 ![第 18 頁](img/ch04/page_18.png)
 
@@ -7,7 +7,7 @@
 
 ![圖 1](img/ch04/fig_01_p18.png)
 
-## 關於風琴區段 / ABOUT THE ORGAN SECTION
+## 關於風琴區 / ABOUT THE ORGAN SECTION
 
 Nord Stage 4 內建六種風琴音色模型，全部以數位方式模擬：一種音輪式 B3 風琴（另附獨立的 B3 Bass 模式）、兩種電晶體風琴（Vox 和 Farfisa），以及兩種管風琴（Pipe Organ）模型。
 
@@ -23,7 +23,7 @@ The Nord Stage 4 features six organ models, all digitally modeled; a tonewheel/B
 
 ## 開關與音量 / ON/OFF AND LEVEL
 
-按下風琴區段的 **ON** 按鈕可以開啟或關閉整個風琴區段。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援變形控制（Morph）。
+按下風琴區的 **ON** 按鈕可以開啟或關閉整個風琴區。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援變形控制（Morph）。
 
 The Organ Section is turned On or Off by pressing its ON button. The morphable level faders control the output level of each Organ Layer.
 
@@ -35,7 +35,7 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ## 音層按鈕與效果焦點 / LAYER BUTTONS AND FX FOCUS
 
-風琴區段有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。
+風琴區有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。
 
 > 💡 「音層」就像在同一台琴上疊加多個不同的聲音來源，你可以讓兩種風琴同時發聲，產生更豐富的音色。
 
@@ -50,7 +50,7 @@ There are two Organ Layers; A and B.
 
 To toggle from one Layer to the other, press the non-active Layer button. With both Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕時，風琴區段頂部的 **FX FOCUS** 指示燈也會亮起，表示目前正在編輯該音層的效果。
+按下音層按鈕時，風琴區頂部的 **FX FOCUS** 指示燈也會亮起，表示目前正在編輯該音層的效果。
 
 Pressing a Layer button also focuses the Organ Section effects for editing, indicated by the FX FOCUS LED at the top of the Organ section.
 
@@ -271,7 +271,7 @@ Drawbar LEDs 5-8 are lit up for an activated voice, and drawbar LEDs 1-4 are lit
 
 ![第 21 頁](img/ch04/page_21.png)
 
-依據程式顯示模式（Prog View，見第 41 頁），程式區段的顯示器會顯示目前風琴區段的音桿設定。下表列出各音桿對應的原版音栓名稱：
+依據程式顯示模式（Prog View，見第 41 頁），程式區段的顯示器會顯示目前風琴區的音桿設定。下表列出各音桿對應的原版音栓名稱：
 
 Depending on Prog View mode (see page 41), the Program section display will show current drawbar settings for the Organ section. The table below shows the original register name.
 
