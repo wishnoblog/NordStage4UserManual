@@ -21,17 +21,19 @@ All effects can be turned On or Off at once by pressing Layer Effects ON.
 
 ---
 
-## 目標效果器 / FX FOCUS (EFFECTS FOCUS)
+<a id="目標效果器--fx-focus-effects-focus"></a>
 
-目標效果器（FX Focus）會自動跟著你在面板上按的音層按鈕走。比方說你按了鋼琴區段的 Layer A，效果區段的焦點就會自動切換到那個音層的效果。
+## 效果器設定目標 / FX FOCUS (EFFECTS FOCUS)
+
+**效果器設定目標（FX Focus）** 決定目前要編輯哪個區段或音層的效果器，並會隨著面板上按下的音層按鈕自動切換。例如按下鋼琴區段的 Layer A，接著調整的就是該音層的效果器設定。
 
 The focus for the Layer Effects section automatically follows the focus of Layer buttons in the Organ, Piano and Synth sections, as they are pressed on the panel.
 
-你也可以手動切換焦點：直接按 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，就能把目標效果器指定到那個區段。
+也可以按下 FX Focus 區域的 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，手動選擇要設定效果器的區段或音層。
 
 Focusing the effects for a particular Layer or Section for editing can also be done manually, by pressing the ORGAN, PIANO or SYNTH button.
 
-目前的目標效果器會用黃色 **FX FOCUS LED** 顯示，在各區段 On 按鈕旁邊，以及目標效果器區塊的 LED 上都可以看到。
+目前的效果器設定目標由各區段 On 按鈕旁的黃色 **FX FOCUS LED**，以及 FX Focus 區塊的 LED 指示。
 
 The current FX Focus is indicated both by the yellow FX FOCUS LED next to each Section's On button, as well as by LEDs in the FX Focus section.
 

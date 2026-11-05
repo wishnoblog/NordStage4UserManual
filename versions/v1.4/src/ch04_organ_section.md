@@ -34,7 +34,9 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ---
 
-## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS
+<a id="音層按鈕與目標效果器--layer-buttons-and-fx-focus"></a>
+
+## 音層按鈕與效果器設定目標 / LAYER BUTTONS AND FX FOCUS
 
 
 <img src="img/ch04/organ_layers.png" alt="風琴音層 A／B 與 SUSTPED、PSTICK（原文第 18 頁）" width="160">
@@ -54,7 +56,7 @@ There are two Organ Layers; A and B.
 
 To toggle from one Layer to the other, press the non-active Layer button. With both Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕時，風琴區段頂部的 **FX FOCUS** 指示燈也會亮起，表示目前正在編輯該音層的效果。
+按下音層按鈕時，也會將風琴區段選為效果器設定目標；區段頂部的 **FX FOCUS** 指示燈會亮起，表示可編輯風琴效果。
 
 Pressing a Layer button also focuses the Organ Section effects for editing, indicated by the FX FOCUS LED at the top of the Organ section.
 

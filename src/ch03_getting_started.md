@@ -328,7 +328,7 @@ The Nord Stage 4 has a dedicated LAYER EFFECTS section, with a large selection o
 
 The Layer Effects Section can be turned on or off, which bypasses all effects, by pressing its ON button.
 
-FX FOCUS 區域中的 ORGAN、PIANO 和 SYNTH 按鈕可用於選擇哪個區段或音層處於效果編輯的焦點。
+FX FOCUS 區域中的 ORGAN、PIANO 和 SYNTH 按鈕可用來選擇效果器設定目標，指定要編輯哪個區段或音層的效果器。
 
 The ORGAN, PIANO and SYNTH buttons in the FX FOCUS area can be used for selecting which Section or Layer has focus for effects editing.
 
@@ -340,11 +340,11 @@ The Piano and Synth effects can either be used individually per Layer, or be gro
 
 When exiting Group mode, by again pressing Group (Shift+Organ/Piano/Synth), all Layers within that Section will have the same effect settings until these are adjusted manually.
 
-FX 焦點會自動跟隨風琴、鋼琴和合成器區段中音層按鈕的焦點。
+效果器設定目標會隨著風琴、鋼琴或合成器區段中按下的音層按鈕自動切換。
 
 The FX Focus automatically follows the focus of Layer buttons in the Organ, Piano and Synth sections, as they are pressed.
 
-當前目標效果器由每個區段 On 按鈕旁的黃色 FX FOCUS LED 以及 FX Focus 區域的 LED 指示。
+目前的效果器設定目標由各區段 On 按鈕旁的黃色 FX FOCUS LED，以及 FX Focus 區域的 LED 指示。
 
 The current effect focus is indicated both by a yellow FX FOCUS LED next to each Section's On button, as well as by the LEDs in the FX Focus area.
 
@@ -354,7 +354,7 @@ The current effect focus is indicated both by a yellow FX FOCUS LED next to each
 
 With Program A:21 still selected, try out these steps to add effects to the clean Piano sound:
 
-1. 確認鋼琴 A 在 FX Focus 區域中處於焦點。如果不是，按 FX Focus PIANO 按鈕使其聚焦。  
+1. 確認效果器設定目標為鋼琴 A；若不是，按 FX Focus 區域的 PIANO 按鈕切換至鋼琴 A。  
    Make sure that Piano A has focus in the FX Focus area. If not, press the FX Focus PIANO button so that it does.
 
 2. 按 Reverb ON 按鈕啟動殘響。  

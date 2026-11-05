@@ -37,7 +37,9 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ---
 
-## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS
+<a id="音層按鈕與目標效果器--layer-buttons-and-fx-focus"></a>
+
+## 音層按鈕與效果器設定目標 / LAYER BUTTONS AND FX FOCUS
 
 合成器區段共有三個獨立音層：A、B、C。要開啟某個音層，需同時按下已啟用的音層按鈕與要開啟的按鈕。要關閉某個音層，則長按其按鈕片刻即可。
 
@@ -47,7 +49,7 @@ There are three independent Synth Layers; A, B and C. Turning a Layer on is done
 
 To toggle from one Layer to the other, press a non-active Layer button. With multiple Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕也會將該音層的目標效果器以便編輯，合成器區段頂部的 FX FOCUS LED 會亮起以示確認。
+按下音層按鈕，也會將該音層選為效果器設定目標。合成器區段頂部的 **FX FOCUS** LED 會亮起，表示已選取該區段的效果器供編輯。
 
 Pressing a Layer button also focuses that Layer's effects for editing. The FX FOCUS LED at the top of the Synth Section indicates that its effects are focused for editing.
 

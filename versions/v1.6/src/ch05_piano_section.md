@@ -17,7 +17,9 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ---
 
-## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS
+<a id="音層按鈕與目標效果器--layer-buttons-and-fx-focus"></a>
+
+## 音層按鈕與效果器設定目標 / LAYER BUTTONS AND FX FOCUS
 
 
 <img src="img/ch05/piano_layers.png" alt="鋼琴音層 A／B 與音量控制（原文第 23 頁）" width="179">
@@ -30,7 +32,7 @@ There are two Piano Layers; A and B. Turning a second Layer On is done by pressi
 
 To toggle from one Layer to the other, press the non-active Layer button. With both Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕，也會同時把效果的焦點切換到那個音層，鋼琴區段頂部的 **FX FOCUS** LED 會亮起，告訴你目前在編輯哪個音層的效果。
+按下音層按鈕，也會將該音層選為效果器設定目標。鋼琴區段頂部的 **FX FOCUS** LED 會亮起，表示可編輯該音層的效果器。
 
 Pressing a Layer button also focuses that Layer's effects for editing, indicated by the FX FOCUS LED at the top of the Piano Section.
 

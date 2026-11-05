@@ -26,7 +26,7 @@ Program 指整體音色配置，Preset 指可載入的預設音色；Bank 是音
 | List View | 清單檢視（List View） |
 | Program View | 音色配置檢視（Program View） |
 | Dial / Encoder | 控制旋鈕 |
-| FX Focus | 目標效果器 |
+| FX Focus | 效果器設定目標 |
 | Monitor | 監控（Monitor） |
 | Potentiometer-type Knob | 電位器式旋鈕（Knob） |
 | Fader | 音量推桿（Fader） |
