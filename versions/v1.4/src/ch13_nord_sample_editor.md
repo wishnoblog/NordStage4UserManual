@@ -11,7 +11,7 @@
 
 ## 關於 Nord Sample Editor 4 / ABOUT NORD SAMPLE EDITOR 4
 
-Nord Sample Editor 4（取樣編輯工具）是一個用於為 Nord Stage 4 建立自訂取樣音色樂器的工具。只需按下錄音按鈕，或將音頻檔案（.wav 或 .aiff 格式）拖放到所需琴鍵上，在波形編輯器中設定開始點、結束點和循環點，你的自訂取樣音色就可以傳輸到連接的 Nord Stage 4 了！
+Nord Sample Editor 4（取樣編輯工具）是一個用於為 Nord Stage 4 建立自訂取樣音色樂器的工具。只需按下錄音按鈕，或將聲音檔案（.wav 或 .aiff 格式）拖放到所需琴鍵上，在波形編輯器中設定開始點、結束點和循環點，你的自訂取樣音色就可以傳輸到連接的 Nord Stage 4 了！
 
 The Nord Sample Editor 4 is a tool for creating custom sample instruments, playable on your Nord Stage 4. Simply press record or drop audio files (.wav or .aiff) on the desired keys, set Start, Stop and Loop points in the waveform editor and your custom sample is ready to be transferred to your connected Nord Stage 4!
 

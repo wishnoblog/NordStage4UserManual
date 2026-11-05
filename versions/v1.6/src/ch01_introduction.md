@@ -69,7 +69,7 @@ The Nord Stage 4 has the following main features:
 On the nordkeyboards.com website you will find:
 
 - Nord Stage 4 及其他 Nord 樂器的相關資訊 / Information about the Nord Stage 4 and other Nord instruments
-- 最新作業系統下載 / Latest Operating System for download
+- 最新韌體下載 / Latest Operating System for download
 - 免費軟體：Nord Sound Manager、Nord Sample Editor 4 及驅動程式 / Free software: Nord Sound Manager, Nord Sample Editor 4 and drivers
 - Nord Piano Library 免費音色下載 / Nord Piano Library sounds for free download
 - Nord Sample Library 免費音色下載 / Nord Sample Library sounds for free download
@@ -129,9 +129,11 @@ The factory programs, presets, samples and pianos are available as individual No
 
 ---
 
-## 作業系統更新 / OS UPDATES
+<a id="作業系統更新--os-updates"></a>
 
-Nord Stage 4 的最新作業系統（OS）版本始終可從我們的網站下載。網站上也有更新歷程頁面，說明每個新版本的更新內容。請不時查看我們的網站，確保您的設備安裝了最新版本。
+## 韌體更新 / OS UPDATES
+
+Nord Stage 4 的最新韌體（OS）版本始終可從我們的網站下載。網站上也有更新歷程頁面，說明每個新版本的更新內容。請不時查看我們的網站，確保您的設備安裝了最新版本。
 
 The latest OS (Operating System) version for the Nord Stage 4 is always available for download from our website. There is also an Update History page on the website, which specifies what has been updated with each new version. Please check our website from time to time, to make sure you have the latest version in your unit.
 

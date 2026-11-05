@@ -75,7 +75,7 @@ Press the Reset soft button (Program 4) and confirm with "Yes" (Program 3 button
 
 ### 6 - 版本和型號資訊 / VERSION AND MODEL INFO
 
-版本和型號資訊選單頁面顯示目前安裝的作業系統（OS）的完整版本號，轉動 Program 旋鈕可查看樂器的硬體（HW）版本。
+版本和型號資訊選單頁面顯示目前安裝的韌體（OS）的完整版本號，轉動 Program 旋鈕可查看樂器的硬體（HW）版本。
 
 The Version and model info menu page shows the full version number of the currently installed OS and, when turning the Program dial, the hardware (HW) version of the instrument.
 

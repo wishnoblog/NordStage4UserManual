@@ -13,25 +13,27 @@
 
 ---
 
-### 音頻連接 / AUDIO CONNECTIONS
+<a id="音頻連接--audio-connections"></a>
 
-> ⚠️ 音頻連接的一般指南：開啟擴大機前，先完成所有音頻連接。**最後**開啟擴大機；關機時，**先**關閉擴大機或主動喇叭。在高音量下使用 Nord Stage 4 可能損傷您的聽力。
+### 音源線連接 / AUDIO CONNECTIONS
+
+> ⚠️ 音源線連接注意事項：開啟擴大機前，先接妥所有音源線。**最後**開啟擴大機；關機時，**先**關閉擴大機或主動喇叭。在高音量下使用 Nord Stage 4 可能損傷您的聽力。
 
 General guide on audio connections: Before turning on your amplifier, make all audio connections. Always turn on the amplifier last, and when shutting down, always turn off your amplifier or active speakers first. Using the Nord Stage 4 at high volumes can damage your hearing.
 
-**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出訊號路由到 CH 1&2 的所有音頻。
+**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，可輸出所有路由至 CH 1&2 的聲音。
 
 1/4 inch stereo headphone jack, which outputs any audio routed to CH 1&2.
 
-**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻通道有獨立的訊號路徑。
+**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右聲道有獨立的訊號路徑。
 
 1/4 inch unbalanced line level outputs for amplifier or recording equipment. The Nord Stage 4 is a stereo instrument with separate signal paths for the left and right audio channels.
 
-出廠時，Nord Stage 4 設定為透過 1&2 輸出音頻。關於如何使用 3&4 輸出（立體聲或單聲道配置），請參閱第 59 頁的輸出選單章節。
+出廠時，Nord Stage 4 設定為透過 1&2 輸出聲音。關於如何使用 3&4 輸出（立體聲或單聲道配置），請參閱第 59 頁的輸出選單章節。
 
 When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 59 for details on how to utilise the 3&4 outputs.
 
-**監控輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監控輸入訊號路由到耳機和 Out 1&2。
+**監聽輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監聽輸入訊號路由到耳機和 Out 1&2。
 
 1/8 inch jack for connecting devices such as smartphones, tablets or computers. The Monitor In signal is routed to the Headphones and Out 1&2.
 
@@ -53,7 +55,7 @@ The 5 pin MIDI Out connection will send MIDI data to devices such as external so
 
 ### USB 連接 / USB CONNECTION
 
-USB 連接埠用於將 Nord Stage 4 連接到電腦，可用於 MIDI 通訊、作業系統更新，以及連接 Nord Sound Manager 或 Nord Sample Editor 4 等應用程式。
+USB 連接埠用於將 Nord Stage 4 連接到電腦，可用於 MIDI 通訊、韌體更新，以及連接 Nord Sound Manager 或 Nord Sample Editor 4 等應用程式。
 
 The USB port is used for connecting the Nord Stage 4 to a computer. The connection can be used for MIDI communication, for OS updates and for connecting to applications such as the Nord Sound Manager or Nord Sample Editor 4.
 

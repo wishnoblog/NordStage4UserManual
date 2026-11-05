@@ -180,10 +180,22 @@ Program 指整體音色配置，Preset 指可載入的預設音色；Bank 是音
 | Auxiliary Keyboard | 輔助鍵盤（Aux KB） |
 | Sequencer | 編曲機（Sequencer） |
 
+## 聲音與接線
+
+| 英文／面板名稱 | 書中譯法 |
+|---|---|
+| Audio | 聲音 |
+| Audio Cable | 音源線 |
+| Audio Connections | 音源線連接 |
+| Monitor In / MONITOR IN | 監聽輸入 |
+
 ## 軟體與檔案
 
 | 英文／面板名稱 | 書中譯法 |
 |---|---|
+| Audio File | 聲音檔案 |
+| OS / Operating System | 韌體（OS） |
+| OS Updates | 韌體更新 |
 | Partition | 儲存分區（Partition） |
 | Nord Sound Manager | Nord Sound Manager（官方音色管理工具） |
 | Nord Sample Editor 4 | Nord Sample Editor 4（取樣編輯工具） |
@@ -195,6 +207,6 @@ Program 指整體音色配置，Preset 指可載入的預設音色；Bank 是音
 - Harmonic／Partial：音輪風琴的編號使用諧音或分音；FM 合成中描述諧波關係時，依技術語境說明。
 - Sample：可演奏的資源稱取樣音色，原始檔案與資料稱取樣資料；錄製聲音的動作稱取樣。
 - Dial／Encoder：使用控制旋鈕；具有固定實體位置的 Knob 使用電位器式旋鈕。
-- Monitor：此書面板功能使用監控，指查看參數數值；音訊監聽依一般音訊語境使用。
+- Monitor：面板上的 MONITOR 功能使用監控，指查看參數數值；MONITOR IN 接孔使用監聽輸入。
 - Rate／Amount：依效果表示速率、作用量或深度；環形調變的 Rate 實際調整調變波音高。
 - Sustain：踏板功能使用延音；包絡線使用持續階段，避免混淆。
