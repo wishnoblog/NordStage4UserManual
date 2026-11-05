@@ -8,9 +8,9 @@ Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵�
 
 The Nord Stage 4 is designed to be as flexible as possible in regard to its MIDI capabilities. It can be used as a master keyboard to control other hardware units or software sound sources, or have Layers in the Organ, Piano and Synth section be individually controlled by outboard gear such as a computer or sequencer. It is also possible to control only parts of the Nord Stage 4 from a separate keyboard, on a per-program basis. If you like, you can even do all these things at the same time.
 
-Nord Stage 4 的 MIDI 功能分為四個主要區域：**全域（Global）**、**音層（Layer，風琴/鋼琴/合成器 A/B/C）**、**輔助鍵盤（Aux KB）**和**外部 MIDI（Extern）**。每個都可以獨立指定到任意 MIDI 通道。將相關通道設定為 Off 也可以停用 MIDI 功能。所有 MIDI 通道都在 MIDI 選單中定義，詳見第 59 頁。
+Nord Stage 4 的 MIDI 功能分為四個主要區域：**全域（Global）**、**音層（Layer，風琴/鋼琴/合成器 A/B/C）**、**輔助鍵盤（Aux KB）**和**外部 MIDI（Extern）**。每個都可以獨立指定到任意 MIDI 通道。將相關通道設定為 Off 也可以停用 MIDI 功能。所有 MIDI 通道都在 MIDI 選單中定義，詳見第 61 頁。
 
-The MIDI functionality can be divided into four main areas: Global, Layer (Organ/Piano/Synth A/B/C), Aux KB and Extern. Each of these are independently assignable to any MIDI channel. All MIDI channels are defined in the MIDI menu, see page 59.
+The MIDI functionality can be divided into four main areas: Global, Layer (Organ/Piano/Synth A/B/C), Aux KB and Extern. Each of these are independently assignable to any MIDI channel. All MIDI channels are defined in the MIDI menu, see page 61.
 
 全域通道用於同時發送和接收 MIDI；Extern 通道只發送；音層和 Aux KB 通道只接收 MIDI 資料。大多數 MIDI 相關設定在 MIDI 選單中進行，Extern 設定在 Extern 選單中，Aux KB 設定在 Aux KB 選單中。
 
@@ -44,9 +44,9 @@ The per-Layer Organ, Piano and Synth MIDI channels only receive MIDI, allowing f
 
 ## 外部 MIDI 控制（Extern）/ EXTERN
 
-**外部 MIDI 控制（Extern）**模式可以為合成器區段中的任意音層選擇，主要設計用於將外部 MIDI 裝置整合到現場演出中。詳見第 45 頁開始的外部控制章節。
+**外部 MIDI 控制（Extern）**模式可以為合成器區段中的任意音層選擇，主要設計用於將外部 MIDI 裝置整合到現場演出中。詳見第 46 頁開始的外部控制章節。
 
-The Extern Mode, which can be selected for any Layer in the Synth Section, is primarily designed for integration of external MIDI units into a live performance. Refer to the Extern chapter, beginning on page 45, for full documentation.
+The Extern Mode, which can be selected for any Layer in the Synth Section, is primarily designed for integration of external MIDI units into a live performance. Refer to the Extern chapter, beginning on page 46, for full documentation.
 
 ---
 
@@ -90,7 +90,7 @@ Just like other Layers on the panel, Extern Layers are completely independent fr
 
 ### 輔助鍵盤（Aux KB）/ AUX KB (AUXILIARY KEYBOARD)
 
-透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個音色配置獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的音色配置章節，以下是基本設定示範（僅控制風琴區段的音層 B）：
+透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個音色配置獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 43 頁的音色配置章節，以下是基本設定示範（僅控制風琴區段的音層 B）：
 
 With this function it is possible to use an external keyboard for playing any combination of Layers on the Nord Stage 4. Here is a basic example of how to set it up, in this case just controlling Layer B of the Organ section:
 
@@ -160,7 +160,7 @@ Here is how to record a Stage 4 performance to a DAW or MIDI sequencer. Best ach
 5. 在編曲機上開始錄製。/ Start the recording on the sequencer.
 6. 從 DAW 播放演奏，聲音應與在 Nord Stage 4 上演奏時完全相同。/ Play back the performance from the DAW and it should sound exactly as when played on the Nord Stage 4.
 
-> 💡 如果套用了任何移調值（無論是面板移調功能還是系統選單中的全域移調設定），其對 MIDI 的影響取決於 MIDI 選單中的「Transpose MIDI at」設定（詳見第 61 頁）。
+> 💡 如果套用了任何移調值（無論是面板移調功能還是系統選單中的全域移調設定），其對 MIDI 的影響取決於 MIDI 選單中的「Transpose MIDI at」設定（詳見第 62 頁）。
 
 ---
 
@@ -179,7 +179,7 @@ The following MIDI messages can be transmitted and received by the Nord Stage 4:
 - 連接到 Control Pedal 輸入的控制/表情踏板，以控制器 11（表情）發送和接收。/ Control/Expression pedal connected to the Control Pedal Input: transmitted/received as Controller 11 (Expression).
 - 連接到 Sustain Pedal 輸入的延音踏板，以控制器 64（延音踏板）發送和接收。/ Sustain pedal connected to Sustain Pedal Input: transmitted/received as Controller 64 (Sustain Pedal).
 - 連接到 Triple Pedal 插孔的 Nord Triple Pedal 2 也以控制器 64 發送延音踏板資訊。/ A Nord Triple Pedal 2 connected to the Triple Pedal jack also transmits Sustain Pedal information as Controller 64.
-- 面板上幾乎所有其他控制器（旋鈕和按鈕）也以控制變更訊息或 NRPN 訊息發送和接收，可用於將面板操作錄製到 MIDI 編曲機。請參閱第 66 頁的完整對應列表。/ Almost all other controls are also transmitted and received as Control Change or NRPN messages. Refer to page 66 for a full list.
+- 面板上幾乎所有其他控制器（旋鈕和按鈕）也以控制變更訊息或 NRPN 訊息發送和接收，可用於將面板操作錄製到 MIDI 編曲機。請參閱第 67 頁的完整對應列表。/ Almost all other controls are also transmitted and received as Control Change or NRPN messages. Refer to page 67 for a full list.
 
 ---
 
@@ -225,9 +225,9 @@ A Program Change message without Bank Select messages will take effect in the cu
 
 ## 本機控制開啟/關閉 / LOCAL CONTROL ON/OFF
 
-**本機控制關閉（Local Control Off）**可以「斷開」Nord Stage 4 的鍵盤和面板與其音色引擎的連接。如果您在演奏時遇到「雙重觸發」音符（同時來自鍵盤內部和通過 MIDI「回路」），請關閉本機控制。本機控制的開啟/關閉在 MIDI 選單中設定（詳見第 59 頁）。
+**本機控制關閉（Local Control Off）**可以「斷開」Nord Stage 4 的鍵盤和面板與其音色引擎的連接。如果您在演奏時遇到「雙重觸發」音符（同時來自鍵盤內部和通過 MIDI「回路」），請關閉本機控制。本機控制的開啟/關閉在 MIDI 選單中設定（詳見第 61 頁）。
 
-Local Control Off can be used to "disconnect" the keyboard and the panel on the Nord Stage 4 from its sound engines. Turn Local Off if you experience "double-triggered" notes when you play. Local On/Off is set in the MIDI menu, see page 59.
+Local Control Off can be used to "disconnect" the keyboard and the panel on the Nord Stage 4 from its sound engines. Turn Local Off if you experience "double-triggered" notes when you play. Local On/Off is set in the MIDI menu, see page 61.
 
 > ⚠️ 除標準控制變更訊息訊息外，某些面板控制器使用 NRPN 訊息來實現其 MIDI 功能。如果在本機控制關閉模式下操作 Nord Stage 4，確保 MIDI 選單中的 NRPN 設定為「Send/Receive」。
 
@@ -236,19 +236,19 @@ Local Control Off can be used to "disconnect" the keyboard and the panel on the 
 ## 緊急停音（MIDI 相關）/ PANIC
 
 
-<img src="img/ch10/midi_panic.png" alt="Shift＋Transpose：Panic 緊急停音（原文第 55 頁）" width="94">
+<img src="img/ch10/midi_panic.png" alt="Shift＋Transpose：Panic 緊急停音（原文第 56 頁）" width="94">
 
 如果在 MIDI 設定中遇到音符持續發聲，或其他原因需要終止所有當前聲音，請使用 PANIC（Shift + Transpose）功能。這會執行內部的「All Notes Off」訊息，並重置傳入的 CC 訊息。
 
 If you experience hanging notes when using the Nord Stage 4 in a MIDI setup, use the PANIC (Shift+Transpose) function. This will execute an internal "All Notes Off" message, and reset incoming CC messages.
 
 <details>
-<summary>原文整頁參考</summary>
-
-![原文第 53 頁](img/ch10/page_53.png)
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 54 頁](img/ch10/page_54.png)
 
 ![原文第 55 頁](img/ch10/page_55.png)
+
+![原文第 56 頁](img/ch10/page_56.png)
 
 </details>

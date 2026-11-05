@@ -5,7 +5,7 @@
 ## 關於 Nord Sound Manager / ABOUT NORD SOUND MANAGER
 
 
-<img src="img/ch12/sound_manager.png" alt="Nord Sound Manager 音色庫與樂器內容管理介面（原文第 63 頁）" width="760">
+<img src="img/ch12/sound_manager.png" alt="Nord Sound Manager 音色庫與樂器內容管理介面（原文第 64 頁）" width="760">
 
 Nord Sound Manager（官方音色管理工具）是每位 Nord Stage 4 用戶的必備應用程式，讓你可以存取、修改和備份 Nord Stage 4 各個記憶體區域中的內容。從版本 9 起，這個應用程式還直接提供 Nord Piano Library（鋼琴音色庫）和 Nord Sample Library（取樣音色庫）的存取功能，讓你可以直接從線上音色庫下載音色到樂器。
 
@@ -38,8 +38,8 @@ The Nord Sound Manager and the user manual for the application can be found at t
 > 💡 Windows 用戶需要 Nord USB Driver 版本 v4.0 或更新版本。驅動程式已隨 Nord Sound Manager 安裝音色配置及所有 OS 安裝音色配置一起提供，也可從 www.nordkeyboards.com 單獨下載。
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.6x 原文整頁參考</summary>
 
-![原文第 63 頁](img/ch12/page_63.png)
+![原文第 64 頁](img/ch12/page_64.png)
 
 </details>

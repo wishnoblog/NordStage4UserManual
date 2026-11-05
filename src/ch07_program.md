@@ -5,19 +5,19 @@
 ## 音色配置區段概覽 / PROGRAM OVERVIEW
 
 
-<img src="img/ch07/program_panel.png" alt="中央 Program 區段面板總覽（原文第 37 頁）" width="509">
+<img src="img/ch07/program_panel.png" alt="中央 Program 區段面板總覽（原文第 38 頁）" width="509">
 
 中央的**音色配置區段（Program Area）**是整台琴的操作核心，讓你載入和儲存音色配置（Program——Nord Stage 4 用來保存所有設定的記憶單位）、使用即時模式（Live Mode）、音層場景（Layer Scene）、鍵盤分區（Split）等功能。
 
 The central PROGRAM area provides access to performance functions such as loading and storing Programs, access to the Live Mode, Layer Scene, Keyboard Split functionality and more.
 
-音色配置區段也包含**預設音色庫（Preset Library）**，讓你可以將各區段或個別音層的完整音色載入到音色配置中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 40 頁。
+音色配置區段也包含**預設音色庫（Preset Library）**，讓你可以將各區段或個別音層的完整音色載入到音色配置中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 41 頁。
 
-The Program area is also home to the PRESET LIBRARY, from where complete sounds for each Section or individual Layers can be loaded into a Program. User sounds can also be stored to the Preset Library. Read more about the Preset Library on page 40.
+The Program area is also home to the PRESET LIBRARY, from where complete sounds for each Section or individual Layers can be loaded into a Program. User sounds can also be stored to the Preset Library. Read more about the Preset Library on page 41.
 
-此外，系統、音色、MIDI 等重要設定選單也在這裡存取。選單設定的詳細說明從第 56 頁開始。整理（Organize）和輔助鍵盤（Aux KB）功能也在本章後面介紹。
+此外，系統、音色、MIDI 等重要設定選單也在這裡存取。選單設定的詳細說明從第 57 頁開始。整理（Organize）和輔助鍵盤（Aux KB）功能也在本章後面介紹。
 
-This is also where the various menus for making System, Sound, MIDI and other important settings are found. All menus and their settings are covered in a separate chapter, starting on page 56. The Organize and Aux KB functions are described further on in this chapter.
+This is also where the various menus for making System, Sound, MIDI and other important settings are found. All menus and their settings are covered in a separate chapter, starting on page 57. The Organize and Aux KB functions are described further on in this chapter.
 
 ---
 
@@ -31,16 +31,16 @@ A Program stores and contains all settings made on the panel except for the Mast
 
 A program also contains all settings from the Aux KB and Extern menus.
 
-> 💡 可以透過電腦上的 Nord Sound Manager 軟體來存取和整理音色配置及其他內容，詳見第 62 頁。
+> 💡 可以透過電腦上的 Nord Sound Manager 軟體來存取和整理音色配置及其他內容，詳見第 64 頁。
 
-Programs and other content can be accessed and organized from a computer using the Nord Sound Manager application, see page 62 for more information.
+Programs and other content can be accessed and organized from a computer using the Nord Sound Manager application, see page 64 for more information.
 
 ---
 
 ## Morph 多參數控制指定 / MORPH ASSIGN
 
 
-<img src="img/ch07/morph_assign.png" alt="Morph Assign：Wheel／Aftertouch／Control Pedal（原文第 37 頁）" width="214">
+<img src="img/ch07/morph_assign.png" alt="Morph Assign：Wheel／Aftertouch／Control Pedal（原文第 38 頁）" width="214">
 
 **Morph 多參數控制（Morph——讓你用一個動作同時控制多個參數的強大功能）**是非常實用的演奏工具，讓你用單一控制來源同時調整多個參數。
 
@@ -50,9 +50,13 @@ The Morph is a very powerful tool, which allows for controlling multiple paramet
 
 The three MORPH ASSIGN buttons, WHEEL, A.T., CTRLPED, represent the three available Morph sources: the modulation wheel, keyboard aftertouch, and control pedal.
 
-> 💡 調變輪的Morph 多參數控制也可以用連接到 ORGAN SWELL 插孔的表情踏板來鏡像控制。設定方式請見第 58 頁。
+> 💡 調變輪的Morph 多參數控制也可以用連接到 ORGAN SWELL 插孔的表情踏板來鏡像控制。設定方式請見第 60 頁。
 
-The Wheel morph can be mirrored by an expression pedal attached to the ORGAN SWELL jack. See page 58 for details on how to set this up.
+The Wheel morph can be mirrored by an expression pedal attached to the ORGAN SWELL jack. See page 60 for details on how to set this up.
+
+> 💡 Nord Triple Pedal 2 的左踏板與中間踏板可設為 **Control**，鏡像控制踏板（Control Pedal）的功能，包含指定給控制踏板的 Morph 多參數控制。設定方式請見原文第 60 頁。
+>
+> The left and middle pedals of the Nord Triple Pedal 2 have a “Control” setting, which mirrors the functionality of the Control Pedal, including morphs assigned to it. See page 60.
 
 **設定Morph 多參數控制的方法**：按住 Morph Assign 按鈕，同時將參數控制器（例如旋鈕或音栓拉桿）從起始位置移到結束位置。建議先把控制器調到想要的起始位置，再按下 Morph Assign 按鈕。設定過程中顯示幕會顯示起始和結束數值。
 
@@ -77,16 +81,16 @@ Multiple parameters can be adjusted while pressing down a Morph Assign button, a
 
 Double-tapping a Morph Assign button activates morph assign latch mode, allowing for assigning morphs without keeping that button pressed down. Press EXIT to leave latch mode.
 
-Morph 多參數控制可以從一個來源複製到另一個來源，詳見第 42 頁。
+Morph 多參數控制可以從一個來源複製到另一個來源，詳見第 43 頁。
 
-Morphs can be copied from one control source to another, see page 42.
+Morphs can be copied from one control source to another, see page 43.
 
 ---
 
 ### Morph 多參數控制指示燈 / MORPH INDICATORS
 
 
-<img src="img/ch07/morph_led.png" alt="旋鈕旁的 Morph LED 指示燈（原文第 38 頁）" width="95">
+<img src="img/ch07/morph_led.png" alt="旋鈕旁的 Morph LED 指示燈（原文第 39 頁）" width="95">
 
 所有可設定Morph 多參數控制的參數都有某種方式來顯示是否已指定了變形，或者目前正在執行變形。
 
@@ -121,7 +125,7 @@ Hold SHIFT and press a MORPH ASSIGN button to CLEAR all Morphs for this source �
 ## 鍵盤分區 / SPLIT
 
 
-<img src="img/ch07/split_controls.png" alt="Split 開關與 Set Key 按鈕（原文第 38 頁）" width="90">
+<img src="img/ch07/split_controls.png" alt="Split 開關與 Set Key 按鈕（原文第 39 頁）" width="90">
 
 Nord Stage 4 的鍵盤可以分割成最多四個**鍵盤分區（Split——把琴鍵盤分成幾個區域，讓不同區域發不同的聲音）**（1、2、3、4），由三個分區點分隔：Low（低音）、Mid（中間）和 High（高音）。任何風琴、鋼琴或合成器音層都可以自由指定到任一或多個分區。
 
@@ -144,7 +148,7 @@ After a split has been activated, use the KB ZONE controls (accessed with SHIFT)
 ### 選擇分區點位置 / CHOOSING A SPLIT POSITION
 
 
-<img src="img/ch07/split_display.png" alt="鍵盤分區點與交叉漸變設定畫面（原文第 38 頁）" width="325">
+<img src="img/ch07/split_display.png" alt="鍵盤分區點與交叉漸變設定畫面（原文第 39 頁）" width="325">
 
 在鍵盤分區頁面，可以將三個分區點各自指定到一個鍵盤位置，或停用某個分區點。共有 11 個可用的鍵盤分割位置，從 C2 到 C7。
 
@@ -205,7 +209,7 @@ Press Shift+Mst Clk to enable PEDAL TAP. When active, an attached pedal can be u
 ## 移調 / TRANSPOSE ON/SET
 
 
-<img src="img/ch07/transpose.png" alt="Transpose／Panic 按鈕（原文第 39 頁）" width="104">
+<img src="img/ch07/transpose.png" alt="Transpose／Panic 按鈕（原文第 40 頁）" width="104">
 
 Nord Stage 4 可以對每個音色配置進行移調（Transpose——將所有音層的音高同步上移或下移），範圍為 +6/-6 個半音。按住 TRANSP 按鈕，同時轉動 Value Dial 來設定移調量。再次按下按鈕可取消移調。
 
@@ -232,7 +236,7 @@ Press PANIC (Shift+Transp) to execute an internal "All Notes Off" message. This 
 ## 儲存音色配置 / STORE
 
 
-<img src="img/ch07/store_button.png" alt="Store 儲存按鈕（原文第 39 頁）" width="101">
+<img src="img/ch07/store_button.png" alt="Store 儲存按鈕（原文第 40 頁）" width="101">
 
 **STORE** 按鈕用於將已編輯的音色配置或預設音色儲存到音色配置庫或預設音色庫的某個位置。儲存時會覆蓋該記憶位置中原有的資料。
 
@@ -245,7 +249,7 @@ When the Nord Stage 4 is shipped from factory its memory is protected, to avoid 
 ### 儲存音色配置的步驟 / STORING A PROGRAM
 
 
-<img src="img/ch07/store_display.png" alt="選擇音色配置儲存位置（原文第 39 頁）" width="329">
+<img src="img/ch07/store_display.png" alt="選擇音色配置儲存位置（原文第 40 頁）" width="329">
 
 1. 按一次 STORE 按鈕。STORE 燈開始閃爍，顯示幕會顯示音色配置名稱和位置。
 
@@ -268,7 +272,7 @@ A program can also be stored to one of the eight Live program locations by press
 ### 另存新音色配置並命名 / STORE AS
 
 
-<img src="img/ch07/store_as.png" alt="Store As 音色配置命名畫面（原文第 40 頁）" width="325">
+<img src="img/ch07/store_as.png" alt="Store As 音色配置命名畫面（原文第 41 頁）" width="325">
 
 1. 按 STORE AS（Shift + Store）以儲存並命名音色配置。
 
@@ -295,7 +299,7 @@ A program can also be stored to one of the eight Live program locations by press
 ## 音色配置控制旋鈕 / PROGRAM DIAL
 
 
-<img src="img/ch07/program_dial.png" alt="Program 旋鈕與 List 功能（原文第 40 頁）" width="114">
+<img src="img/ch07/program_dial.png" alt="Program 旋鈕與 List 功能（原文第 41 頁）" width="114">
 
 **音色配置控制旋鈕**用於選取音色配置和預設音色、設定選單參數值，以及在命名音色配置時輸入字元。按住 SHIFT 轉動旋鈕可進入清單（LIST）檢視模式。
 
@@ -310,7 +314,7 @@ LIST OPTIONS: Numeric (Num), Alphabetical (Abc), and Category (Cat) sort modes.
 ## 分頁按鈕 / PAGE BUTTONS
 
 
-<img src="img/ch07/page_buttons.png" alt="Page／Bank 導覽按鈕（原文第 40 頁）" width="152">
+<img src="img/ch07/page_buttons.png" alt="Page／Bank 導覽按鈕（原文第 41 頁）" width="152">
 
 用 PAGE 按鈕來切換音色配置分頁。每個音色配置庫（Bank）包含 8 個分頁，每頁 8 個音色配置。按 BANK（Shift + Page 按鈕）在音色配置庫之間切換。
 
@@ -321,7 +325,7 @@ Program pages are navigated by pressing the PAGE buttons. Each Bank holds 8 page
 ## MIDI 和外部 MIDI 指示燈 / MIDI AND EXTERN INDICATORS
 
 
-<img src="img/ch07/midi_leds.png" alt="MIDI／Extern 訊息指示燈（原文第 40 頁）" width="69">
+<img src="img/ch07/midi_leds.png" alt="MIDI／Extern 訊息指示燈（原文第 41 頁）" width="69">
 
 **MIDI LED** 在接收到 MIDI 訊號時閃爍。**EXTERN LED** 在三個外部 MIDI 頻道中有任一頻道傳送 MIDI 時閃爍。
 
@@ -332,7 +336,7 @@ The MIDI LED blinks as incoming MIDI messages are received. The EXTERN LED blink
 ## 預設音色庫 / PRESET LIBRARY
 
 
-<img src="img/ch07/preset_library.png" alt="Organ／Piano／Synth 預設音色庫按鈕（原文第 40 頁）" width="228">
+<img src="img/ch07/preset_library.png" alt="Organ／Piano／Synth 預設音色庫按鈕（原文第 41 頁）" width="228">
 
 Nord Stage 4 附有豐富的預設音色庫，涵蓋風琴、鋼琴和合成器區段，讓你可以將包含效果設定的完整音色載入現有音色配置。用戶自訂音色也可以儲存到預設音色庫中。
 
@@ -361,7 +365,7 @@ LOADING SINGLE LAYER PRESETS: Loading Presets for individual Layers is done by f
 ### 儲存預設音色到預設音色庫 / STORING PRESETS TO THE PRESET LIBRARY
 
 
-<img src="img/ch07/preset_store.png" alt="Synth Preset 名稱、分類與音層選擇畫面（原文第 41 頁）" width="326">
+<img src="img/ch07/preset_store.png" alt="Synth Preset 名稱、分類與音層選擇畫面（原文第 42 頁）" width="326">
 
 1. 按 STORE，顯示「Store Program To」畫面。
 
@@ -403,7 +407,7 @@ When a Preset is loaded, its location and name will be shown in the display. To 
 ## 獨奏 / SOLO
 
 
-<img src="img/ch07/solo.png" alt="Solo 獨奏按鈕（原文第 41 頁）" width="89">
+<img src="img/ch07/solo.png" alt="Solo 獨奏按鈕（原文第 42 頁）" width="89">
 
 啟用**獨奏（Solo）**後，每次只能聽到一個音層，非常適合在調整音色時單獨監聽各個元素。用各區段的音層按鈕選擇要聆聽的音層。按 Shift/Exit 或 Solo 按鈕離開獨奏模式。
 
@@ -430,7 +434,7 @@ When Undo is pressed, the display will show which operation is possible to undo.
 ## 區段編輯 / SECTION EDIT
 
 
-<img src="img/ch07/section_edit.png" alt="Section Edit 與 Layer Init 按鈕（原文第 42 頁）" width="89">
+<img src="img/ch07/section_edit.png" alt="Section Edit 與 Layer Init 按鈕（原文第 43 頁）" width="89">
 
 按住 **SECTION EDIT**（區段編輯）時，對某個參數所做的編輯會同時套用到該區段的所有音層。這對於同步多個合成器音層的參數，或為整個區段設定相同的效果非常有用。
 
@@ -443,7 +447,7 @@ While SECTION EDIT is pressed, edits done to a parameter are performed on all La
 ## 音層初始化 / LAYER INIT
 
 
-<img src="img/ch07/layer_init.png" alt="Layer Init 音層初始化選擇畫面（原文第 42 頁）" width="324">
+<img src="img/ch07/layer_init.png" alt="Layer Init 音層初始化選擇畫面（原文第 43 頁）" width="324">
 
 **LAYER INIT**（Shift+Section Edit）可以快速初始化整個音色配置或個別音層：
 
@@ -459,7 +463,7 @@ The LAYER INIT (Shift+Section Edit) functions initialize the entire Program or i
 ## 音層場景 II / LAYER SCENE II
 
 
-<img src="img/ch07/layer_scene.png" alt="Layer Scene II 場景切換按鈕（原文第 42 頁）" width="89">
+<img src="img/ch07/layer_scene.png" alt="Layer Scene II 場景切換按鈕（原文第 43 頁）" width="89">
 
 **音層場景（Layer Scene）**功能讓你在同一個音色配置中建立兩套獨立的音層設定（每個音層或區段可以分別開啟或關閉），並能即時無縫切換。這樣就不需要切換音色配置，也能在演奏中快速改變音色組合。
 
@@ -485,10 +489,10 @@ Pressing the LAYER SCENE II button switches from Layer Scene I to II or vice ver
 ## 監控 / 複製 / 貼上 / MONITOR / COPY / PASTE
 
 
-<img src="img/ch07/copy_paste.png" alt="Monitor／Copy／Paste 按鈕（原文第 42 頁）" width="89">
+<img src="img/ch07/copy_paste.png" alt="Monitor／Copy／Paste 按鈕（原文第 43 頁）" width="89">
 
 
-<img src="img/ch07/paste_display.png" alt="音層貼上與 Swap 選擇畫面（原文第 42 頁）" width="325">
+<img src="img/ch07/paste_display.png" alt="音層貼上與 Swap 選擇畫面（原文第 43 頁）" width="325">
 
 按住 **MON/COPY**（監控/複製）按鈕，同時轉動參數旋鈕，可以在不改變數值的情況下查看當前設定值。
 
@@ -533,7 +537,7 @@ The MIDI Channel for Aux KB is set in the MIDI Menu.
 ## Shift / Exit 按鈕 / SHIFT / EXIT BUTTONS
 
 
-<img src="img/ch07/shift_exit.png" alt="Shift／Exit 按鈕（原文第 43 頁）" width="59">
+<img src="img/ch07/shift_exit.png" alt="Shift／Exit 按鈕（原文第 44 頁）" width="59">
 
 許多按鈕和旋鈕都有按住 SHIFT 才能存取的次要功能。Shift 也作為選單的 EXIT（退出）功能，以及取消儲存操作使用。
 
@@ -546,7 +550,7 @@ There are two Shift buttons on the Nord Stage 4 with the same functionality.
 ### 長按啟動 Shift 功能 / HOLD TO SHIFT FUNCTION
 
 
-<img src="img/ch07/hold_to_shift.png" alt="帶空心箭頭的長按 Shift 功能按鈕（原文第 43 頁）" width="89">
+<img src="img/ch07/hold_to_shift.png" alt="帶空心箭頭的長按 Shift 功能按鈕（原文第 44 頁）" width="89">
 
 大多數 Shift 功能也可以透過長按對應按鈕來啟動，面板上以空心箭頭（↓）符號標示。
 
@@ -557,7 +561,7 @@ Most Shift functions can also be activated by pressing down the corresponding bu
 ## 即時模式 / LIVE MODE
 
 
-<img src="img/ch07/live_mode.png" alt="Live Mode 與 Num Pad 按鈕（原文第 43 頁）" width="89">
+<img src="img/ch07/live_mode.png" alt="Live Mode 與 Num Pad 按鈕（原文第 44 頁）" width="89">
 
 Nord Stage 4 有八個方便存取的**即時模式（Live Mode）音色配置（Live Program——一種自動儲存的音色配置，調整後不需要手動存檔）**位置。對即時模式音色配置的任何編輯，在離開或關機時都會自動儲存，省去手動存檔的步驟。
 
@@ -570,10 +574,10 @@ To select a Live Program, press LIVE MODE and then any of the 1-8 buttons.
 ### 數字鍵盤模式 / NUM PAD (NUMERIC PAD)
 
 
-<img src="img/ch07/program_buttons.png" alt="Program 1–8 按鈕與選單快捷功能（原文第 43 頁）" width="296">
+<img src="img/ch07/program_buttons.png" alt="Program 1–8 按鈕與選單快捷功能（原文第 44 頁）" width="296">
 
 
-<img src="img/ch07/numeric_pad.png" alt="Num Pad 數字輸入畫面（原文第 43 頁）" width="322">
+<img src="img/ch07/numeric_pad.png" alt="Num Pad 數字輸入畫面（原文第 44 頁）" width="322">
 
 按 NUM PAD（Shift+Live Mode）啟用數字鍵盤模式。在此模式下，Program 1-8 按鈕用於輸入當前音色配置庫中的音色配置編號（11-88），而非直接切換分頁中的音色配置。
 
@@ -596,7 +600,7 @@ The PROGRAM 1-8 buttons are used for accessing the menus when used in conjunctio
 ## 整理音色配置順序 / ORGANIZE
 
 
-<img src="img/ch07/organize.png" alt="Organize 的 Swap／Move 選項（原文第 44 頁）" width="329">
+<img src="img/ch07/organize.png" alt="Organize 的 Swap／Move 選項（原文第 45 頁）" width="329">
 
 音色配置和預設音色的排列順序可以使用**整理（Organize）**（Shift+Program 3）的 Swap（互換）和 Move（移動）功能來重新排列。
 
@@ -604,12 +608,12 @@ The order of Programs and Presets can be rearranged using the Swap and Move ORGA
 
 - **SWAP**（互換）：交換兩個音色配置的位置。/ Interchanges the positions of two programs.
 
-<img src="img/ch07/organize_swap.png" alt="Swap 交換音色配置位置（原文第 44 頁）" width="325">
+<img src="img/ch07/organize_swap.png" alt="Swap 交換音色配置位置（原文第 45 頁）" width="325">
 
 - **MOVE**（移動）：將音色配置移到另一個位置；來源和目的地之間的音色配置會上移或下移一格。/ Moves a program to another location; programs between source and destination are shifted one step.
 
 
-<img src="img/ch07/organize_move.png" alt="Move 移動音色配置位置（原文第 44 頁）" width="326">
+<img src="img/ch07/organize_move.png" alt="Move 移動音色配置位置（原文第 45 頁）" width="326">
 
 > 💡 也可以透過 Nord Sound Manager 軟體在電腦上整理音色配置。
 
@@ -620,16 +624,14 @@ Content can also be organized using the Nord Sound Manager.
 ## 音色配置音量 / PROGRAM LEVELS
 
 
-<img src="img/ch07/program_levels.png" alt="Program Levels 總音量偏移設定（原文第 44 頁）" width="321">
+<img src="img/ch07/program_levels.png" alt="Program Levels 總音量偏移設定（原文第 45 頁）" width="321">
 
 **音色配置音量（Program Levels）**功能提供一個快速調整整個音色配置總音量的方法，讓你在不調整主音量的情況下調高或調低某個音色配置的整體音量——在準備現場演出的音色配置時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動音色配置控制旋鈕可以等量調整所有區段所有音層的音量。
 
 The Program Levels function provides a shortcut for adjusting the total volume level of an entire program. Found on the first page of the SOUND menu (Shift+Program 2 button). Turning the Program dial adjusts the levels of all Layers, for all Sections, by an equal amount.
 
 <details>
-<summary>原文整頁參考</summary>
-
-![原文第 37 頁](img/ch07/page_37.png)
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 38 頁](img/ch07/page_38.png)
 
@@ -644,5 +646,7 @@ The Program Levels function provides a shortcut for adjusting the total volume l
 ![原文第 43 頁](img/ch07/page_43.png)
 
 ![原文第 44 頁](img/ch07/page_44.png)
+
+![原文第 45 頁](img/ch07/page_45.png)
 
 </details>

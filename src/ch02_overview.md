@@ -1,6 +1,6 @@
 # 第二章：概覽 / Chapter 2: Overview
 
-![Page 9](img/ch02/page_09.png)
+![原文第 9 頁](img/ch02/page_09.png)
 
 ![圖 1](img/ch02/fig_01_p9.png)
 
@@ -66,7 +66,7 @@ The right pedal is the sustain pedal. When operated, all notes being played will
 
 ---
 
-![Page 10](img/ch02/page_10.png)
+![原文第 10 頁](img/ch02/page_10.png)
 
 ---
 
@@ -112,9 +112,9 @@ Nord Stage 4 上的一個音色配置（Program——用來儲存整台樂器所
 
 A program on the Nord Stage 4 contains settings for the sound engines of all Layers and their effects. The center area of the instrument - the Program section - is where programs are navigated and stored, and various performance features and settings menus are accessed. Additionally, this is also where the Organ, Piano and Synth Preset banks are found, allowing for complete presets – including effects – to be loaded into any Layer or Section of your program.
 
-本區段的詳細說明請見第 37 頁起的音色配置章節。
+本區段的詳細說明請見第 38 頁起的音色配置章節。
 
-This section is described in detail in the Program chapter, beginning on page 37.
+This section is described in detail in the Program chapter, beginning on page 38.
 
 ---
 
@@ -156,9 +156,9 @@ Nord Stage 4 作為 MIDI 控制器具有強大的功能，尤其是在使用合�
 
 The Nord Stage 4 delivers powerful capabilities as a MIDI controller, especially when using the Extern mode feature of the Synth Section. Extern can be assigned to keyboard zones just like the internal sound engines, but specializes in controlling external gear – computers, synth modules etc. – over MIDI.
 
-外部模式的詳細說明請見第 45 頁起的外部章節。
+外部模式的詳細說明請見第 46 頁起的外部章節。
 
-The Extern mode is described in detail in the Extern chapter, beginning on page 45.
+The Extern mode is described in detail in the Extern chapter, beginning on page 46.
 
 ---
 
@@ -184,8 +184,8 @@ Classic amplifier simulations with Variations, a versatile EQ and powerful, reso
 
 Many of the effect parameters can be "morph" controlled, which means they can be addressed by the modulation wheel, pedals or aftertouch. This opens up for all kinds of creative, real-time interaction with both the sound engines and their effects.
 
-本區段——以及旋轉喇叭——的詳細說明請見第 47 頁起的音層效果章節。
+本區段——以及旋轉喇叭——的詳細說明請見第 48 頁起的音層效果章節。
 
-This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 47.
+This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 48.
 
 ![ch02 圖 1](img/ch02/fig_01_p9.png)

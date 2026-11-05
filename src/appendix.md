@@ -9,7 +9,7 @@
 
 ![appendix 圖 1](img/appendix/fig_01_p65.png)
 
-![第 65 頁](img/appendix/page_65.png)
+![原文第 66 頁](img/appendix/page_66.png)
 
 ---
 
@@ -27,9 +27,9 @@ General guide on audio connections: Before turning on your amplifier, make all a
 
 1/4 inch unbalanced line level outputs for amplifier or recording equipment. The Nord Stage 4 is a stereo instrument with separate signal paths for the left and right audio channels.
 
-出廠時，Nord Stage 4 設定為透過 1&2 輸出音頻。關於如何使用 3&4 輸出（立體聲或單聲道配置），請參閱第 57 頁的輸出選單章節。
+出廠時，Nord Stage 4 設定為透過 1&2 輸出音頻。關於如何使用 3&4 輸出（立體聲或單聲道配置），請參閱第 59 頁的輸出選單章節。
 
-When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 57 for details on how to utilise the 3&4 outputs.
+When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 59 for details on how to utilise the 3&4 outputs.
 
 **監控輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監控輸入訊號路由到耳機和 Out 1&2。
 
@@ -65,7 +65,7 @@ MIDI over USB and standard 5 pin MIDI connectors are always active simultaneousl
 
 ### 踏板連接 / PEDAL CONNECTIONS
 
-**三踏板（TRIPLE PEDAL）**：5 針三踏板輸入插孔，僅相容 Nord Triple Pedal 2（TP-2）裝置。三個踏板可以專用於鋼琴相關功能和延音，或用於控制多種其他功能。詳見第 58 頁的踏板選單。
+**三踏板（TRIPLE PEDAL）**：5 針三踏板輸入插孔，僅相容 Nord Triple Pedal 2（TP-2）裝置。三個踏板可以專用於鋼琴相關功能和延音，或用於控制多種其他功能。詳見第 60 頁的踏板選單。
 
 The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 2 (TP-2) unit.
 
@@ -77,6 +77,10 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 1/4 inch connector for a continuous expression pedal, used for controlling morphs and/or Organ swell.
 
+> 💡 Nord Triple Pedal 2 的左踏板與中間踏板也可設定為控制踏板功能，請見第 60 頁。
+>
+> Control Pedal functionality is also available as a setting for the Left and Middle pedals of the Nord Triple Pedal 2. See page 60.
+
 **風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區段的 Swell 踏板、全域音量控制或鏡像調變輪 Morph 功能。
 
 1/4 inch connector for an expression pedal used either as swell pedal with the Organ section, for global Volume control or to mirror the Wheel Morph functionality.
@@ -87,7 +91,7 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 ---
 
-![第 66 頁](img/appendix/page_66.png)
+![原文第 67 頁](img/appendix/page_67.png)
 
 **旋轉喇叭控制踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。
 

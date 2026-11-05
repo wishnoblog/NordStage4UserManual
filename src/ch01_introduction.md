@@ -1,6 +1,6 @@
 # 第一章：介紹 / Chapter 1: Introduction
 
-![Page 7](img/ch01/page_07.png)
+![原文第 7 頁](img/ch01/page_07.png)
 
 ---
 
@@ -117,7 +117,7 @@ The Nord Sample Editor 4 can be downloaded from the Software section at www.nord
 
 ---
 
-![Page 8](img/ch01/page_08.png)
+![原文第 8 頁](img/ch01/page_08.png)
 
 ---
 

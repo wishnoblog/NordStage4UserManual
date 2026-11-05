@@ -1,0 +1,125 @@
+[
+  {
+    "file": "ch03_getting_started.md",
+    "line": 394,
+    "old": [
+      "28"
+    ],
+    "new": [
+      "27"
+    ]
+  },
+  {
+    "file": "ch03_getting_started.md",
+    "line": 505,
+    "old": [
+      "61"
+    ],
+    "new": [
+      "60"
+    ]
+  },
+  {
+    "file": "ch03_getting_started.md",
+    "line": 550,
+    "old": [
+      "39"
+    ],
+    "new": [
+      "38"
+    ]
+  },
+  {
+    "file": "ch03_getting_started.md",
+    "line": 643,
+    "old": [
+      "33",
+      "49"
+    ],
+    "new": [
+      "33",
+      "48"
+    ]
+  },
+  {
+    "file": "ch04_organ_section.md",
+    "line": 18,
+    "old": [
+      "53"
+    ],
+    "new": [
+      "48"
+    ]
+  },
+  {
+    "file": "ch05_piano_section.md",
+    "line": 285,
+    "old": [
+      "60"
+    ],
+    "new": [
+      "58"
+    ]
+  },
+  {
+    "file": "ch08_extern.md",
+    "line": 20,
+    "old": [
+      "62"
+    ],
+    "new": [
+      "63"
+    ]
+  },
+  {
+    "file": "ch08_extern.md",
+    "line": 165,
+    "old": [
+      "62"
+    ],
+    "new": [
+      "63"
+    ]
+  },
+  {
+    "file": "ch08_extern.md",
+    "line": 207,
+    "old": [
+      "62"
+    ],
+    "new": [
+      "63"
+    ]
+  },
+  {
+    "file": "ch10_midi.md",
+    "line": 13,
+    "old": [
+      "60"
+    ],
+    "new": [
+      "61"
+    ]
+  },
+  {
+    "file": "ch10_midi.md",
+    "line": 230,
+    "old": [
+      "60"
+    ],
+    "new": [
+      "61"
+    ]
+  },
+  {
+    "file": "ch08_extern.md",
+    "line": 161,
+    "old": [
+      "60"
+    ],
+    "new": [
+      "61"
+    ],
+    "method": "verified against the source Program Change warning"
+  }
+]

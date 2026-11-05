@@ -5,7 +5,7 @@
 ## 外部 MIDI 控制模式 / EXTERN MODE
 
 
-<img src="img/ch08/extern_mode.png" alt="合成器 Extern 模式選擇（原文第 45 頁）" width="102">
+<img src="img/ch08/extern_mode.png" alt="合成器 Extern 模式選擇（原文第 46 頁）" width="102">
 
 **外部 MIDI 控制（Extern Mode——讓 Nord Stage 4 透過 MIDI 訊號來控制外部合成器或其他 MIDI 裝置）**是 Nord Stage 4 的內建功能。透過將合成器區段中的某個音層設定為 Extern 模式，就可以用合成器的顯示幕、旋鈕和其他控制器來使用所有常用的外部 MIDI 功能。
 
@@ -15,9 +15,9 @@ Advanced control of external MIDI instruments is an integrated feature of the No
 
 A Layer set to Extern behaves much like a Layer set to Samples or Analog, in that it is turned on or off and assigned to a keyboard zone in the same way. Pitch Stick and Sustain Pedal assignments are also set up as usual.
 
-每個 Extern 音層的 MIDI 通道設定在 MIDI 選單中，而音色配置切換（Program Change）、連續控制器（CC）和其他 MIDI 功能的設定則在 EXTERN 選單中存取（詳見第 61 頁）。這些設定也可用於在本機切換音色配置時，自動向外部裝置發送 MIDI 音色配置切換訊息。
+每個 Extern 音層的 MIDI 通道設定在 MIDI 選單中，而音色配置切換（Program Change）、連續控制器（CC）和其他 MIDI 功能的設定則在 EXTERN 選單中存取（詳見第 63 頁）。這些設定也可用於在本機切換音色配置時，自動向外部裝置發送 MIDI 音色配置切換訊息。
 
-MIDI channel settings for each Extern Layer are found in the MIDI menu while settings for Program Change, Continuous Controllers (CC) and other MIDI functionality is accessed via the EXTERN menu (read more on page 61). These settings can also be used for sending MIDI messages such as Program Change automatically to external units when programs are changed locally.
+MIDI channel settings for each Extern Layer are found in the MIDI menu while settings for Program Change, Continuous Controllers (CC) and other MIDI functionality is accessed via the EXTERN menu (read more on page 63). These settings can also be used for sending MIDI messages such as Program Change automatically to external units when programs are changed locally.
 
 > 💡 Extern 的 MIDI 通道設定在所有音色配置中共用，而 Extern 選單中的所有設定則是每個音色配置獨立儲存的。
 
@@ -28,7 +28,7 @@ Extern MIDI Channel settings are shared for all Programs on the Nord Stage 4, wh
 ## 設定步驟 / SETTING UP
 
 
-<img src="img/ch08/extern_midi.png" alt="Extern MIDI 通道 A／B／C 設定（原文第 45 頁）" width="350">
+<img src="img/ch08/extern_midi.png" alt="Extern MIDI 通道 A／B／C 設定（原文第 46 頁）" width="350">
 
 1. 用 MIDI 連接線將 Nord Stage 4 的 MIDI Out 接到外部裝置的 MIDI In（外部裝置可以是機架式合成器模組、電腦介面或其他有 MIDI In 插孔的裝置）。
 
@@ -67,7 +67,7 @@ Make sure the Synth Section is turned ON. Select the Layer (A, B or C) which sho
 ### 八度移調 / OCTAVE SHIFT
 
 
-<img src="img/ch08/extern_octave.png" alt="Extern 八度移調與鍵盤區域指示（原文第 45 頁）" width="160">
+<img src="img/ch08/extern_octave.png" alt="Extern 八度移調與鍵盤區域指示（原文第 46 頁）" width="160">
 
 從設定為 Extern 的音層發出的 MIDI 訊號可以上移或下移八度，方法是根據設定的八度數量來移調發送的 MIDI 音符。
 
@@ -83,9 +83,9 @@ The shift range depends on the total note range of the external instrument, and 
 
 Keyboard zones can be used for split and layered setups just like for internal sounds. As an example, if an Extern Layer is assigned to only play in zones 1 and 2, the external instrument will only respond to notes played in these zones.
 
-> 💡 關於如何設定和使用鍵盤區域，請參閱第 38 頁的分區功能說明。
+> 💡 關於如何設定和使用鍵盤區域，請參閱第 39 頁的分區功能說明。
 
-See the section about Split functionality on page 38 for information on how to set up and use keyboard zones.
+See the section about Split functionality on page 39 for information on how to set up and use keyboard zones.
 
 最多可以有三個 Extern 音層（當所有合成器音層都設定為 Extern 時），但請注意，設定為 Extern 的音層無法用於內部合成器音色。
 
@@ -106,7 +106,7 @@ Hold SHIFT and press SUSTPED/PSTICK for the focused Extern Layer to determine wh
 ## 外部控制參數 / EXTERN PARAMETERS
 
 
-<img src="img/ch08/extern_parameters.png" alt="Extern 的 CC Value 1／2 與 Program 旋鈕（原文第 46 頁）" width="426">
+<img src="img/ch08/extern_parameters.png" alt="Extern 的 CC Value 1／2 與 Program 旋鈕（原文第 47 頁）" width="426">
 
 最常用的 Extern 參數可以透過合成器顯示幕的三個旋鈕來控制：
 
@@ -156,13 +156,13 @@ The external instrument or unit may have to be manually set to receive MIDI CC m
 
 The PROGRAM dial allows for selecting programs in the external instrument, by sending Program Change messages. Note that the external instrument may also have to be set to receive MIDI Program Change messages.
 
-> ⚠️ Stage 4 本身在切換音色配置時也會發送 MIDI 音色配置切換訊息。如果這發生在同一個 MIDI 通道上，可能會對外部裝置造成非預期的結果。請確保全域 MIDI 通道與 Extern MIDI 通道不同。有關全域 MIDI 通道音色配置切換的相關設定，請見第 59 頁的 MIDI 選單說明。
+> ⚠️ Stage 4 本身在切換音色配置時也會發送 MIDI 音色配置切換訊息。如果這發生在同一個 MIDI 通道上，可能會對外部裝置造成非預期的結果。請確保全域 MIDI 通道與 Extern MIDI 通道不同。有關全域 MIDI 通道音色配置切換的相關設定，請見第 61 頁的 MIDI 選單說明。
 
-The Stage 4 itself can transmit MIDI Program Change when you select a Program. If this occurs on the same MIDI channel, it can lead to unwanted results on the external units. Make sure that the Global MIDI channel is not the same as the Extern MIDI channel. Settings related to Program Change on the Global MIDI channel are found in the MIDI menu, see page 59.
+The Stage 4 itself can transmit MIDI Program Change when you select a Program. If this occurs on the same MIDI channel, it can lead to unwanted results on the external units. Make sure that the Global MIDI channel is not the same as the Extern MIDI channel. Settings related to Program Change on the Global MIDI channel are found in the MIDI menu, see page 61.
 
-如果外部裝置以音色庫（Bank）組織音色配置，可以選擇發送音色庫組選擇（Bank Select）訊息，這可以在 Extern 選單頁面中設定（詳見第 61 頁「Extern 選單」）。
+如果外部裝置以音色庫（Bank）組織音色配置，可以選擇發送音色庫組選擇（Bank Select）訊息，這可以在 Extern 選單頁面中設定（詳見第 63 頁「Extern 選單」）。
 
-If the external instrument organizes programs in Banks, there is an option to send Bank Select messages, which can be defined in the Extern Menu page, see "Extern Menu" on page 61.
+If the external instrument organizes programs in Banks, there is an option to send Bank Select messages, which can be defined in the Extern Menu page, see page 63.
 
 ### 載入時自動發送 / SEND ON LOAD
 
@@ -202,15 +202,15 @@ The Extern menu setting for "Echo Global To Extern Channel" must in these cases 
 
 ## 其他 Extern 選單設定 / OTHER EXTERN MENU SETTINGS
 
-Extern 模式還有一些額外的選單設定，本章未涵蓋。請參閱第 61 頁的選單章節，以獲取更多資訊。
+Extern 模式還有一些額外的選單設定，本章未涵蓋。請參閱第 63 頁的選單章節，以獲取更多資訊。
 
-There are additional menu settings for the Extern Mode, that have not been covered in this chapter. Refer to the Menu chapter, on page 61, for further information on those.
+There are additional menu settings for the Extern Mode, that have not been covered in this chapter. Refer to the Menu chapter, on page 63, for further information on those.
 
 <details>
-<summary>原文整頁參考</summary>
-
-![原文第 45 頁](img/ch08/page_45.png)
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 46 頁](img/ch08/page_46.png)
+
+![原文第 47 頁](img/ch08/page_47.png)
 
 </details>

@@ -1,6 +1,8 @@
-# Nord Stage 4 使用手冊（中英雙語）
+# Nord Stage 4 使用手冊（OS 1.6x，中英雙語）
 
 [CH0：關於翻譯資訊](ch00_about_translation.md)
+
+[1.6x 更新重點](version_changes.md)
 
 [前言](ch01_introduction.md)
 

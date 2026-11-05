@@ -5,7 +5,7 @@
 ## 概覽 / OVERVIEW
 
 
-<img src="img/ch09/effects_panel.png" alt="音層效果區段面板總覽（原文第 47 頁）" width="760">
+<img src="img/ch09/effects_panel.png" alt="音層效果區段面板總覽（原文第 48 頁）" width="760">
 
 Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區段的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個音色配置（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
 
@@ -64,7 +64,7 @@ To enable an effect, press its ON button. The Delay, Compressor and Reverb effec
 ## MOD 1（調變效果 1）/ MOD 1
 
 
-<img src="img/ch09/mod1.png" alt="MOD 1 控制面板（原文第 48 頁）" width="386">
+<img src="img/ch09/mod1.png" alt="MOD 1 控制面板（原文第 49 頁）" width="386">
 
 MOD 1 提供六種調變效果（Modulation Effects——用來讓聲音產生週期性變化的效果），用選擇按鈕切換。每種效果都有一個 **VARIATION（變奏）** 或 **PED（踏板）** 功能，按住 Shift 再按選擇按鈕就能啟用。
 
@@ -165,7 +165,7 @@ With the A-Pan, Trem, LFO-Wah or Pump effect selected, turning the RATE dial clo
 ## MOD 2（調變效果 2）/ MOD 2
 
 
-<img src="img/ch09/mod2.png" alt="MOD 2 控制面板（原文第 49 頁）" width="386">
+<img src="img/ch09/mod2.png" alt="MOD 2 控制面板（原文第 50 頁）" width="386">
 
 MOD 2 提供多種經典和創新的調變效果，每種都有 VARIATION，按住 Shift 再按選擇按鈕啟用。**RATE** 旋鈕控制速率，**AMOUNT** 旋鈕（支援變形 Morph）控制強度。
 
@@ -228,7 +228,7 @@ Like the Rotary Speaker, the SPIN effect emulates the sound of a rotating speake
 ## 延遲 / DELAY
 
 
-<img src="img/ch09/delay.png" alt="Delay 速度、回饋、乾濕比與模式控制（原文第 49 頁）" width="325">
+<img src="img/ch09/delay.png" alt="Delay 速度、回饋、乾濕比與模式控制（原文第 50 頁）" width="325">
 
 延遲（Delay——讓聲音產生回聲/重複效果的效果器）用 **TEMPO** 旋鈕設定延遲時間。按住 Shift 再按 On 可設為全域（GLOBAL）模式，讓延遲套用到所有區段所有音層。
 
@@ -309,7 +309,7 @@ The Master Clock feature for the Delay section is activated by turning MST CLK (
 ## 擴大機模擬/等化器 / AMP SIM/EQ
 
 
-<img src="img/ch09/amp_eq.png" alt="Amp Sim／EQ 擴大機模擬與等化器面板（原文第 50 頁）" width="398">
+<img src="img/ch09/amp_eq.png" alt="Amp Sim／EQ 擴大機模擬與等化器面板（原文第 51 頁）" width="398">
 
 AMP SIM/EQ 效果單元結合了三段等化器（EQ——調整不同頻率的音量）和精密的擴大機與喇叭箱模擬，另外還有共振式 24dB 低通和高通濾波器。如果沒有選擇 Amp 模型或濾波器，這個區段就是一個中性的等化器加上電子管風格的過載（overdrive）。
 
@@ -359,9 +359,13 @@ The three different amplifier/speaker simulations are selected with the Selector
 
 ## 路由至旋轉喇叭 / TO ROTARY
 
-**TO ROTARY** 設定會把目前焦點音層的訊號路由到旋轉喇叭效果器（位在面板最左側）。其他效果仍然可以照常使用，但請注意旋轉喇叭是效果鏈的最後一個單元，所以其他效果會在旋轉喇叭之前。
+**TO ROTARY** 設定會把目前焦點音層的訊號路由到旋轉喇叭效果器（位在面板最左側）。其他效果仍可照常使用。一般情況下，旋轉喇叭位於效果鏈末端；全域殘響則位於旋轉喇叭之後，詳見本章「全域模式與殘響位置」。
 
-The TO ROTARY setting sends the focused Layer to the Rotary Speaker effect. Note that the Rotary Speaker is the last effect unit in the effects chain, so any other effects will be placed before it.
+The TO ROTARY setting sends the focused Layer to the Rotary Speaker effect, which has its controls placed at the far left of the panel (see further down).
+
+Other effects can still be used as usual, but note that the Rotary Speaker is the last effect unit in the effects chain, so any other effects that are applied to the Layer will be placed before the Rotary Speaker.
+
+> 譯註：原文此處的「最後一個效果單元」須搭配下方 Global Reverb 的例外說明閱讀。
 
 ---
 
@@ -390,7 +394,7 @@ The Bass and Treble equalizer bands, as well as the Drive effect are available f
 ## 壓縮器 / COMPRESSOR
 
 
-<img src="img/ch09/compressor.png" alt="Compressor 壓縮量、Fast 與 Global 控制（原文第 51 頁）" width="135">
+<img src="img/ch09/compressor.png" alt="Compressor 壓縮量、Fast 與 Global 控制（原文第 52 頁）" width="135">
 
 壓縮器（Compressor——縮小聲音的動態範圍，讓小聲的部分更大聲、大聲的部分更安靜）讓聲音聽起來更緊湊有力，現場演出時整體音量也更好控制。按 **ON** 按鈕啟用，**AMOUNT** 旋鈕控制壓縮量。
 
@@ -413,7 +417,7 @@ The FAST mode (Shift + Amount knob) makes the Compressor recover quicker after b
 ## 殘響 / REVERB
 
 
-<img src="img/ch09/reverb.png" alt="Reverb 類型、乾濕比與 Global 控制（原文第 51 頁）" width="219">
+<img src="img/ch09/reverb.png" alt="Reverb 類型、乾濕比與 Global 控制（原文第 52 頁）" width="219">
 
 殘響（Reverb——模擬聲音在各種空間中的自然反射效果）提供六種不同長度和密度的殘響類型，用六段選擇器的 LED 指示。
 
@@ -423,9 +427,21 @@ The REVERB unit simulates the natural sound reflections in various acoustic envi
 
 Reverb Types on the left side of the selector all have a VARIATION. Types on the right side can all be set to CHORALE, which increases the pitch modulation in the Reverb signal. Variation/Chorale is activated with Shift+Selector button.
 
-殘響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾音和殘響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。
+支援 Morph 多參數控制的 **DRY/WET** 旋鈕可調整未經處理的乾音與處理後的殘響訊號之間的比例。
 
-The Reverb can be set to GLOBAL mode (Shift+On). The morphable DRY/WET control sets the balance between the unprocessed and the processed signal, going all the way to fully wet at its max position.
+The morphable DRY/WET control sets the balance between the unprocessed and the processed signal.
+
+> 💡 DRY/WET 轉至最大值時會輸出完全效果音（fully wet），可用於 Morph 效果或音層混合。
+>
+> The Dry/Wet control provides a fully wet Reverb signal at its max position, a sound which can be useful both for morph effects, or when blending Layers.
+
+### 全域模式與殘響位置 / GLOBAL MODE AND REVERB PLACEMENT
+
+殘響可設為 **GLOBAL** 模式（Shift + On），套用到三個區段的所有音層。設為全域模式時，殘響效果位於**旋轉喇叭與各音層音量推桿之後**。
+
+The Reverb can be set to GLOBAL mode (Shift+On) which applies it to all Layers of all three Sections. When set to Global mode, the Reverb effect is placed after both the Rotary Speaker and the Volume Level fader of each Layer.
+
+
 
 ---
 
@@ -459,39 +475,51 @@ The BRIGHT or DARK mode can be used for all Types to alter the frequency respons
 
 ## 旋轉喇叭 / ROTARY SPEAKER
 
+<img src="img/ch09/rotary_speaker.png" alt="Rotary Speaker 旋轉喇叭面板（原文第 53 頁）" width="139">
 
-<img src="img/ch09/rotary_speaker.png" alt="Rotary Speaker 旋轉喇叭面板（原文第 52 頁）" width="139">
+旋轉喇叭效果重現旋轉高頻號角與低頻轉子的聲音，並模擬原始旋轉喇叭內建擴大機的特性。
 
-旋轉喇叭（Rotary Speaker——模擬旋轉喇叭箱的效果器，最著名的是 Leslie 喇叭箱）是傳統音輪風琴的經典搭配，能製造出獨特的都卜勒效應音色。
+The Rotary Speaker effect accurately reproduces the sound of the rotating horn and bass rotor, as well as the characteristics of the built-in amplifier of the original rotary construction.
 
-The ROTARY SPEAKER effect is an emulation of the classic rotating speaker cabinet (the most famous being the Leslie cabinet), widely used with traditional tonewheel organs.
+- 搭配風琴：按下旋轉喇叭區段的 **ORGAN** 按鈕。
+- 搭配鋼琴或合成器：在該音層的 Amp/EQ 效果中啟用 **TO ROTARY**。
+- 按下 **SLOW/STOP–FAST** 按鈕，切換慢速與快速。要停止轉子，先啟用 **STOP MODE**，再將速度設為 **SLOW/STOP**。
+- 啟用 Stop Mode 後，可按 **ANGLE**（Shift + Stop Mode）選擇轉子停止時的位置；**Free** 表示不固定位置。
+- 低頻轉子與高頻號角的速度及加減速特性可在 Sound Menu 設定，詳見第 58 頁。
+- 旋轉速度可由 Morph 多參數控制來源連續控制。設定時，按住任一 Morph Assign 按鈕並按下 Rotary Speed 按鈕；MORPH LED 亮起表示已有 Morph 指派。
+- **CLOSE MIC**（Shift + Organ）模擬麥克風更靠近高頻號角，可產生更明顯的立體聲效果與旋轉聲感。此設定隨音色配置儲存。
 
-旋轉喇叭有兩個組件：處理低頻的旋轉鼓（rotor），和處理高頻的旋轉號角（horn）。
+The most common use for the Rotary Speaker would be to combine it with an Organ sound, which is achieved by pressing ORGAN in the Rotary Speaker section. To use the Rotary Speaker with sounds from the Piano and Synth sections, activate TO ROTARY in the Amp/EQ effects unit for the Layer that should be sent to the Rotary Speaker.
 
-The Rotary Speaker has two components: the rotating drum (rotor) which handles the low frequencies, and the rotating horn, which handles the high frequencies.
+Switch between fast and slow rotor speeds by pressing the SLOW/STOP-FAST button. To stop the rotors, press the STOP MODE button and set the speed to SLOW/STOP. To have the speaker sound exactly the same every time Stop Mode is active, select ANGLE by pressing Shift+Stop Mode and choose one of the positions from the list. This way the rotor and horn will always stop at the same positions. With the default Free setting, the Stop Mode sound will vary depending on the angles at which the horn and rotor have stopped.
 
-**DRIVE** 旋鈕控制通過效果器的過載（失真）量。**SLOW** 和 **FAST** 控制調整慢速和快速旋轉的速度設定。
+The rotor and horn acceleration rates, i.e. the time it takes to go from slow to fast and vice versa, can be adjusted in the Sound menu, read more on page 58.
 
-The DRIVE knob controls the amount of drive (distortion) through the effect. The SLOW and FAST controls adjust the rotation speed for the Slow and Fast speed settings.
+The Rotary speed can be continuously controlled with a Morph source, making it possible to set the rotary at speeds other than just fast, slow or stopped. Set this up by holding down any of the Morph Assign buttons and pressing the Rotary speed button. An active morph is indicated by the MORPH LED being lit.
 
-按 **ROTARY SPEED** 按鈕在慢速和快速之間切換。速度的轉換是漸進式的，就像真正的旋轉喇叭箱那樣慢慢加速或減速。
+Pressing CLOSE MIC (Shift+Organ) switches to a version of the Rotary Speaker which is modelled with the microphones placed closer to the horn speaker. This produces a more pronounced stereo effect and an increased sense of motion. This setting is stored per program.
 
-Press the ROTARY SPEED button to toggle between slow and fast rotation speeds. The transition between speeds is performed gradually, just like a real rotating speaker would slow down and speed up.
+**DRIVE** 旋鈕控制前級擴大機的過載量。可透過接在 Rotor Pedal 輸入的延音踏板或腳踏開關控制旋轉速度；Compact 型號也可使用 Nord Half Moon Switch。踏板設定詳見第 61 頁。
 
-> 💡 在慢速和快速之間切換的瞬間，就是旋轉喇叭最有靈魂的時刻——加速和減速過渡期的音色是風琴演奏的經典表情。
+The DRIVE knob controls the amount of overdrive. This simulates the pre-amplifier overdrive of the original rotary speakers. A sustain pedal or a foot switch that is connected to the Rotor pedal input can control the rotor speed. On the Nord Stage 4 Compact model, the optional Nord Half Moon Switch can be used for switching Rotary speed in an even more traditional fashion. Read more about rotor control on page 61.
 
-**STOP 模式**（Shift + Rotary Speed）會讓旋轉喇叭模擬完全停下來。
+> 原文提示：Rotary Drive 的作用程度會受輸入音層的音量影響。音層音量較低時，可產生的失真也較少。
 
-In STOP mode (Shift+Rotary Speed) the Rotary Speaker simulation freezes to a halt.
+### 旋轉喇叭與殘響 / ROTARY SPEAKER AND REVERB
 
-旋轉喇叭的控制設定是所有路由到它的音層共用的。
+一般模式下，路由至旋轉喇叭的音層會先經過殘響，再進入旋轉喇叭。**若殘響設為 Global 模式，順序相反：殘響位於旋轉喇叭之後。**
 
-The Rotary Speaker controls are shared for all Layers that are routed to it.
+On any Layer that is routed to the Rotary Speaker, the Reverb, like all other effects, is applied before the Rotary Speaker unless the Reverb is set to Global mode, in which case the Reverb is placed after the Rotary Speaker.
+
+### 旋轉喇叭選單設定 / ROTARY MENU SETTINGS
+
+Sound Menu 提供旋轉喇叭行為與聲音特性的詳細設定，請見第 58 頁。
+
+There are several parameters in the Sound Menu that allow for detailed adjustments of the behavior and sound of the Rotary Speaker. Read more about this on page 58.
+
 
 <details>
-<summary>原文整頁參考</summary>
-
-![原文第 47 頁](img/ch09/page_47.png)
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 48 頁](img/ch09/page_48.png)
 
@@ -502,5 +530,7 @@ The Rotary Speaker controls are shared for all Layers that are routed to it.
 ![原文第 51 頁](img/ch09/page_51.png)
 
 ![原文第 52 頁](img/ch09/page_52.png)
+
+![原文第 53 頁](img/ch09/page_53.png)
 
 </details>

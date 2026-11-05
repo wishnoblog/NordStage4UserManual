@@ -5,7 +5,7 @@
 ![圖 1](img/ch13/fig_01_p64.png)
 
 
-![第 64 頁](img/ch13/page_64.png)
+![原文第 65 頁](img/ch13/page_65.png)
 
 ---
 

@@ -1,6 +1,6 @@
 # 第三章：快速入門 / Chapter 3: Getting Started
 
-![Page 11](img/ch03/page_11.png)
+![原文第 11 頁](img/ch03/page_11.png)
 
 
 ---
@@ -19,9 +19,9 @@ Let's spend a few minutes getting acquainted with the most fundamental features 
 2. 請先開啟 Nord Stage 4，再開啟音響系統。請注意輸出音量。  
    Make sure to turn on the Nord Stage 4 first, before the sound system. Please be careful with the output volume.
 
-有關 Stage 4 所有連接埠的詳細資訊，請參閱第 64 頁的連接埠說明。
+有關 Stage 4 所有連接埠的詳細資訊，請參閱第 66 頁的連接埠說明。
 
-For more information on all the connections on the Stage 4, have a look in the Connections section on page 64.
+For more information on all the connections on the Stage 4, have a look in the Connections section on page 66.
 
 ---
 
@@ -74,9 +74,9 @@ Potentiometer-type knobs are used for most parameters on the Nord Stage 4. When 
 
 ![alt text](img/ch03/Knobs.png)
 
-可作為 Morph 目標的旋鈕配備綠色 Morph LED，位於旋鈕左下方，當 Morph 指向該參數時會亮起。更多關於 Morph 的說明請參閱第 37 頁。
+可作為 Morph 目標的旋鈕配備綠色 Morph LED，位於旋鈕左下方，當 Morph 指向該參數時會亮起。更多關於 Morph 的說明請參閱第 38 頁。
 
-Knobs that can serve as a Morph destination are equipped with green Morph LEDs. These are located at the bottom left of the knob, and will light up if a Morph is targeting that parameter. Read more about Morphs on page 37.
+Knobs that can serve as a Morph destination are equipped with green Morph LEDs. These are located at the bottom left of the knob, and will light up if a Morph is targeting that parameter. Read more about Morphs on page 38.
 
 ### 音量推桿 / FADERS
 
@@ -220,8 +220,8 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 4. 按 EXIT（Shift 按鈕）退出系統選單。  
    Press EXIT (Shift button) to exit the System menu.
 
-> **注意**：此設定與所有其他系統設定一樣，將永久儲存直到再次更改。從第 56 頁開始閱讀更多關於選單設定的資訊。  
-> This setting, like all other System settings, will be permanently stored until it is changed again. Read more about menu settings, starting on page 56.
+> **注意**：此設定與所有其他系統設定一樣，將永久儲存直到再次更改。從第 57 頁開始閱讀更多關於選單設定的資訊。<br>
+> This setting, like all other System settings, will be permanently stored until it is changed again. Read more about menu settings, starting on page 57.
 
 ### 儲存音色配置 / STORE A PROGRAM
 
@@ -248,9 +248,9 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 > **提示**：如果改變主意，按一次 Shift/Exit 可以中止正在進行的儲存過程。  
 > Press Shift/Exit once to abort an ongoing Store process if you change your mind.
 
-在第 39 頁的音色配置章節中閱讀更多關於儲存和命名音色配置的資訊。
+在第 40 頁的音色配置章節中閱讀更多關於儲存和命名音色配置的資訊。
 
-Read more about Store and how to name a program in the Program chapter, on page 39.
+Read more about Store and how to name a program in the Program chapter, on page 40.
 
 ### 即時模式 / LIVE MODE
 
@@ -389,9 +389,9 @@ The Nord Stage 4 PRESET LIBRARY comes with a large number of Preset sounds for t
 3. 找到所需音色後，再次按預設音色庫 Synth 按鈕，或按 Shift/Exit 確認並退出預設瀏覽畫面。  
    Once you have found your desired sound, press the Preset Library Synth button again, or Shift/Exit, to confirm and exit the Preset browse screen.
 
-即使使用預設值作為起點，面板上的所有合成器參數也可以調整。這些參數的深入說明可在第 28 頁起的合成器章節中找到。
+即使使用預設值作為起點，面板上的所有合成器參數也可以調整。這些參數的深入說明可在第 27 頁起的合成器章節中找到。
 
-All Synth parameters on the panel can be adjusted, even when using a preset as a starting point. An in-depth description of these parameters can be found in the Synth chapter, starting on page 28.
+All Synth parameters on the panel can be adjusted, even when using a preset as a starting point. An in-depth description of these parameters can be found in the Synth chapter, starting on page 27.
 
 ### 載入單一音層預設音色 / LOAD A SINGLE LAYER PRESET
 
@@ -695,8 +695,8 @@ Now that we have an arpeggio going, let's try the Master Clock feature to synchr
 
 ![alt text](img/ch03/MST_CLK.png)
 
-> **提示**：或者，至少點擊 Mst Clk 按鈕四次即可即時設定速度。也可以使用腳踏開關踏板，或 Nord Triple Pedal 的左或中踏板來點擊速度。設置詳情請參閱第 59 頁。  
-> Alternatively, tap a minimum of four times on the Mst Clk button to set the tempo on the fly. You could also use a foot switch pedal, or the left or middle pedal of a Nord Triple Pedal to tap the tempo. See page 59 for details on how to set this up.
+> **提示**：或者，至少點擊 Mst Clk 按鈕四次即可即時設定速度。也可以使用腳踏開關踏板，或 Nord Triple Pedal 的左或中踏板來點擊速度。設置詳情請參閱第 60 頁。<br>
+> Alternatively, tap a minimum of four times on the Mst Clk button to set the tempo on the fly. You could also use a foot switch pedal, or the left or middle pedal of a Nord Triple Pedal to tap the tempo. See page 60 for details on how to set this up.
 
 2. 轉動琶音 RATE 旋鈕選擇琶音應演奏的拍值（或音符值），設定將在旋鈕被轉動時顯示在音色配置區段顯示器中。注意 1/4 是 1/8 「速度」的一半。數字值後的「T」表示三連音。將細分設為 1/8。  
    Turn the Arpeggio RATE knob to select the meter subdivision (or note values) that the arpeggio should play. The setting is shown in the Program area display as the knob is being turned. Notice how 1/4 is half the "speed" of 1/8. A "T" after a numerical value indicates triplets. Set the subdivision to 1/8.

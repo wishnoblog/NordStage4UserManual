@@ -1,5 +1,5 @@
 [book]
-title = "Nord Stage 4 使用手冊（OS 1.4x，中英雙語）"
+title = "Nord Stage 4 使用手冊（OS 1.6x，中英雙語）"
 authors = ["Clavia DMI AB（原著）", "WiSH 隨筆"]
 description = "Nord Stage 4 User Manual — 中英雙語版，適合新手閱讀"
 language = "zh-TW"
@@ -10,10 +10,10 @@ src = "src"
 default-theme = "navy"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/wishnoblog/NordStage4UserManual"
-edit-url-template = "https://github.com/wishnoblog/NordStage4UserManual/edit/main/{path}"
+edit-url-template = "https://github.com/wishnoblog/NordStage4UserManual/edit/master/src/{path}"
 site-url = "/"
 
-additional-js = ["theme/attribution.js"]
+additional-js = ["theme/attribution.js", "theme/version-selector.js"]
 additional-css = ["theme/attribution.css"]
 
 [output.html.search]

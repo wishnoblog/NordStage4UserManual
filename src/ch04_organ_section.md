@@ -13,9 +13,9 @@ Nord Stage 4 內建六種風琴音色模型，全部以數位方式模擬：一�
 
 The Nord Stage 4 features six organ models, all digitally modeled; a tonewheel/B3 organ with a separate B3 Bass mode, two transistor organs (Vox and Farfisa) and two Pipe Organ models.
 
-> 🔖 旋轉喇叭效果（Rotary Speaker）經常搭配風琴一起使用，相關設定請參閱效果章節第 52 頁。
+> 🔖 旋轉喇叭效果（Rotary Speaker）經常搭配風琴一起使用，相關設定請參閱效果章節第 48 頁。
 
-> The Rotary Speaker effect, which is often combined with the Organ, is covered in the Effects chapter, see page 52.
+> The Rotary Speaker effect, which is often combined with the Organ, is covered in the Effects chapter, see page 48.
 
 ---
 
@@ -73,17 +73,17 @@ Pressing a Layer button also focuses the Organ Section effects for editing, indi
 
 Use OCTAVE SHIFT to transpose the selected Organ Layer up or down by octaves (+/- 12 semitones). When assigned to the entire keyboard it can be transposed one octave up or down. When assigned to a smaller zone the available transpose values will vary, but always provide access to the full range of the Organ.
 
-按下 **KB ZONE**（Shift + 八度升/降鍵），可以將選定的風琴音層指定到任何已啟用的鍵盤區域。綠色 LED 指示燈會顯示目前音層被指定到哪個分區。關於分區設定，請參閱第 38 頁。
+按下 **KB ZONE**（Shift + 八度升/降鍵），可以將選定的風琴音層指定到任何已啟用的鍵盤區域。綠色 LED 指示燈會顯示目前音層被指定到哪個分區。關於分區設定，請參閱第 39 頁。
 
-Press KB ZONE (Shift+Octave Down/Up), to assign the selected Organ Layer to any of the active keyboard zones. The green LEDs indicate which of the zones a Layer is assigned to. Read more about Split set-ups and keyboard zones on page 38.
+Press KB ZONE (Shift+Octave Down/Up), to assign the selected Organ Layer to any of the active keyboard zones. The green LEDs indicate which of the zones a Layer is assigned to. Read more about Split set-ups and keyboard zones on page 39.
 
 ---
 
 ## 延音踏板與音高控制桿 / SUSTPED AND PSTICK
 
-**SUSTPED**（Shift + 音層 A 開關）可為選定的風琴音層啟用外接延音踏板。如何設定外接踏板，請參閱選單章節第 58 頁。
+**SUSTPED**（Shift + 音層 A 開關）可為選定的風琴音層啟用外接延音踏板。如何設定外接踏板，請參閱選單章節第 60 頁。
 
-SUSTPED (Shift + Layer A On/Off) activates any attached sustain pedal for the selected Organ Layer. Read more on how to configure an attached pedal in the Menus chapter, on page 58.
+SUSTPED (Shift + Layer A On/Off) activates any attached sustain pedal for the selected Organ Layer. Read more on how to configure an attached pedal in the Menus chapter, on page 60.
 
 **PSTICK**（Shift + 音層 B 開關）可為選定的音層開啟音高控制桿功能，讓你用音高控制桿（Pitch Stick）將風琴音色上下彎音 2 個半音。
 
@@ -108,9 +108,9 @@ Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定�
 
 The Nord Stage 4 comes with a large selection of complete and ready-to-use Organ Presets, including effects. These are browsed and loaded using the ORGAN button in the PRESET LIBRARY area, of the central Program section. User-created sounds can be stored to the Preset Library as well, for quick and easy recall from within any Program.
 
-詳細說明請參閱第 40 頁的預設音色庫章節。
+詳細說明請參閱第 41 頁的預設音色庫章節。
 
-Read more about the Preset Library on page 40.
+Read more about the Preset Library on page 41.
 
 ---
 
@@ -220,9 +220,9 @@ In POLY mode (Shift+Volume), the Percussion is polyphonic, producing the percuss
 
 ## 按鍵咔嗒聲控制 / KEY CLICK CONTROL
 
-按鍵咔嗒聲（Key Click）是原始 B3 樂器中由接點隨機彈跳產生的聲音特性，很快就成為音樂人喜愛的效果之一。點擊音量可以在音效選單中調整，詳見第 57 頁。
+按鍵咔嗒聲（Key Click）是原始 B3 樂器中由接點隨機彈跳產生的聲音特性，很快就成為音樂人喜愛的效果之一。點擊音量可以在音效選單中調整，詳見第 58 頁。
 
-The key click produced by the random contact bounces is an important audio artifact in the original B3 instrument. This quickly became a desirable effect amongst musicians. The click level can be adjusted in the Sound menu, read more about this on page 57.
+The key click produced by the random contact bounces is an important audio artifact in the original B3 instrument. This quickly became a desirable effect amongst musicians. The click level can be adjusted in the Sound menu, read more about this on page 58.
 
 > 💡 別忘了試試音效選單中的三種音輪模式（Tonewheel Modes）——可以讓 B3 音色從「全新出廠」的清晰音質，一路調整到「老舊磨損」的復古音色。
 
@@ -280,9 +280,9 @@ The drawbars act as on/off switches, or "register selectors" when the Farf model
 
 Drawbar LEDs 5-8 are lit up for an activated voice, and drawbar LEDs 1-4 are lit up for a deactivated voice. Pulling a drawbar more than half way out will activate that register.
 
-依據音色配置檢視（Prog View，見第 41 頁），音色配置區段的顯示器會顯示目前風琴區段的音栓拉桿設定。下表列出各音栓拉桿對應的原版音栓名稱：
+依據音色配置檢視（Prog View，見第 42 頁），音色配置區段的顯示器會顯示目前風琴區段的音栓拉桿設定。下表列出各音栓拉桿對應的原版音栓名稱：
 
-Depending on Prog View mode (see page 41), the Program section display will show current drawbar settings for the Organ section. The table below shows the original register name.
+Depending on Prog View mode (see page 42), the Program section display will show current drawbar settings for the Organ section. The table below shows the original register name.
 
 | 音栓拉桿 | 音色 | 面板名稱 |
 |------|------|----------|
@@ -358,9 +358,9 @@ B3 Bass 電風琴模組提供傳統 B3 低音的 16′ 和 8′ 兩支音栓拉�
 
 The B3 BASS model provides the two traditional B3 Bass 16′ and 8′ drawbars. Apart from using them on their own they could be used on the left side of a keyboard split, or be controlled from an external keyboard or pedal keys over MIDI, using the Aux KB feature.
 
-分區（Split）相關說明請參閱第 38 頁，Aux KB 相關說明請參閱第 54 頁。
+分區（Split）相關說明請參閱第 39 頁，Aux KB 相關說明請參閱第 55 頁。
 
-Read more about splits on page 38 and about Aux KB on page 54.
+Read more about splits on page 39 and about Aux KB on page 55.
 
 ---
 
@@ -387,11 +387,11 @@ Press SYNC (Shift+Preset) or press-hold PRESET to synchronize the Preset setting
 
 ## 風琴表情踏板 / SWELL PEDAL
 
-Swell（音量漸變）是風琴的經典功能，用連續型踏板來控制。它不只是單純的音量控制——對 B3 來說，Swell 還會改變音色的特質。要在 Nord Stage 4 上使用 Swell，只需將標準風琴表情踏板（Expression Pedal）插入後面板的 **Organ Swell** 插孔，並在踏板選單（Pedal Menu）中設定即可（見第 58 頁）。
+Swell（音量漸變）是風琴的經典功能，用連續型踏板來控制。它不只是單純的音量控制——對 B3 來說，Swell 還會改變音色的特質。要在 Nord Stage 4 上使用 Swell，只需將標準風琴表情踏板（Expression Pedal）插入後面板的 **Organ Swell** 插孔，並在踏板選單（Pedal Menu）中設定即可（見第 60 頁）。
 
 > 💡 「風琴表情踏板」就是那種連續可調的踏板，就像鋼琴踩踏板一樣，踩越深效果越強。和延音踏板（只有開/關兩種狀態）不同。
 
-Swell is a characteristic organ feature, controlled from a continuous pedal. Swell is not only a volume control – for the B3 it also changes the character of the sound in a special way. To use Swell control on the Nord Stage 4, simply plug in a standard expression pedal to the Organ Swell input on the rear panel and configure the pedal in the Pedal Menu (see page 58).
+Swell is a characteristic organ feature, controlled from a continuous pedal. Swell is not only a volume control – for the B3 it also changes the character of the sound in a special way. To use Swell control on the Nord Stage 4, simply plug in a standard expression pedal to the Organ Swell input on the rear panel and configure the pedal in the Pedal Menu (see page 60).
 
 接在 Organ Swell 插孔的風琴表情踏板，對所有風琴模型都有效。
 
@@ -409,12 +409,12 @@ If you have only one expression pedal, it can be used to control both Morphs and
 
 ## 旋轉喇叭 / ROTARY SPEAKER
 
-旋轉喇叭效果的詳細設定，請參閱效果章節第 52 頁。
+旋轉喇叭效果的詳細設定，請參閱效果章節第 53 頁。
 
-The Rotary Speaker settings are described in detail in the Effects chapter on page 52.
+The Rotary Speaker settings are described in detail in the Effects chapter on page 53.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 18 頁](img/ch04/page_18.png)
 

@@ -19,9 +19,9 @@ Using the Unison modes and/or the Multi or Super analog waveforms, sounds utiliz
 
 The dedicated Synth display and its three dials are used both for browsing Waveforms and Samples, as well as for making Envelope, Filter or other Synth settings. Functions that utilize the display for its settings are indicated with a red frame around the corresponding button.
 
-將合成器區段切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的音色配置與參數變更。詳見第 45 頁的外部模式章節。
+將合成器區段切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的音色配置與參數變更。詳見第 46 頁的外部模式章節。
 
-With the Synth Section set to Extern mode, the display and its dials are used for controlling Program and Parameter changes on external gear. Read more about the Extern mode on page 45.
+With the Synth Section set to Extern mode, the display and its dials are used for controlling Program and Parameter changes on external gear. Read more about the Extern mode on page 46.
 
 ---
 
@@ -59,9 +59,9 @@ Pressing a Layer button also focuses that Layer's effects for editing. The FX FO
 
 Use OCTAVE SHIFT to transpose the selected Layer up or down by octaves (+/- 12 semitones). When assigned to the entire keyboard it can be transposed one octave up or down. When assigned to a smaller zone the available transpose values will vary, but always provide access to the entire range of the Synth.
 
-按下 KB ZONE（Shift+八度移調上下鍵），可將音層指派到任何啟用的鍵盤區域。綠色 KB ZONE LED 會顯示該音層目前指派的分區。關於分區設定，請見第 38 頁。
+按下 KB ZONE（Shift+八度移調上下鍵），可將音層指派到任何啟用的鍵盤區域。綠色 KB ZONE LED 會顯示該音層目前指派的分區。關於分區設定，請見第 39 頁。
 
-Press KB ZONE (Shift+Octave Shift Down/Up) to assign a Layer to any of the active keyboard zones. The green KB ZONE LEDs indicate which of the zones the Layer is assigned to. Read more about Split set-ups and keyboard zones on page 38.
+Press KB ZONE (Shift+Octave Shift Down/Up) to assign a Layer to any of the active keyboard zones. The green KB ZONE LEDs indicate which of the zones the Layer is assigned to. Read more about Split set-ups and keyboard zones on page 39.
 
 ---
 
@@ -69,9 +69,9 @@ Press KB ZONE (Shift+Octave Shift Down/Up) to assign a Layer to any of the activ
 
 ## 延音踏板與音高控制桿 / SUSTPED AND PSTICK
 
-SUSTPED（Shift+音層 A）可為合成器區段啟用外接延音踏板。踏板的設定方式請見第 58 頁的選單章節。
+SUSTPED（Shift+音層 A）可為合成器區段啟用外接延音踏板。踏板的設定方式請見第 60 頁的選單章節。
 
-SUSTPED (Shift+Layer A) activates an attached sustain pedal for the Synth section. Read more on how to configure pedals in the Menus chapter, on page 58.
+SUSTPED (Shift+Layer A) activates an attached sustain pedal for the Synth section. Read more on how to configure pedals in the Menus chapter, on page 60.
 
 PSTICK/RNG（音高控制桿／範圍，Shift+音層 B）可為選定音層開啟音高控制桿功能。音高控制桿的彎音範圍可以半音為單位設定，按住按鈕並從顯示列表中選擇數值即可。
 
@@ -84,9 +84,17 @@ PSTICK/RNG (Pitch Stick/Range, Shift+Layer B) turns on pitch stick functionality
 
 <img src="img/ch06/synth_mode.png" alt="Samples／Analog／Extern 模式選擇（原文第 28 頁）" width="96">
 
-Nord Stage 4 合成器區段有三種操作模式：**SAMPLES（取樣音色）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 45 頁的專屬章節。
+Nord Stage 4 合成器區段有三種操作模式：**SAMPLES（取樣音色）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 46 頁的專屬章節。
 
-The Nord Stage 4 Synth Section can be used in three distinct modes: SAMPLES, ANALOG or EXTERN. The Extern functionality (Shift+Mode) allows for advanced MIDI control of external units and is described in its own chapter, starting on page 45.
+The Nord Stage 4 Synth Section can be used in three distinct modes: SAMPLES, ANALOG or EXTERN. The Extern functionality (Shift+Mode) allows for advanced MIDI control of external units and is described in its own chapter, starting on page 46.
+
+---
+
+## 音高與精細調音 / PITCH AND FINE TUNE
+
+當合成器音層設為 SAMPLES 或 ANALOG 模式時，可調整該音層的音高與精細調音。按下 OSCILLATORS 區域的 **PITCH/SMP** 按鈕，開啟 **OSC PITCH** 畫面。**Pitch** 的範圍為 −24 至 +24 半音；**Fine Tune** 的範圍為 ±50 音分（cents）。
+
+The pitch and tuning of a Synth Layer set to Samples or Analog can be adjusted from the OSC PITCH view, available by pressing PITCH/SMP in the Oscillators section. Pitch can be set between -24 and +24 semitones and Fine Tune has a range of ±50 cents.
 
 ---
 
@@ -96,9 +104,9 @@ Nord Stage 4 內建大量多音層和單音層的合成器預設音色（包含�
 
 The Nord Stage 4 comes with a large selection of multi- and single-Layer Synth Presets, including Effects. These are browsed and loaded using the SYNTH button in the PRESET LIBRARY area, of the central Program section.
 
-預設音色當然可以手動微調，並儲存為音色配置的一部分。修改後或自製的音色也可以儲存到預設音色庫，方便在任何音色配置中快速調用。詳見第 40 頁的預設音色庫說明。
+預設音色當然可以手動微調，並儲存為音色配置的一部分。修改後或自製的音色也可以儲存到預設音色庫，方便在任何音色配置中快速調用。詳見第 41 頁的預設音色庫說明。
 
-Presets can of course be further tweaked manually and be stored as part of a Program. Modified or user created sounds can also be stored to the Preset Library, for quick and easy recall from within any Program. Read more about the Preset Library on page 40.
+Presets can of course be further tweaked manually and be stored as part of a Program. Modified or user created sounds can also be stored to the Preset Library, for quick and easy recall from within any Program. Read more about the Preset Library on page 41.
 
 ---
 
@@ -111,9 +119,9 @@ Nord Stage 4 內建了大量來自 Nord Sample Library 4 的取樣音色，涵�
 
 The Nord Stage 4 comes with a large selection of samples from the Nord Sample Library 4, covering a wide range of categories.
 
-取樣音色記憶體容量為 1 GB，可從 www.nordkeyboards.com 下載更多取樣音色。也可使用 Nord Sample Editor 4 軟體建立自訂取樣音色並下載到 Nord Stage 4。詳見第 63 頁。
+取樣音色記憶體容量為 1 GB，可從 www.nordkeyboards.com 下載更多取樣音色。也可使用 Nord Sample Editor 4 軟體建立自訂取樣音色並下載到 Nord Stage 4。詳見第 65 頁。
 
-There is 1 GB of memory for samples, and additional samples can be downloaded from www.nordkeyboards.com. Custom samples can also be created and downloaded to the Nord Stage 4 using the Nord Sample Editor 4 software. Read more about this on page 63.
+There is 1 GB of memory for samples, and additional samples can be downloaded from www.nordkeyboards.com. Custom samples can also be created and downloaded to the Nord Stage 4 using the Nord Sample Editor 4 software. Read more about this on page 65.
 
 按下 WAVEFORM 按鈕，再使用合成器顯示螢幕下方的 CAT 和 SAMPLE 旋鈕，即可瀏覽和選擇取樣音色。
 
@@ -256,7 +264,7 @@ The Square waveform can be transformed from a square (50% pulse) to a very narro
 ### 正弦波塑形（SHAPE SINE） / SHAPE SINE
 
 
-<img src="img/ch06/shape_sine_waveforms.png" alt="Shape Sine 波形塑形對照（原文第 29 頁）" width="445">
+<img src="img/ch06/shape_sine_waveforms.png" alt="Shape Sine 波形塑形對照（原文第 30 頁）" width="445">
 
 Shape Sine 類別中的波形，可用 OSC CTRL 旋鈕從純正弦波逐漸變形成所選波形。
 
@@ -496,7 +504,7 @@ The ENV AMT knob governs the amount of modulation to the filter frequency by the
 ## 包絡線 / THE ENVELOPES
 
 
-<img src="img/ch06/envelope_curve.png" alt="Attack／Decay／Release 包絡線時間示意（原文第 32 頁）" width="475">
+<img src="img/ch06/envelope_curve.png" alt="Attack／Decay／Release 包絡線時間示意（原文第 33 頁）" width="475">
 
 包絡線（Envelope——控制聲音「從無到有再消失」的時間曲線）用於塑造聲音隨時間的變化——從按下琴鍵到放開琴鍵後的整個過程。
 
@@ -515,7 +523,7 @@ All envelopes are visualized by the Synth display, and the three dials below it 
 ### 起音、衰減與釋音 / ATTACK, DECAY AND RELEASE TIMES
 
 
-<img src="img/ch06/envelope_display.png" alt="包絡線與起音、衰減、釋音參數顯示（原文第 32 頁）" width="335">
+<img src="img/ch06/envelope_display.png" alt="包絡線與起音、衰減、釋音參數顯示（原文第 33 頁）" width="335">
 
 **起音（ATTACK）**
 
@@ -588,7 +596,7 @@ With VELOCITY (Shift+Envelope) active, the output level of the Synth will be con
 ## LFO（低頻振盪器） / LFO
 
 
-<img src="img/ch06/lfo_controls.png" alt="LFO 波形、速率、調製量與目的地選擇（原文第 33 頁）" width="212">
+<img src="img/ch06/lfo_controls.png" alt="LFO 波形、速率、調製量與目的地選擇（原文第 34 頁）" width="212">
 
 LFO（低頻振盪器——產生緩慢週期性波動，用來讓音色隨時間搖擺變化）可產生循環波形，速率通常非常低，不會產生可聽見的音高。LFO 的輸出用於調變其他功能，例如 OSC CTRL 參數或濾波器頻率。LFO 的速率由可進行Morph 多參數控制的 RATE/TIME 旋鈕設定。
 
@@ -682,7 +690,7 @@ The GLIDE function makes the pitch "glide" from one note to the next when playin
 ### 齊奏（UNISON） / UNISON
 
 
-<img src="img/ch06/synth_unison.png" alt="合成器 Unison 控制（原文第 34 頁）" width="98">
+<img src="img/ch06/synth_unison.png" alt="合成器 Unison 控制（原文第 35 頁）" width="98">
 
 Nord Stage 4 振盪器可增加額外的振盪器，疊加在基本聲音上，製造那種厚實飽滿的經典合成器聲音。使用齊奏不會減少複音數。
 
@@ -698,7 +706,7 @@ In Samples mode, the Unison function is specifically tailored to provide a reali
 ## 琶音器 / 節奏閘門 / ARPEGGIATOR/GATE
 
 
-<img src="img/ch06/arp_gate.png" alt="琶音器／Gate 面板與 ARP RUN 開關（原文第 34 頁）" width="454">
+<img src="img/ch06/arp_gate.png" alt="琶音器／Gate 面板與 ARP RUN 開關（原文第 35 頁）" width="454">
 
 按下 ARP RUN 按鈕開啟琶音器（Arpeggiator——自動依序演奏你按住的音符的功能）／節奏閘門。按下 GROUP（Shift+Menu）可讓所有音層共用相同設定。
 
@@ -715,7 +723,7 @@ There are three available modes for the Arpeggiator/Gate section:
 ### 節奏型（PATTERN） / PATTERN
 
 
-<img src="img/ch06/pattern_edit.png" alt="Pattern Edit 節奏型編輯畫面（原文第 35 頁）" width="345">
+<img src="img/ch06/pattern_edit.png" alt="Pattern Edit 節奏型編輯畫面（原文第 36 頁）" width="345">
 
 三種模式都可以使用 PATTERN 設定（Shift+琶音器模式）。開啟後，琶音或節奏閘門的步驟會按照所選型式的節奏進行。
 
@@ -753,7 +761,7 @@ The Arpeggiator MENU has five pages:
 ### 琶音器速率 / 時間 / ARPEGGIATOR RATE/TIME
 
 
-<img src="img/ch06/arp_rate_time.png" alt="琶音器 Rate／Time 與主時鐘同步控制（原文第 35 頁）" width="88">
+<img src="img/ch06/arp_rate_time.png" alt="琶音器 Rate／Time 與主時鐘同步控制（原文第 36 頁）" width="88">
 
 RATE/TIME 旋鈕以四分音符每分鐘（BPM）設定速率。注意：琶音器以給定拍速演奏八分音符。
 
@@ -789,7 +797,7 @@ When KB Hold is turned On, its LED remains lit even if the Synth Section has bee
 ## 音高顫音（VIBRATO） / VIBRATO
 
 
-<img src="img/ch06/vibrato_controls.png" alt="Vibrato 模式、開關與選單按鈕（原文第 36 頁）" width="128">
+<img src="img/ch06/vibrato_controls.png" alt="Vibrato 模式、開關與選單按鈕（原文第 37 頁）" width="128">
 
 音高顫音（VIBRATO）調變振盪器的音高，以產生自然的音高顫音效果。
 
@@ -808,7 +816,7 @@ There are five methods for controlling the Synth Vibrato:
 ### 音高顫音選單 / VIBRATO MENU
 
 
-<img src="img/ch06/vibrato_menu.png" alt="Vibrato 速率、深度與延遲時間畫面（原文第 36 頁）" width="348">
+<img src="img/ch06/vibrato_menu.png" alt="Vibrato 速率、深度與延遲時間畫面（原文第 37 頁）" width="348">
 
 音高顫音選單提供速率（Rate，2.0–8.0 Hz）、量（Amount，0–10）和延遲時間（Dly Time，0.2、0.7、1.2 或 2.0 秒）的設定。
 
@@ -847,7 +855,7 @@ Pressing SOUND INIT (Shift+Waveform) allows for initializing all synthesizer par
 The Sound Init operation can be undone by pressing UNDO.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 27 頁](img/ch06/page_27.png)
 
@@ -868,5 +876,7 @@ The Sound Init operation can be undone by pressing UNDO.
 ![原文第 35 頁](img/ch06/page_35.png)
 
 ![原文第 36 頁](img/ch06/page_36.png)
+
+![原文第 37 頁](img/ch06/page_37.png)
 
 </details>

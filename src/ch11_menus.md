@@ -5,7 +5,7 @@
 ## 選單概覽 / OVERVIEW
 
 
-<img src="img/ch11/menu_soft_buttons.png" alt="顯示幕選項與下方軟按鍵對照（原文第 56 頁）" width="461">
+<img src="img/ch11/menu_soft_buttons.png" alt="顯示幕選項與下方軟按鍵對照（原文第 57 頁）" width="461">
 
 選單透過按住 SHIFT 再按對應的音色配置按鈕（1-8）來存取，提供與 Nord Stage 4 所有功能相關的廣泛設定。在選單中所做的設定會立即生效，並儲存直到再次更改為止。
 
@@ -271,7 +271,7 @@ Determines the output channel or bus for the Synth A, B and C Layer. With arrow 
 ### 6 - 輸出概覽 / OUTPUT OVERVIEW
 
 
-<img src="img/ch11/output_overview.png" alt="Output Overview 輸出通道與匯流排畫面（原文第 58 頁）" width="325">
+<img src="img/ch11/output_overview.png" alt="Output Overview 輸出通道與匯流排畫面（原文第 59 頁）" width="325">
 
 輸出概覽頁面顯示所有目前的輸出設定，並允許從單一頁面更改任何這些設定。在每音色配置輸出訊號路由模式下顯示每個音層指定的匯流排，在全域模式下顯示實體輸出編號（1-4）。
 
@@ -289,11 +289,11 @@ Access: Hold SHIFT and press PEDAL (Program 6)
 
 ### 1 - 控制踏板 / CONTROL PEDAL
 
-**類型（TYPE）**：Nord Stage 4 透過 CONTROL PEDAL 輸入接受許多常見的表情踏板。選擇與使用的踏板相匹配的設定。
+**類型（TYPE）**：Nord Stage 4 的 CONTROL PEDAL 輸入支援許多常見的表情踏板，包括 Nord EP15 與 EP30。請選擇與所用踏板相符的設定；使用 EP15 或 EP30 時，選擇 Nord EP。
 
-The Nord Stage 4 accepts many commonly available expression pedals through its CONTROL PEDAL input.
+The Nord Stage 4 accepts many commonly available expression pedals through its CONTROL PEDAL input, including the Nord EP15 and EP30 pedals. Select a setting that matches the pedal being used.
 
-**範圍**：Roland（預設）、Yamaha、Korg、Fatar（和 Studiologic）、Nord SP-2
+**範圍**：Nord EP（預設）、Roland、Yamaha、Korg、Fatar（和 Studiologic）、Nord SP-2
 
 > 💡 當此選單頁面開啟時操作連接的踏板，會顯示百分比，可用於確定所接踏板的範圍——在為未明確支援的踏板尋找合適設定時非常有用。
 
@@ -309,7 +309,7 @@ The Nord Stage 4 accepts many commonly available expression pedals through its C
 
 **類型（TYPE）**：配置連接到 ORGAN SWELL 插孔的踏板。
 
-**範圍**：Roland（預設）、Yamaha、Korg、Fatar（和 Studiologic）
+**範圍**：Nord EP（預設）、Roland、Yamaha、Korg、Fatar（和 Studiologic）
 
 **功能（FUNC）**：設定 Swell 踏板的目標。設為「Swell」讓踏板作為風琴的 Swell 踏板；設為「Volume」讓其控制所有 Nord Stage 4 音色引擎的音量；設為「Wheel Morph」讓 Swell 踏板鏡像調變輪的 Morph 功能。
 
@@ -319,31 +319,43 @@ The Nord Stage 4 accepts many commonly available expression pedals through its C
 
 ### 3 - 延音踏板 / SUSTAIN PEDAL
 
-**類型（TYPE）**：此設定需要與連接到 SUSTAIN PEDAL 插孔的踏板類型相符，才能使延音功能正常工作。
+**類型（TYPE）**：此設定須符合接在 SUSTAIN PEDAL 插孔的踏板類型。依類型不同，畫面會顯示一條或三條垂直指示條，踩下踏板時指示條會上升。
 
-Depending on the selected Type, one or three vertical bars are shown in the display, filling up as pedals are pressed.
+This setting needs to match the type of pedal attached to the SUSTAIN PEDAL jack, for the Sustain functions to work properly. Depending on the selected Type, one or three vertical bars, corresponding to a single and a triple pedal respectively, are shown in the display, which will fill up as pedals are pressed down.
+
+Nord SP-1、Normally Open、Normally Closed 適用於開關式踏板；Nord SP-2 為連續式踏板，可支援踏板機械聲與半踏板功能。Nord TP-1 是舊款 Nord Triple Pedal 1。接在專用五針插孔的 Nord Triple Pedal 2 不受此處設定影響。
 
 **範圍**：Nord SP-1（預設）、Nord SP-2、Nord TP-1、Normally Open、Normally Closed
 
-**功能（FUNC）**：延音踏板也可以透過設定其功能為「Sus+Rotor Hold」或「Sus+Rotor Toggle」來改變旋轉喇叭的速度。
+**左、中、右（LEFT、MID、RIGHT）**：Type 設為 Nord TP-1 時，會出現 Left 與 Middle 設定。其選項與下一頁 TP-2 的 Left／Middle 相同，但 **Control 僅供 TP-2 使用**。Right 決定單一延音踏板或 TP-1 右踏板的功能。
 
-**範圍**：Sustain（預設）、Sus+Rotor Hold、Sus+Rotor Toggle
+The Left and Middle settings are present if Type is set to Nord TP-1. The range of settings for Left and Middle are the same as for the Nord TP-2 (see next section), except for Control which is only available for the Nord TP-2. The Right setting determines the functionality of a single sustain pedal, or the right pedal of the Nord TP-1.
+
+**右踏板範圍**：Sustain（預設）、Sus+Rotor Hold、Sus+Rotor Toggle
 
 ### 4 - 三踏板功能 / TRIPLE PEDAL FUNCTION
 
-連接的三踏板（無論是連接到 Sustain Pedal 插孔的 Nord Triple Pedal 1，還是連接到 Triple Pedal 插孔的 Nord Triple Pedal 2）可以設定多種方式來控制多個不同功能。右踏板始終控制延音（或可選擇延音+旋轉保持/旋轉切換），左踏板和中間踏板各自可以控制更大範圍的參數。
+此頁設定**僅適用於接在 TRIPLE PEDAL 插孔的 Nord Triple Pedal 2（TP-2）**。右踏板固定控制延音，或依設定兼具旋轉速度保持／切換功能；左踏板與中間踏板可控制更多參數。
 
-A connected Triple Pedal can be set up in a variety of ways for controlling a number of different features. The Right pedal always controls Sustain.
+These settings only affects the functionality of a Nord Triple Pedal 2 connected to the Triple Pedal jack. The Right pedal always controls Sustain (or optionally Sustain+Rotor Hold/Rotor Toggle), while the Left and Middle pedals can each control a larger selection of parameters.
 
-**關於「用戶指定（User Assigned）」設定**：設定為「User Assigned」時，左踏板或中間踏板用於以下在 Nord Stage 4 面板上活躍的功能：主節拍時鐘踏板拍速輸入、音層場景 II 踏板、合成器音高顫音踏板、踏板模式下的 Pump 效果。
+> 接在 Sustain Pedal 插孔的 Nord Triple Pedal 1，請在前一頁「3 - 延音踏板」設定。
+>
+> Settings for the Nord Triple Pedal 1, connected to the Sustain Pedal jack, are made on the previous menu page.
 
-**左踏板範圍**：Una Corda（預設）、User Assigned、Layer Scene Hold/Toggle、Pump、Mst Clk Tap、Synth Vibrato、Program Up/Down、Rotor Hold/Toggle
-**中間踏板範圍**：Sostenuto（預設）、User Assigned、Layer Scene Hold/Toggle、Pump、Mst Clk Tap、Synth Vibrato、Program Up/Down、Rotor Hold/Toggle
+**面板指定（Panel Assigned）**：左踏板或中間踏板設為 Panel Assigned 時，可操作面板上已啟用的主節拍時鐘拍速輸入、音層場景 II、合成器音高顫音踏板及 Pump 的 PED 模式。
+
+When set to “Panel Assigned” the Left or Middle pedal is used for these functions, as active on the Nord Stage 4 panel: Mst Clk Pedal Tempo Tap, Layer Scene II Pedal, Synth Vibrato Pedal, Pump effect in PED mode.
+
+**左踏板範圍**：Una Corda（預設）、Panel Assigned、Layer Scene Hold、Layer Scene Toggle、Pump、Mst Clk Tap、Synth Vibrato、Program Up、Program Down、Rotor Hold、Rotor Toggle、Control（Control Pedal）
+
+**中間踏板範圍**：Sostenuto（預設）、User Assigned、Layer Scene Hold、Layer Scene Toggle、Pump、Mst Clk Tap、Synth Vibrato、Program Up、Program Down、Rotor Hold、Rotor Toggle、Control（Control Pedal）
+
 **右踏板範圍**：Sustain（預設）、Sus+Rotor Hold、Sus+Rotor Toggle
 
----
+**Control（控制踏板）**：TP-2 左踏板與中間踏板可鏡像 Control Pedal 功能，包含已指定給控制踏板的 Morph 多參數控制。
 
----
+> **原文名稱差異**：Edition N 第 60 頁的說明段落與左踏板選項使用 Panel Assigned，中間踏板選項仍列為 User Assigned。本書保留此差異，操作時請以樂器實際顯示為準。
 
 ### 5 - 旋轉喇叭控制踏板 / ROTOR PEDAL
 
@@ -371,7 +383,7 @@ A connected Triple Pedal can be set up in a variety of ways for controlling a nu
 ### 7 - 踏板概覽 / PEDAL OVERVIEW
 
 
-<img src="img/ch11/pedal_overview.png" alt="Pedal Overview 踏板功能總覽（原文第 60 頁）" width="331">
+<img src="img/ch11/pedal_overview.png" alt="Pedal Overview 踏板功能總覽（原文第 61 頁）" width="331">
 
 踏板概覽頁面顯示所有目前的踏板設定，並允許從單一頁面更改任何這些設定。用 Page 按鈕聚焦踏板設定，用旋鈕更改數值。
 
@@ -401,7 +413,7 @@ MIDI Local control determines if the Nord Stage 4 keyboard and front panel contr
 
 **範圍**：1-16、Off（預設 1）
 
-**輔助鍵盤通道（AUX KEYBOARD CHANNEL）**：設定在使用 Aux KB 模式時接收來自外部鍵盤 MIDI 的通道（詳見第 43 頁）。
+**輔助鍵盤通道（AUX KEYBOARD CHANNEL）**：設定在使用 Aux KB 模式時接收來自外部鍵盤 MIDI 的通道（詳見第 44 頁）。
 
 **範圍**：1-16、Off（預設 16）
 
@@ -466,7 +478,7 @@ MIDI Local control determines if the Nord Stage 4 keyboard and front panel contr
 ### 10 - MIDI 概覽 / MIDI OVERVIEW
 
 
-<img src="img/ch11/midi_overview.png" alt="MIDI Overview 通道與控制訊息總覽（原文第 61 頁）" width="331">
+<img src="img/ch11/midi_overview.png" alt="MIDI Overview 通道與控制訊息總覽（原文第 62 頁）" width="331">
 
 MIDI 概覽頁面顯示所有目前的 MIDI 設定，並允許從單一頁面更改任何這些設定。
 
@@ -539,9 +551,7 @@ Toggles if PC, Vol or user defined MIDI CC messages in Extern mode should be aut
 **範圍**：Off（預設）、On
 
 <details>
-<summary>原文整頁參考</summary>
-
-![原文第 56 頁](img/ch11/page_56.png)
+<summary>1.6x 原文整頁參考</summary>
 
 ![原文第 57 頁](img/ch11/page_57.png)
 
@@ -552,5 +562,9 @@ Toggles if PC, Vol or user defined MIDI CC messages in Extern mode should be aut
 ![原文第 60 頁](img/ch11/page_60.png)
 
 ![原文第 61 頁](img/ch11/page_61.png)
+
+![原文第 62 頁](img/ch11/page_62.png)
+
+![原文第 63 頁](img/ch11/page_63.png)
 
 </details>
