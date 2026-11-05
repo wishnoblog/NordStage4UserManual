@@ -426,7 +426,7 @@ If you have only one expression pedal, it can be used to control both Morphs and
 The Rotary Speaker settings are described in detail in the Effects chapter on page 52.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 18 頁](img/ch04/page_18.png)
 

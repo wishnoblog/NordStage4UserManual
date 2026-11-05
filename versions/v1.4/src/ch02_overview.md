@@ -1,6 +1,6 @@
 # 第二章：概覽 / Chapter 2: Overview
 
-![Page 9](img/ch02/page_09.png)
+
 
 ![圖 1](img/ch02/fig_01_p9.png)
 
@@ -70,7 +70,7 @@ The right pedal is the sustain pedal. When operated, all notes being played will
 
 ---
 
-![Page 10](img/ch02/page_10.png)
+
 
 ---
 
@@ -199,3 +199,12 @@ Many of the effect parameters can be "morph" controlled, which means they can be
 This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 47.
 
 ![ch02 圖 1](img/ch02/fig_01_p9.png)
+
+<details>
+<summary>1.4x 原文整頁參考</summary>
+
+![原文第 9 頁](img/ch02/page_09.png)
+
+![原文第 10 頁](img/ch02/page_10.png)
+
+</details>

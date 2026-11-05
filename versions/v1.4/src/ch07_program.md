@@ -639,7 +639,7 @@ Content can also be organized using the Nord Sound Manager.
 The Program Levels function provides a shortcut for adjusting the total volume level of an entire program. Found on the first page of the SOUND menu (Shift+Program 2 button). Turning the Program dial adjusts the levels of all Layers, for all Sections, by an equal amount.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 37 頁](img/ch07/page_37.png)
 

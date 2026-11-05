@@ -9,7 +9,7 @@
 
 ![appendix 圖 1](img/appendix/fig_01_p65.png)
 
-![原文第 66 頁](img/appendix/page_66.png)
+
 
 ---
 
@@ -93,7 +93,7 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 ---
 
-![原文第 67 頁](img/appendix/page_67.png)
+
 
 **旋轉喇叭控制踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。
 
@@ -287,3 +287,12 @@ For complete index, refer to pages 69-70 of the original manual. Below are the k
 | Phaser | 移相器 |
 | Flanger | 鑲邊效果 |
 | Ring Modulation | 環形調變 |
+
+<details>
+<summary>1.6x 原文整頁參考</summary>
+
+![原文第 66 頁](img/appendix/page_66.png)
+
+![原文第 67 頁](img/appendix/page_67.png)
+
+</details>

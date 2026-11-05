@@ -857,7 +857,7 @@ Pressing SOUND INIT (Shift+Waveform) allows for initializing all synthesizer par
 The Sound Init operation can be undone by pressing UNDO.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 27 頁](img/ch06/page_27.png)
 

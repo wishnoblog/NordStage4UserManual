@@ -493,7 +493,7 @@ In STOP mode (Shift+Rotary Speed) the Rotary Speaker simulation freezes to a hal
 The Rotary Speaker controls are shared for all Layers that are routed to it.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 47 頁](img/ch09/page_47.png)
 

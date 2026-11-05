@@ -1,10 +1,6 @@
 # 第二章：概覽 / Chapter 2: Overview
 
-![原文第 9 頁](img/ch02/page_09.png)
-
-![圖 1](img/ch02/fig_01_p9.png)
-
-
+![alt text](PANNEL.png)
 ---
 
 <a id="風琴區段--organ-section"></a>
@@ -12,6 +8,7 @@
 ## 風琴區 / ORGAN SECTION
 
 ![風琴](img/ch02/fig_01_p9-1.png)
+
 專屬的風琴區配備兩個獨立音層，擁有實體音栓拉桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。
 
 The dedicated Organ section, with its two independent Layers, features physical drawbars accompanied by LED graphs for hands-on control and ease of use.
@@ -38,6 +35,8 @@ This section is described in detail in the Organ chapter, beginning on page 18.
 
 ## 鋼琴區 / PIANO SECTION
 
+![alt text](PIANAL.png)
+
 Nord Stage 4 的鋼琴區配備兩個獨立音層，提供令人驚嘆的鋼琴與鍵盤音色。鋼琴音色分為六種類型，包括經典的原聲大鋼琴、直立式鋼琴、電鋼琴，以及 Clavinet、大鍵琴、數位鋼琴和其他雜項音色。
 
 The Nord Stage 4 Piano section, with its two independent Layers, delivers a stunning range of piano and keyboard sounds. Piano sounds are divided into six different types including both classic Grand, Upright and Electric pianos as well as Clavinet, Harpsichords, Digital pianos and Miscellaneous sounds.
@@ -48,7 +47,7 @@ Nord Stage 4 受益於持續擴充的 Nord Piano Library 中的豐富音色。�
 
 The Nord Stage 4 benefits from the sounds found in the ever-growing Nord Piano Library. We spend a lot of time and effort on expanding the palette of available sounds, ranging from state-of-the-art concert grand pianos to characterful uprights, historical instruments, electric pianos and more.
 
-全新音色定期在 www.nordkeyboards.com 網站上免費提供。
+全新音色定期在 [www.nordkeyboards.com](https://www.nordkeyboards.com) 網站上免費提供。
 
 New sounds are regularly made available free of charge on the www.nordkeyboards.com website.
 
@@ -68,11 +67,6 @@ The Nord Stage 4 is compatible with the Nord Triple Pedals which unlock addition
 
 The right pedal is the sustain pedal. When operated, all notes being played will sustain until the pedal is released again. It also adds dynamic control of the mechanical "pedal noise" and enables dynamic "half-pedaling" techniques.
 
----
-
-![原文第 10 頁](img/ch02/page_10.png)
-
----
 
 左側踏板是柔音踏板，又稱為 Una Corda。踩下時，所有音符的音量會略微降低，並帶有更柔和、更內斂的音色質感。
 
@@ -114,6 +108,8 @@ This section is further described in the Piano chapter, beginning on page 23.
 
 ## 音色配置區 / PROGRAM SECTION
 
+![alt text](PROGRAM.png)
+
 Nord Stage 4 上的一個音色配置（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——音色配置區——是導覽和儲存音色配置、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設音色載入音色配置的任何音層或區。
 
 A program on the Nord Stage 4 contains settings for the sound engines of all Layers and their effects. The center area of the instrument - the Program section - is where programs are navigated and stored, and various performance features and settings menus are accessed. Additionally, this is also where the Organ, Piano and Synth Preset banks are found, allowing for complete presets – including effects – to be loaded into any Layer or Section of your program.
@@ -127,6 +123,8 @@ This section is described in detail in the Program chapter, beginning on page 38
 <a id="合成器區段--synth-section"></a>
 
 ## 合成器區 / SYNTH SECTION
+
+![alt text](SYNTH.png)
 
 合成器區包含三個獨立音層，基於廣受好評的 Nord Wave 2。除了類比風格波形、數位波形和 FM 演算法外，Stage 4 合成器還可用於各種基於取樣音色的音色。它還配備了超級波形（Super Wave）類別，適合那些其他方式無法創造的龐大多振盪器音色。大量的振盪器類型支援多種單或雙振盪器配置、波形整形、頻率調變等功能。
 
@@ -174,6 +172,8 @@ The Extern mode is described in detail in the Extern chapter, beginning on page 
 
 ## 音層效果區 / LAYER EFFECTS SECTION
 
+![alt text](EFFECTS.png)
+
 每個鋼琴和合成器音層以及風琴區都可以獨立使用各種經典效果：
 
 A wide array of classic effects are independently available for each Piano and Synth Layer and for the Organ Section:
@@ -199,3 +199,12 @@ Many of the effect parameters can be "morph" controlled, which means they can be
 This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 48.
 
 ![ch02 圖 1](img/ch02/fig_01_p9.png)
+
+<details>
+<summary>1.6x 原文整頁參考</summary>
+
+![原文第 9 頁](img/ch02/page_09.png)
+
+![原文第 10 頁](img/ch02/page_10.png)
+
+</details>

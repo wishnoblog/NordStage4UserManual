@@ -1,6 +1,6 @@
 # 第三章：快速入門 / Chapter 3: Getting Started
 
-![Page 11](img/ch03/page_11.png)
+
 
 
 ---
@@ -726,3 +726,10 @@ What's more, the Master Clock operates on all Layers simultaneously so you can c
 部分配備主節拍時鐘的功能有大於 1/1 的除法設定，允許比一小節更長的掃描。當然，您也可以同步某些功能，同時讓其他功能自由運行。
 
 Some of the Mst Clk equipped functions have division settings that are larger than 1/1 that allows for sweeps that are longer than one bar. And you can of course synchronize some functions, while leaving others free-running if you like.
+
+<details>
+<summary>1.4x 原文整頁參考</summary>
+
+![原文第 11 頁](img/ch03/page_11.png)
+
+</details>

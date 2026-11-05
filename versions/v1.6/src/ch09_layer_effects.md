@@ -521,7 +521,6 @@ Sound Menu 提供旋轉喇叭行為與聲音特性的詳細設定，請見第 58
 
 There are several parameters in the Sound Menu that allow for detailed adjustments of the behavior and sound of the Rotary Speaker. Read more about this on page 58.
 
-
 <details>
 <summary>1.6x 原文整頁參考</summary>
 

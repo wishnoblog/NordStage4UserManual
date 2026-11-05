@@ -1,6 +1,6 @@
 # 第一章：介紹 / Chapter 1: Introduction
 
-![Page 7](img/ch01/page_07.png)
+
 
 ---
 
@@ -117,7 +117,7 @@ The Nord Sample Editor 4 can be downloaded from the Software section at www.nord
 
 ---
 
-![Page 8](img/ch01/page_08.png)
+
 
 ---
 
@@ -144,3 +144,12 @@ The latest OS (Operating System) version for the Nord Stage 4 is always availabl
 本手冊中提及的任何商標和品牌名稱均為其各自所有者的財產，與 Clavia 無任何關聯。提及這些商標和品牌名稱僅為描述 Nord Stage 4 所重現的某些音色特性。
 
 Any trademarks and brand names mentioned in this manual are the property of their respective owners and are not affiliated or associated with Clavia. These trademarks and brand names are only mentioned to describe certain sound qualities reproduced by the Nord Stage 4.
+
+<details>
+<summary>1.4x 原文整頁參考</summary>
+
+![原文第 7 頁](img/ch01/page_07.png)
+
+![原文第 8 頁](img/ch01/page_08.png)
+
+</details>

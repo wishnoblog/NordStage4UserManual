@@ -399,7 +399,7 @@ The UNISON feature uses transposed voices from neighbouring keys to create a ste
 > 💡 在電鋼琴上開啟 UNISON 1 或 2，可以讓原本較為單薄的音色立刻變得豐厚有層次，非常適合流行樂或 R&B 曲風。
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 23 頁](img/ch05/page_23.png)
 

@@ -141,12 +141,10 @@ Read more about the Preset Library on page 41.
 ## 選擇鋼琴音色 / PIANO SELECT
 
 
-<img src="img/ch05/piano_display.png" alt="鋼琴類型、型號與音色名稱顯示（原文第 24 頁）" width="301">
-
 ### 類型與型號 / TYPE AND MODEL
 
 
-<img src="img/ch05/piano_select.png" alt="鋼琴類型按鈕與 Model 選擇旋鈕（原文第 24 頁）" width="172">
+
 
 按下 **TYPE** 按鈕可以選擇鋼琴的類型（大分類），共有六種類型：
 
@@ -164,6 +162,8 @@ Use the TYPE button for selecting the desired type, or category, of piano sound.
 選好類型後，轉動 **PIANO SELECT** 旋鈕就可以在該類型中挑選音色。鋼琴區的 LED 指示燈會顯示目前選定的類型。
 
 Use the PIANO SELECT dial to choose a piano sound within the selected Type. The Piano Select LEDs indicate the Type of the currently selected piano model. Depending on Prog View mode (see page 42), which governs what info is shown in the display, the name of the selected model may also be shown in the Program area display.
+
+<img src="img/ch05/piano_select.png" alt="鋼琴類型按鈕與 Model 選擇旋鈕（原文第 24 頁）">
 
 ---
 
@@ -188,12 +188,11 @@ The Clavinet also has its unique set of Piano Timbre settings, corresponding to 
 
 ## 清單檢視 / LIST VIEW
 
-
-<img src="img/ch05/piano_list.png" alt="鋼琴清單檢視畫面（原文第 25 頁）" width="320">
-
 按住 **SHIFT** 並轉動 **PIANO SELECT** 旋鈕，會進入鋼琴音色的清單檢視，方便你瀏覽所有音色。列表頂部會顯示目前的類型名稱、該類型的音色數量，以及目前選到第幾個音色。
 
 Pressing SHIFT and turning the PIANO SELECT dial activates the LIST view for piano sounds. The Piano list top row displays the current type name ("Grand" in this case), the number of models of that type (9), and the index of the currently selected model (3).
+
+<img src="img/ch05/piano_list.png" alt="鋼琴清單檢視畫面（原文第 25 頁）" width="320">
 
 ---
 

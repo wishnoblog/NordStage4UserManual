@@ -245,7 +245,7 @@ Local Control Off can be used to "disconnect" the keyboard and the panel on the 
 If you experience hanging notes when using the Nord Stage 4 in a MIDI setup, use the PANIC (Shift+Transpose) function. This will execute an internal "All Notes Off" message, and reset incoming CC messages.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 53 頁](img/ch10/page_53.png)
 

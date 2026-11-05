@@ -211,7 +211,7 @@ Extern 模式還有一些額外的選單設定，本章未涵蓋。請參閱第 
 There are additional menu settings for the Extern Mode, that have not been covered in this chapter. Refer to the Menu chapter, on page 61, for further information on those.
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 45 頁](img/ch08/page_45.png)
 

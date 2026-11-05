@@ -38,7 +38,7 @@ The Nord Sound Manager and the user manual for the application can be found at t
 > 💡 Windows 用戶需要 Nord USB Driver 版本 v4.0 或更新版本。驅動程式已隨 Nord Sound Manager 安裝音色配置及所有 OS 安裝音色配置一起提供，也可從 www.nordkeyboards.com 單獨下載。
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 63 頁](img/ch12/page_63.png)
 

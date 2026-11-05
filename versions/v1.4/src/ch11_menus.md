@@ -539,7 +539,7 @@ Toggles if PC, Vol or user defined MIDI CC messages in Extern mode should be aut
 **範圍**：Off（預設）、On
 
 <details>
-<summary>原文整頁參考</summary>
+<summary>1.4x 原文整頁參考</summary>
 
 ![原文第 56 頁](img/ch11/page_56.png)
 

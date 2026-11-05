@@ -5,7 +5,7 @@
 ![圖 1](img/ch13/fig_01_p64.png)
 
 
-![原文第 65 頁](img/ch13/page_65.png)
+
 
 ---
 
@@ -38,3 +38,10 @@ The Nord Sample Editor 4 can be downloaded from the Software section at www.nord
 - **Windows**：Windows 7–11
 
 > 💡 Windows 用戶需要 Nord USB Driver 版本 v3.0 或更新版本。驅動程式通常透過 Windows Update 自動安裝，也可從 www.nordkeyboards.com 單獨下載。
+
+<details>
+<summary>1.6x 原文整頁參考</summary>
+
+![原文第 65 頁](img/ch13/page_65.png)
+
+</details>
