@@ -5,9 +5,9 @@
 ## 概覽 / OVERVIEW
 
 
-<img src="img/ch09/effects_panel.png" alt="音層效果區段面板總覽（原文第 47 頁）" width="760">
+<img src="img/ch09/effects_panel.png" alt="音層效果區面板總覽（原文第 47 頁）" width="760">
 
-Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區段的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個音色配置（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
+Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個音色配置（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
 
 Each Layer on the Nord Stage 4 has its own complete set of effects, apart from the two Organ Layers (A and B) which share the same effects chain. This means there are six instances of each effects unit for every Program, each of which can have its own settings.
 
@@ -25,15 +25,15 @@ All effects can be turned On or Off at once by pressing Layer Effects ON.
 
 ## 效果器設定目標 / FX FOCUS (EFFECTS FOCUS)
 
-**效果器設定目標（FX Focus）** 決定目前要編輯哪個區段或音層的效果器，並會隨著面板上按下的音層按鈕自動切換。例如按下鋼琴區段的 Layer A，接著調整的就是該音層的效果器設定。
+**效果器設定目標（FX Focus）** 決定目前要編輯哪個區或音層的效果器，並會隨著面板上按下的音層按鈕自動切換。例如按下鋼琴區的 Layer A，接著調整的就是該音層的效果器設定。
 
 The focus for the Layer Effects section automatically follows the focus of Layer buttons in the Organ, Piano and Synth sections, as they are pressed on the panel.
 
-也可以按下 FX Focus 區域的 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，手動選擇要設定效果器的區段或音層。
+也可以按下 FX Focus 區域的 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，手動選擇要設定效果器的區或音層。
 
 Focusing the effects for a particular Layer or Section for editing can also be done manually, by pressing the ORGAN, PIANO or SYNTH button.
 
-目前的效果器設定目標由各區段 On 按鈕旁的黃色 **FX FOCUS LED**，以及 FX Focus 區塊的 LED 指示。
+目前的效果器設定目標由各區 On 按鈕旁的黃色 **FX FOCUS LED**，以及 FX Focus 區塊的 LED 指示。
 
 The current FX Focus is indicated both by the yellow FX FOCUS LED next to each Section's On button, as well as by LEDs in the FX Focus section.
 
@@ -41,11 +41,11 @@ The current FX Focus is indicated both by the yellow FX FOCUS LED next to each S
 
 ## 群組模式 / GROUP MODE
 
-鋼琴和合成器區段的效果，可以設成每個音層各自獨立，也可以設成整個區段所有音層共用同一套效果。按 **GROUP**（Shift + Piano/Synth FX Focus）可以在這兩種模式之間切換。群組模式下，該區段所有 LED 都會亮起；音層模式下，只有目前焦點音層的 LED 亮著。
+鋼琴和合成器區的效果，可以設成每個音層各自獨立，也可以設成整個區所有音層共用同一套效果。按 **GROUP**（Shift + Piano/Synth FX Focus）可以在這兩種模式之間切換。群組模式下，該區所有 LED 都會亮起；音層模式下，只有目前焦點音層的 LED 亮著。
 
 The effects for the Piano and Synth sections can either be independent per Layer or set to be shared for all its Layers. Pressing GROUP (Shift+Piano/Synth FX Focus) toggles between these two modes. In Group mode all LEDs for that Section are lit. In Layer mode, only the LED for the currently focused Layer is lit.
 
-> 💡 切換到群組模式時，系統會把目前焦點音層的效果設定套用到該區段所有音層。離開群組模式後，所有音層會繼續共用同一套設定，直到你手動修改為止。
+> 💡 切換到群組模式時，系統會把目前焦點音層的效果設定套用到該區所有音層。離開群組模式後，所有音層會繼續共用同一套設定，直到你手動修改為止。
 
 When entering Group mode, the settings for the currently focused Layers are applied to all Layers of that Group. When exiting Group mode all Layers will share the same settings for that effect, until modified manually.
 
@@ -53,7 +53,7 @@ When entering Group mode, the settings for the currently focused Layers are appl
 
 ## 開啟效果與全域模式 / ACTIVATING EFFECTS AND GLOBAL MODE
 
-按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和殘響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區段的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。
+按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和殘響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。
 
 To enable an effect, press its ON button. The Delay, Compressor and Reverb effects can be set to GLOBAL mode, which applies the effect to all Layers of all Sections. This is done by pressing Shift+On for that effect. When turning Global mode off all Layers will share the same settings for that effect, until modified manually.
 
@@ -232,7 +232,7 @@ Like the Rotary Speaker, the SPIN effect emulates the sound of a rotating speake
 
 <img src="img/ch09/delay.png" alt="Delay 速度、回饋、乾濕比與模式控制（原文第 49 頁）" width="325">
 
-延遲（Delay——讓聲音產生回聲/重複效果的效果器）用 **TEMPO** 旋鈕設定延遲時間。按住 Shift 再按 On 可設為全域（GLOBAL）模式，讓延遲套用到所有區段所有音層。
+延遲（Delay——讓聲音產生回聲/重複效果的效果器）用 **TEMPO** 旋鈕設定延遲時間。按住 Shift 再按 On 可設為全域（GLOBAL）模式，讓延遲套用到所有區所有音層。
 
 The DELAY unit produces echo/repeat effects. The Delay time is set with the TEMPO knob. The Delay can be set to GLOBAL mode (Shift + On) which applies it to all Layers of all three Sections.
 
@@ -278,7 +278,7 @@ The ENS (Ensemble), VIBE and CHOR (Chorus) effects are based on their counterpar
 
 ### 延遲濾波器 / DELAY FILTERS
 
-延遲濾波器區段的濾波器用來塑造延遲的音色，特別適合在大量 feedback 時使用，讓每次回聲的聲音越來越被濾波。
+延遲濾波器區的濾波器用來塑造延遲的音色，特別適合在大量 feedback 時使用，讓每次回聲的聲音越來越被濾波。
 
 The filters in the delay FILTER section are great tools for shaping the delay sound, especially when large feedback amounts are used.
 
@@ -300,7 +300,7 @@ There are two different delay modes, the normal mode, and the ANALOG (Shift+Tap/
 
 ### 延遲與主節拍時鐘同步 / DELAY MASTER CLOCK
 
-把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到音色配置區段設定的主節拍時鐘節奏。延遲 Tempo 會以主節拍時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。
+把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到音色配置區設定的主節拍時鐘節奏。延遲 Tempo 會以主節拍時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。
 
 The Master Clock feature for the Delay section is activated by turning MST CLK (Shift + Tempo knob) clockwise. The Delay tempo will now be expressed in subdivisions of the Master Clock tempo, ranging from 1/2 to 1/32 notes, with swing (S), triplet (T) and dotted (D) options.
 
@@ -313,7 +313,7 @@ The Master Clock feature for the Delay section is activated by turning MST CLK (
 
 <img src="img/ch09/amp_eq.png" alt="Amp Sim／EQ 擴大機模擬與等化器面板（原文第 50 頁）" width="398">
 
-AMP SIM/EQ 效果單元結合了三段等化器（EQ——調整不同頻率的音量）和精密的擴大機與喇叭箱模擬，另外還有共振式 24dB 低通和高通濾波器。如果沒有選擇 Amp 模型或濾波器，這個區段就是一個中性的等化器加上電子管風格的過載（overdrive）。
+AMP SIM/EQ 效果單元結合了三段等化器（EQ——調整不同頻率的音量）和精密的擴大機與喇叭箱模擬，另外還有共振式 24dB 低通和高通濾波器。如果沒有選擇 Amp 模型或濾波器，這個區就是一個中性的等化器加上電子管風格的過載（overdrive）。
 
 The AMP SIM/EQ effects unit combines a three-band equalizer with sophisticated amplifier and speaker cabinet simulations. It also includes resonant 24 dB low-pass and high-pass filters. When no Amp Model or filter is selected, the Amp Sim/EQ section provides a neutral EQ and tube style overdrive.
 
@@ -327,7 +327,9 @@ The morphable DRIVE provides a tube style overdrive effect or, if an Amp model i
 
 ---
 
-### 等化器區段 / EQ SECTION
+<a id="等化器區段--eq-section"></a>
+
+### 等化器區 / EQ SECTION
 
 三段等化器包含低音（Bass）、可掃頻的中音（Mid）和高音（Treble）控制。低音頻率固定在 100 Hz，高音固定在 4 kHz，中音頻率（支援 Morph）可用 **FREQ** 旋鈕調整，範圍 200 Hz 到 8 kHz。增益/衰減範圍 ±15 dB。
 
@@ -337,7 +339,7 @@ A three band equalizer with Bass, sweepable Mid and Treble controls. The BASS fr
 
 ### 擴大機模型 / AMP MODEL
 
-用 Amp Model 區段的選擇按鈕可切換三種不同的擴大機/喇叭箱模擬：
+用 Amp Model 區的選擇按鈕可切換三種不同的擴大機/喇叭箱模擬：
 
 The three different amplifier/speaker simulations are selected with the Selector button in the Amp Model section:
 
@@ -398,7 +400,7 @@ The Bass and Treble equalizer bands, as well as the Drive effect are available f
 
 The COMPRESSOR effect reduces the dynamic range of the sound, making low levels louder and high sound levels more quiet. This produces a tight, punchy sound. The Compressor is activated with its ON button. The AMOUNT knob controls the amount of compression applied.
 
-壓縮器可以設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。
+壓縮器可以設為全域（GLOBAL）模式（Shift + On），套用到所有區所有音層。
 
 The Compressor can be set to GLOBAL mode (Shift + On) which applies it to all Layers of all three Sections.
 
@@ -425,7 +427,7 @@ The REVERB unit simulates the natural sound reflections in various acoustic envi
 
 Reverb Types on the left side of the selector all have a VARIATION. Types on the right side can all be set to CHORALE, which increases the pitch modulation in the Reverb signal. Variation/Chorale is activated with Shift+Selector button.
 
-殘響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾音和殘響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。
+殘響可設為全域（GLOBAL）模式（Shift + On），套用到所有區所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾音和殘響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。
 
 The Reverb can be set to GLOBAL mode (Shift+On). The morphable DRY/WET control sets the balance between the unprocessed and the processed signal, going all the way to fully wet at its max position.
 

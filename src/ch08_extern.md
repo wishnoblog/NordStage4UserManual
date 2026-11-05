@@ -7,7 +7,7 @@
 
 <img src="img/ch08/extern_mode.png" alt="合成器 Extern 模式選擇（原文第 46 頁）" width="102">
 
-**外部 MIDI 控制（Extern Mode——讓 Nord Stage 4 透過 MIDI 訊號來控制外部合成器或其他 MIDI 裝置）**是 Nord Stage 4 的內建功能。透過將合成器區段中的某個音層設定為 Extern 模式，就可以用合成器的顯示幕、旋鈕和其他控制器來使用所有常用的外部 MIDI 功能。
+**外部 MIDI 控制（Extern Mode——讓 Nord Stage 4 透過 MIDI 訊號來控制外部合成器或其他 MIDI 裝置）**是 Nord Stage 4 的內建功能。透過將合成器區中的某個音層設定為 Extern 模式，就可以用合成器的顯示幕、旋鈕和其他控制器來使用所有常用的外部 MIDI 功能。
 
 Advanced control of external MIDI instruments is an integrated feature of the Nord Stage 4. By using the EXTERN Mode of the Synth Section, all essential external MIDI functions are made available for control from the Synth display, dials and other controls.
 
@@ -56,11 +56,13 @@ Extern MIDI Channel settings are shared for all Programs on the Nord Stage 4, wh
 
 ---
 
-## 使用外部 MIDI 控制區段 / USING THE EXTERN SECTION
+<a id="使用外部-midi-控制區段--using-the-extern-section"></a>
+
+## 使用外部 MIDI 控制區 / USING THE EXTERN SECTION
 
 ### 啟用 / ACTIVATING
 
-確認合成器區段已開啟。選擇要用來控制外部裝置的音層（A、B 或 C），然後按 EXTERN（Shift + Synth Mode）。
+確認合成器區已開啟。選擇要用來控制外部裝置的音層（A、B 或 C），然後按 EXTERN（Shift + Synth Mode）。
 
 Make sure the Synth Section is turned ON. Select the Layer (A, B or C) which should be set to control external units, and press EXTERN (Shift+Synth Mode).
 
@@ -178,15 +180,17 @@ In Extern mode the Layer fader will send MIDI Volume CC7 messages (0-127). This 
 
 ### 琶音器 / ARPEGGIATOR
 
-合成器區段的琶音器（Arpeggiator——自動彈奏分解和弦的功能）也可以在 Extern 模式下使用。所有琶音器控制（包括音型 Pattern）都可以用來產生輸出 MIDI，但請注意，閘控（Gate）設定在 Extern 模式下無效。
+合成器區的琶音器（Arpeggiator——自動彈奏分解和弦的功能）也可以在 Extern 模式下使用。所有琶音器控制（包括音型 Pattern）都可以用來產生輸出 MIDI，但請注意，閘控（Gate）設定在 Extern 模式下無效。
 
 The Synth Section ARPEGGIATOR can also be used in Extern Mode. All the Arpeggiator controls, including Pattern, can be used for generating outgoing MIDI, but note that the Gate setting has no effect in Extern mode.
 
 ---
 
-## 外部 MIDI 控制區段與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING
+<a id="外部-midi-控制區段與-midi-轉送--extern-section-and-midi-echoing"></a>
 
-當外部裝置在 Stage 4 全域通道上發送 MIDI 音符，且 Extern 區段為啟用狀態時，傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，並發送到啟用的 Extern MIDI 通道。
+## 外部 MIDI 控制區與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING
+
+當外部裝置在 Stage 4 全域通道上發送 MIDI 音符，且 Extern 區為啟用狀態時，傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，並發送到啟用的 Extern MIDI 通道。
 
 When an external device transmits MIDI notes to the Stage 4 global channel and the Extern section is active, incoming MIDI notes can be re-routed to the MIDI Output of the Stage 4, on the active Extern MIDI channels.
 

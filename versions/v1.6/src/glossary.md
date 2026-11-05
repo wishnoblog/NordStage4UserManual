@@ -10,7 +10,7 @@ Program 指整體音色配置，Preset 指可載入的預設音色；Bank 是音
 |---|---|
 | Program | 音色配置（Program） |
 | Preset | 預設音色（Preset） |
-| Section | 區段 |
+| Section | 區 |
 | Bank | 音色庫組（Bank） |
 | Sound | 音色／聲音（依語境） |
 | Layer | 音層（Layer） |

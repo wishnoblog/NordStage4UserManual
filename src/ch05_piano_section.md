@@ -1,17 +1,19 @@
-# 第五章：鋼琴區段 / Chapter 5: Piano Section
+<a id="第五章鋼琴區段--chapter-5-piano-section"></a>
+
+# 第五章：鋼琴區 / Chapter 5: Piano Section
 
 ---
 
 ## 開關與音量 / ON/OFF AND LEVEL
 
 
-<img src="img/ch05/piano_panel.png" alt="鋼琴區段面板總覽（原文第 23 頁）" width="348">
+<img src="img/ch05/piano_panel.png" alt="鋼琴區面板總覽（原文第 23 頁）" width="348">
 
-按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區段。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**Morph 多參數控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。
+按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**Morph 多參數控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。
 
 The Piano SECTION is turned On or Off by pressing its ON button. The morphable faders control the output level of each Piano Layer.
 
-長按 ON 按鈕約半秒，就會執行 **SOLO** 功能——只保留鋼琴發聲，同時關閉風琴和合成器區段。這在你只想單獨試聽鋼琴音色時非常方便。
+長按 ON 按鈕約半秒，就會執行 **SOLO** 功能——只保留鋼琴發聲，同時關閉風琴和合成器區。這在你只想單獨試聽鋼琴音色時非常方便。
 
 Press the On button for roughly half a second to perform a SOLO operation, which activates only the Piano, turning off the Organ and Synth sections.
 
@@ -24,7 +26,7 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 <img src="img/ch05/piano_layers.png" alt="鋼琴音層 A／B 與音量控制（原文第 23 頁）" width="179">
 
-鋼琴區段有兩個音層：**A** 和 **B**。要同時開啟兩個音層，只要同時按下 A 和 B 兩個按鈕即可。若要關閉某個音層，長按該音層按鈕片刻就行了。
+鋼琴區有兩個音層：**A** 和 **B**。要同時開啟兩個音層，只要同時按下 A 和 B 兩個按鈕即可。若要關閉某個音層，長按該音層按鈕片刻就行了。
 
 There are two Piano Layers; A and B. Turning a second Layer On is done by pressing both Layer buttons simultaneously. Turning a Layer Off is done by holding its button down for a short period of time.
 
@@ -32,7 +34,7 @@ There are two Piano Layers; A and B. Turning a second Layer On is done by pressi
 
 To toggle from one Layer to the other, press the non-active Layer button. With both Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕，也會將該音層選為效果器設定目標。鋼琴區段頂部的 **FX FOCUS** LED 會亮起，表示可編輯該音層的效果器。
+按下音層按鈕，也會將該音層選為效果器設定目標。鋼琴區頂部的 **FX FOCUS** LED 會亮起，表示可編輯該音層的效果器。
 
 Pressing a Layer button also focuses that Layer's effects for editing, indicated by the FX FOCUS LED at the top of the Piano Section.
 
@@ -55,7 +57,7 @@ Press KB ZONE (Shift+Octave Down/Up), to assign the focused Piano Layer to any o
 
 ## 延音踏板與音高控制桿 / SUSTPED AND PSTICK
 
-**SUSTPED**（Shift + 音層 A）可以為鋼琴區段啟用外接的**延音踏板（Sustain Pedal——踩下後，鬆開琴鍵後音符仍持續發聲）**。踏板的詳細設定請參考第 60 頁的選單章節。
+**SUSTPED**（Shift + 音層 A）可以為鋼琴區啟用外接的**延音踏板（Sustain Pedal——踩下後，鬆開琴鍵後音符仍持續發聲）**。踏板的詳細設定請參考第 60 頁的選單章節。
 
 SUSTPED (Shift + Layer A) activates any attached sustain pedal for the Piano section. Read more on how to configure attached pedals in the Menus chapter, on page 60.
 
@@ -126,7 +128,7 @@ Many pianos are also available in an Extra Large (XL) version. These are "fully 
 
 ## 鋼琴預設音色 / PIANO PRESETS
 
-Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在音色配置區段的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何音色配置中快速叫出。
+Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在音色配置區的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何音色配置中快速叫出。
 
 The Nord Stage 4 comes with a large selection of complete and ready-to-use Piano Presets, including effects. These are browsed and loaded using the PIANO button in the PRESET LIBRARY area of the Program section. User created sounds can be stored to the Preset Library as well, for quick and easy recall regardless of which Program is loaded.
 
@@ -159,7 +161,7 @@ Use the TYPE button for selecting the desired type, or category, of piano sound.
 | Digital（數位鋼琴） | 數位鋼琴及音層鋼琴 / Digital and Layer piano sounds |
 | Misc（其他） | 其他樂器音色 / Miscellaneous sounds |
 
-選好類型後，轉動 **PIANO SELECT** 旋鈕就可以在該類型中挑選音色。鋼琴區段的 LED 指示燈會顯示目前選定的類型。
+選好類型後，轉動 **PIANO SELECT** 旋鈕就可以在該類型中挑選音色。鋼琴區的 LED 指示燈會顯示目前選定的類型。
 
 Use the PIANO SELECT dial to choose a piano sound within the selected Type. The Piano Select LEDs indicate the Type of the currently selected piano model. Depending on Prog View mode (see page 42), which governs what info is shown in the display, the name of the selected model may also be shown in the Program area display.
 
@@ -227,7 +229,7 @@ Pianos from the Nord Piano Library typically have a very wide dynamic range, and
 
 DYN COMP (Dynamic Compression) reduces the dynamic range of a piano sound by raising its minimum sound level. Choose between the 1, 2 and 3 settings, where 3 provides the most compression. This feature is useful for maintaining an audible performance and even sound level, even when playing very softly or dynamically. The dynamic range in terms of timbre remains intact.
 
-> 💡 DYN COMP 和效果區段中的 Compressor（壓縮器效果）不同：Compressor 會改變音符的起音輪廓，而 DYN COMP 只是提高最低音量，不影響音色特質。
+> 💡 DYN COMP 和效果區中的 Compressor（壓縮器效果）不同：Compressor 會改變音符的起音輪廓，而 DYN COMP 只是提高最低音量，不影響音色特質。
 
 Unlike the Compressor (Comp) effect in the Effects section, which affects the attack and contour of the sound (often desired traits when using compression as an effect) the Dyn Comp feature does not alter the character of the selected piano.
 
@@ -294,7 +296,7 @@ Nord Stage 4 相容 **Nord Triple Pedal 1（Nord TP-1）**和 **Nord Triple Peda
 
 The Nord Stage 4 is compatible with the Nord Triple Pedal 1 (Nord TP-1) and the Nord Triple Pedal 2 (Nord TP-2), the latter of which is attached to a dedicated jack labeled TRIPLE PEDAL. The Nord Triple Pedal 1 (Nord TP-1) is attached to the SUSTAIN PEDAL jack.
 
-三踏板組合（三個踏板合為一組）不只解鎖鋼琴區段的額外功能，也提供許多與鋼琴無關的實用選項。相關設定在踏板選單中，詳見第 60 頁。
+三踏板組合（三個踏板合為一組）不只解鎖鋼琴區的額外功能，也提供許多與鋼琴無關的實用選項。相關設定在踏板選單中，詳見第 60 頁。
 
 The Nord Triple Pedals are comprised of three pedals in one unit and unlock additional features both within the Piano section of the Nord Stage 4 as well as a number of highly useful options that are not specifically related to Piano playing. Settings for these options are found in the Pedal menu, see page 60 for more details.
 

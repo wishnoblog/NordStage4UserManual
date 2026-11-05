@@ -27,7 +27,7 @@ For more information on all the connections on the Stage 4, have a look in the C
 
 ## 音色配置 / PROGRAMS
 
-音色配置區段位於面板中央，中間有一個 OLED 顯示器。Nord Stage 4 面板上每個參數的完整設定都儲存在音色配置記憶體中，共可容納 512 個音色配置。
+音色配置區位於面板中央，中間有一個 OLED 顯示器。Nord Stage 4 面板上每個參數的完整設定都儲存在音色配置記憶體中，共可容納 512 個音色配置。
 
 The Program area is located at the center of the panel and has an OLED display in the middle. Complete settings of every parameter on the panel are stored in the program memory of the Nord Stage 4, with room for 512 programs.
 
@@ -63,7 +63,7 @@ Nord Stage 4 上的控制旋鈕沒有固定起點或終點，可逐步切換參�
 
 The dials on the Nord Stage 4 are knobs without fixed start or stop positions, used for navigating parameters and settings in a step-wise fashion. In this manual dials are sometimes also referred to as encoders.
 
-> **提示**：按住音色配置區段中的 MONITOR 按鈕，同時轉動旋鈕，可在顯示器中查看參數的已儲存設定，而不會改變它。  
+> **提示**：按住音色配置區中的 MONITOR 按鈕，同時轉動旋鈕，可在顯示器中查看參數的已儲存設定，而不會改變它。  
 > Hold the MONITOR button – found in the Program section – and turn a knob to view the stored setting of a parameter in the display without changing it.
 
 ![alt text](img/ch03/Potentiometer.png)
@@ -102,7 +102,7 @@ ON buttons are used for activating a function or a group of functions such as ef
 
 ![alt text](img/ch03/image.png)
 
-合成器功能按鈕——以紅色框標示——（紅框按鈕）利用合成器區段顯示器及其三個旋鈕進行設定。
+合成器功能按鈕——以紅色框標示——（紅框按鈕）利用合成器區顯示器及其三個旋鈕進行設定。
 
 Synth Function buttons – indicated with a red frame – such as those for all envelopes, utilize the Synth Section display and its three dials for making settings.
 
@@ -185,7 +185,7 @@ Press the Prog View button to try out each of the modes:
 
 Editing a program is as easy as turning a knob or pressing a button, to change an existing setting. Let's give it a quick try:
 
-1. 選擇音色配置 A:21（一個基於鋼琴的音色配置）進行練習。鋼琴區段的控制器位於面板上音色配置區段的左側。根據音色配置檢視模式，音色配置區段顯示器會顯示所選鋼琴音色的名稱，六向 PIANO SELECT 指示器設定為 Grand。  
+1. 選擇音色配置 A:21（一個基於鋼琴的音色配置）進行練習。鋼琴區的控制器位於面板上音色配置區的左側。根據音色配置檢視模式，音色配置區顯示器會顯示所選鋼琴音色的名稱，六向 PIANO SELECT 指示器設定為 Grand。  
    Select Program A:21 (a piano based program) for this exercise. The controls for the Piano Section are located immediately to the left of the Program area on the panel. Depending on Prog View mode the Program area display shows the name of the selected piano sound, and the six-way PIANO SELECT indicator is set to Grand.
 
 ### 選擇新的鋼琴音色 / SELECT A NEW PIANO SOUND
@@ -233,7 +233,7 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 
 ![alt text](img/ch03/STORE.png)
 
-> **注意**：某些音色配置（如本例中的 A:21 White Grand）以鋼琴區段中的特定音色命名。請注意，如果您以不同的鋼琴儲存音色配置，此名稱不會更改，需要通過「另存為」操作或使用 Nord Sound Manager 手動設定。  
+> **注意**：某些音色配置（如本例中的 A:21 White Grand）以鋼琴區中的特定音色命名。請注意，如果您以不同的鋼琴儲存音色配置，此名稱不會更改，需要通過「另存為」操作或使用 Nord Sound Manager 手動設定。  
 > Some Programs, such as A:21 White Grand in this example, are named after a specific sound in the Piano section. Note that this name does not change if you store the Program with a different Piano selected, but needs to be manually set through a Store As operation, or by using the Nord Sound Manager.
 
 3. 如果想將編輯版本儲存到當前位置（替換原始版本），只需再次按 STORE。否則，使用旋鈕和/或 PAGE ◄/► 按鈕選擇不同的位置。  
@@ -265,7 +265,7 @@ The eight LIVE programs differ from other programs in that all edits made to the
 1. 按 LIVE MODE 並使用音色配置按鈕導覽八個即時音色配置。  
    Press LIVE MODE and use the PROGRAM buttons to navigate the eight Live programs.
 
-2. 對其中一個音色配置進行編輯，例如啟動效果區段之一。  
+2. 對其中一個音色配置進行編輯，例如啟動效果區之一。  
    Make an edit, such as activating one of the effects sections, to one of the programs.
 
 3. 選擇另一個即時音色配置，然後返回剛才編輯的音色配置。注意編輯已自動儲存。  
@@ -288,15 +288,17 @@ Press the Live Mode button again to exit Live Mode and return to the Program ban
 
 ---
 
-## 區段與音層 / SECTIONS AND LAYERS
+<a id="區段與音層--sections-and-layers"></a>
+
+## 區與音層 / SECTIONS AND LAYERS
 
 ![alt text](img/ch03/SECTIONS_AND_LAYERS.png)
 
-Nord Stage 4 上的「區段 SECTION」分別指面板上的 ORGAN（風琴）、PIANO（鋼琴）和 SYNTH（合成器）區域，包括各自的獨立音層。風琴和鋼琴區段各包含兩個音層，標記為 A 和 B，而合成器區段包含三個音層：A、B 和 C。
+Nord Stage 4 上的「區 SECTION」分別指面板上的 ORGAN（風琴）、PIANO（鋼琴）和 SYNTH（合成器）區域，包括各自的獨立音層。風琴和鋼琴區各包含兩個音層，標記為 A 和 B，而合成器區包含三個音層：A、B 和 C。
 
 A Section on the Nord Stage 4 refers to the ORGAN, PIANO and SYNTH areas of the panel respectively, including their individual Layers. The Organ and Piano Sections contain two Layers each, labeled A and B, while the Synth Section contains three Layers; A, B and C.
 
-整個區段可以通過按下區段 ON 按鈕來開啟或關閉。
+整個區可以通過按下區 ON 按鈕來開啟或關閉。
 
 Entire Sections can be turned On or Off by pressing the Section ON button.
 
@@ -304,7 +306,7 @@ Entire Sections can be turned On or Off by pressing the Section ON button.
 
 ![alt text](<img/ch03/TURNING_LAYERS_ON_AND OFF.png>)
 
-在一個區段內，同時按下應啟動的音層的 ON/OFF 按鈕即可開啟音層。例如，當鋼琴 A 已開啟時，要添加鋼琴 B，同時按下兩個按鈕即可。要在兩個音層之間切換，按下未啟動的音層按鈕。
+在一個區內，同時按下應啟動的音層的 ON/OFF 按鈕即可開啟音層。例如，當鋼琴 A 已開啟時，要添加鋼琴 B，同時按下兩個按鈕即可。要在兩個音層之間切換，按下未啟動的音層按鈕。
 
 Within a Section, Layers are turned On by simultaneously pressing the ON/OFF buttons for Layers that should be active. As an example, to add Piano B when Piano A is already turned On, press down both buttons. To toggle between two Layers, press the non-active Layer button.
 
@@ -320,15 +322,15 @@ Layers are turned OFF by holding down a Layer button for a short moment, as indi
 
 ![alt text](img/ch03/LAYER_EFFECTS.png)
 
-Nord Stage 4 有專用的音層效果區段，提供大量不同效果，可按音層應用於音源。兩個鋼琴音層（A 和 B）和所有三個合成器音層（A、B 和 C）都有各自完整的效果組。兩個風琴音層 A 和 B 共用一個效果鏈。
+Nord Stage 4 有專用的音層效果區，提供大量不同效果，可按音層應用於音源。兩個鋼琴音層（A 和 B）和所有三個合成器音層（A、B 和 C）都有各自完整的效果組。兩個風琴音層 A 和 B 共用一個效果鏈。
 
 The Nord Stage 4 has a dedicated LAYER EFFECTS section, with a large selection of different effects that can be applied to sound sources on a per-Layer basis. Both PIANO Layers (A and B) and all three SYNTH Layers (A, B and C) have their own complete sets of effects. The two ORGAN Layers, A and B, share one effects chain.
 
-通過按下 ON 按鈕可以開啟或關閉音層效果區段（關閉所有效果）。
+通過按下 ON 按鈕可以開啟或關閉音層效果區（關閉所有效果）。
 
 The Layer Effects Section can be turned on or off, which bypasses all effects, by pressing its ON button.
 
-FX FOCUS 區域中的 ORGAN、PIANO 和 SYNTH 按鈕可用來選擇效果器設定目標，指定要編輯哪個區段或音層的效果器。
+FX FOCUS 區域中的 ORGAN、PIANO 和 SYNTH 按鈕可用來選擇效果器設定目標，指定要編輯哪個區或音層的效果器。
 
 The ORGAN, PIANO and SYNTH buttons in the FX FOCUS area can be used for selecting which Section or Layer has focus for effects editing.
 
@@ -336,15 +338,15 @@ The ORGAN, PIANO and SYNTH buttons in the FX FOCUS area can be used for selectin
 
 The Piano and Synth effects can either be used individually per Layer, or be grouped together – sharing the same settings – by pressing GROUP (Shift+Piano/Synth).
 
-當通過再次按 Group（Shift+Organ/Piano/Synth）退出組合模式時，該區段內的所有音層將具有相同的效果設定，直到手動調整。
+當通過再次按 Group（Shift+Organ/Piano/Synth）退出組合模式時，該區內的所有音層將具有相同的效果設定，直到手動調整。
 
 When exiting Group mode, by again pressing Group (Shift+Organ/Piano/Synth), all Layers within that Section will have the same effect settings until these are adjusted manually.
 
-效果器設定目標會隨著風琴、鋼琴或合成器區段中按下的音層按鈕自動切換。
+效果器設定目標會隨著風琴、鋼琴或合成器區中按下的音層按鈕自動切換。
 
 The FX Focus automatically follows the focus of Layer buttons in the Organ, Piano and Synth sections, as they are pressed.
 
-目前的效果器設定目標由各區段 On 按鈕旁的黃色 FX FOCUS LED，以及 FX Focus 區域的 LED 指示。
+目前的效果器設定目標由各區 On 按鈕旁的黃色 FX FOCUS LED，以及 FX Focus 區域的 LED 指示。
 
 The current effect focus is indicated both by a yellow FX FOCUS LED next to each Section's On button, as well as by the LEDs in the FX Focus area.
 
@@ -373,11 +375,11 @@ With Program A:21 still selected, try out these steps to add effects to the clea
 
 ![alt text](img/ch03/LOAD_A_PRESET.png)
 
-Nord Stage 4 預設音色庫(PRESET LIBRARY) 包含大量風琴、鋼琴和合成器區段的預設音色，可快速簡單地將包含效果的即用音色載入現有音效配置。在仍選擇音色配置 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色：
+Nord Stage 4 預設音色庫(PRESET LIBRARY) 包含大量風琴、鋼琴和合成器區的預設音色，可快速簡單地將包含效果的即用音色載入現有音效配置。在仍選擇音色配置 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色：
 
 The Nord Stage 4 PRESET LIBRARY comes with a large number of Preset sounds for the Organ, Piano and Synth sections, making it quick and easy to load ready-to-use sounds, including effects, into existing Programs. With Program A:21 still selected, let's try adding a Synth sound from the Preset Library:
 
-1. 按預設音色庫區段的 SYNTH 按鈕，這將自動開啟合成器區段並打開預設瀏覽畫面。  
+1. 按預設音色庫區的 SYNTH 按鈕，這將自動開啟合成器區並打開預設瀏覽畫面。  
    Press the SYNTH button of the Preset Library section. This automatically turns the Synth section On and opens the Preset browse screen.
 
 2. 使用旋鈕找到適合與鋼琴音色疊加的音色，也許是合成器鋪底（Synth Pad）音色。使用活躍音層的推桿調整音量。  
@@ -395,7 +397,7 @@ All Synth parameters on the panel can be adjusted, even when using a preset as a
 
 ### 載入單一音層預設音色 / LOAD A SINGLE LAYER PRESET
 
-除了為整個區段載入預設音色（如上例），您還可以為單個音層載入預設音色。這在想要保留該區段其他音層中的音色不變時非常有用，例如將新音色與現有音層混合，或在同一音色配置中存取多種不同音色——使用音層推桿或音層場景功能在它們之間切換。
+除了為整個區載入預設音色（如上例），您還可以為單個音層載入預設音色。這在想要保留該區其他音層中的音色不變時非常有用，例如將新音色與現有音層混合，或在同一音色配置中存取多種不同音色——使用音層推桿或音層場景功能在它們之間切換。
 
 Apart from loading Presets for the entire Section, as in the previous example, you can also load Presets for single Layers. This is useful whenever you want to keep sounds in other Layers within that Section intact, for example when blending new sounds with existing Layers, or for having access to a number of different sounds within the same Program – using Layer faders or Layer Scene functionality to switch between them.
 
@@ -425,7 +427,7 @@ Apart from layering sounds, like in the previous example, it is also possible to
 
 
 
-1. 按一下位於音色配置區段顯示器上方頂排的 SPLIT ON/SET 按鈕，這將在鍵盤中間「C4」處啟動一個分區點。  
+1. 按一下位於音色配置區顯示器上方頂排的 SPLIT ON/SET 按鈕，這將在鍵盤中間「C4」處啟動一個分區點。  
    Press once on the SPLIT ON/SET button, located in the top row above the Program area display. This activates a single split point in the middle of the keyboard, at "C4".
 
 2. 要調整分區點的位置，按住 SPLIT ON/SET 按鈕。  
@@ -446,7 +448,7 @@ The keyboard is now divided into two zones, the split point being indicated with
 5. 按鋼琴 A KB ZONE ◄/►（Shift+Octave Shift Up/Down），使只有最右邊的兩個 LED 亮起。  
    Press Piano A KB ZONE ◄/► (Shift+Octave Shift Up/Down) so that only the two rightmost LEDs are lit.
 
-這將鋼琴 A 指定到鍵盤的上方區域。可以自由使用鋼琴區段中的 OCTAVE SHIFT ◄/► 按鈕來存取鋼琴音色的不同音域。
+這將鋼琴 A 指定到鍵盤的上方區域。可以自由使用鋼琴區中的 OCTAVE SHIFT ◄/► 按鈕來存取鋼琴音色的不同音域。
 
 This assigns Piano A to the upper zone of the keyboard. Feel free to use the OCTAVE SHIFT ◄/► buttons in the Piano section for accessing a different range of the piano sound.
 
@@ -465,13 +467,13 @@ Press the Synth A KB ZONE ◄/► (Shift+Octave Shift Up/Down) so that only the 
 
 Let's add an Organ sound to the Synth/Piano split we just created.
 
-6. 按下 ON 按鈕開啟風琴區段。  
+6. 按下 ON 按鈕開啟風琴區。  
    Turn on the Organ Section by pressing its ON button.
 
 7. 試試已載入的風琴音色並根據需要調整，或按預設音色庫 Organ 按鈕載入一個風琴預設音色並選擇預設音色（如上例）。  
    Try out the loaded Organ sound and adjust it as desired, or load an Organ Preset by pressing the Preset Library Organ button and selecting a Preset like in the previous Synth example.
 
-> **提示**：調整音層音色時，可以通過按音色配置區段中的 SOLO 按鈕並按下該音層的按鈕使其聚焦，單獨監聽該音層。再次按 Solo 或按 Shift/Exit 退出 Solo 模式。  
+> **提示**：調整音層音色時，可以通過按音色配置區中的 SOLO 按鈕並按下該音層的按鈕使其聚焦，單獨監聽該音層。再次按 Solo 或按 Shift/Exit 退出 Solo 模式。  
 > While adjusting the sound of a Layer it can be monitored on its own by pressing the SOLO button in the Program area and pressing the button for that Layer to give it focus. Solo is exited by pressing Solo again, or with Shift/Exit.
 
 現在您應該有一個音色，包括指定到整個鍵盤的風琴，以及在分區點左側的合成器音色和右側的鋼琴音色疊加。
@@ -484,14 +486,14 @@ You should now have a sound which consists of the Organ assigned to the entire k
 
 ![alt text](img/ch03/CREATE_A_SPLIT.png)
 
-音層場景功能允許創建兩個獨立的音層配置，每個配置中的個別音層或區段可以自由開啟或關閉。使用現有的風琴、鋼琴和合成器組合，讓我們改為創建一個設置，在風琴和鋼琴/合成器組合之間切換：
+音層場景功能允許創建兩個獨立的音層配置，每個配置中的個別音層或區可以自由開啟或關閉。使用現有的風琴、鋼琴和合成器組合，讓我們改為創建一個設置，在風琴和鋼琴/合成器組合之間切換：
 
 The Layer Scene functionality allows for creating two independent Layer configurations where individual Layers or Sections can be turned On or Off as desired in each. Using our existing Organ, Piano and Synth combination, let's instead create a setup where we can switch between Organ and the Piano and Synth combination:
 
-1. 確保音層場景 II 的 LED 未亮（表示我們在音層場景 I），關閉鋼琴和合成器區段。現在應該只有風琴音色指定到整個鍵盤。  
+1. 確保音層場景 II 的 LED 未亮（表示我們在音層場景 I），關閉鋼琴和合成器區。現在應該只有風琴音色指定到整個鍵盤。  
    Make sure that the Layer Scene II LED is unlit, meaning that we are on Layer Scene I, and turn the Piano and Synth Sections off. You should now have just the Organ sound, assigned to the entire keyboard.
 
-2. 按音層場景 II 並開啟鋼琴和合成器區段。同時確保風琴區段已關閉。  
+2. 按音層場景 II 並開啟鋼琴和合成器區。同時確保風琴區已關閉。  
    Press Layer Scene II and turn the Piano and Synth sections On. Also make sure that the Organ section is turned Off.
 
 3. 使用音層場景 II 按鈕在兩種音層配置之間切換。  
@@ -514,7 +516,7 @@ The Layer Scene II configuration is stored as part of a Program, and is useful i
 
 The modulation wheel, a control pedal or the keyboard aftertouch can be used to alter one or more parameters while playing. This is achieved by selecting a morph source (the physical controller) a destination parameter and the parameter range to include in the morph. Again, we start out with the piano based Program at A:21.
 
-1. 我們現在將創建一個疊加音色，並用滾輪控制鋼琴 B 的音量，因此首先確保鋼琴區段已開啟。  
+1. 我們現在將創建一個疊加音色，並用滾輪控制鋼琴 B 的音量，因此首先確保鋼琴區已開啟。  
    We will now create a layered sound and morph the Piano B Level with the Wheel, so start by making sure that the Piano Section is turned On.
 
 2. 同時按下鋼琴 A 和 B 按鈕以啟動兩個音層。  
@@ -551,7 +553,7 @@ Read more about the Morph functionality on page 38.
 
 ## 合成器 / THE SYNTHESIZER
 
-Nord Stage 4 合成器區段配備三個完整且獨立的合成器——音層 A、B 和 C——可作為單一音源或用於構建更複雜的疊加音色。
+Nord Stage 4 合成器區配備三個完整且獨立的合成器——音層 A、B 和 C——可作為單一音源或用於構建更複雜的疊加音色。
 
 The Nord Stage 4 SYNTH Section features three complete and independent synthesizers – Layers A, B and C – which can be used as single sound sources or as building blocks for more complex, layered, sounds.
 
@@ -562,18 +564,18 @@ The Nord Stage 4 SYNTH Section features three complete and independent synthesiz
 
 Let's have a look at some of the basic features of the Stage 4 synthesizer, beginning with how to set up a sound using "analog" waveforms.
 
-1. 確保合成器區段已啟動（按合成器區段 ON 按鈕），且只有音層 A 處於活躍狀態。通過短暫按住對應按鈕來關閉音層。  
+1. 確保合成器區已啟動（按合成器區 ON 按鈕），且只有音層 A 處於活躍狀態。通過短暫按住對應按鈕來關閉音層。  
    Make sure the Synth section is active, by pressing the Synth Section ON button, and that only Layer A is active. Layers are turned Off by pressing down on the corresponding button for a short moment.
 
 2. 為了從「空白狀態」開始，按 SOUND INIT（Shift+Waveform）將合成器初始化為預設設定。  
    In order to start off from a "blank slate", let's initialize the synthesizer to its default settings by pressing SOUND INIT (Shift+Waveform).
 
-3. 關閉合成器區段所有已啟動的效果。  
+3. 關閉合成器區所有已啟動的效果。  
    Turn off any active effects for the Synth section.
 
 ![alt text](img/ch03/SYNTHESIZER.png)
 
-4. 確保合成器區段處於 ANALOG 模式（使用 MODE 選擇器）。使用顯示器下方的三個旋鈕，將 TYPE 設為 Analog，CAT（類別）設為 Pure，WAVE 設為 Sawtooth（鋸齒波）。  
+4. 確保合成器區處於 ANALOG 模式（使用 MODE 選擇器）。使用顯示器下方的三個旋鈕，將 TYPE 設為 Analog，CAT（類別）設為 Pure，WAVE 設為 Sawtooth（鋸齒波）。  
    Make sure the Synth Section is in ANALOG Mode, using the MODE selector. Use the three dials under the display and set TYPE to Analog, CAT (Category) to Pure and WAVE to Sawtooth.
 
 5. 現在使用的是基本單振盪器配置，這意味著 OSC CTRL 旋鈕對音色沒有影響。讓我們選擇不同的類別：  
@@ -587,7 +589,7 @@ Let's have a look at some of the basic features of the Stage 4 synthesizer, begi
 7. 轉動 OSC CTRL 旋鈕，改變顯示器中顯示的兩個振盪器的 Detune 參數，產生或多或少失調和活躍的音色。  
    Turn the OSC CTRL knob to alter the Detune parameter for the two oscillators, shown in the display, resulting in a more or less detuned and lively sound.
 
-最後，讓我們轉向濾波器區段進行一些調整：
+最後，讓我們轉向濾波器區進行一些調整：
 
 As a final step, let's turn to the Filter section for some adjustments:
 
@@ -609,7 +611,7 @@ As a final step, let's turn to the Filter section for some adjustments:
 
 Now let's instead set up a string pad sound based on a sample:
 
-1. 切換到合成器區段的音層 B，使用聲音初始化功能（Shift+Waveform）初始化它。  
+1. 切換到合成器區的音層 B，使用聲音初始化功能（Shift+Waveform）初始化它。  
    Switch to Layer B of the Synth Section, and initialize it using the Sound Init function (Shift+Waveform).
 
 2. 按 MODE 按鈕並選擇 SAMPLES。  
@@ -635,7 +637,7 @@ Now let's instead set up a string pad sound based on a sample:
 > **提示**：您可能需要將濾波器的 Env Amt 設為零，或者調整濾波器包絡線，它決定了濾波器隨時間的輪廓。  
 > You may want to set Env Amt to zero for the Filter, or instead adjust the Filter ENVELOPE, which determines the contour of the Filter over time.
 
-8. 要用不同的取樣音色試用鋪底音色，按住 WAVEFORM 按鈕並轉動 SAMPLE 旋鈕。正常轉動 Sample 旋鈕會關閉濾波器區段並為所選取樣音色設置預設的 Amp 包絡線值。  
+8. 要用不同的取樣音色試用鋪底音色，按住 WAVEFORM 按鈕並轉動 SAMPLE 旋鈕。正常轉動 Sample 旋鈕會關閉濾波器區並為所選取樣音色設置預設的 Amp 包絡線值。  
    To try out the pad sound with a different sample, press and hold the WAVEFORM button and turn the SAMPLE dial. A normal turn of the Sample dial would turn off the Filter section and set the Amp Envelope to preset values for the selected sample.
 
 進一步增強這個基本弦樂鋪底音色的方法有很多，例如添加調變或使用效果。在第 33 頁閱讀更多關於調變選項的資訊，從第 48 頁開始了解效果。
@@ -649,11 +651,11 @@ There are several ways to further enhance this basic string pad sound, for insta
 
 ![alt text](img/ch03/fig_06_p17.png)
 
-作為最後一個練習，讓我們使用合成器區段及其琶音器/節奏閘門（ARPEGGIATOR/GATE）創建一個音色。
+作為最後一個練習，讓我們使用合成器區及其琶音器/節奏閘門（ARPEGGIATOR/GATE）創建一個音色。
 
 As a final exercise, let's create a sound using the Synth section and its ARPEGGIATOR/GATE.
 
-1. 確保只有合成器區段已開啟，執行聲音初始化（Shift+Waveform）。將 Amp Envelope ATTACK 時間設為 0，DECAY 設為約 500 ms，選擇鋸齒波並稍微打開濾波器，這將產生打擊性的音色。  
+1. 確保只有合成器區已開啟，執行聲音初始化（Shift+Waveform）。將 Amp Envelope ATTACK 時間設為 0，DECAY 設為約 500 ms，選擇鋸齒波並稍微打開濾波器，這將產生打擊性的音色。  
    Make sure that only the Synth Section is turned on and perform a SOUND INIT (Shift+Waveform). Set the Amp Envelope ATTACK time to 0, the DECAY to around 500 ms, select a sawtooth waveform and open up the filter a little bit. This will produce a percussive sound.
 
 2. 按 ARP RUN，在鍵盤上演奏一個和弦並轉動琶音器 Rate 旋鈕。這將按照重複的方式依次演奏按住的音符。  
@@ -690,7 +692,7 @@ As a final exercise, let's create a sound using the Synth section and its ARPEGG
 
 Now that we have an arpeggio going, let's try the Master Clock feature to synchronize the arpeggio and to bring in an effect as well.
 
-1. 按住 SHIFT 並轉動琶音器 RATE 旋鈕，將琶音鎖定到主節拍時鐘，MST CLK LED 亮起。按住音色配置區段的 Mst Clk TAP/SET 按鈕，使用音色配置控制旋鈕輸入速度，顯示器將顯示 BPM。將此練習的速度設為 130 BPM，然後按 SHIFT/EXIT 退出。  
+1. 按住 SHIFT 並轉動琶音器 RATE 旋鈕，將琶音鎖定到主節拍時鐘，MST CLK LED 亮起。按住音色配置區的 Mst Clk TAP/SET 按鈕，使用音色配置控制旋鈕輸入速度，顯示器將顯示 BPM。將此練習的速度設為 130 BPM，然後按 SHIFT/EXIT 退出。  
    Hold SHIFT and turn the Arpeggiator RATE knob to lock the arpeggio to the Master Clock, the MST CLK LED lights up. Press down on the Mst Clk TAP/SET button in the Program area to dial in a tempo with the PROGRAM Dial. The display will indicate the BPM. Set this to 130 BPM for this exercise. Press SHIFT/EXIT to exit.
 
 ![alt text](img/ch03/MST_CLK.png)
@@ -698,7 +700,7 @@ Now that we have an arpeggio going, let's try the Master Clock feature to synchr
 > **提示**：或者，至少點擊 Mst Clk 按鈕四次即可即時設定速度。也可以使用腳踏開關踏板，或 Nord Triple Pedal 的左或中踏板來點擊速度。設置詳情請參閱第 59 頁。  
 > Alternatively, tap a minimum of four times on the Mst Clk button to set the tempo on the fly. You could also use a foot switch pedal, or the left or middle pedal of a Nord Triple Pedal to tap the tempo. See page 59 for details on how to set this up.
 
-2. 轉動琶音 RATE 旋鈕選擇琶音應演奏的拍值（或音符值），設定將在旋鈕被轉動時顯示在音色配置區段顯示器中。注意 1/4 是 1/8 「速度」的一半。數字值後的「T」表示三連音。將細分設為 1/8。  
+2. 轉動琶音 RATE 旋鈕選擇琶音應演奏的拍值（或音符值），設定將在旋鈕被轉動時顯示在音色配置區顯示器中。注意 1/4 是 1/8 「速度」的一半。數字值後的「T」表示三連音。將細分設為 1/8。  
    Turn the Arpeggio RATE knob to select the meter subdivision (or note values) that the arpeggio should play. The setting is shown in the Program area display as the knob is being turned. Notice how 1/4 is half the "speed" of 1/8. A "T" after a numerical value indicates triplets. Set the subdivision to 1/8.
 
 3. 開啟活躍合成器音層的延遲效果。如果您仔細調整延遲 TEMPO，可以使其與琶音的節奏相匹配，但還有另一種方法。讓我們將延遲同步到與琶音相同的時鐘：  
@@ -707,7 +709,7 @@ Now that we have an arpeggio going, let's try the Master Clock feature to synchr
 4. 按住 SHIFT 並轉動延遲 TEMPO 旋鈕，為延遲啟動主節拍時鐘，MST CLK LED 亮起。  
    Hold SHIFT and turn the Delay TEMPO knob to activate Master Clock for the Delay. The MST CLK LED lights up.
 
-5. 轉動延遲 TEMPO 旋鈕，再次參考音色配置區段顯示器監控設定。  
+5. 轉動延遲 TEMPO 旋鈕，再次參考音色配置區顯示器監控設定。  
    Turn the Delay TEMPO knob and again refer to the Program area display to monitor the setting.
 
 6. 試試 1/16，這將是琶音音符值的一半或兩倍「速度」。將 DRY WET 旋鈕調高但不超過 12 點鐘位置，以聽到延遲拍與琶音音符一起的效果。  
@@ -717,7 +719,7 @@ Now that we have an arpeggio going, let's try the Master Clock feature to synchr
 
 The Arpeggio, the LFO on the synth, the Delay and the Mod 1 rate can be synchronized to the Master Clock in this fashion.
 
-更重要的是，主節拍時鐘同時在所有音層上運作，因此您可以控制所有合成器音層上的琶音和 LFO，以及風琴和鋼琴區段的效果。
+更重要的是，主節拍時鐘同時在所有音層上運作，因此您可以控制所有合成器音層上的琶音和 LFO，以及風琴和鋼琴區的效果。
 
 What's more, the Master Clock operates on all Layers simultaneously so you can control arpeggios and LFOs on all Synth Layers, and Effects for the Organ and Piano Sections as well.
 

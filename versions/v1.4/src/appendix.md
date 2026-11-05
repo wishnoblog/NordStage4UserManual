@@ -79,7 +79,7 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 1/4 inch connector for a continuous expression pedal, used for controlling morphs and/or Organ swell.
 
-**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區段的 Swell 踏板、全域音量控制或鏡像調變輪 Morph 功能。
+**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區的 Swell 踏板、全域音量控制或鏡像調變輪 Morph 功能。
 
 1/4 inch connector for an expression pedal used either as swell pedal with the Organ section, for global Volume control or to mirror the Wheel Morph functionality.
 
@@ -260,7 +260,7 @@ For complete index, refer to pages 69-70 of the original manual. Below are the k
 | Layer Scene | 音層場景 |
 | Solo | 獨奏 |
 | Undo | 復原 |
-| Section Edit | 區段編輯 |
+| Section Edit | 區編輯 |
 | Rotary Speaker | 旋轉喇叭 |
 | Drawbars | 音栓拉桿 |
 | Compressor | 壓縮效果 |

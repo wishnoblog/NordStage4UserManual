@@ -1,11 +1,15 @@
-# 第四章：風琴區段 / Chapter 4: Organ Section
+<a id="第四章風琴區段--chapter-4-organ-section"></a>
+
+# 第四章：風琴區 / Chapter 4: Organ Section
 
 ---
 
-## 關於風琴區段 / ABOUT THE ORGAN SECTION
+<a id="關於風琴區段--about-the-organ-section"></a>
+
+## 關於風琴區 / ABOUT THE ORGAN SECTION
 
 
-<img src="img/ch04/organ_panel.png" alt="風琴區段面板總覽（原文第 18 頁）" width="760">
+<img src="img/ch04/organ_panel.png" alt="風琴區面板總覽（原文第 18 頁）" width="760">
 
 Nord Stage 4 內建六種風琴音色模組，全部以數位方式模擬：一種音輪式 B3 風琴（另附獨立的 B3 Bass 模式）、兩種電晶體風琴（Vox 和 Farfisa），以及兩種管風琴（Pipe Organ）模組。
 
@@ -22,13 +26,13 @@ The Nord Stage 4 features six organ models, all digitally modeled; a tonewheel/B
 ## 開關與音量 / ON/OFF AND LEVEL
 
 
-<img src="img/ch04/organ_on_level.png" alt="風琴區段開關、音層音量與效果焦點（原文第 18 頁）" width="330">
+<img src="img/ch04/organ_on_level.png" alt="風琴區開關、音層音量與效果焦點（原文第 18 頁）" width="330">
 
-按下風琴區段的 **ON** 按鈕可以開啟或關閉整個風琴區段。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援Morph 多參數控制（Morph）。
+按下風琴區的 **ON** 按鈕可以開啟或關閉整個風琴區。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援Morph 多參數控制（Morph）。
 
 The Organ Section is turned On or Off by pressing its ON button. The morphable level faders control the output level of each Organ Layer.
 
-長按 **ON** 按鈕約半秒，可以執行「獨奏（Solo）」操作——只保留風琴發聲，同時關閉鋼琴和合成器區段。這在你只想單獨試聽風琴音色時很方便。
+長按 **ON** 按鈕約半秒，可以執行「獨奏（Solo）」操作——只保留風琴發聲，同時關閉鋼琴和合成器區。這在你只想單獨試聽風琴音色時很方便。
 
 Press the On button for roughly half a second to perform a SOLO operation, which activates only the Organ, turning off the Piano and Synth sections.
 
@@ -41,7 +45,7 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 <img src="img/ch04/organ_layers.png" alt="風琴音層 A／B 與 SUSTPED、PSTICK（原文第 18 頁）" width="160">
 
-風琴區段有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。
+風琴區有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。
 
 > 💡 「音層」就像在同一台琴上疊加多個不同的聲音來源，你可以讓兩種風琴同時發聲，產生更豐富的音色。
 
@@ -56,7 +60,7 @@ There are two Organ Layers; A and B.
 
 To toggle from one Layer to the other, press the non-active Layer button. With both Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕時，也會將風琴區段選為效果器設定目標；區段頂部的 **FX FOCUS** 指示燈會亮起，表示可編輯風琴效果。
+按下音層按鈕時，也會將風琴區選為效果器設定目標；區頂部的 **FX FOCUS** 指示燈會亮起，表示可編輯風琴效果。
 
 Pressing a Layer button also focuses the Organ Section effects for editing, indicated by the FX FOCUS LED at the top of the Organ section.
 
@@ -108,7 +112,7 @@ Use the ORGAN MODEL selector button to select an Organ Model to use. Note that d
 
 ## 風琴預設音色 / ORGAN PRESETS
 
-Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定好、可以直接使用的音色組合，通常包含效果），可在音色配置區段中央的 **PRESET LIBRARY** 區域按下 **ORGAN** 按鈕來瀏覽和載入。你自己調整好的音色也可以儲存到預設音色庫，方便在任何音色配置（Program）中快速呼叫。
+Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定好、可以直接使用的音色組合，通常包含效果），可在音色配置區中央的 **PRESET LIBRARY** 區域按下 **ORGAN** 按鈕來瀏覽和載入。你自己調整好的音色也可以儲存到預設音色庫，方便在任何音色配置（Program）中快速呼叫。
 
 The Nord Stage 4 comes with a large selection of complete and ready-to-use Organ Presets, including effects. These are browsed and loaded using the ORGAN button in the PRESET LIBRARY area, of the central Program section. User-created sounds can be stored to the Preset Library as well, for quick and easy recall from within any Program.
 
@@ -257,7 +261,7 @@ For basic drawbar operation, please refer to "Drawbars and LED Graphs" on page 1
 
 ### 音高顫音 / VIBRATO
 
-Vox 模組提供多種音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模組的音高顫音設定和開關狀態由音層 A 和 B 共用。
+Vox 模組提供多種音高顫音和合聲類型，透過音高顫音區的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模組的音高顫音設定和開關狀態由音層 A 和 B 共用。
 
 There are several types of vibrato and choruses available for the Vox model, which is activated using the ON button in the Vibrato section. The V3 setting is the one that is modeled after the original instrument. The Vox model's Vibrato setting and On/Off state is shared by Layer A and Layer B.
 
@@ -288,7 +292,7 @@ The drawbars act as on/off switches, or "register selectors" when the Farf model
 
 Drawbar LEDs 5-8 are lit up for an activated voice, and drawbar LEDs 1-4 are lit up for a deactivated voice. Pulling a drawbar more than half way out will activate that register.
 
-依據音色配置檢視（Prog View，見第 42 頁），音色配置區段的顯示器會顯示目前風琴區段的音栓拉桿設定。下表列出各音栓拉桿對應的原版音栓名稱：
+依據音色配置檢視（Prog View，見第 42 頁），音色配置區的顯示器會顯示目前風琴區的音栓拉桿設定。下表列出各音栓拉桿對應的原版音栓名稱：
 
 Depending on Prog View mode (see page 42), the Program section display will show current drawbar settings for the Organ section. The table below shows the original register name.
 
@@ -324,7 +328,7 @@ Though some voices have the same pitch, they differ in tonal character.
 
 ### 音高顫音 / VIBRATO
 
-Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本音高顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模組提供更多音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的音高顫音由兩個音層共用。
+Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本音高顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模組提供更多音高顫音和合聲類型，透過音高顫音區的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的音高顫音由兩個音層共用。
 
 The original instrument has two basic vibrato modes; "Light" and "Heavy", with different rates for each mode. There are several types of vibrato and choruses available for the Farf model on the Nord Stage 4, which are activated using the ON button in the Vibrato section. The V1, V2 and the C3 settings are the ones that are modeled after the original instrument's. Note that the Farf vibrato is common for both Layers.
 

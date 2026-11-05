@@ -4,7 +4,7 @@
 
 ## 使用 MIDI / USING MIDI
 
-Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵盤來控制其他硬體裝置或軟體音源，或讓風琴、鋼琴和合成器區段中的各音層由外部裝置（如電腦或編曲機）個別控制，也可以在每個音色配置的基礎上，讓另一台鍵盤只控制 Nord Stage 4 的部分功能，甚至可以同時做所有這些事情。
+Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵盤來控制其他硬體裝置或軟體音源，或讓風琴、鋼琴和合成器區中的各音層由外部裝置（如電腦或編曲機）個別控制，也可以在每個音色配置的基礎上，讓另一台鍵盤只控制 Nord Stage 4 的部分功能，甚至可以同時做所有這些事情。
 
 The Nord Stage 4 is designed to be as flexible as possible in regard to its MIDI capabilities. It can be used as a master keyboard to control other hardware units or software sound sources, or have Layers in the Organ, Piano and Synth section be individually controlled by outboard gear such as a computer or sequencer. It is also possible to control only parts of the Nord Stage 4 from a separate keyboard, on a per-program basis. If you like, you can even do all these things at the same time.
 
@@ -24,7 +24,7 @@ The Global channel is used both for sending and receiving MIDI while the Extern 
 
 The Global MIDI channel is used for transmitting and receiving MIDI information at the same time. It allows for external control over every aspect of the Nord Stage 4 – much like playing its own keyboard – and it can be used to transmit keyboard, pedal and panel actions.
 
-全域通道同時發送鍵盤和面板產生的 MIDI 資料。例如，轉動合成器區段的旋鈕或使用調變輪、二段觸鍵感應、連接的踏板或音高控制桿，都會產生在全域通道上傳輸的 MIDI 資料。
+全域通道同時發送鍵盤和面板產生的 MIDI 資料。例如，轉動合成器區的旋鈕或使用調變輪、二段觸鍵感應、連接的踏板或音高控制桿，都會產生在全域通道上傳輸的 MIDI 資料。
 
 Global transmits both keyboard and panel generated MIDI data. For example, if a knob in the Synth Section is turned or the modulation wheel, aftertouch, connected pedals or pitch stick are used, these will generate MIDI data transmitted on the Global channel.
 
@@ -36,7 +36,7 @@ Global MIDI can be turned Off in the MIDI menu. This disables both transmission 
 
 ## 音層通道 / LAYER CHANNELS
 
-每個音層的風琴、鋼琴和合成器 MIDI 通道**只接收** MIDI，讓外部裝置可以演奏個別音層或整個區段。每個風琴、鋼琴和合成器音層的設定都在 Nord Stage 4 MIDI 選單中找到。
+每個音層的風琴、鋼琴和合成器 MIDI 通道**只接收** MIDI，讓外部裝置可以演奏個別音層或整個區。每個風琴、鋼琴和合成器音層的設定都在 Nord Stage 4 MIDI 選單中找到。
 
 The per-Layer Organ, Piano and Synth MIDI channels only receive MIDI, allowing for playing individual Layers or the entire Section from an external device.
 
@@ -44,7 +44,7 @@ The per-Layer Organ, Piano and Synth MIDI channels only receive MIDI, allowing f
 
 ## 外部 MIDI 控制（Extern）/ EXTERN
 
-**外部 MIDI 控制（Extern）**模式可以為合成器區段中的任意音層選擇，主要設計用於將外部 MIDI 裝置整合到現場演出中。詳見第 45 頁開始的外部控制章節。
+**外部 MIDI 控制（Extern）**模式可以為合成器區中的任意音層選擇，主要設計用於將外部 MIDI 裝置整合到現場演出中。詳見第 45 頁開始的外部控制章節。
 
 The Extern Mode, which can be selected for any Layer in the Synth Section, is primarily designed for integration of external MIDI units into a live performance. Refer to the Extern chapter, beginning on page 45, for full documentation.
 
@@ -90,7 +90,7 @@ Just like other Layers on the panel, Extern Layers are completely independent fr
 
 ### 輔助鍵盤（Aux KB）/ AUX KB (AUXILIARY KEYBOARD)
 
-透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個音色配置獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的音色配置章節，以下是基本設定示範（僅控制風琴區段的音層 B）：
+透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個音色配置獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的音色配置章節，以下是基本設定示範（僅控制風琴區的音層 B）：
 
 With this function it is possible to use an external keyboard for playing any combination of Layers on the Nord Stage 4. Here is a basic example of how to set it up, in this case just controlling Layer B of the Organ section:
 
@@ -99,7 +99,7 @@ With this function it is possible to use an external keyboard for playing any co
 3. 在 Aux KB 選單的第一頁，將「Aux KB Enable」設定為「On」。/ On the first page of the Aux KB menu, set "Aux KB Enable" to "On".
 4. 用 PAGE 上移按鈕到第二頁。按 ORG（風琴）功能鍵並用旋鈕設定為「-B」。/ Go to the second page. Press the ORG (Organ) soft button and set it to -B, using the dial.
 5. 在 Nord Stage 4 MIDI 選單中，將 Aux KB MIDI 通道設定為發送 MIDI 裝置的通道（預設為 MIDI 通道 16）。/ Set the Aux KB MIDI channel to that of the transmitting MIDI device from the Nord Stage 4 MIDI menu. Default is MIDI channel 16.
-6. 確認風琴的音層 B 在 Nord Stage 4 上是活躍的。其他所有區段和音層照常從 Nord Stage 4 控制。/ Make sure Layer B of the Organ is active on the Nord Stage 4.
+6. 確認風琴的音層 B 在 Nord Stage 4 上是活躍的。其他所有區和音層照常從 Nord Stage 4 控制。/ Make sure Layer B of the Organ is active on the Nord Stage 4.
 
 > ⚠️ 如果 Stage 4 使用面板移調功能，輔助鍵盤（Aux KB）通道上傳入的 MIDI 也會被移調——無論 MIDI 選單中的「Transpose MIDI at」設定如何。
 
@@ -135,7 +135,9 @@ When the Master Clock is locked to an incoming clock, "external" will be display
 
 ---
 
-## 外部 MIDI 控制區段與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING
+<a id="外部-midi-控制區段與-midi-轉送--extern-section-and-midi-echoing"></a>
+
+## 外部 MIDI 控制區與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING
 
 當一個或多個 Extern 音層處於活躍狀態時，全域 MIDI 通道上傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，發送到一個或多個 Extern MIDI 通道。這需要將 Extern 選單中的「Echo Global To Extern Ch」設定設為 On。
 
@@ -211,7 +213,7 @@ Program Change messages are used both for Program and Live banks as well as for 
 | Bank LSB (CC#32) | 0-3 | 0 | 0-3 | 0 | 0 |
 | Program Change | 0-127 | 0-7 | 0-127 | 0-127 | 0-127 |
 
-傳入的預設音色選擇訊息會選擇該預設音色，但如果目標區段目前關閉，不會啟用該區段。
+傳入的預設音色選擇訊息會選擇該預設音色，但如果目標區目前關閉，不會啟用該區。
 
 An incoming message addressing a Preset will select that Preset for the targeted Section but will not activate the Section, if it is currently turned off.
 

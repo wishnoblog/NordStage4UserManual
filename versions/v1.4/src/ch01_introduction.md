@@ -6,7 +6,7 @@
 
 ## 感謝您！/ THANK YOU!
 
-感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援取樣音色播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區段，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。
+感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援取樣音色播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。
 
 Thank you for choosing the Nord Stage 4! Representing our vision of the ultimate stage keyboard, our new flagship instrument features award-winning technologies such as the Nord Wave 2 Synth engine with Sample playback, the acclaimed Nord C2D Organ engine, an enhanced Piano section and extensive hands-on Effects – all in one exceptional performance keyboard.
 
@@ -18,7 +18,7 @@ Nord Stage 4 具備以下主要功能：
 
 The Nord Stage 4 has the following main features:
 
-- **風琴區段**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
+- **風琴區**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
   **Organ section** with faithful reproductions of three classic organ models: B3 with a dedicated B3 Bass mode, Vox and Farfisa. There are also two Pipe organ models, each with its own distinct character.
 
 - **實體風琴音栓拉桿**，配備 LED 顯示。  
@@ -27,22 +27,22 @@ The Nord Stage 4 has the following main features:
 - **每個風琴、鋼琴及合成器音層均配備實體音量推桿**，配備 LED 顯示。  
   **Physical volume faders** with LED graphs for each Organ, Piano and Synth Layer.
 
-- **鋼琴區段**，含兩個獨立音層：原聲大鋼琴與直立式鋼琴、音叉式與簧片式電鋼琴、Clavinet 與大鍵琴音色、數位類別（包含豐富的鋼琴音層）。Misc 類別提供多種富表現力的槌擊樂器音色，如馬林巴琴和顫音琴。  
+- **鋼琴區**，含兩個獨立音層：原聲大鋼琴與直立式鋼琴、音叉式與簧片式電鋼琴、Clavinet 與大鍵琴音色、數位類別（包含豐富的鋼琴音層）。Misc 類別提供多種富表現力的槌擊樂器音色，如馬林巴琴和顫音琴。  
   **Piano section** with two independent Layers. Acoustic Grand and Upright pianos, tine and reed based Electric pianos, Clavinet and Harpsichord sounds and a Digital category including rich sounding piano layers. The Misc category provides a selection of expressive mallet sounds such as a Marimba and a Vibraphone.
 
-- **合成器區段**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援取樣音色播放、類比波形、多種 FM 演算法、數位波形及超級波形。  
+- **合成器區**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援取樣音色播放、類比波形、多種 FM 演算法、數位波形及超級波形。  
   **Synth section** with three independent Layers based on the Nord Wave 2 synthesizer with dedicated OLED display, Sample playback, Analog style waveforms, a variety of FM algorithms, digital Waves and massive Super Waves.
 
-- **完整且獨立的效果區段**，適用於每個鋼琴和合成器音層，兩個風琴音層共用一個效果區段。  
+- **完整且獨立的效果區**，適用於每個鋼琴和合成器音層，兩個風琴音層共用一個效果區。  
   **Comprehensive and independent Effects section** for each Piano and Synth Layer and a shared Effects section for both Organ Layers.
 
-- **風琴、鋼琴及合成器預設音色庫**，每個區段均有豐富的音色選擇（含效果）。  
+- **風琴、鋼琴及合成器預設音色庫**，每個區均有豐富的音色選擇（含效果）。  
   **Organ, Piano and Synth Preset banks** with a large selection of sounds – including effects – for each section.
 
 - **無縫切換**：切換音色配置（Program）時延音音符持續發聲。  
   **Seamless transitions**: Sustaining notes are maintained when changing programs.
 
-- **合成器區段的外部模式**，用於控制外部 MIDI 樂器。  
+- **合成器區的外部模式**，用於控制外部 MIDI 樂器。  
   **Extern mode** in the Synth section for controlling external MIDI instruments.
 
 - **強大的 Morph 功能**，可透過實體控制器同時調整多個參數。  
@@ -111,7 +111,7 @@ Since the Nord Stage 4 is designed as an open system, each and every piano and s
 
 Use the Nord Sample Editor 4 for quick and easy creation of custom sample instruments for the Nord Stage 4. Whether creating a fully mapped instrument, a simple FX sound or assigning a sampled song intro to a single key, the Nord Sample Editor 4 opens up many possibilities together with the Nord Stage 4.
 
-Nord Sample Editor 4 可從 www.nordkeyboards.com 的軟體區段下載。
+Nord Sample Editor 4 可從 www.nordkeyboards.com 的軟體區下載。
 
 The Nord Sample Editor 4 can be downloaded from the Software section at www.nordkeyboards.com.
 

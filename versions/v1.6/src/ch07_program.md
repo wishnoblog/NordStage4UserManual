@@ -1,17 +1,21 @@
-# 第七章：音色配置區段 / Chapter 7: Program
+<a id="第七章音色配置區段--chapter-7-program"></a>
+
+# 第七章：音色配置區 / Chapter 7: Program
 
 ---
 
-## 音色配置區段概覽 / PROGRAM OVERVIEW
+<a id="音色配置區段概覽--program-overview"></a>
+
+## 音色配置區概覽 / PROGRAM OVERVIEW
 
 
-<img src="img/ch07/program_panel.png" alt="中央 Program 區段面板總覽（原文第 38 頁）" width="509">
+<img src="img/ch07/program_panel.png" alt="中央 Program 區面板總覽（原文第 38 頁）" width="509">
 
-中央的**音色配置區段（Program Area）**是整台琴的操作核心，讓你載入和儲存音色配置（Program——Nord Stage 4 用來保存所有設定的記憶單位）、使用即時模式（Live Mode）、音層場景（Layer Scene）、鍵盤分區（Split）等功能。
+中央的**音色配置區（Program Area）**是整台琴的操作核心，讓你載入和儲存音色配置（Program——Nord Stage 4 用來保存所有設定的記憶單位）、使用即時模式（Live Mode）、音層場景（Layer Scene）、鍵盤分區（Split）等功能。
 
 The central PROGRAM area provides access to performance functions such as loading and storing Programs, access to the Live Mode, Layer Scene, Keyboard Split functionality and more.
 
-音色配置區段也包含**預設音色庫（Preset Library）**，讓你可以將各區段或個別音層的完整音色載入到音色配置中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 41 頁。
+音色配置區也包含**預設音色庫（Preset Library）**，讓你可以將各區或個別音層的完整音色載入到音色配置中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 41 頁。
 
 The Program area is also home to the PRESET LIBRARY, from where complete sounds for each Section or individual Layers can be loaded into a Program. User sounds can also be stored to the Preset Library. Read more about the Preset Library on page 41.
 
@@ -23,7 +27,7 @@ This is also where the various menus for making System, Sound, MIDI and other im
 
 ## 什麼是音色配置？/ WHAT IS A PROGRAM?
 
-**音色配置**儲存了面板上幾乎所有的設定，唯一例外是主音量（Master Level）以及獨奏（Solo）和區段編輯（Section Edit）等臨時模式。音色配置也包含分區、音層場景、鍵盤分區和Morph 多參數控制的設定。從預設音色庫載入的預設音色也會存在音色配置裡。
+**音色配置**儲存了面板上幾乎所有的設定，唯一例外是主音量（Master Level）以及獨奏（Solo）和區編輯（Section Edit）等臨時模式。音色配置也包含分區、音層場景、鍵盤分區和Morph 多參數控制的設定。從預設音色庫載入的預設音色也會存在音色配置裡。
 
 A Program stores and contains all settings made on the panel except for the Master Level and temporary editing modes such as Solo and Section Edit. The Program also includes Splits, Layer Scene, Keyboard Zones and Morph configurations. Presets loaded into a Program from the Preset Library (see below) are also stored as part of the Program.
 
@@ -76,7 +80,7 @@ Multiple parameters can be adjusted while pressing down a Morph Assign button, a
 
 ### 可用的Morph 多參數控制目標參數 / MORPH DESTINATIONS
 
-| 區段 / Section | 可控制的參數 / Parameters |
+| 區 / Section | 可控制的參數 / Parameters |
 |---|---|
 | 風琴 / Organ | 音層音量 Layer Level、音栓拉桿 Drawbars、旋轉喇叭速度 Rotary speed |
 | 鋼琴 / Piano | 音層音量 Layer Level |
@@ -147,7 +151,7 @@ Pressing SHIFT and SET KEY shifts the position of the currently selected split p
 
 ### 鍵盤分區設定 / KEYBOARD SPLIT SETTINGS
 
-啟用分區後，使用各區段八度移調按鈕下方的 KB ZONE 控制（需按住 SHIFT）來將音層指定到一個或多個分區。四個分區 LED 指示每個音層被指定到哪些分區。
+啟用分區後，使用各區八度移調按鈕下方的 KB ZONE 控制（需按住 SHIFT）來將音層指定到一個或多個分區。四個分區 LED 指示每個音層被指定到哪些分區。
 
 After a split has been activated, use the KB ZONE controls (accessed with SHIFT) below each section's Octave Shift buttons to assign a Layer to one or more zones. The four Zone LEDs indicate which zone(s) each Layer is assigned to.
 
@@ -344,17 +348,17 @@ The MIDI LED blinks as incoming MIDI messages are received. The EXTERN LED blink
 
 <img src="img/ch07/preset_library.png" alt="Organ／Piano／Synth 預設音色庫按鈕（原文第 41 頁）" width="228">
 
-Nord Stage 4 附有豐富的預設音色庫，涵蓋風琴、鋼琴和合成器區段，讓你可以將包含效果設定的完整音色載入現有音色配置。用戶自訂音色也可以儲存到預設音色庫中。
+Nord Stage 4 附有豐富的預設音色庫，涵蓋風琴、鋼琴和合成器區，讓你可以將包含效果設定的完整音色載入現有音色配置。用戶自訂音色也可以儲存到預設音色庫中。
 
 The Nord Stage 4 comes with extensive Preset banks for the Organ, Piano and Synth sections, letting you load complete sounds, including their effect configurations, into an existing Program. Custom sounds can also be stored to the Preset banks.
 
 ### 瀏覽和載入預設音色 / BROWSING AND LOADING PRESETS
 
-鋼琴和合成器區段有兩種不同的載入方式：為整個區段載入，或為單一音層載入（保持其他音層不變）。
+鋼琴和合成器區有兩種不同的載入方式：為整個區載入，或為單一音層載入（保持其他音層不變）。
 
 For the Piano and Synth sections there are two distinct methods: loading for an entire Section, or for a single Layer (which keeps other Layers intact).
 
-**為整個區段載入**：在 PRESET LIBRARY 區域按 ORGAN、PIANO 或 SYNTH 按鈕。轉動旋鈕時，所選預設音色中的音層就會被載入。
+**為整個區載入**：在 PRESET LIBRARY 區域按 ORGAN、PIANO 或 SYNTH 按鈕。轉動旋鈕時，所選預設音色中的音層就會被載入。
 
 LOADING PRESETS FOR A SECTION: To browse and load Presets for a Section press the ORGAN, PIANO or SYNTH buttons in the PRESET LIBRARY area. When turning the dial the Layers contained in the selected Preset are loaded.
 
@@ -399,7 +403,7 @@ The Program View (PROG VIEW) button switches between four distinct view modes:
 
 1. **模式一**：只顯示音色配置名稱和編號，下半部顯示參數提示。/ First mode: Shows only the Program name and number, with parameter hints in lower half.
 2. **模式二**：顯示音色配置名稱和目前聚焦音層的音色資訊。/ Second mode: Shows Program name and current Layer selection info.
-3. **模式三**：顯示完整音色配置設定，包含所有區段和音層。/ Third mode: Shows complete Program configuration including all Sections and Layers.
+3. **模式三**：顯示完整音色配置設定，包含所有區和音層。/ Third mode: Shows complete Program configuration including all Sections and Layers.
 4. **模式四**：同時顯示目前分頁的所有八個音色配置。/ Fourth mode: Shows all eight Programs of the current Page.
 
 ### 預設音色名稱 / PRESET NAME
@@ -415,7 +419,7 @@ When a Preset is loaded, its location and name will be shown in the display. To 
 
 <img src="img/ch07/solo.png" alt="Solo 獨奏按鈕（原文第 42 頁）" width="89">
 
-啟用**獨奏（Solo）**後，每次只能聽到一個音層，非常適合在調整音色時單獨監聽各個元素。用各區段的音層按鈕選擇要聆聽的音層。按 Shift/Exit 或 Solo 按鈕離開獨奏模式。
+啟用**獨奏（Solo）**後，每次只能聽到一個音層，非常適合在調整音色時單獨監聽各個元素。用各區的音層按鈕選擇要聆聽的音層。按 Shift/Exit 或 Solo 按鈕離開獨奏模式。
 
 When SOLO is active only one Layer is heard at a time, useful for monitoring individual elements. Use the Layer buttons of each Section for selecting which Layer should be heard. Exit Solo mode by pressing Shift/Exit or the Solo button.
 
@@ -437,12 +441,14 @@ When Undo is pressed, the display will show which operation is possible to undo.
 
 ---
 
-## 區段編輯 / SECTION EDIT
+<a id="區段編輯--section-edit"></a>
+
+## 區編輯 / SECTION EDIT
 
 
 <img src="img/ch07/section_edit.png" alt="Section Edit 與 Layer Init 按鈕（原文第 43 頁）" width="89">
 
-按住 **SECTION EDIT**（區段編輯）時，對某個參數所做的編輯會同時套用到該區段的所有音層。這對於同步多個合成器音層的參數，或為整個區段設定相同的效果非常有用。
+按住 **SECTION EDIT**（區編輯）時，對某個參數所做的編輯會同時套用到該區的所有音層。這對於同步多個合成器音層的參數，或為整個區設定相同的效果非常有用。
 
 While SECTION EDIT is pressed, edits done to a parameter are performed on all Layers of that Section. The Section Edit button can be double-tapped to enter "sticky" mode.
 
@@ -471,7 +477,7 @@ The LAYER INIT (Shift+Section Edit) functions initialize the entire Program or i
 
 <img src="img/ch07/layer_scene.png" alt="Layer Scene II 場景切換按鈕（原文第 43 頁）" width="89">
 
-**音層場景（Layer Scene）**功能讓你在同一個音色配置中建立兩套獨立的音層設定（每個音層或區段可以分別開啟或關閉），並能即時無縫切換。這樣就不需要切換音色配置，也能在演奏中快速改變音色組合。
+**音層場景（Layer Scene）**功能讓你在同一個音色配置中建立兩套獨立的音層設定（每個音層或區可以分別開啟或關閉），並能即時無縫切換。這樣就不需要切換音色配置，也能在演奏中快速改變音色組合。
 
 The Layer Scene functionality allows for creating two independent Layer configurations where individual Layers or Sections can be turned On or Off as desired in each. This lets you instantly and seamlessly switch between different sound combinations within the same Program.
 
@@ -481,13 +487,13 @@ Each Layer can be active in one or both of the Scenes.
 
 ### 設定音層場景 / SETTING UP LAYER SCENES
 
-按 LAYER SCENE II 按鈕可在音層場景 I 和 II 之間切換。在各個場景中分別開啟或關閉所需的區段和音層來設定每個場景。
+按 LAYER SCENE II 按鈕可在音層場景 I 和 II 之間切換。在各個場景中分別開啟或關閉所需的區和音層來設定每個場景。
 
 Pressing the LAYER SCENE II button switches from Layer Scene I to II or vice versa. Each Layer Scene is configured by turning Sections and Layers On or Off as desired.
 
 ### 音層場景與預設音色 / LAYER SCENES AND PRESETS
 
-- 為整個區段載入預設音色時，該區段在非活動場景中會被關閉。/ When loading a Preset for an entire Section, that Section will be turned off in the non-active Layer Scene.
+- 為整個區載入預設音色時，該區在非活動場景中會被關閉。/ When loading a Preset for an entire Section, that Section will be turned off in the non-active Layer Scene.
 - 使用單一音層載入預設音色時，非活動場景中該音層的開/關狀態不會改變。/ When loading a Single Layer Preset, the On/Off state for the loaded Layer is not altered for the non-active Layer Scene.
 
 ---
@@ -632,7 +638,7 @@ Content can also be organized using the Nord Sound Manager.
 
 <img src="img/ch07/program_levels.png" alt="Program Levels 總音量偏移設定（原文第 45 頁）" width="321">
 
-**音色配置音量（Program Levels）**功能提供一個快速調整整個音色配置總音量的方法，讓你在不調整主音量的情況下調高或調低某個音色配置的整體音量——在準備現場演出的音色配置時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動音色配置控制旋鈕可以等量調整所有區段所有音層的音量。
+**音色配置音量（Program Levels）**功能提供一個快速調整整個音色配置總音量的方法，讓你在不調整主音量的情況下調高或調低某個音色配置的整體音量——在準備現場演出的音色配置時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動音色配置控制旋鈕可以等量調整所有區所有音層的音量。
 
 The Program Levels function provides a shortcut for adjusting the total volume level of an entire program. Found on the first page of the SOUND menu (Shift+Program 2 button). Turning the Program dial adjusts the levels of all Layers, for all Sections, by an equal amount.
 

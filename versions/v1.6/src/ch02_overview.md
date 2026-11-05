@@ -7,10 +7,12 @@
 
 ---
 
-## 風琴區段 / ORGAN SECTION
+<a id="風琴區段--organ-section"></a>
+
+## 風琴區 / ORGAN SECTION
 
 ![風琴](img/ch02/fig_01_p9-1.png)
-專屬的風琴區段配備兩個獨立音層，擁有實體音栓拉桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。
+專屬的風琴區配備兩個獨立音層，擁有實體音栓拉桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。
 
 The dedicated Organ section, with its two independent Layers, features physical drawbars accompanied by LED graphs for hands-on control and ease of use.
 
@@ -26,15 +28,17 @@ We have also created carefully modelled emulations of two of the most famous tra
 
 Finally, there are two distinct Pipe Organ models including a "Principal" Pipe model with two variations, delivering a wide range of versatile pipe/church organ sounds.
 
-本區段的詳細說明請見第 18 頁起的風琴章節。
+本區的詳細說明請見第 18 頁起的風琴章節。
 
 This section is described in detail in the Organ chapter, beginning on page 18.
 
 ---
 
-## 鋼琴區段 / PIANO SECTION
+<a id="鋼琴區段--piano-section"></a>
 
-Nord Stage 4 的鋼琴區段配備兩個獨立音層，提供令人驚嘆的鋼琴與鍵盤音色。鋼琴音色分為六種類型，包括經典的原聲大鋼琴、直立式鋼琴、電鋼琴，以及 Clavinet、大鍵琴、數位鋼琴和其他雜項音色。
+## 鋼琴區 / PIANO SECTION
+
+Nord Stage 4 的鋼琴區配備兩個獨立音層，提供令人驚嘆的鋼琴與鍵盤音色。鋼琴音色分為六種類型，包括經典的原聲大鋼琴、直立式鋼琴、電鋼琴，以及 Clavinet、大鍵琴、數位鋼琴和其他雜項音色。
 
 The Nord Stage 4 Piano section, with its two independent Layers, delivers a stunning range of piano and keyboard sounds. Piano sounds are divided into six different types including both classic Grand, Upright and Electric pianos as well as Clavinet, Harpsichords, Digital pianos and Miscellaneous sounds.
 
@@ -56,7 +60,7 @@ String resonance is a physical phenomenon which occurs inside every acoustic pia
 
 ### Nord 三踏板 / NORD TRIPLE PEDAL
 
-Nord Stage 4 相容於 Nord Triple Pedal，可在鋼琴區段中解鎖額外功能。
+Nord Stage 4 相容於 Nord Triple Pedal，可在鋼琴區中解鎖額外功能。
 
 The Nord Stage 4 is compatible with the Nord Triple Pedals which unlock additional functionality within the Piano section.
 
@@ -100,31 +104,35 @@ A quick method for altering the character of the current piano sound is to use t
 
 The Dynamic Compression feature raises the sound level for softer strokes, enabling an even and audible performance at all times, even with very dynamic playing.
 
-本區段的進一步說明請見第 23 頁起的鋼琴章節。
+本區的進一步說明請見第 23 頁起的鋼琴章節。
 
 This section is further described in the Piano chapter, beginning on page 23.
 
 ---
 
-## 音色配置區段 / PROGRAM SECTION
+<a id="音色配置區段--program-section"></a>
 
-Nord Stage 4 上的一個音色配置（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——音色配置區段——是導覽和儲存音色配置、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設音色載入音色配置的任何音層或區段。
+## 音色配置區 / PROGRAM SECTION
+
+Nord Stage 4 上的一個音色配置（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——音色配置區——是導覽和儲存音色配置、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設音色載入音色配置的任何音層或區。
 
 A program on the Nord Stage 4 contains settings for the sound engines of all Layers and their effects. The center area of the instrument - the Program section - is where programs are navigated and stored, and various performance features and settings menus are accessed. Additionally, this is also where the Organ, Piano and Synth Preset banks are found, allowing for complete presets – including effects – to be loaded into any Layer or Section of your program.
 
-本區段的詳細說明請見第 38 頁起的音色配置章節。
+本區的詳細說明請見第 38 頁起的音色配置章節。
 
 This section is described in detail in the Program chapter, beginning on page 38.
 
 ---
 
-## 合成器區段 / SYNTH SECTION
+<a id="合成器區段--synth-section"></a>
 
-合成器區段包含三個獨立音層，基於廣受好評的 Nord Wave 2。除了類比風格波形、數位波形和 FM 演算法外，Stage 4 合成器還可用於各種基於取樣音色的音色。它還配備了超級波形（Super Wave）類別，適合那些其他方式無法創造的龐大多振盪器音色。大量的振盪器類型支援多種單或雙振盪器配置、波形整形、頻率調變等功能。
+## 合成器區 / SYNTH SECTION
+
+合成器區包含三個獨立音層，基於廣受好評的 Nord Wave 2。除了類比風格波形、數位波形和 FM 演算法外，Stage 4 合成器還可用於各種基於取樣音色的音色。它還配備了超級波形（Super Wave）類別，適合那些其他方式無法創造的龐大多振盪器音色。大量的振盪器類型支援多種單或雙振盪器配置、波形整形、頻率調變等功能。
 
 The Synth section contains three independent Layers and is based on the acclaimed Nord Wave 2. In addition to Analog style waveforms and digital Waves and FM algorithms, the Stage 4 Synth can be used for all sorts of Sample based sounds. It also features a Super (Super Wave) category suitable for those massive, multi-oscillator, sounds that can not be created by other means. The large number of oscillator types allows for a multitude of single or dual oscillator setups, waveshaping, frequency modulation and more.
 
-合成器區段專用的 OLED 顯示器協助管理濾波器、包絡線及其他合成器設定，並提供波形或取樣音色選擇的良好概覽。
+合成器區專用的 OLED 顯示器協助管理濾波器、包絡線及其他合成器設定，並提供波形或取樣音色選擇的良好概覽。
 
 The OLED display dedicated to the Synth Section assists with Filter, Envelope and other Synth settings, and provides excellent overview of Waveform or Sample selection.
 
@@ -144,7 +152,7 @@ The advanced Arpeggiator, with its Poly, Gate and Pattern modes makes possible a
 
 With dedicated Amp, Filter and Oscillator envelopes, an LFO and Unison control, the Stage 4's synth capabilities are powerful, and provide virtually limitless possibilites in terms of stunning on-stage sounds.
 
-本區段的深入說明請見第 27 頁起的合成器章節。
+本區的深入說明請見第 27 頁起的合成器章節。
 
 There is an in-depth description of this section in the Synth chapter, beginning on page 27.
 
@@ -152,7 +160,7 @@ There is an in-depth description of this section in the Synth chapter, beginning
 
 ## 外部 MIDI / EXTERNAL MIDI
 
-Nord Stage 4 作為 MIDI 控制器具有強大的功能，尤其是在使用合成器區段的外部模式（Extern mode）功能時。外部模式可以像內部音源引擎一樣指定到鍵盤分區，專門用於通過 MIDI 控制外部設備——電腦、合成器模組等。
+Nord Stage 4 作為 MIDI 控制器具有強大的功能，尤其是在使用合成器區的外部模式（Extern mode）功能時。外部模式可以像內部音源引擎一樣指定到鍵盤分區，專門用於通過 MIDI 控制外部設備——電腦、合成器模組等。
 
 The Nord Stage 4 delivers powerful capabilities as a MIDI controller, especially when using the Extern mode feature of the Synth Section. Extern can be assigned to keyboard zones just like the internal sound engines, but specializes in controlling external gear – computers, synth modules etc. – over MIDI.
 
@@ -162,9 +170,11 @@ The Extern mode is described in detail in the Extern chapter, beginning on page 
 
 ---
 
-## 音層效果區段 / LAYER EFFECTS SECTION
+<a id="音層效果區段--layer-effects-section"></a>
 
-每個鋼琴和合成器音層以及風琴區段都可以獨立使用各種經典效果：
+## 音層效果區 / LAYER EFFECTS SECTION
+
+每個鋼琴和合成器音層以及風琴區都可以獨立使用各種經典效果：
 
 A wide array of classic effects are independently available for each Piano and Synth Layer and for the Organ Section:
 
@@ -176,7 +186,7 @@ The Mod 1 and 2 units provide all essential modulation effects such as Tremolo, 
 
 The Delay effect can go anywhere from distinctly vintage to modern and atmospheric sounding - with its Analog mode and dedicated feedback Effects with Variations and Filters.
 
-Amp Sim/EQ 區段提供帶有變體的經典擴大機模擬、多功能均衡器和強力的共鳴濾波器。強勁的壓縮器配備額外的「快速模式」，有助於控制您的演奏動態。最後，豐富的殘響——也可每個音層獨立使用——提供多種空間模擬，從小型 Booth 型號到寬廣的 Cathedral，以及 Spring 彈簧殘響。殘響變體和大型空間類型特有的 Chorale 模式，提供豐富的實驗空間。
+Amp Sim/EQ 區提供帶有變體的經典擴大機模擬、多功能均衡器和強力的共鳴濾波器。強勁的壓縮器配備額外的「快速模式」，有助於控制您的演奏動態。最後，豐富的殘響——也可每個音層獨立使用——提供多種空間模擬，從小型 Booth 型號到寬廣的 Cathedral，以及 Spring 彈簧殘響。殘響變體和大型空間類型特有的 Chorale 模式，提供豐富的實驗空間。
 
 Classic amplifier simulations with Variations, a versatile EQ and powerful, resonant filters are available in the Amp Sim/EQ section. The punchy Compressor with an extra tight "fast mode" helps keep your performance in control. Finally, the lush Reverb – also independently available per Layer – provides an array of room simulations, from the small Booth model to an expansive Cathedral, as well as a Spring reverb. The Reverb Variations, and the characterful Chorale mode for larger room types, provide plenty of room for experimentation.
 
@@ -184,7 +194,7 @@ Classic amplifier simulations with Variations, a versatile EQ and powerful, reso
 
 Many of the effect parameters can be "morph" controlled, which means they can be addressed by the modulation wheel, pedals or aftertouch. This opens up for all kinds of creative, real-time interaction with both the sound engines and their effects.
 
-本區段——以及旋轉喇叭——的詳細說明請見第 48 頁起的音層效果章節。
+本區——以及旋轉喇叭——的詳細說明請見第 48 頁起的音層效果章節。
 
 This section – and the Rotary Speaker – is described in detail in the Layer Effects chapter, beginning on page 48.
 

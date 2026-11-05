@@ -1,13 +1,17 @@
-# 第六章：合成器區段 / Chapter 6: Synth Section
+<a id="第六章合成器區段--chapter-6-synth-section"></a>
+
+# 第六章：合成器區 / Chapter 6: Synth Section
 
 ---
 
-## 關於合成器區段 / ABOUT THE SYNTH SECTION
+<a id="關於合成器區段--about-the-synth-section"></a>
+
+## 關於合成器區 / ABOUT THE SYNTH SECTION
 
 
-<img src="img/ch06/synth_panel.png" alt="合成器區段面板總覽（原文第 27 頁）" width="760">
+<img src="img/ch06/synth_panel.png" alt="合成器區面板總覽（原文第 27 頁）" width="760">
 
-Nord Stage 4 合成器區段共有三個音層（Layer——可以想像成同時疊加播放的不同合成器聲音），每個音層都能產生各種經典類比波形（Analog Waveform）、豐富的數位波形，以及 FM 演算法和取樣音色。
+Nord Stage 4 合成器區共有三個音層（Layer——可以想像成同時疊加播放的不同合成器聲音），每個音層都能產生各種經典類比波形（Analog Waveform）、豐富的數位波形，以及 FM 演算法和取樣音色。
 
 Each of the three Layers in the Nord Stage 4 Synth Section provides a wide array of both classic analog waveforms and rich digital waves, as well as FM algorithms and samples.
 
@@ -15,11 +19,11 @@ Each of the three Layers in the Nord Stage 4 Synth Section provides a wide array
 
 Using the Unison modes and/or the Multi or Super analog waveforms, sounds utilizing a large number of oscillators can be used – without any loss of polyphony.
 
-合成器區段專用的顯示螢幕及下方三個旋鈕，同時用於瀏覽波形與取樣音色，以及設定包絡線（Envelope）、濾波器（Filter）等合成器參數。面板上附有紅色外框的按鈕，表示其設定會透過顯示螢幕來操作。
+合成器區專用的顯示螢幕及下方三個旋鈕，同時用於瀏覽波形與取樣音色，以及設定包絡線（Envelope）、濾波器（Filter）等合成器參數。面板上附有紅色外框的按鈕，表示其設定會透過顯示螢幕來操作。
 
 The dedicated Synth display and its three dials are used both for browsing Waveforms and Samples, as well as for making Envelope, Filter or other Synth settings. Functions that utilize the display for its settings are indicated with a red frame around the corresponding button.
 
-將合成器區段切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的音色配置與參數變更。詳見第 45 頁的外部模式章節。
+將合成器區切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的音色配置與參數變更。詳見第 45 頁的外部模式章節。
 
 With the Synth Section set to Extern mode, the display and its dials are used for controlling Program and Parameter changes on external gear. Read more about the Extern mode on page 45.
 
@@ -27,11 +31,11 @@ With the Synth Section set to Extern mode, the display and its dials are used fo
 
 ## 開關與音量 / ON/OFF AND LEVEL
 
-按下 ON 按鈕可開啟或關閉合成器區段。每個合成器音層的輸出音量，由可進行Morph 多參數控制（Morph）的音量推桿來調整。
+按下 ON 按鈕可開啟或關閉合成器區。每個合成器音層的輸出音量，由可進行Morph 多參數控制（Morph）的音量推桿來調整。
 
 The Synth section is turned On or Off by pressing its ON button. The morphable faders control the sound output level of each Synth Layer.
 
-長按 ON 按鈕約半秒，可執行獨奏（SOLO）操作，僅保留合成器發聲，同時關閉風琴和鋼琴區段。
+長按 ON 按鈕約半秒，可執行獨奏（SOLO）操作，僅保留合成器發聲，同時關閉風琴和鋼琴區。
 
 Press the On button for roughly half a second to perform a SOLO operation, which activates only the Synth, turning off the Organ and Piano sections.
 
@@ -41,7 +45,7 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ## 音層按鈕與效果器設定目標 / LAYER BUTTONS AND FX FOCUS
 
-合成器區段共有三個獨立音層：A、B、C。要開啟某個音層，需同時按下已啟用的音層按鈕與要開啟的按鈕。要關閉某個音層，則長按其按鈕片刻即可。
+合成器區共有三個獨立音層：A、B、C。要開啟某個音層，需同時按下已啟用的音層按鈕與要開啟的按鈕。要關閉某個音層，則長按其按鈕片刻即可。
 
 There are three independent Synth Layers; A, B and C. Turning a Layer on is done by pressing all Layer buttons that are already active simultaneously with the one that should be turned On. Turning a Layer Off is done by holding its button down for a short period of time.
 
@@ -49,7 +53,7 @@ There are three independent Synth Layers; A, B and C. Turning a Layer on is done
 
 To toggle from one Layer to the other, press a non-active Layer button. With multiple Layers active, the focused Layer is indicated by a blinking LED above the Layer button.
 
-按下音層按鈕，也會將該音層選為效果器設定目標。合成器區段頂部的 **FX FOCUS** LED 會亮起，表示已選取該區段的效果器供編輯。
+按下音層按鈕，也會將該音層選為效果器設定目標。合成器區頂部的 **FX FOCUS** LED 會亮起，表示已選取該區的效果器供編輯。
 
 Pressing a Layer button also focuses that Layer's effects for editing. The FX FOCUS LED at the top of the Synth Section indicates that its effects are focused for editing.
 
@@ -71,7 +75,7 @@ Press KB ZONE (Shift+Octave Shift Down/Up) to assign a Layer to any of the activ
 
 ## 延音踏板與音高控制桿 / SUSTPED AND PSTICK
 
-SUSTPED（Shift+音層 A）可為合成器區段啟用外接延音踏板。踏板的設定方式請見第 58 頁的選單章節。
+SUSTPED（Shift+音層 A）可為合成器區啟用外接延音踏板。踏板的設定方式請見第 58 頁的選單章節。
 
 SUSTPED (Shift+Layer A) activates an attached sustain pedal for the Synth section. Read more on how to configure pedals in the Menus chapter, on page 58.
 
@@ -81,12 +85,14 @@ PSTICK/RNG (Pitch Stick/Range, Shift+Layer B) turns on pitch stick functionality
 
 ---
 
-## 合成器區段模式 / SYNTH SECTION MODES
+<a id="合成器區段模式--synth-section-modes"></a>
+
+## 合成器區模式 / SYNTH SECTION MODES
 
 
 <img src="img/ch06/synth_mode.png" alt="Samples／Analog／Extern 模式選擇（原文第 28 頁）" width="96">
 
-Nord Stage 4 合成器區段有三種操作模式：**SAMPLES（取樣音色）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 45 頁的專屬章節。
+Nord Stage 4 合成器區有三種操作模式：**SAMPLES（取樣音色）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 45 頁的專屬章節。
 
 The Nord Stage 4 Synth Section can be used in three distinct modes: SAMPLES, ANALOG or EXTERN. The Extern functionality (Shift+Mode) allows for advanced MIDI control of external units and is described in its own chapter, starting on page 45.
 
@@ -94,7 +100,7 @@ The Nord Stage 4 Synth Section can be used in three distinct modes: SAMPLES, ANA
 
 ## 合成器預設音色 / SYNTH PRESETS
 
-Nord Stage 4 內建大量多音層和單音層的合成器預設音色（包含效果）。透過音色配置區段中央 PRESET LIBRARY 區域的 SYNTH 按鈕，即可瀏覽和載入這些音色。
+Nord Stage 4 內建大量多音層和單音層的合成器預設音色（包含效果）。透過音色配置區中央 PRESET LIBRARY 區域的 SYNTH 按鈕，即可瀏覽和載入這些音色。
 
 The Nord Stage 4 comes with a large selection of multi- and single-Layer Synth Presets, including Effects. These are browsed and loaded using the SYNTH button in the PRESET LIBRARY area, of the central Program section.
 
@@ -162,7 +168,7 @@ Some further options for Sample customization can be found by entering the PITCH
 
 ## 類比模式 / ANALOG
 
-在類比模式下，合成器區段可存取各種經典類比波形、豐富的波表（Wavetable），以及多種不同的 FM 演算法。另外還有涵蓋各類噪音和鈴聲演算法的雜項波形。
+在類比模式下，合成器區可存取各種經典類比波形、豐富的波表（Wavetable），以及多種不同的 FM 演算法。另外還有涵蓋各類噪音和鈴聲演算法的雜項波形。
 
 In Analog mode the Synth Section gives access to a wide array of both Classic analog waveforms and rich Wavetables, as well as a number of different FM algorithms. There is also a selection of Miscellaneous waveforms covering various types of Noise and a Bell algorithm.
 
@@ -351,7 +357,9 @@ The OSC CTRL parameter controls the amount of frequency modulation for all FM ca
 
 ---
 
-## 濾波器區段 / FILTER SECTION
+<a id="濾波器區段--filter-section"></a>
+
+## 濾波器區 / FILTER SECTION
 
 濾波器（Filter——控制哪些頻率可以通過，讓聲音變暗或變亮的裝置）是塑造音色的關鍵元件，也可由濾波器包絡線及 LFO 調變。
 
@@ -504,7 +512,7 @@ The ENV AMT knob governs the amount of modulation to the filter frequency by the
 
 The envelopes are used for shaping the sound over time, from when you first play a key to after it has been released.
 
-合成器區段有三個獨立的包絡線，分別透過振盪器、濾波器和 AMP 區域的 ENVELOPE 按鈕來存取。
+合成器區有三個獨立的包絡線，分別透過振盪器、濾波器和 AMP 區域的 ENVELOPE 按鈕來存取。
 
 The Synth section has three separate envelopes, each accessed by pressing the ENVELOPE button in the OSCILLATORS, FILTER and AMP areas respectively.
 
@@ -706,7 +714,7 @@ In Samples mode, the Unison function is specifically tailored to provide a reali
 
 The ARPEGGIATOR/GATE is turned on by pressing the ARP RUN button. Activating GROUP (Shift + Menu) allows all Layers to share the same settings.
 
-Nord Stage 4 琶音器／節奏閘門區段有三種模式：
+Nord Stage 4 琶音器／節奏閘門區有三種模式：
 
 There are three available modes for the Arpeggiator/Gate section:
 
@@ -778,11 +786,11 @@ Press SHIFT and turn the Arpeggiator RATE/TIME knob clockwise to sync the Arpegg
 
 In KB HOLD (Keyboard Hold) mode, notes keep sounding even if all fingers are lifted from the keys. This is useful both for keeping an arpeggio running without keeping keys pressed down, or for having chords or drones sustained while playing something else using both hands.
 
-預設情況下，KB Hold 影響合成器區段的所有音層。若某個音層不應包含在 KB Hold 功能中，對該音層按下 EXCLUDE（Shift+KB Hold）即可排除。
+預設情況下，KB Hold 影響合成器區的所有音層。若某個音層不應包含在 KB Hold 功能中，對該音層按下 EXCLUDE（Shift+KB Hold）即可排除。
 
 By default KB Hold affects all Layers of the Synth Section. If a Layer should not be included in the KB Hold functionality, press EXCLUDE (Shift+KB Hold) for that Layer.
 
-KB Hold 開啟時，即使合成器區段已關閉，其 LED 仍會保持亮起。這在音層場景切換時（合成器在其中一個場景中為關閉狀態）非常有用。
+KB Hold 開啟時，即使合成器區已關閉，其 LED 仍會保持亮起。這在音層場景切換時（合成器在其中一個場景中為關閉狀態）非常有用。
 
 When KB Hold is turned On, its LED remains lit even if the Synth Section has been turned Off.
 
