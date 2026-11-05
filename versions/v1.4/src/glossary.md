@@ -81,6 +81,7 @@ Program 指整體音色配置，Preset 指可載入的預設音色；Bank 是音
 
 | 英文／面板名稱 | 書中譯法 |
 |---|---|
+| Organ Model | 風琴模組 |
 | Drawbar | 音栓拉桿（Drawbar） |
 | Percussion | 打擊音效（Percussion） |
 | Harmonic / Partial | 諧音／分音（依語境） |

@@ -121,7 +121,7 @@ This setting changes how the Organ is triggered by the keyboard. With "High" sel
 
 ### 5 - B3 風琴音輪模式 / B3 ORGAN TONEWHEEL MODE
 
-設定 B3 風琴模型的音輪串擾和電纜洩漏噪音的程度。
+設定 B3 風琴模組的音輪串擾和電纜洩漏噪音的程度。
 
 Sets the level of tonewheel crosstalk and cable leakage artifacts of the B3 organ model.
 
@@ -129,7 +129,7 @@ Sets the level of tonewheel crosstalk and cable leakage artifacts of the B3 orga
 
 ### 6 - B3 風琴按鍵咔嗒聲 / B3 ORGAN CLICK LEVEL
 
-設定 B3 風琴模型的按鍵咔嗒聲音量。
+設定 B3 風琴模組的按鍵咔嗒聲音量。
 
 Sets the level of the Key Click for the B3 organ model.
 

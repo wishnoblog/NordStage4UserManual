@@ -7,7 +7,7 @@
 
 <img src="img/ch04/organ_panel.png" alt="風琴區段面板總覽（原文第 18 頁）" width="760">
 
-Nord Stage 4 內建六種風琴音色模型，全部以數位方式模擬：一種音輪式 B3 風琴（另附獨立的 B3 Bass 模式）、兩種電晶體風琴（Vox 和 Farfisa），以及兩種管風琴（Pipe Organ）模型。
+Nord Stage 4 內建六種風琴音色模組，全部以數位方式模擬：一種音輪式 B3 風琴（另附獨立的 B3 Bass 模式）、兩種電晶體風琴（Vox 和 Farfisa），以及兩種管風琴（Pipe Organ）模組。
 
 > 💡 什麼是「數位模擬」？就是用電腦音色配置精確重現老式機械樂器的聲音特性，讓你不需要真的擁有那些昂貴的老樂器，也能奏出一模一樣的音色。
 
@@ -91,12 +91,14 @@ PSTICK (Shift + Layer B On/Off) turns on pitch stick functionality for the selec
 
 ---
 
-## 選擇風琴模型 / SELECTING AN ORGAN MODEL
+<a id="選擇風琴模型--selecting-an-organ-model"></a>
+
+## 選擇風琴模組 / SELECTING AN ORGAN MODEL
 
 
-<img src="img/ch04/organ_model.png" alt="風琴模型選擇按鈕與指示燈（原文第 18 頁）" width="132">
+<img src="img/ch04/organ_model.png" alt="風琴模組選擇按鈕與指示燈（原文第 18 頁）" width="132">
 
-按下 **ORGAN MODEL** 選擇按鈕，可以挑選要使用的風琴模型。兩個音層 A 和 B 可以各自使用不同的模型——例如用 B3 疊加管風琴，或把 B3 主鍵盤和 B3 Bass 音栓拉桿分左右手演奏。
+按下 **ORGAN MODEL** 選擇按鈕，可以挑選要使用的風琴模組。兩個音層 A 和 B 可以各自使用不同的模組——例如用 B3 疊加管風琴，或把 B3 主鍵盤和 B3 Bass 音栓拉桿分左右手演奏。
 
 Use the ORGAN MODEL selector button to select an Organ Model to use. Note that different models can be used for Layers A and B, enabling various layered Organ sounds or a B3 manual combined with the B3 Bass drawbars as a split or with one Layer played over MIDI.
 
@@ -212,7 +214,7 @@ In POLY mode (Shift+Volume), the Percussion is polyphonic, producing the percuss
 - **HARMONIC THIRD** 按鈕：在第 2 諧音和第 3 諧音之間切換，作為打擊音效的來源。
   The HARMONIC THIRD button toggles between using the 2nd or 3rd partial as the source for the percussion effect.
 
-> ⚠️ 打擊音效僅適用於 B3 風琴模型。
+> ⚠️ 打擊音效僅適用於 B3 風琴模組。
 
 > The Percussion effect is only available for the B3 organ model.
 
@@ -230,7 +232,9 @@ The key click produced by the random contact bounces is an important audio artif
 
 ---
 
-## Vox 模型 / THE VOX MODEL
+<a id="vox-模型--the-vox-model"></a>
+
+## Vox 模組 / THE VOX MODEL
 
 原版 Vox 風琴大概是 1960 年代初期所有電晶體組合風琴中最著名的一款。電晶體技術讓製造小巧便攜的風琴成為可能。和音輪風琴強勁的音色相比，電晶體風琴整體偏細薄，但 Vox 獨特的音色個性加上輕巧的攜帶性，使它在當時大受歡迎。
 
@@ -251,13 +255,15 @@ For basic drawbar operation, please refer to "Drawbars and LED Graphs" on page 1
 
 ### 音高顫音 / VIBRATO
 
-Vox 模型提供多種音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模型的音高顫音設定和開關狀態由音層 A 和 B 共用。
+Vox 模組提供多種音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模組的音高顫音設定和開關狀態由音層 A 和 B 共用。
 
 There are several types of vibrato and choruses available for the Vox model, which is activated using the ON button in the Vibrato section. The V3 setting is the one that is modeled after the original instrument. The Vox model's Vibrato setting and On/Off state is shared by Layer A and Layer B.
 
 ---
 
-## Farf 模型 / THE FARF MODEL
+<a id="farf-模型--the-farf-model"></a>
+
+## Farf 模組 / THE FARF MODEL
 
 這款復古樂器典型的「嗡嗡（Buzzy）」音色，是有史以來最獨特、最易辨認的風琴音色之一——但你其實也可以從中調出相當多樣的聲音。請注意，各音色的名稱（如長笛、雙簧管、小號等）並不代表真正模仿那些樂器的聲音，而是用來描述音色的基本特質：長笛（Flute）= 柔和、雙簧管（Oboe）= 蘆葦感、小號（Trumpet）= 銅管感，以此類推。
 
@@ -272,7 +278,7 @@ Farf 音栓拉桿／音栓的標籤印在音栓拉桿 LED 上方的一排。
 
 The labels used for the FARF drawbars/registers are printed on the upper row, above the drawbar LEDs or drawbars.
 
-在 Farf 模型下，音栓拉桿的作用是**開關切換器**（或稱「音栓選擇器」），而非連續調整音量。原版樂器使用搖桿開關來選擇不同的音色（實際上是不同的濾波設定），分佈在各個音程（八度）範圍內。
+在 Farf 模組下，音栓拉桿的作用是**開關切換器**（或稱「音栓選擇器」），而非連續調整音量。原版樂器使用搖桿開關來選擇不同的音色（實際上是不同的濾波設定），分佈在各個音程（八度）範圍內。
 
 The drawbars act as on/off switches, or "register selectors" when the Farf model is selected. Instead of drawbars, the original instrument used rocker switches for selecting instrument voices (in reality different filter settings) in various footage (octave) ranges.
 
@@ -316,7 +322,7 @@ Though some voices have the same pitch, they differ in tonal character.
 
 ### 音高顫音 / VIBRATO
 
-Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本音高顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模型提供更多音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的音高顫音由兩個音層共用。
+Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本音高顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模組提供更多音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的音高顫音由兩個音層共用。
 
 The original instrument has two basic vibrato modes; "Light" and "Heavy", with different rates for each mode. There are several types of vibrato and choruses available for the Farf model on the Nord Stage 4, which are activated using the ON button in the Vibrato section. The V1, V2 and the C3 settings are the ones that are modeled after the original instrument's. Note that the Farf vibrato is common for both Layers.
 
@@ -326,25 +332,25 @@ The original instrument has two basic vibrato modes; "Light" and "Heavy", with d
 
 ### 管風琴 1（Pipe 1）/ PIPE 1
 
-管風琴 1 模型並非模仿某台特定的真實樂器，而是提供一種實用的「萬用型」管風琴音色，不管搭不搭配旋轉喇叭效果都好用。某種程度上它的聲音類似 B3——但沒有那些電機械特性和音色雜質。
+管風琴 1 模組並非模仿某台特定的真實樂器，而是提供一種實用的「萬用型」管風琴音色，不管搭不搭配旋轉喇叭效果都好用。某種程度上它的聲音類似 B3——但沒有那些電機械特性和音色雜質。
 
 The PIPE1 organ model does not emulate an existing instrument, but provides a useful "all-purpose" organ, working equally well with or without Rotary Speaker. In some ways its sound is similar to that of the B3 organ – but without any of its electromechanical behaviors and artifacts.
 
 ### 管風琴 2（Pipe 2）/ PIPE 2
 
-管風琴 2 模型忠實重現「主音管（Principal Pipe）」音管組——這是由金屬音管構成的音管組，通常是教堂管風琴的核心音色。與其他試圖模仿別種樂器（長笛、小號、弦樂等）的音管組不同，主音管音色是管風琴所獨有的、不模仿任何其他樂器的原創音色。
+管風琴 2 模組忠實重現「主音管（Principal Pipe）」音管組——這是由金屬音管構成的音管組，通常是教堂管風琴的核心音色。與其他試圖模仿別種樂器（長笛、小號、弦樂等）的音管組不同，主音管音色是管風琴所獨有的、不模仿任何其他樂器的原創音色。
 
 The PIPE2 organ model faithfully recreates a principal pipe section - the sets of metal pipes, or ranks, that commonly make up the backbone of a pipe or church organ. While other ranks may attempt to recreate the sounds of other instruments (flutes, trumpets, strings etc.) the principal sound is non-imitative and unique to the pipe organ.
 
 ### 管風琴音高顫音／合聲 / PIPE VIBRATO/CHORUS
 
-為管風琴啟用 **VIBRATO/CHORUS** 後，模型會切換到音準精確度較低的版本，產生合聲般的效果和輕微的不和諧感，組合多個音栓時增添真實感。
+為管風琴啟用 **VIBRATO/CHORUS** 後，模組會切換到音準精確度較低的版本，產生合聲般的效果和輕微的不和諧感，組合多個音栓時增添真實感。
 
 Activating VIBRATO/CHORUS for the Pipe organs switches to a model which is tuned with less precision. This produces chorus-like effects, slight dissonances and adds realism when combining registers.
 
 ### 管風琴 1 和 2 的音栓 / PIPE 1&2 REGISTERS
 
-兩種管風琴模型可用的音管長度與 B3 模型相同，從 16 呎到 1 呎都有。
+兩種管風琴模組可用的音管長度與 B3 模組相同，從 16 呎到 1 呎都有。
 
 The pipe lengths available for both Pipe models correspond to those of the B3 model, ranging from 16 feet to 1 foot.
 
@@ -393,11 +399,11 @@ Swell（音量漸變）是風琴的經典功能，用連續型踏板來控制。
 
 Swell is a characteristic organ feature, controlled from a continuous pedal. Swell is not only a volume control – for the B3 it also changes the character of the sound in a special way. To use Swell control on the Nord Stage 4, simply plug in a standard expression pedal to the Organ Swell input on the rear panel and configure the pedal in the Pedal Menu (see page 60).
 
-接在 Organ Swell 插孔的風琴表情踏板，對所有風琴模型都有效。
+接在 Organ Swell 插孔的風琴表情踏板，對所有風琴模組都有效。
 
 An expression pedal connected to the Organ Swell input will control Swell for all organ models.
 
-> ⚠️ 和原版樂器相同，在 B3 或 B3 Bass 模式下，Swell 踏板不會把音量降到零；其他風琴模型的 Swell 踏板則可以完全靜音。
+> ⚠️ 和原版樂器相同，在 B3 或 B3 Bass 模式下，Swell 踏板不會把音量降到零；其他風琴模組的 Swell 踏板則可以完全靜音。
 
 > Like on the original instrument, the Swell pedal does not lower the volume all the way to zero when in B3 or B3 Bass mode. For other Organ models the Swell pedal takes the volume all the way down.
 
