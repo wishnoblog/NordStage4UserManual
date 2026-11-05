@@ -1,0 +1,1324 @@
+{
+  "sources": {
+    "old": "Nord Stage 4 User Manual v1.4X Edition L.pdf",
+    "new": "Nord Stage 4 User Manual v1.6X-Edition-N.pdf",
+    "oldPageCount": 76,
+    "newPageCount": 76
+  },
+  "chapters": [
+    {
+      "chapter": "CH1",
+      "title": "介紹",
+      "oldPages": "7–8",
+      "newPages": "7–8",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；保留既有翻譯並核對引用頁碼。",
+      "imageAction": "圖片逐張核對後沿用。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH2",
+      "title": "總覽",
+      "oldPages": "9–10",
+      "newPages": "9–10",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；效果器章節交叉引用由 47 改為 48。",
+      "imageAction": "圖片逐張核對後沿用。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH3",
+      "title": "快速上手",
+      "oldPages": "11–17",
+      "newPages": "11–17",
+      "decision": "可沿用",
+      "textAction": "操作正文未見實質修訂；Morph、儲存及選單等引用頁碼需更新。",
+      "imageAction": "保留人工配置，核對英文來源頁碼。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH4",
+      "title": "風琴區段",
+      "oldPages": "18–22",
+      "newPages": "18–22",
+      "decision": "圖片需更新",
+      "textAction": "Vox 音高對照圖標籤由 Vox Continental 改成 Vx Original。",
+      "imageAction": "重擷取 Vox Upper／Lower 圖，其餘圖待核對。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH5",
+      "title": "鋼琴區段",
+      "oldPages": "23–26",
+      "newPages": "23–26",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；跨章引用頁碼需更新。",
+      "imageAction": "既有 11 張局部圖可作為重新核對基礎。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH6",
+      "title": "合成器區段",
+      "oldPages": "27–36",
+      "newPages": "27–37",
+      "decision": "局部補譯",
+      "textAction": "新增 Pitch and Fine Tune；多處文字／圖示重新分頁，章末延至 37 頁。",
+      "imageAction": "波形、包絡線、LFO、琶音器及 Vibrato 的來源頁碼須逐圖核對。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH7",
+      "title": "音色配置管理",
+      "oldPages": "37–44",
+      "newPages": "38–45",
+      "decision": "局部補譯",
+      "textAction": "Morph 補充 TP-2 左／中踏板 Control 設定；另有少量措辭修訂。",
+      "imageAction": "全章來源頁碼加 1，圖示仍須視覺確認。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH8",
+      "title": "外部 MIDI 控制",
+      "oldPages": "45–46",
+      "newPages": "46–47",
+      "decision": "少量修訂",
+      "textAction": "Extern Menu 參照措辭精簡；操作正文可作沿用基礎。",
+      "imageAction": "全章來源頁碼加 1，核對四張局部圖。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH9",
+      "title": "音層效果",
+      "oldPages": "47–52",
+      "newPages": "48–53",
+      "decision": "優先更新",
+      "textAction": "新增 Global Mode and Reverb Placement，補充 Global Reverb 在 Rotary 與音層推桿之後。",
+      "imageAction": "Reverb／Rotary 排版改動，重新確認裁切邊界。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH10",
+      "title": "MIDI",
+      "oldPages": "53–55",
+      "newPages": "54–56",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；頁碼由 53–55 移至 54–56。",
+      "imageAction": "Panic 圖的原文來源改為第 56 頁。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH11",
+      "title": "選單設定",
+      "oldPages": "56–62",
+      "newPages": "57–63",
+      "decision": "優先更新",
+      "textAction": "表情踏板類型與預設值、TP-1／TP-2 設定分流、Control 與 Assigned 命名均需更新。",
+      "imageAction": "選單總覽圖逐張核對；新增設定不要用舊畫面代替。",
+      "status": "待更新"
+    },
+    {
+      "chapter": "CH12",
+      "title": "Nord Sound Manager",
+      "oldPages": "63–63",
+      "newPages": "64–64",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；舊頁首誤標第 5 章在新版消失。",
+      "imageAction": "介面圖需確認；來源頁碼 63 改為 64。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "CH13",
+      "title": "Nord Sample Editor 4",
+      "oldPages": "64–64",
+      "newPages": "65–65",
+      "decision": "可沿用",
+      "textAction": "正文未見實質修訂；來源頁碼 64 改為 65。",
+      "imageAction": "圖示逐張核對後沿用。",
+      "status": "待核對"
+    },
+    {
+      "chapter": "附錄",
+      "title": "附錄（含索引）",
+      "oldPages": "65–70",
+      "newPages": "66–71",
+      "decision": "局部補譯",
+      "textAction": "Control Pedal 接孔新增 TP-2 左／中踏板替代控制說明；控制器表與索引頁碼後移。",
+      "imageAction": "接線圖與 CC／NRPN 表按新版逐項核對，索引重核頁碼。",
+      "status": "待更新"
+    }
+  ],
+  "details": [
+    {
+      "id": "D01",
+      "chapter": "CH0／全書",
+      "subject": "版本與原文檔名",
+      "oldPages": "封面",
+      "newPages": "封面",
+      "kind": "版本標示",
+      "before": "OS version 1.4x；Edition L",
+      "after": "OS version 1.6x；Edition N",
+      "action": "兩版分開標示，原文 PDF 與圖片來源不得混用。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D02",
+      "chapter": "CH4",
+      "subject": "Vox 音高對照圖",
+      "oldPages": "20",
+      "newPages": "20",
+      "kind": "圖示文字",
+      "before": "Vox Continental Upper／Lower",
+      "after": "Vx Original Upper／Lower",
+      "action": "1.6x 重新擷取 Vox 圖，保留原有中文說明。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D03",
+      "chapter": "CH6",
+      "subject": "Pitch and Fine Tune",
+      "oldPages": "28",
+      "newPages": "28",
+      "kind": "新增說明",
+      "before": "無同名獨立小節。",
+      "after": "Samples／Analog 音層可由 PITCH/SMP 開啟 OSC PITCH；Pitch 為 −24～+24 半音，Fine Tune 為 ±50 cents。",
+      "action": "新增小節中英對照，確認 Fine Tune 使用「微調」或「精細調音」。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D04",
+      "chapter": "CH6",
+      "subject": "波形、包絡線、LFO 與 Vibrato 分頁",
+      "oldPages": "28–36",
+      "newPages": "28–37",
+      "kind": "重新排版",
+      "before": "Waveform Selection 從第 28 頁開始；Envelope 在 32 頁、LFO 在 33 頁。",
+      "after": "Waveform Selection 移至 29 頁；Envelope 移至 33 頁，LFO 移至 34 頁；部分小節同頁。",
+      "action": "沿用正文前核對圖示頁碼，不能全章一律加 1。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D05",
+      "chapter": "CH7",
+      "subject": "Morph 與 TP-2 Control",
+      "oldPages": "37",
+      "newPages": "38",
+      "kind": "新增說明",
+      "before": "Morph 來源含 Wheel、Aftertouch、Control Pedal。",
+      "after": "TP-2 左／中踏板可設為 Control，鏡像 Control Pedal 功能，包含已指定的 Morph。",
+      "action": "在 Morph 說明補上踏板 Control 行為與第 60 頁參照。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D06",
+      "chapter": "CH7",
+      "subject": "小幅文句修訂",
+      "oldPages": "38–39",
+      "newPages": "39–40",
+      "kind": "措辭修訂",
+      "before": "sections；all sound should quickly be eliminated",
+      "after": "section’s；all sound should quickly be terminated",
+      "action": "核對文意，既有「各區段」「緊急停音」可作沿用基礎。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D07",
+      "chapter": "CH8",
+      "subject": "Extern Menu 引用",
+      "oldPages": "46",
+      "newPages": "47",
+      "kind": "措辭修訂",
+      "before": "see “Extern menu” on page 62",
+      "after": "see page 63",
+      "action": "更新新版引用位置，保留 Bank Select／Program 操作說明。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D08",
+      "chapter": "CH9",
+      "subject": "Global Mode and Reverb Placement",
+      "oldPages": "51",
+      "newPages": "52",
+      "kind": "新增／重組說明",
+      "before": "說明 Global 套用所有區段音層，未在此段明示 Rotary 與推桿之後的位置。",
+      "after": "Global Reverb 位於 Rotary Speaker 與各音層音量推桿之後。",
+      "action": "新增小節並重譯路由說明；同時檢查 To Rotary 段落敘述是否需加註例外。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D09",
+      "chapter": "CH9",
+      "subject": "Rotary Speaker and Reverb",
+      "oldPages": "52",
+      "newPages": "53",
+      "kind": "行為說明修訂",
+      "before": "Reverb 與其他效果都在 Rotary Speaker 之前。",
+      "after": "補上例外：Reverb 設為 Global 時，位於 Rotary Speaker 之後。",
+      "action": "必須更新中文例外條件，避免沿用舊版一概在前的說明。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D10",
+      "chapter": "CH9",
+      "subject": "Dry/Wet 與 Rotor 措辭",
+      "oldPages": "51–52",
+      "newPages": "52–53",
+      "kind": "措辭修訂",
+      "before": "fully wet 段落及 slow/stopfast 寫法。",
+      "after": "fully wet 句子改寫；slow/stop-fast 加入連字號。",
+      "action": "保留技術含義，依新版段落順序校對，按鈕名稱以原文為準。",
+      "priority": "一般",
+      "status": "待更新"
+    },
+    {
+      "id": "D11",
+      "chapter": "CH11",
+      "subject": "Control Pedal Type",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "類型／預設值",
+      "before": "Roland（預設）、Yamaha、Korg、Fatar、Nord SP-2。",
+      "after": "加入 Nord EP15／EP30 說明；類型選單 Nord EP 為預設，Roland 保留為選項。",
+      "action": "更新支援型號與設定範圍，勿把舊版 Roland 預設值帶入。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D12",
+      "chapter": "CH11",
+      "subject": "Swell Pedal Type",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "類型／預設值",
+      "before": "Roland（預設）、Yamaha、Korg、Fatar。",
+      "after": "加入 Nord EP（預設），其餘類型保留。",
+      "action": "更新 Swell Pedal 類型與預設值。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D13",
+      "chapter": "CH11",
+      "subject": "Sustain Pedal／TP-1",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "設定重新分流",
+      "before": "FUNC 說明延音與 Rotor Hold／Toggle。",
+      "after": "新增 LEFT、MID、RIGHT：選擇 Nord TP-1 時，左右／中踏板在此頁設定；Control 僅 TP-2 支援。",
+      "action": "重譯設定流程，清楚區分單踏板、TP-1 與 TP-2。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D14",
+      "chapter": "CH11",
+      "subject": "Triple Pedal Function／TP-2",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "適用範圍修訂",
+      "before": "TP-1 與 TP-2 都由三踏板功能項目說明。",
+      "after": "此項只影響接在 TRIPLE PEDAL 插孔的 TP-2；TP-1 請至前一選單頁。",
+      "action": "調整小節適用機型與操作位置。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D15",
+      "chapter": "CH11",
+      "subject": "TP-2 左／中踏板 Control",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "新增選項",
+      "before": "Left／Middle 範圍未列 Control。",
+      "after": "Left／Middle 範圍增加 Control（Control Pedal）。",
+      "action": "補譯新增選項，與 CH7 Morph 和附錄說明一致。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D16",
+      "chapter": "CH11",
+      "subject": "Panel Assigned／User Assigned",
+      "oldPages": "59",
+      "newPages": "60",
+      "kind": "原文不一致",
+      "before": "段落與左右／中踏板範圍使用 User Assigned。",
+      "after": "段落及 Range Left 改為 Panel Assigned；Range Middle 仍列 User Assigned。",
+      "action": "保留原文差異註記，待官方說明或 OS 1.6x 實機畫面確認後定譯。",
+      "priority": "優先",
+      "status": "原文待確認"
+    },
+    {
+      "id": "D17",
+      "chapter": "附錄",
+      "subject": "Control Pedal 接孔說明",
+      "oldPages": "65",
+      "newPages": "66",
+      "kind": "新增說明",
+      "before": "Control Pedal 接孔的用途與表情踏板支援說明。",
+      "after": "補充 TP-2 左／中踏板亦可設為 Control Pedal 功能，參見第 60 頁。",
+      "action": "補譯新提示並核對與 CH7／CH11 一致。",
+      "priority": "優先",
+      "status": "待更新"
+    },
+    {
+      "id": "D18",
+      "chapter": "全書",
+      "subject": "目錄、交叉引用與圖片來源",
+      "oldPages": "37–70",
+      "newPages": "38–71",
+      "kind": "頁碼／版本",
+      "before": "CH7 起舊章節頁碼及局部圖的 1.4x 原文頁碼。",
+      "after": "CH7 起章節加 1；CH6 內部依實際小節逐項對應；索引亦後移。",
+      "action": "沿用譯文時同步更新引用，所有舊圖暫列待視覺核對。",
+      "priority": "一般",
+      "status": "待更新"
+    }
+  ],
+  "images": [
+    {
+      "chapter": "CH4",
+      "heading": "ABOUT THE ORGAN SECTION",
+      "image": "img/ch04/organ_panel.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "ON/OFF AND LEVEL",
+      "image": "img/ch04/organ_on_level.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "LAYER BUTTONS AND FX FOCUS",
+      "image": "img/ch04/organ_layers.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "OCTAVE SHIFT AND KB ZONE",
+      "image": "img/ch04/organ_octave_zone.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "SELECTING AN ORGAN MODEL",
+      "image": "img/ch04/organ_model.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "DRAWBARS AND LED GRAPHS",
+      "image": "img/ch04/organ_drawbars.png",
+      "oldPage": 18,
+      "newPage": 18,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "B3 DRAWBARS",
+      "image": "img/ch04/b3_harmonics.png",
+      "oldPage": 19,
+      "newPage": 19,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "VIBRATO & CHORUS",
+      "image": "img/ch04/vibrato_chorus.png",
+      "oldPage": 19,
+      "newPage": 19,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "PERCUSSION",
+      "image": "img/ch04/percussion.png",
+      "oldPage": 20,
+      "newPage": 20,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "VOX DRAWBARS",
+      "image": "img/ch04/vox_harmonics.png",
+      "oldPage": 20,
+      "newPage": 20,
+      "action": "重擷取新版圖示",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "FARF REGISTERS",
+      "image": "img/ch04/farf_registers.png",
+      "oldPage": 21,
+      "newPage": 21,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH4",
+      "heading": "PRESET AND DRAWBAR LIVE",
+      "image": "img/ch04/drawbar_live.png",
+      "oldPage": 21,
+      "newPage": 21,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "ON/OFF AND LEVEL",
+      "image": "img/ch05/piano_panel.png",
+      "oldPage": 23,
+      "newPage": 23,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "LAYER BUTTONS AND FX FOCUS",
+      "image": "img/ch05/piano_layers.png",
+      "oldPage": 23,
+      "newPage": 23,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "OCTAVE SHIFT AND KB ZONE",
+      "image": "img/ch05/piano_octave_zone.png",
+      "oldPage": 23,
+      "newPage": 23,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "ABOUT PIANO SIZE",
+      "image": "img/ch05/piano_sizes.png",
+      "oldPage": 24,
+      "newPage": 24,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "TYPE AND MODEL",
+      "image": "img/ch05/piano_select.png",
+      "oldPage": 24,
+      "newPage": 24,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "PIANO SELECT",
+      "image": "img/ch05/piano_display.png",
+      "oldPage": 24,
+      "newPage": 24,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "LIST VIEW",
+      "image": "img/ch05/piano_list.png",
+      "oldPage": 25,
+      "newPage": 25,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "KB TOUCH",
+      "image": "img/ch05/kb_touch.png",
+      "oldPage": 25,
+      "newPage": 25,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "SOFT RELEASE",
+      "image": "img/ch05/acoustics.png",
+      "oldPage": 25,
+      "newPage": 25,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "TIMBRE",
+      "image": "img/ch05/timbre.png",
+      "oldPage": 26,
+      "newPage": 26,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH5",
+      "heading": "UNISON",
+      "image": "img/ch05/piano_unison.png",
+      "oldPage": 26,
+      "newPage": 26,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ABOUT THE SYNTH SECTION",
+      "image": "img/ch06/synth_panel.png",
+      "oldPage": 27,
+      "newPage": 27,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "SYNTH SECTION MODES",
+      "image": "img/ch06/synth_mode.png",
+      "oldPage": 28,
+      "newPage": 28,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "SAMPLES",
+      "image": "img/ch06/sample_library.png",
+      "oldPage": 28,
+      "newPage": 28,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ANALOG - PURE",
+      "image": "img/ch06/pure_waveforms.png",
+      "oldPage": 29,
+      "newPage": 29,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "SYNC",
+      "image": "img/ch06/sync_waveforms.png",
+      "oldPage": 29,
+      "newPage": 29,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "SHAPE",
+      "image": "img/ch06/shape_waveforms.png",
+      "oldPage": 29,
+      "newPage": 29,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "SHAPE SINE",
+      "image": "img/ch06/shape_sine_waveforms.png",
+      "oldPage": 29,
+      "newPage": 30,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "FILTER TYPE",
+      "image": "img/ch06/filter_display.png",
+      "oldPage": 31,
+      "newPage": 31,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "**LP 24 & LP 12（低通濾波器）**",
+      "image": "img/ch06/filter_lp.png",
+      "oldPage": 31,
+      "newPage": 31,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "**LP+HP（低通＋高通組合濾波器）**",
+      "image": "img/ch06/filter_lphp.png",
+      "oldPage": 31,
+      "newPage": 31,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "**HP（高通濾波器）**",
+      "image": "img/ch06/filter_hp.png",
+      "oldPage": 31,
+      "newPage": 31,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "**BP（帶通濾波器）**",
+      "image": "img/ch06/filter_bp.png",
+      "oldPage": 31,
+      "newPage": 31,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "KEYBOARD TRACKING",
+      "image": "img/ch06/keyboard_tracking.png",
+      "oldPage": 32,
+      "newPage": 32,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "FILTER FREQUENCY",
+      "image": "img/ch06/filter_freq.png",
+      "oldPage": 32,
+      "newPage": 32,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "FILTER FREQUENCY",
+      "image": "img/ch06/filter_freq_response.png",
+      "oldPage": 32,
+      "newPage": 32,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "FILTER RESONANCE",
+      "image": "img/ch06/filter_res.png",
+      "oldPage": 32,
+      "newPage": 32,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ENV AMT (ENVELOPE AMOUNT)",
+      "image": "img/ch06/env_amount.png",
+      "oldPage": 32,
+      "newPage": 32,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "THE ENVELOPES",
+      "image": "img/ch06/envelope_curve.png",
+      "oldPage": 32,
+      "newPage": 33,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ATTACK, DECAY AND RELEASE TIMES",
+      "image": "img/ch06/envelope_display.png",
+      "oldPage": 32,
+      "newPage": 33,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "OSCILLATOR ENVELOPE",
+      "image": "img/ch06/osc_envelope.png",
+      "oldPage": 33,
+      "newPage": 33,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "FILTER ENVELOPE",
+      "image": "img/ch06/filter_envelope.png",
+      "oldPage": 33,
+      "newPage": 33,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "AMP ENVELOPE",
+      "image": "img/ch06/amp_envelope.png",
+      "oldPage": 33,
+      "newPage": 33,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "LFO",
+      "image": "img/ch06/lfo_controls.png",
+      "oldPage": 33,
+      "newPage": 34,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "LFO WAVEFORM",
+      "image": "img/ch06/lfo_waveforms.png",
+      "oldPage": 34,
+      "newPage": 34,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "VOICE",
+      "image": "img/ch06/voice_controls.png",
+      "oldPage": 34,
+      "newPage": 34,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "UNISON",
+      "image": "img/ch06/synth_unison.png",
+      "oldPage": 34,
+      "newPage": 35,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ARPEGGIATOR/GATE",
+      "image": "img/ch06/arp_gate.png",
+      "oldPage": 34,
+      "newPage": 35,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "PATTERN",
+      "image": "img/ch06/pattern_edit.png",
+      "oldPage": 35,
+      "newPage": 36,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ARPEGGIATOR MENU",
+      "image": "img/ch06/arp_menu.png",
+      "oldPage": 35,
+      "newPage": 35,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "KB HOLD",
+      "image": "img/ch06/kb_hold.png",
+      "oldPage": 36,
+      "newPage": 36,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "VIBRATO",
+      "image": "img/ch06/vibrato_controls.png",
+      "oldPage": 36,
+      "newPage": 37,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "VIBRATO MENU",
+      "image": "img/ch06/vibrato_menu.png",
+      "oldPage": 36,
+      "newPage": 37,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "OSCILLATOR ENVELOPE",
+      "image": "img/ch06/osc_env_amount.png",
+      "oldPage": 33,
+      "newPage": 33,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH6",
+      "heading": "ARPEGGIATOR RATE/TIME",
+      "image": "img/ch06/arp_rate_time.png",
+      "oldPage": 35,
+      "newPage": 36,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "PROGRAM OVERVIEW",
+      "image": "img/ch07/program_panel.png",
+      "oldPage": 37,
+      "newPage": 38,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "MORPH ASSIGN",
+      "image": "img/ch07/morph_assign.png",
+      "oldPage": 37,
+      "newPage": 38,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "MORPH INDICATORS",
+      "image": "img/ch07/morph_led.png",
+      "oldPage": 38,
+      "newPage": 39,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "SPLIT",
+      "image": "img/ch07/split_controls.png",
+      "oldPage": 38,
+      "newPage": 39,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "CHOOSING A SPLIT POSITION",
+      "image": "img/ch07/split_display.png",
+      "oldPage": 38,
+      "newPage": 39,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "TRANSPOSE ON/SET",
+      "image": "img/ch07/transpose.png",
+      "oldPage": 39,
+      "newPage": 40,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "STORE",
+      "image": "img/ch07/store_button.png",
+      "oldPage": 39,
+      "newPage": 40,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "STORING A PROGRAM",
+      "image": "img/ch07/store_display.png",
+      "oldPage": 39,
+      "newPage": 40,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "STORE AS",
+      "image": "img/ch07/store_as.png",
+      "oldPage": 40,
+      "newPage": 41,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "PROGRAM DIAL",
+      "image": "img/ch07/program_dial.png",
+      "oldPage": 40,
+      "newPage": 41,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "PAGE BUTTONS",
+      "image": "img/ch07/page_buttons.png",
+      "oldPage": 40,
+      "newPage": 41,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "MIDI AND EXTERN INDICATORS",
+      "image": "img/ch07/midi_leds.png",
+      "oldPage": 40,
+      "newPage": 41,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "PRESET LIBRARY",
+      "image": "img/ch07/preset_library.png",
+      "oldPage": 40,
+      "newPage": 41,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "STORING PRESETS TO THE PRESET LIBRARY",
+      "image": "img/ch07/preset_store.png",
+      "oldPage": 41,
+      "newPage": 42,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "SOLO",
+      "image": "img/ch07/solo.png",
+      "oldPage": 41,
+      "newPage": 42,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "SECTION EDIT",
+      "image": "img/ch07/section_edit.png",
+      "oldPage": 42,
+      "newPage": 43,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "LAYER INIT",
+      "image": "img/ch07/layer_init.png",
+      "oldPage": 42,
+      "newPage": 43,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "LAYER SCENE II",
+      "image": "img/ch07/layer_scene.png",
+      "oldPage": 42,
+      "newPage": 43,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "MONITOR / COPY / PASTE",
+      "image": "img/ch07/copy_paste.png",
+      "oldPage": 42,
+      "newPage": 43,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "MONITOR / COPY / PASTE",
+      "image": "img/ch07/paste_display.png",
+      "oldPage": 42,
+      "newPage": 43,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "SHIFT / EXIT BUTTONS",
+      "image": "img/ch07/shift_exit.png",
+      "oldPage": 43,
+      "newPage": 44,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "HOLD TO SHIFT FUNCTION",
+      "image": "img/ch07/hold_to_shift.png",
+      "oldPage": 43,
+      "newPage": 44,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "LIVE MODE",
+      "image": "img/ch07/live_mode.png",
+      "oldPage": 43,
+      "newPage": 44,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "NUM PAD (NUMERIC PAD)",
+      "image": "img/ch07/program_buttons.png",
+      "oldPage": 43,
+      "newPage": 44,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "NUM PAD (NUMERIC PAD)",
+      "image": "img/ch07/numeric_pad.png",
+      "oldPage": 43,
+      "newPage": 44,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "ORGANIZE",
+      "image": "img/ch07/organize.png",
+      "oldPage": 44,
+      "newPage": 45,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "- **SWAP**",
+      "image": "img/ch07/organize_swap.png",
+      "oldPage": 44,
+      "newPage": 45,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "- **MOVE**",
+      "image": "img/ch07/organize_move.png",
+      "oldPage": 44,
+      "newPage": 45,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH7",
+      "heading": "PROGRAM LEVELS",
+      "image": "img/ch07/program_levels.png",
+      "oldPage": 44,
+      "newPage": 45,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH8",
+      "heading": "EXTERN MODE",
+      "image": "img/ch08/extern_mode.png",
+      "oldPage": 45,
+      "newPage": 46,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH8",
+      "heading": "SETTING UP",
+      "image": "img/ch08/extern_midi.png",
+      "oldPage": 45,
+      "newPage": 46,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH8",
+      "heading": "OCTAVE SHIFT",
+      "image": "img/ch08/extern_octave.png",
+      "oldPage": 45,
+      "newPage": 46,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH8",
+      "heading": "EXTERN PARAMETERS",
+      "image": "img/ch08/extern_parameters.png",
+      "oldPage": 46,
+      "newPage": 47,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "OVERVIEW",
+      "image": "img/ch09/effects_panel.png",
+      "oldPage": 47,
+      "newPage": 48,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "MOD 1",
+      "image": "img/ch09/mod1.png",
+      "oldPage": 48,
+      "newPage": 49,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "MOD 2",
+      "image": "img/ch09/mod2.png",
+      "oldPage": 49,
+      "newPage": 50,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "DELAY",
+      "image": "img/ch09/delay.png",
+      "oldPage": 49,
+      "newPage": 50,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "AMP SIM/EQ",
+      "image": "img/ch09/amp_eq.png",
+      "oldPage": 50,
+      "newPage": 51,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "COMPRESSOR",
+      "image": "img/ch09/compressor.png",
+      "oldPage": 51,
+      "newPage": 52,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "REVERB",
+      "image": "img/ch09/reverb.png",
+      "oldPage": 51,
+      "newPage": 52,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH9",
+      "heading": "ROTARY SPEAKER",
+      "image": "img/ch09/rotary_speaker.png",
+      "oldPage": 52,
+      "newPage": 53,
+      "action": "重新定位並核對裁切",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH10",
+      "heading": "PANIC",
+      "image": "img/ch10/midi_panic.png",
+      "oldPage": 55,
+      "newPage": 56,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH11",
+      "heading": "OVERVIEW",
+      "image": "img/ch11/menu_soft_buttons.png",
+      "oldPage": 56,
+      "newPage": 57,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH11",
+      "heading": "6 - 輸出概覽 / OUTPUT OVERVIEW",
+      "image": "img/ch11/output_overview.png",
+      "oldPage": 58,
+      "newPage": 59,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH11",
+      "heading": "7 - 踏板概覽 / PEDAL OVERVIEW",
+      "image": "img/ch11/pedal_overview.png",
+      "oldPage": 60,
+      "newPage": 61,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH11",
+      "heading": "10 - MIDI 概覽 / MIDI OVERVIEW",
+      "image": "img/ch11/midi_overview.png",
+      "oldPage": 61,
+      "newPage": 62,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    },
+    {
+      "chapter": "CH12",
+      "heading": "ABOUT NORD SOUND MANAGER",
+      "image": "img/ch12/sound_manager.png",
+      "oldPage": 63,
+      "newPage": 64,
+      "action": "核對新版圖示後沿用",
+      "status": "待視覺核對"
+    }
+  ]
+}

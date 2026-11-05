@@ -6,7 +6,7 @@
 
 ## 感謝您！/ THANK YOU!
 
-感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援樣本播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區段，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。
+感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援取樣音色播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區段，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。
 
 Thank you for choosing the Nord Stage 4! Representing our vision of the ultimate stage keyboard, our new flagship instrument features award-winning technologies such as the Nord Wave 2 Synth engine with Sample playback, the acclaimed Nord C2D Organ engine, an enhanced Piano section and extensive hands-on Effects – all in one exceptional performance keyboard.
 
@@ -18,10 +18,10 @@ Nord Stage 4 具備以下主要功能：
 
 The Nord Stage 4 has the following main features:
 
-- **風琴區**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
+- **風琴區段**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。  
   **Organ section** with faithful reproductions of three classic organ models: B3 with a dedicated B3 Bass mode, Vox and Farfisa. There are also two Pipe organ models, each with its own distinct character.
 
-- **實體風琴音桿**，配備 LED 顯示。  
+- **實體風琴音栓拉桿**，配備 LED 顯示。  
   **Physical Organ drawbars** with LED graphs.
 
 - **每個風琴、鋼琴及合成器音層均配備實體音量推桿**，配備 LED 顯示。  
@@ -30,7 +30,7 @@ The Nord Stage 4 has the following main features:
 - **鋼琴區段**，含兩個獨立音層：原聲大鋼琴與直立式鋼琴、音叉式與簧片式電鋼琴、Clavinet 與大鍵琴音色、數位類別（包含豐富的鋼琴音層）。Misc 類別提供多種富表現力的槌擊樂器音色，如馬林巴琴和顫音琴。  
   **Piano section** with two independent Layers. Acoustic Grand and Upright pianos, tine and reed based Electric pianos, Clavinet and Harpsichord sounds and a Digital category including rich sounding piano layers. The Misc category provides a selection of expressive mallet sounds such as a Marimba and a Vibraphone.
 
-- **合成器區段**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援樣本播放、類比波形、多種 FM 演算法、數位波形及超級波形。  
+- **合成器區段**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援取樣音色播放、類比波形、多種 FM 演算法、數位波形及超級波形。  
   **Synth section** with three independent Layers based on the Nord Wave 2 synthesizer with dedicated OLED display, Sample playback, Analog style waveforms, a variety of FM algorithms, digital Waves and massive Super Waves.
 
 - **完整且獨立的效果區段**，適用於每個鋼琴和合成器音層，兩個風琴音層共用一個效果區段。  
@@ -39,7 +39,7 @@ The Nord Stage 4 has the following main features:
 - **風琴、鋼琴及合成器預設音色庫**，每個區段均有豐富的音色選擇（含效果）。  
   **Organ, Piano and Synth Preset banks** with a large selection of sounds – including effects – for each section.
 
-- **無縫切換**：切換程式（Program）時延音音符持續發聲。  
+- **無縫切換**：切換音色配置（Program）時延音音符持續發聲。  
   **Seamless transitions**: Sustaining notes are maintained when changing programs.
 
 - **合成器區段的外部模式**，用於控制外部 MIDI 樂器。  
@@ -48,16 +48,16 @@ The Nord Stage 4 has the following main features:
 - **強大的 Morph 功能**，可透過實體控制器同時調整多個參數。  
   **Powerful Morph features** for changing multiple parameters using physical controls.
 
-- **四個鍵盤分區**，可調整分割點交叉漸變，讓音色在分割點之間平滑過渡。  
+- **四個鍵盤區域**，可調整分區點平滑淡出淡入，讓音色在分區點之間平滑過渡。  
   **Four keyboard zones** with user adjustable split cross-fade allowing sounds to smoothly transition over split points.
 
-- **兩個音層場景（Layer Scenes）**，允許在同一個程式中使用不同的音層配置。  
+- **兩個音層場景（Layer Scenes）**，允許在同一個音色配置中使用不同的音層配置。  
   **Two Layer Scenes**, allowing different Layer configurations within the same Program.
 
 - **豐富的踏板功能**，支援全新 Nord Triple Pedal 2 和 Nord Sustain Pedal 2。  
   **Extensive pedal functionality** including support for the new Nord Triple Pedal 2 and Nord Sustain Pedal 2.
 
-- **Nord Stage 4 HA88 和 HA73 型號**配備全配重三段感應琴鍵。**Nord Stage 4 Compact** 配備 73 鍵半配重三段感應「瀑布式」琴鍵（E-E）。  
+- **Nord Stage 4 HA88 和 HA73 型號**配備全配重三感應器鍵盤。**Nord Stage 4 Compact** 配備 73 鍵半配重三段感應「瀑布式」琴鍵（E-E）。  
   **Nord Stage 4 HA88 and HA73 models** with fully weighted triple sensor keybeds. Nord Stage 4 Compact with a 73-note semi weighted triple sensor "waterfall" keybed (E-E).
 
 ---
@@ -99,15 +99,15 @@ This manual is available as a digital PDF file which can be downloaded from the 
 
 ## 免費音色 / FREE SOUNDS
 
-由於 Nord Stage 4 採用開放系統設計，每一個鋼琴和樣本音色都可以替換為來自持續擴充的 Nord Piano Library 和 Nord Sample Library 的音色。這些免費音色庫可在 www.nordkeyboards.com 找到，同時也提供免費的 Nord Sound Manager 應用程式，用於下載和管理 Nord Stage 4 的內容。
+由於 Nord Stage 4 採用開放系統設計，每一個鋼琴和取樣音色都可以替換為來自持續擴充的 Nord Piano Library 和 Nord Sample Library 的音色。這些免費音色庫可在 www.nordkeyboards.com 找到，同時也提供免費的 Nord Sound Manager 應用程式，用於下載和管理 Nord Stage 4 的內容。
 
 Since the Nord Stage 4 is designed as an open system, each and every piano and sample in the Nord Stage 4 can be replaced with sounds from the continuously expanding Nord Piano Library and the Nord Sample Library. These free sound libraries are found at www.nordkeyboards.com where you will also find the free Nord Sound Manager application which is used for downloading and organizing content on the Nord Stage 4.
 
 ---
 
-## 自訂樣本 / CUSTOM SAMPLES
+## 自訂取樣音色 / CUSTOM SAMPLES
 
-使用 Nord Sample Editor 4 可以快速輕鬆地為 Nord Stage 4 建立自訂樣本樂器。無論是建立完整對應的樂器、簡單的音效，還是將取樣的歌曲前奏指定到單一琴鍵，Nord Sample Editor 4 與 Nord Stage 4 結合後開創了無限可能。
+使用 Nord Sample Editor 4 可以快速輕鬆地為 Nord Stage 4 建立自訂取樣音色樂器。無論是建立完整對應的樂器、簡單的音效，還是將取樣的歌曲前奏指定到單一琴鍵，Nord Sample Editor 4 與 Nord Stage 4 結合後開創了無限可能。
 
 Use the Nord Sample Editor 4 for quick and easy creation of custom sample instruments for the Nord Stage 4. Whether creating a fully mapped instrument, a simple FX sound or assigning a sampled song intro to a single key, the Nord Sample Editor 4 opens up many possibilities together with the Nord Stage 4.
 
@@ -121,9 +121,9 @@ The Nord Sample Editor 4 can be downloaded from the Software section at www.nord
 
 ---
 
-## 恢復原廠預設值 / RESTORING THE FACTORY PRESETS
+## 恢復原廠預設音色 / RESTORING THE FACTORY PRESETS
 
-原廠程式、預設值、樣本和鋼琴音色可作為個別的 Nord Sound Manager 備份檔從我們的網站下載。另外也提供整台樂器及其原廠內容的完整備份，以便在需要時將其恢復至原始狀態。
+原廠音色配置、預設值、取樣音色和鋼琴音色可作為個別的 Nord Sound Manager 備份檔從我們的網站下載。另外也提供整台樂器及其原廠內容的完整備份，以便在需要時將其恢復至原始狀態。
 
 The factory programs, presets, samples and pianos are available as individual Nord Sound Manager backup files for download from our website. There is also a complete backup of the entire instrument and its factory content, in case it needs to be restored to its original state.
 

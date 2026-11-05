@@ -1,0 +1,842 @@
+[
+  {
+    "chapter": 1,
+    "oldStart": 7,
+    "oldEnd": 8,
+    "newStart": 7,
+    "newEnd": 8,
+    "ratio": 1.0,
+    "changes": []
+  },
+  {
+    "chapter": 2,
+    "oldStart": 9,
+    "oldEnd": 10,
+    "newStart": 9,
+    "newEnd": 10,
+    "ratio": 1.0,
+    "changes": []
+  },
+  {
+    "chapter": 3,
+    "oldStart": 11,
+    "oldEnd": 17,
+    "newStart": 11,
+    "newEnd": 17,
+    "ratio": 1.0,
+    "changes": []
+  },
+  {
+    "chapter": 4,
+    "oldStart": 18,
+    "oldEnd": 22,
+    "newStart": 18,
+    "newEnd": 22,
+    "ratio": 0.9984591679506933,
+    "changes": [
+      {
+        "kind": "replace",
+        "oldPage": 20,
+        "newPage": 20,
+        "old": "vox continental",
+        "new": "vx original",
+        "context": "different filter settings ) in various footage ( octave ) ranges . drawbar leds 5-8 are lit up vx original upper vx original lower c3 4 . organ for an activated voice , and drawbar leds 1-4 are"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 20,
+        "newPage": 20,
+        "old": "vox continental",
+        "new": "vx original",
+        "context": ") in various footage ( octave ) ranges . drawbar leds 5-8 are lit up vx original upper vx original lower c3 4 . organ for an activated voice , and drawbar leds 1-4 are lit up for"
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "oldStart": 23,
+    "oldEnd": 26,
+    "newStart": 23,
+    "newEnd": 26,
+    "ratio": 1.0,
+    "changes": []
+  },
+  {
+    "chapter": 6,
+    "oldStart": 27,
+    "oldEnd": 36,
+    "newStart": 27,
+    "newEnd": 37,
+    "ratio": 0.9746447478406242,
+    "changes": [
+      {
+        "kind": "insert",
+        "oldPage": 28,
+        "newPage": 28,
+        "old": "",
+        "new": "pitch and fine tune the pitch and tuning of a synth layer set to samples or analog can be adjusted from the osc pitch view , available by pressing pitch / smp in the oscillators section . pitch can be set between - 24 and + 24 semitones and fine tune has a range of ± 50 cents .",
+        "context": "page [ page ] . read more about the samples and analog modes respectively , further down . pitch and fine tune the pitch and tuning of a synth layer set to samples or analog can be adjusted from the osc pitch view , available by pressing pitch / smp in the oscillators section . pitch can be set between - 24 and + 24 semitones and fine tune has a range of ± 50 cents . synth presets the nord stage 4 comes with a large selection of multi - and singlelayer synth presets"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 28,
+        "newPage": 28,
+        "old": "",
+        "new": "symphstr leg soft amb 3 ( 28 ) on cat bright sample library strings ensemble sample off 6 . synth",
+        "context": "morph controlled , allowing real-time use of the wheel , aftertouch or pedal for controlling the sound . symphstr leg soft amb 3 ( 28 ) on cat bright sample library strings ensemble sample off 6 . synth waveform selection in analog mode pressing the waveform select button presents a number of types , selected with"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 28,
+        "newPage": 29,
+        "old": "symphstr leg soft amb 3 ( 28 ) on cat bright sample library strings ensemble sample off 6 . synth",
+        "new": "",
+        "context": "modulator and the carrier is harmonic , making this mode suitable for more tonal and traditional sounds . fm-i ( fm inharmonic ) : provides the same algorithms as the fm-h mode , but with a"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 30,
+        "newPage": 31,
+        "old": "",
+        "new": "6 . synth",
+        "context": "the inharmonic categories the pitch parameter determines the relationship between the modulator and the carrier in semitones . 6 . synth with most pitch selections the modulator and carrier are at an inharmonic relationship , making these algorithms suited"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 31,
+        "newPage": 31,
+        "old": "6 . synth",
+        "new": "",
+        "context": "well as the lfo . most filters share the same parameters : freq ( frequency ) controls the cut-off frequency and res ( resonance ) controls the filter resonance . the one exception to this is"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 31,
+        "newPage": 31,
+        "old": "",
+        "new": "lp m pure saw type kbd trk drive 3/3 off 1/3 2/3 3 1 2 off filter filter frequency 12 db/oct 24 db/oct freq gain hp filter frequency lp filter frequency freq gain 12 db/oct 12 db/oct filter frequency freq gain 24 db/oct filter frequency freq gain 12 db/oct 12 db/oct",
+        "context": ", using the middle dial . the reason for controlling keyboard track is related to basic acoustics . lp m pure saw type kbd trk drive 3/3 off 1/3 2/3 3 1 2 off filter filter frequency 12 db/oct 24 db/oct freq gain hp filter frequency lp filter frequency freq gain 12 db/oct 12 db/oct filter frequency freq gain 24 db/oct filter frequency freq gain 12 db/oct 12 db/oct if the pitch of a waveform is raised , the harmonics naturally raise in frequency as well ."
+      },
+      {
+        "kind": "delete",
+        "oldPage": 31,
+        "newPage": 32,
+        "old": "lp m pure saw type kbd trk drive 3/3 off 1/3 2/3 3 1 2 off filter filter frequency 12 db/oct 24 db/oct freq gain hp filter frequency lp filter frequency freq gain 12 db/oct 12 db/oct filter frequency freq gain 24 db/oct filter frequency freq gain 12 db/oct 12 db/oct",
+        "new": "",
+        "context": "an octave . 1 : the cut-off frequency tracks the keyboard at a 1 : 1 ratio . the diagrams below illustrate the relationship between keyboard position and cut-off frequency at the 1 : 1 and"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 32,
+        "newPage": 32,
+        "old": "",
+        "new": "freq gain 1 : 1 tracking freq gain 2/3 tracking lter frequency freq gain 6 . synth",
+        "context": "how the filter frequency is altered over time . read more about the filter envelope further down . freq gain 1 : 1 tracking freq gain 2/3 tracking lter frequency freq gain 6 . synth the envelopes the envelopes are used for shaping the sound over time , from when you first play"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 32,
+        "newPage": 33,
+        "old": "freq gain 1 : 1 tracking freq gain 2/3 tracking lter frequency freq gain decay ( time ) release ( time ) key down key up attack ( time ) time amount 103 ms 11 s 545 ms pure saw attack decay release amp envelope 6 . synth",
+        "new": "",
+        "context": "and release times , and the principles for how they work is the same in all instances : attack attack sets the time it takes for the envelope to reach maximum level after a key has"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 33,
+        "newPage": 33,
+        "old": "",
+        "new": "decay ( time ) release ( time ) key down key up attack ( time ) time amount 103 ms 11 s 545 ms pure saw attack decay release amp envelope",
+        "context": "( including velocity off – no leds being lit ) giving an increasing amount of velocity sensitivity . decay ( time ) release ( time ) key down key up attack ( time ) time amount 103 ms 11 s 545 ms pure saw attack decay release amp envelope lfo the lfo or low frequency oscillator produces cyclic waveforms , and can do so at very low"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 34,
+        "newPage": 34,
+        "old": "",
+        "new": "s/h 6 . synth",
+        "context": "notes below the highest key currently being held or sustained will not produce sound . this can be s/h 6 . synth used for playing a monophonic melody using the top note of a layered chord . i the lo"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 34,
+        "newPage": 35,
+        "old": "s/h 6 . synth",
+        "new": "",
+        "context": "larger range settings inversions of the held chord are played in order according to the direction setting . gate ( rhythmic gate ) when set to gate , the sound level of sustained notes is gated"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 35,
+        "newPage": 35,
+        "old": "",
+        "new": "2345 random up/down down direction zigzag multi saw x2 arpeggiator up on off 1",
+        "context": "pattern presets and length there are a number of preset patterns , selectable with the preset dial , 2345 random up/down down direction zigzag multi saw x2 arpeggiator up on off 1 designed to provide both simple and complex rhythms in both mono and stereo modes . these patterns can"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 35,
+        "newPage": 36,
+        "old": "2345 random up/down down direction zigzag multi saw x2 arpeggiator up on off 1 2 45 gate position multi saw x2 pattern edit 1 3",
+        "new": "",
+        "context": "read more about the master clock and how to set its tempo on page [ page ] . kb hold in kb hold ( keyboard hold ) mode , notes keep sounding even if all fingers"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 36,
+        "newPage": 36,
+        "old": "",
+        "new": "2 45 gate position multi saw x2 pattern edit 1 3 6 . synth",
+        "context": ", or in other instances where held notes persist after the synth section has been turned off . 2 45 gate position multi saw x2 pattern edit 1 3 6 . synth vibrato vibrato modulates the pitch of the oscillator to produce natural sounding vibrato effects . there are five"
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "oldStart": 37,
+    "oldEnd": 44,
+    "newStart": 38,
+    "newEnd": 45,
+    "ratio": 0.9865081914551879,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 37,
+        "newPage": 38,
+        "old": "7 . program",
+        "new": "",
+        "context": "7 program the central program area provides access to performance functions such as loading and storing programs ,"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 37,
+        "newPage": 38,
+        "old": "",
+        "new": "l the left and middle pedals of the nord triple pedal 2 have a “ control ” setting , which mirrors the functionality of the control pedal , including morphs assigned to it . see page [ page ] .",
+        "context": "organ swell jack . see page [ page ] for details on how to set this up . l the left and middle pedals of the nord triple pedal 2 have a “ control ” setting , which mirrors the functionality of the control pedal , including morphs assigned to it . see page [ page ] . a morph is set up by holding down one of the morph assign buttons , while at the"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 37,
+        "newPage": 38,
+        "old": "",
+        "new": "pearl upright l melody pad 2 : 53 b3 flute 2 1 : 27 e : 26 sweet layers 7 . program",
+        "context": "button . the display will show the start and stop values as the morph is set up . pearl upright l melody pad 2 : 53 b3 flute 2 1 : 27 e : 26 sweet layers 7 . program multiple parameters can be adjusted while pressing down a morph assign button , and additional morph destinations can"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 37,
+        "newPage": 39,
+        "old": "pearl upright l melody pad 2 : 53 b3 flute 2 1 : 27 e : 26 sweet layers",
+        "new": "",
+        "context": "morph assign button , and additional morph destinations can be added after a morph has been assigned . the following parameters are available as morph destinations : organ piano synth effects layer level layer level layer"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 38,
+        "newPage": 39,
+        "old": "sections",
+        "new": "section’s",
+        "context": "a split has been activated , use the kb zone controls ( accessed with shift ) below each section’s octave shift buttons to assign a layer to one or more zones . the four zone leds indicate"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 38,
+        "newPage": 39,
+        "old": "",
+        "new": "keyboard split - c4 mid low high xfade note - off off ± 12",
+        "context": "; different subdivisions can be set for all synced components , allowing for some great rhythmic effects . keyboard split - c4 mid low high xfade note - off off ± 12 tap the tap/set button a minimum of four times to set a tempo , expressed in bpm ("
+      },
+      {
+        "kind": "delete",
+        "oldPage": 38,
+        "newPage": 40,
+        "old": "keyboard split - c4 mid low high xfade note - off off ± 12 7 . program",
+        "new": "",
+        "context": "beats per minute ) . keep tapping the button to further refine the tempo setting if needed . press down on the tap/set button as indicated by the “ 6 “ symbol , to bring up"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 39,
+        "newPage": 40,
+        "old": "eliminated",
+        "new": "terminated",
+        "context": "if notes get stuck during a midi or live performance , or if all sound should quickly be terminated for some other reason . store the store button is used for storing an edited program or preset"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 40,
+        "newPage": 41,
+        "old": "",
+        "new": "7 . program",
+        "context": "location can always be auditioned by playing the keyboard . store program to c : 87 rusty pwm 7 . program store as 1 to store and name your program , press store as ( shift + store )"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 41,
+        "newPage": 42,
+        "old": "7 . program",
+        "new": "",
+        "context": "and the “ e ” disappears . r hijklmnopqrstuvwxyz01 store program as abc del cat ins usty pwm the page/bank buttons can also be used for quick navigation of the banks . apart from the default"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 42,
+        "newPage": 43,
+        "old": "",
+        "new": "7 . program",
+        "context": "state a program synth preset plucked a b c 4 : 27 big analog pluck cancel cat num 7 . program was in before the undoable operation was performed , meaning that other edits that have been done since"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 42,
+        "newPage": 43,
+        "old": "aux kb settings to use the aux kb functionality in a program , set the aux kb enable",
+        "new": "",
+        "context": "be used as a controller for parts of the nord stage 4 , on a per-program basis . layer init all pno a org ab syn a c : 87 synth saga paste swap synth b"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 43,
+        "newPage": 44,
+        "old": "7 .",
+        "new": "aux kb settings to use the aux kb functionality in a",
+        "context": "init all pno a org ab syn a c : 87 synth saga paste swap synth b swap aux kb settings to use the aux kb functionality in a program , set the aux kb enable setting to on , on the first page of the aux"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 43,
+        "newPage": 44,
+        "old": "",
+        "new": ", set the aux kb enable",
+        "context": "saga paste swap synth b swap aux kb settings to use the aux kb functionality in a program , set the aux kb enable setting to on , on the first page of the aux kb menu ( shift+program 4 ) ."
+      },
+      {
+        "kind": "insert",
+        "oldPage": 44,
+        "newPage": 45,
+        "old": "",
+        "new": "7 . program",
+        "context": "( - ) indicates that another digit can be entered , to select program a : 11-18 . 7 . program organize the order of programs and presets can be rearranged using the swap and move organize functions ."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "oldStart": 45,
+    "oldEnd": 46,
+    "newStart": 46,
+    "newEnd": 47,
+    "ratio": 0.9957610789980732,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 45,
+        "newPage": 46,
+        "old": "8 . extern",
+        "new": "",
+        "context": "8 extern extern mode advanced control of external midi instruments is an integrated feature of the nord stage"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 46,
+        "newPage": 47,
+        "old": "",
+        "new": "8 . extern",
+        "context": "sustped and pstick leds . midi settings 6/9 extern channel 13 14 15 b c off thru a 8 . extern extern parameters the most frequently used extern parameters are controlled from the synth display , using its three"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 46,
+        "newPage": 47,
+        "old": "“ extern menu ” on",
+        "new": "",
+        "context": "option to send bank select messages , which can be defined in the extern menu page , see page [ page ] . send on load often , it will be desirable to send certain midi"
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "oldStart": 47,
+    "oldEnd": 52,
+    "newStart": 48,
+    "newEnd": 53,
+    "ratio": 0.9811961664442558,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 47,
+        "newPage": 48,
+        "old": "9 . effects",
+        "new": "",
+        "context": "9 layer effects overview each layer on the nord stage 4 has its own complete set of effects"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 48,
+        "newPage": 49,
+        "old": "",
+        "new": "9 . effects",
+        "context": "global mode off all layers will share the same settings for that effect , until modified manually . 9 . effects mod 1 the mod 1 unit offers six different types of modulation effects and its selector button is"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 49,
+        "newPage": 50,
+        "old": "9 . effects",
+        "new": "",
+        "context": ". in mst clk mode , the rate is presented as subdivisions of the master clock tempo . mod 2 mod 2 provides a selection of both classic and innovative modulation effects , each with a"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 50,
+        "newPage": 51,
+        "old": "",
+        "new": "9 . effects",
+        "context": "the sound of the dry signal , but only the sound fed into the delay , becoming increasingly 9 . effects intense with each delay tap . for each effect there is a variation , activated by pressing shift+selector"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "9 . effects",
+        "new": "",
+        "context": ", powered by a tube amp . the variation represents an even smaller amp and speaker model . to rotary the to rotary setting sends the focused layer to the rotary speaker effect , which has"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "",
+        "new": "morphable dry/wet control sets the balance between the unprocessed and the processed signal . l the dry/wet control provides a fully wet reverb signal at its max position , a sound which can be useful both for morph effects , or when blending layers . global mode and reverb placement the",
+        "context": "the reverb signal , for a more lively sound . variation/chorale is activated with shift+selector button . the morphable dry/wet control sets the balance between the unprocessed and the processed signal . l the dry/wet control provides a fully wet reverb signal at its max position , a sound which can be useful both for morph effects , or when blending layers . global mode and reverb placement the reverb can be set to global mode ( shift+on ) which applies it to all layers of all"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "",
+        "new": "when set to global mode ,",
+        "context": "set to global mode ( shift+on ) which applies it to all layers of all three sections . when set to global mode , the reverb effect is placed after both the rotary speaker and the volume level fader of each layer"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "morphable dry/wet control sets",
+        "new": "reverb effect is placed after both",
+        "context": "which applies it to all layers of all three sections . when set to global mode , the reverb effect is placed after both the rotary speaker and the volume level fader of each layer . reverb types type description spring the"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "balance between the unprocessed",
+        "new": "rotary speaker",
+        "context": "all three sections . when set to global mode , the reverb effect is placed after both the rotary speaker and the volume level fader of each layer . reverb types type description spring the spring setting reproduces"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 51,
+        "newPage": 52,
+        "old": "processed signal . l the dry/wet control goes all the way to fully wet at its max position , a sound which can be very effective both for morph effects , or when blending layers",
+        "new": "volume level fader of each layer",
+        "context": "when set to global mode , the reverb effect is placed after both the rotary speaker and the volume level fader of each layer . reverb types type description spring the spring setting reproduces the sound of a traditional spring reverb tank"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 51,
+        "newPage": 53,
+        "old": "",
+        "new": "9 . effects",
+        "context": "a very long decay time . chorale mode increases the pitch modulation for a more lively sound . 9 . effects the bright or dark mode can be used for all types to alter the frequency response of the"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 52,
+        "newPage": 53,
+        "old": "case",
+        "new": "",
+        "context": "as the characteristics of the built-in amplifier of the original rotary construction . • the most common use for the rotary speaker would be to combine it with an organ sound , which is achieved by"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 52,
+        "newPage": 53,
+        "old": "slow/stopfast",
+        "new": "slow/stop-fast",
+        "context": "be sent to the rotary speaker . • switch between fast and slow rotor speeds by pressing the slow/stop-fast button . • to stop the rotors , press the stop mode button and set the speed to"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 52,
+        "newPage": 53,
+        "old": "",
+        "new": "unless the reverb is set to global mode , in which case the reverb is placed after the rotary speaker",
+        "context": "to the rotary speaker the reverb , like all other effects , is applied before the rotary speaker unless the reverb is set to global mode , in which case the reverb is placed after the rotary speaker . rotary menu settings there are several parameters in the sound menu that allow for detailed adjustments of"
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "oldStart": 53,
+    "oldEnd": 55,
+    "newStart": 54,
+    "newEnd": 56,
+    "ratio": 0.9983098591549295,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 53,
+        "newPage": 54,
+        "old": "10 . midi",
+        "new": "",
+        "context": "10 midi using midi the nord stage 4 is designed to be as flexible as possible in regard"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 54,
+        "newPage": 55,
+        "old": "",
+        "new": "10 . midi",
+        "context": "according to its position . 8 if desired , store the program on the nord stage 4 . 10 . midi by activating send on load in the extern menu all stored data ( program change , bank select"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 55,
+        "newPage": 56,
+        "old": "10 . midi",
+        "new": "",
+        "context": "” setting in the midi menu . this setting is further described on page [ page ] . messages the following midi messages can be transmitted and received by the nord stage 4 : • note"
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "oldStart": 56,
+    "oldEnd": 62,
+    "newStart": 57,
+    "newEnd": 63,
+    "ratio": 0.9826694045174538,
+    "changes": [
+      {
+        "kind": "insert",
+        "oldPage": 56,
+        "newPage": 57,
+        "old": "",
+        "new": "11 . menus",
+        "context": "11 . menus menu “ soft buttons ” correspond to the top row of program buttons ( 1-4 ) . this"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 57,
+        "newPage": 58,
+        "old": "11 . menus",
+        "new": "",
+        "context": "between version and hw info control pedal type fatar sl 75 % type func gain pedal settings 1/7 sound menu hold shift and press sound ( program 2 ) to access the sound menu . use"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 58,
+        "newPage": 59,
+        "old": "",
+        "new": "11 . menus",
+        "context": "control when playing sounds on the ns4 . range : soft , medium ( default ) , hard 11 . menus output menu hold shift and press output ( program 5 ) to access the output menu . use"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "11 . menus",
+        "new": "",
+        "context": "main sub i sub ii sub iii sub iii auto a b out c output overview 6/6 prog pedal menu hold shift and press pedal ( program 6 ) to access the pedal menu . use"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": ", including the nord ep15 and ep30 pedals ,",
+        "context": "the menu . 1 - control pedal type the nord stage 4 accepts many commonly available expression pedals , including the nord ep15 and ep30 pedals , through its control pedal input . choose a setting that matches the pedal being used . range :"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "roland",
+        "new": "nord ep",
+        "context": "through its control pedal input . choose a setting that matches the pedal being used . range : nord ep ( default ) , roland , yamaha , korg , fatar ( and studiologic ) , nord sp-2"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": ", roland",
+        "context": ". choose a setting that matches the pedal being used . range : nord ep ( default ) , roland , yamaha , korg , fatar ( and studiologic ) , nord sp-2 l if a connected pedal"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "roland",
+        "new": "nord ep",
+        "context": "to the organ swell jack . see “ ctrl pedal type ” above for details . range : nord ep ( default ) , roland , yamaha , korg , fatar ( and studiologic ) func ( function"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": ", roland",
+        "context": ". see “ ctrl pedal type ” above for details . range : nord ep ( default ) , roland , yamaha , korg , fatar ( and studiologic ) func ( function ) this setting configure the"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "func",
+        "new": "left , mid , right the left and middle settings are present if type is set to nord tp-1 . the range of settings for left and middle are the same as for the nord tp-2",
+        "context": "pedal 2 ) , nord tp-1 ( nord triple pedal 1 ) , normally open , normally closed left , mid , right the left and middle settings are present if type is set to nord tp-1 . the range of settings for left and middle are the same as for the nord tp-2 ( see next section ) , except for control which is only available for the nord tp-2 ."
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "function",
+        "new": "see next section",
+        "context": ". the range of settings for left and middle are the same as for the nord tp-2 ( see next section ) , except for control which is only available for the nord tp-2 . the right setting determines"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "if desired",
+        "new": ", except for control which is only available for",
+        "context": "settings for left and middle are the same as for the nord tp-2 ( see next section ) , except for control which is only available for the nord tp-2 . the right setting determines the functionality of a single sustain pedal , or the"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": "nord tp-2 . the right setting determines the functionality of a single",
+        "context": "the nord tp-2 ( see next section ) , except for control which is only available for the nord tp-2 . the right setting determines the functionality of a single sustain pedal , or the right pedal of the nord tp-1 . range : sustain ( default )"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "can also alter",
+        "new": ", or",
+        "context": "only available for the nord tp-2 . the right setting determines the functionality of a single sustain pedal , or the right pedal of the nord tp-1 . range : sustain ( default ) , sus+rotor hold ,"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "speed",
+        "new": "right pedal",
+        "context": "the nord tp-2 . the right setting determines the functionality of a single sustain pedal , or the right pedal of the nord tp-1 . range : sustain ( default ) , sus+rotor hold , sus+rotor toggle 4"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "rotary speaker effect by setting its function to either sus+rotor hold or sus+rotor toggle",
+        "new": "nord tp-1",
+        "context": "the right setting determines the functionality of a single sustain pedal , or the right pedal of the nord tp-1 . range : sustain ( default ) , sus+rotor hold , sus+rotor toggle 4 - triple pedal function"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "a connected triple pedal , whether its a nord triple pedal 1 connected to",
+        "new": "these settings only affects",
+        "context": ". range : sustain ( default ) , sus+rotor hold , sus+rotor toggle 4 - triple pedal function these settings only affects the functionality of a nord triple pedal 2 connected to the triple pedal jack . the right pedal"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "sustain pedal jack or",
+        "new": "functionality of",
+        "context": "default ) , sus+rotor hold , sus+rotor toggle 4 - triple pedal function these settings only affects the functionality of a nord triple pedal 2 connected to the triple pedal jack . the right pedal always controls sustain"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": ", can be set up in a variety of ways for controlling a number of different features",
+        "new": "",
+        "context": "these settings only affects the functionality of a nord triple pedal 2 connected to the triple pedal jack . the right pedal always controls sustain ( or optionally sustain+rotor hold/rotor toggle ) , while the left"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": "i settings for the nord triple pedal 1 , connected to the sustain pedal jack , are made on the previous menu page .",
+        "context": "toggle ) , while the left and middle pedals can each control a larger selection of parameters . i settings for the nord triple pedal 1 , connected to the sustain pedal jack , are made on the previous menu page . about the “ panel assigned ” setting when set to “ panel assigned ” the left or middle"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "user",
+        "new": "panel",
+        "context": "connected to the sustain pedal jack , are made on the previous menu page . about the “ panel assigned ” setting when set to “ panel assigned ” the left or middle pedal is used for"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "user",
+        "new": "panel",
+        "context": "made on the previous menu page . about the “ panel assigned ” setting when set to “ panel assigned ” the left or middle pedal is used for these functions , as active on the nord"
+      },
+      {
+        "kind": "replace",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "user",
+        "new": "panel",
+        "context": "vibrato pedal • pump effect in ped mode range range left : una corda ( default ) , panel assigned , layer scene hold , layer scene toggle , pump , mst clk tap , synth vibrato"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": ", control ( control pedal )",
+        "context": "mst clk tap , synth vibrato , program up , program down , rotor hold , rotor toggle , control ( control pedal ) range middle : sostenuto ( default ) , user assigned , layer scene hold , layer scene toggle"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 59,
+        "newPage": 60,
+        "old": "",
+        "new": ", control ( control pedal )",
+        "context": "mst clk tap , synth vibrato , program up , program down , rotor hold , rotor toggle , control ( control pedal ) range right : sustain ( default ) , sus+rotor hold , sus+rotor toggle 11 . menus 5 -"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 60,
+        "newPage": 61,
+        "old": "",
+        "new": "11 . menus",
+        "context": "control ( control pedal ) range right : sustain ( default ) , sus+rotor hold , sus+rotor toggle 11 . menus 5 - rotor pedal type this allows you to change the type/polarity of a switch pedal connected to"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 61,
+        "newPage": 62,
+        "old": "11 . menus",
+        "new": "",
+        "context": "tog mclk tap pump - sostenuto sustain una corda ctrl+swl ctrl pedal overview 7/7 sust/triple swell rotor ft.sw organ layers via incoming midi . use the soft buttons to switch between settings for organ a and"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 62,
+        "newPage": 63,
+        "old": "",
+        "new": "11 . menus",
+        "context": "5 6 1 16 13 14 15 a b c midi overview 10/10 snd rcv snd rcv ex 11 . menus extern menu hold shift and press extern ( program 8 ) to access the extern menu , where"
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "oldStart": 63,
+    "oldEnd": 63,
+    "newStart": 64,
+    "newEnd": 64,
+    "ratio": 0.989517819706499,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 63,
+        "newPage": 64,
+        "old": "5 . nord sound manager",
+        "new": "",
+        "context": "12 nord sound manager about nord sound manager nord sound manager is an essential application for any nord"
+      }
+    ]
+  },
+  {
+    "chapter": 13,
+    "oldStart": 64,
+    "oldEnd": 64,
+    "newStart": 65,
+    "newEnd": 65,
+    "ratio": 0.9859154929577465,
+    "changes": [
+      {
+        "kind": "insert",
+        "oldPage": 64,
+        "newPage": 65,
+        "old": "",
+        "new": "13 . nord sample editor 4",
+        "context": "13 . nord sample editor 4 13 nord sample editor 4 about nord sample editor 4 the nord sample editor 4 is a tool"
+      }
+    ]
+  },
+  {
+    "chapter": 14,
+    "oldStart": 65,
+    "oldEnd": 68,
+    "newStart": 66,
+    "newEnd": 69,
+    "ratio": 0.9731036566938652,
+    "changes": [
+      {
+        "kind": "delete",
+        "oldPage": 65,
+        "newPage": 66,
+        "old": "appendix",
+        "new": "",
+        "context": "i appendix : connections audio connections general guide on audio connections : before turning on your amplifier ,"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 65,
+        "newPage": 66,
+        "old": "",
+        "new": "l control pedal functionality is also available as a setting for the left and middle pedals of the nord triple pedal 2 . see page [ page ] .",
+        "context": "of the common expression pedal models are supported , and can be selected in the pedal menu . l control pedal functionality is also available as a setting for the left and middle pedals of the nord triple pedal 2 . see page [ page ] . organ swell 1/4 inch connector for an expression pedal used either as swell pedal with the organ section"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 65,
+        "newPage": 66,
+        "old": "",
+        "new": "rotor pedal midi out midi in usb out 1 headphones monitor in out 2 out 3 out 4 control pedal organ swell sustain pedal triple pedal appendix foot switch",
+        "context": "pedal makes and models are supported , and can be selected in the pedal menu . foot switch rotor pedal midi out midi in usb out 1 headphones monitor in out 2 out 3 out 4 control pedal organ swell sustain pedal triple pedal appendix foot switch 1/4 inch connector for a one or two button , momentary pedal . the foot switch can be"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 65,
+        "newPage": 67,
+        "old": "foot switch rotor pedal midi out midi in usb out 1 headphones monitor in out 2 out 3 out 4 control pedal organ swell sustain pedal triple pedal",
+        "new": "",
+        "context": "or controlling certain effects . see the pedal menu for details on how to set this up . rotor pedal 1/4 inch connector for a switch type pedal , used for switching between slow/stopped and fast"
+      },
+      {
+        "kind": "delete",
+        "oldPage": 67,
+        "newPage": 68,
+        "old": "appendix",
+        "new": "",
+        "context": ", “ half moon ” is available as a rotor pedal type setting in the pedal menu . ii appendix : midi controller list nord stage 4 parameter cc # / nrpn bank select msb 0"
+      },
+      {
+        "kind": "insert",
+        "oldPage": 68,
+        "newPage": 69,
+        "old": "",
+        "new": "appendix",
+        "context": "messages : cc # 99 , cc # 98 , cc # 6 and cc # 38 . appendix nord stage 4 parameter cc # / nrpn synth lfo destination 3 : 81 synth lfo amount 54"
+      }
+    ]
+  }
+]

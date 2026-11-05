@@ -1,19 +1,17 @@
 # 第九章：音層效果 / Chapter 9: Layer Effects
 
-![Page 47](img/ch09/page_47.png)
-
-![圖 1](img/ch09/fig_01_p47.png)
-
-
 ---
 
 ## 概覽 / OVERVIEW
 
-Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個程式（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
+
+<img src="img/ch09/effects_panel.png" alt="音層效果區段面板總覽（原文第 47 頁）" width="760">
+
+Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區段的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個音色配置（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。
 
 Each Layer on the Nord Stage 4 has its own complete set of effects, apart from the two Organ Layers (A and B) which share the same effects chain. This means there are six instances of each effects unit for every Program, each of which can have its own settings.
 
-旋轉喇叭（Rotary Speaker）效果器位在面板最左側，比較特別——每個程式只有一個旋轉喇叭，但任何音層都可以路由進去。不過旋轉速度和驅動量的設定是共用的，所有通過它的聲音都會套用相同的設定。
+旋轉喇叭（Rotary Speaker）效果器位在面板最左側，比較特別——每個音色配置只有一個旋轉喇叭，但任何音層都可以路由進去。不過旋轉速度和驅動量的設定是共用的，所有通過它的聲音都會套用相同的設定。
 
 The Rotary Speaker, placed at the far left of the panel is different from other effects in that it comes in one single instance per Program. Any Layer can be routed to the Rotary Speaker, but its speed and drive settings are common for all sounds passing through it.
 
@@ -23,17 +21,17 @@ All effects can be turned On or Off at once by pressing Layer Effects ON.
 
 ---
 
-## 效果焦點 / FX FOCUS (EFFECTS FOCUS)
+## 目標效果器 / FX FOCUS (EFFECTS FOCUS)
 
-效果焦點（FX Focus）會自動跟著你在面板上按的音層按鈕走。比方說你按了鋼琴區段的 Layer A，效果區段的焦點就會自動切換到那個音層的效果。
+目標效果器（FX Focus）會自動跟著你在面板上按的音層按鈕走。比方說你按了鋼琴區段的 Layer A，效果區段的焦點就會自動切換到那個音層的效果。
 
 The focus for the Layer Effects section automatically follows the focus of Layer buttons in the Organ, Piano and Synth sections, as they are pressed on the panel.
 
-你也可以手動切換焦點：直接按 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，就能把效果焦點指定到那個區段。
+你也可以手動切換焦點：直接按 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，就能把目標效果器指定到那個區段。
 
 Focusing the effects for a particular Layer or Section for editing can also be done manually, by pressing the ORGAN, PIANO or SYNTH button.
 
-目前的效果焦點會用黃色 **FX FOCUS LED** 顯示，在各區段 On 按鈕旁邊，以及效果焦點區塊的 LED 上都可以看到。
+目前的目標效果器會用黃色 **FX FOCUS LED** 顯示，在各區段 On 按鈕旁邊，以及目標效果器區塊的 LED 上都可以看到。
 
 The current FX Focus is indicated both by the yellow FX FOCUS LED next to each Section's On button, as well as by LEDs in the FX Focus section.
 
@@ -53,29 +51,30 @@ When entering Group mode, the settings for the currently focused Layers are appl
 
 ## 開啟效果與全域模式 / ACTIVATING EFFECTS AND GLOBAL MODE
 
-按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和混響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區段的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。
+按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和殘響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區段的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。
 
 To enable an effect, press its ON button. The Delay, Compressor and Reverb effects can be set to GLOBAL mode, which applies the effect to all Layers of all Sections. This is done by pressing Shift+On for that effect. When turning Global mode off all Layers will share the same settings for that effect, until modified manually.
 
-> 💡 全域模式很適合用在混響上——讓整台樂器所有聲音都通過同一個混響空間，聽起來更有整體感。
+> 💡 全域模式很適合用在殘響上——讓整台樂器所有聲音都通過同一個殘響空間，聽起來更有整體感。
 
 ---
 
-![Page 48](img/ch09/page_48.png)
-
 ---
 
-## MOD 1（調製效果 1）/ MOD 1
+## MOD 1（調變效果 1）/ MOD 1
 
-MOD 1 提供六種調製效果（Modulation Effects——用來讓聲音產生週期性變化的效果），用選擇按鈕切換。每種效果都有一個 **VARIATION（變奏）** 或 **PED（踏板）** 功能，按住 Shift 再按選擇按鈕就能啟用。
+
+<img src="img/ch09/mod1.png" alt="MOD 1 控制面板（原文第 48 頁）" width="386">
+
+MOD 1 提供六種調變效果（Modulation Effects——用來讓聲音產生週期性變化的效果），用選擇按鈕切換。每種效果都有一個 **VARIATION（變奏）** 或 **PED（踏板）** 功能，按住 Shift 再按選擇按鈕就能啟用。
 
 The MOD 1 unit offers six different types of modulation effects and its selector button is used to switch between them. For each effect there is a VARIATION or PED (Pedal) function, activated by pressing Shift+Selector button.
 
 ---
 
-### A-PAN（自動聲像）/ A-PAN (AUTO PAN)
+### A-PAN（自動聲像擺動）/ A-PAN (AUTO PAN)
 
-A-PAN 是自動聲像效果，讓聲音在左右聲道之間平滑來回移動，製造立體感的律動。用 **RATE** 旋鈕控制速度，**AMOUNT** 旋鈕控制左右移動的幅度。
+A-PAN 是自動聲像擺動效果，讓聲音在左右聲道之間平滑來回移動，製造立體感的律動。用 **RATE** 旋鈕控制速度，**AMOUNT** 旋鈕控制左右移動的幅度。
 
 The A-PAN is an automatic panning modulation that smoothly pans the signal between the Left and Right outputs in the stereo panorama. The rate and the amount of panning are controlled with the RATE and AMOUNT knobs.
 
@@ -85,9 +84,9 @@ The VARIATION for the A-Pan effect is a harder pan waveform shape, providing the
 
 ---
 
-### TREM（顫音）/ TREM (TREMOLO)
+### TREM（音量顫音）/ TREM (TREMOLO)
 
-TREM 是顫音效果（Tremolo——讓音量週期性變化，聽起來像在「抖動」），電鋼琴上很常用。**RATE** 控制速度，**AMOUNT** 控制深度。注意：Amount 設為零時，音量反而是最大值。
+TREM 是音量顫音效果（Tremolo——讓音量週期性變化，聽起來像在「抖動」），電鋼琴上很常用。**RATE** 控制速度，**AMOUNT** 控制深度。注意：Amount 設為零時，音量反而是最大值。
 
 TREM (Tremolo) provides a volume modulation that continuously varies the volume of the output signal. Tremolo is a very common effect to use with electric pianos. Use the RATE and AMOUNT knobs to control the Tremolo rate and its depth. Note that the output volume is at maximum level at zero Amount setting.
 
@@ -97,24 +96,21 @@ The VARIATION for the Tremolo switches to a square wave shape, which gives a har
 
 ---
 
-### RM（環形調製）/ RM (RING MODULATION)
+### RM（環形調變）/ RM (RING MODULATION)
 
-環形調製（Ring Modulation——把兩個訊號相乘，產生不和諧的金屬鐘聲感）是一種特殊的調製方式。Nord Stage 4 裡，樂器訊號會跟一個正弦波相乘。**Rate** 旋鈕調整正弦波的音高，**Amount** 控制效果的強弱。
+環形調變（Ring Modulation——把兩個訊號相乘，產生不和諧的金屬鐘聲感）是一種特殊的調變方式。Nord Stage 4 裡，樂器訊號會跟一個正弦波相乘。**Rate** 旋鈕調整正弦波的音高，**Amount** 控制效果的強弱。
 
 Ring Modulation (RM) is a type of modulation where two signals are multiplied with each other, resulting in an in-harmonic "bell like" sound. In the Nord Stage 4 the instrument signal is multiplied with a sine wave. The pitch of the sine wave is set with the Rate knob and the amount of ring modulation with the Amount knob.
 
-VARIATION 提供立體聲版本的環形調製效果。
+VARIATION 提供立體聲版本的環形調變效果。
 
 The VARIATION mode provides a stereo version of the Ring Modulation effect.
 
 ---
 
-### A-WAH（自動哇哇）/ A-WAH
+### A-WAH（自動哇哇音）/ A-WAH
 
-A-WAH（Auto-Wah——跟著演奏力度自動變化的哇哇效果）跟下面介紹的 Wah-Wah 是親戚，差別在於它用訊號的音量大小（包絡追蹤器）來驅動濾波器掃描，所以彈得越用力，哇哇效果越明顯。**SENS（Rate）** 旋鈕控制靈敏度和掃描範圍，**Amount** 控制效果的乾/濕混合比例。
-
-![圖 2](img/ch09/fig_02_p48.png)
-
+A-WAH（Auto-Wah——跟著演奏力度自動變化的哇哇音效果）跟下面介紹的 Wah-Wah 是親戚，差別在於它用訊號的音量大小（包絡線追蹤器）來驅動濾波器掃描，所以彈得越用力，哇哇音效果越明顯。**SENS（Rate）** 旋鈕控制靈敏度和掃描範圍，**Amount** 控制效果的乾/濕混合比例。
 
 A-WAH (Auto-Wah) is a close relative to the Wah-Wah effect described below. The A-Wah uses the signal's amplitude (envelope follower) to control the filter sweep range, making the effect velocity sensitive. The sensitivity and range of the effect is controlled with the SENS (Rate) knob and the wet/dry mix with the Amount knob.
 
@@ -124,21 +120,9 @@ The VARIATION of the A-Wah works in the same way, but is based on a different mo
 
 ---
 
-
-![圖 3](img/ch09/fig_03_p49.png)
-
-
-![圖 4](img/ch09/fig_04_p50.png)
-
-
-![圖 5](img/ch09/fig_05_p51.png)
-
-
-![圖 6](img/ch09/fig_06_p52.png)
-
 ### WAH（哇哇）/ WAH
 
-WAH（Wah-Wah——用共振低通濾波器掃描頻率範圍，產生「哇～哇～」聲的效果器）在預設的非踏板模式下，**RATE** 旋鈕控制 LFO（低頻振盪器——用來產生週期性調製的振盪器）的速度，做出循環的哇哇感，可以模擬踩踏板的上下動作，或做慢速濾波器掃描。**AMOUNT** 旋鈕控制乾濕比例。
+WAH（Wah-Wah——用共振低通濾波器掃描頻率範圍，產生「哇～哇～」聲的效果器）在預設的非踏板模式下，**RATE** 旋鈕控制 LFO（低頻振盪器——用來產生週期性調變的振盪器）的速度，做出循環的哇哇感，可以模擬踩踏板的上下動作，或做慢速濾波器掃描。**AMOUNT** 旋鈕控制乾濕比例。
 
 The WAH (Wah-Wah) modulation effect is a type of resonant lowpass filter that can be swept across the frequency range. During the sweep, the filter's characteristics also changes. In the default non-pedal mode the RATE knob controls the rate of an LFO, which provides a cyclic version of the classic Wah effect. The dry/wet mix of the effect is controlled with the AMOUNT knob.
 
@@ -154,11 +138,11 @@ When set to PED, the Rate (frequency) of the effect can still be morphed, either
 
 ### PUMP
 
-PUMP 效果提供一種振幅調製（Amplitude Modulation），效果類似壓縮器被外部旁鏈訊號觸發的感覺：音量快速「壓下去」，然後慢慢恢復。在預設非踏板模式下，**RATE** 旋鈕控制 LFO 速度。
+PUMP 效果提供一種振幅調變（Amplitude Modulation），效果類似壓縮器被外部側鏈訊號觸發的感覺：音量快速「壓下去」，然後慢慢恢復。在預設非踏板模式下，**RATE** 旋鈕控制 LFO 速度。
 
 The PUMP effect provides a type of amplitude modulation which is otherwise achieved through the use of a compressor effect, often triggered by an external control signal through its side-chain input. The result is a quick "duck" in level, followed by a slower recovery phase.
 
-> 💡 常見用法：把 PUMP 同步到主時鐘（Master Clock），設定速率為四分音符（1/4），做出舞曲常用的「側鏈壓縮」感。
+> 💡 常見用法：把 PUMP 同步到主節拍時鐘（Master Clock），設定速率為四分音符（1/4），做出舞曲常用的「側鏈壓縮」感。
 
 A common application for the Pump effect would be to synchronize it to the Master Clock and set the rate to quarter notes (1/4).
 
@@ -168,29 +152,30 @@ In PED mode the Pump effect can be controlled from a foot pedal, and "played" ma
 
 ---
 
-### 與主時鐘同步 / MASTER CLOCK
+### 與主節拍時鐘同步 / MASTER CLOCK
 
-選擇 A-Pan、Trem、LFO-Wah 或 Pump 效果時，把 **RATE** 旋鈕往右轉到底，就可以把 Mod 1 的速率同步到主時鐘（Master Clock——全局節奏控制器）。在 MST CLK 模式下，速率會以主時鐘節拍的細分值來顯示。
+選擇 A-Pan、Trem、LFO-Wah 或 Pump 效果時，把 **RATE** 旋鈕往右轉到底，就可以把 Mod 1 的速率同步到主節拍時鐘（Master Clock——全局節奏控制器）。在 MST CLK 模式下，速率會以主節拍時鐘節拍的細分值來顯示。
 
 With the A-Pan, Trem, LFO-Wah or Pump effect selected, turning the RATE dial clockwise synchronizes the Mod 1 Rate with the Master Clock. In MST CLK mode, the Rate is presented as subdivisions of the Master Clock tempo.
 
 ---
 
-![Page 49](img/ch09/page_49.png)
-
 ---
 
-## MOD 2（調製效果 2）/ MOD 2
+## MOD 2（調變效果 2）/ MOD 2
 
-MOD 2 提供多種經典和創新的調製效果，每種都有 VARIATION，按住 Shift 再按選擇按鈕啟用。**RATE** 旋鈕控制速率，**AMOUNT** 旋鈕（支援變形 Morph）控制強度。
+
+<img src="img/ch09/mod2.png" alt="MOD 2 控制面板（原文第 49 頁）" width="386">
+
+MOD 2 提供多種經典和創新的調變效果，每種都有 VARIATION，按住 Shift 再按選擇按鈕啟用。**RATE** 旋鈕控制速率，**AMOUNT** 旋鈕（支援變形 Morph）控制強度。
 
 MOD 2 provides a selection of both classic and innovative modulation effects, each with a VARIATION, which is activated by pressing Shift + the Selector button. Each effect has its rate controlled by the RATE knob, and its amount by the likewise morphable AMOUNT knob.
 
 ---
 
-### PHASER（相位器）/ PHASER
+### PHASER（相位效果）/ PHASER
 
-相位器（Phaser——通過移動音訊訊號的相位，產生「掃頻」的沙沙感）常用在電鋼琴音色上。標準設定基於經典的 Small Stone 效果器，Amount 最小時 feedback 為零，調大 Amount 可增加 feedback 和音色「顏色」。
+相位效果（Phaser——通過移動音訊訊號的相位，產生「掃頻」的沙沙感）常用在電鋼琴音色上。標準設定基於經典的 Small Stone 效果器，Amount 最小時 feedback 為零，調大 Amount 可增加 feedback 和音色「顏色」。
 
 The PHASER effect produces a characteristic "sweep" effect, commonly used with electric piano sounds. The standard Phaser setting is based on the classic Small Stone effect, and has zero feedback at the minimum amount setting. The Amount knob increases the feedback and "color" of the effect.
 
@@ -200,9 +185,9 @@ The Phaser VARIATION is an emulation of the classic Bi-Phase effect, with zero f
 
 ---
 
-### FLANGER（法蘭效果）/ FLANGER
+### FLANGER（鑲邊效果）/ FLANGER
 
-法蘭效果（Flanger——把訊號和一個微小延遲的副本疊加，產生「梳狀濾波」的金屬掃頻感）能讓聲音聽起來很「飄」，帶有共鳴感。Amount 為零時，只有靜態的共鳴峰。VARIATION 是單聲道版本。
+鑲邊效果（Flanger——把訊號和一個微小延遲的副本疊加，產生「梳狀濾波」的金屬掃頻感）能讓聲音聽起來很「飄」，帶有共鳴感。Amount 為零時，只有靜態的共鳴峰。VARIATION 是單聲道版本。
 
 The FLANGER produces a dramatic comb filter effect, giving the sound a "swooshy" and resonant quality. At zero amount the effect provides a set of static resonant peaks. The VARIATION is a mono version of the Flanger effect.
 
@@ -210,15 +195,15 @@ The FLANGER produces a dramatic comb filter effect, giving the sound a "swooshy"
 
 ### VIBE
 
-VIBE 效果靈感來自經典腳踏板效果器，同時結合音高彎曲和相位的特性，音色獨特。它是透過一系列錯位的相位濾波器模型製作，跟一般相位器有所不同。VARIATION 是單聲道版本。
+VIBE 效果靈感來自經典腳踏板效果器，同時結合音高彎曲和相位的特性，音色獨特。它是透過一系列錯位的相位濾波器模型製作，跟一般相位效果有所不同。VARIATION 是單聲道版本。
 
 The VIBE effect draws its inspiration from a classic foot pedal effect and produces a sound with both pitch-bending and phasing qualities. The VARIATION is a mono version of the Vibe effect.
 
 ---
 
-### CHORUS（合唱效果）/ CHORUS
+### CHORUS（合聲效果）/ CHORUS
 
-合唱效果（Chorus——把聲音複製多份並稍微調音，讓音色聽起來更厚、更寬廣）讓聲音更豐富。Amount 超過 50% 後還會加入延遲線，聲音更複雜。VARIATION 基於一款老式效果踏板，可以從豐潤的立體加寬感，調到高速率、高 Amount 下明顯的顫音（vibrato）效果。
+合聲效果（Chorus——把聲音複製多份並稍微調音，讓音色聽起來更厚、更寬廣）讓聲音更豐富。Amount 超過 50% 後還會加入延遲線，聲音更複雜。VARIATION 基於一款老式效果踏板，可以從豐潤的立體加寬感，調到高速率、高 Amount 下明顯的顫音（vibrato）效果。
 
 The versatile CHORUS effect gives the impression of "widening", or with more extreme settings severely detuning, the sound. The VARIATION of the Chorus effect is based on a vintage effects pedal which can go from a lush stereo widening effect to a distinctive vibrato character at higher Rate and Amount settings.
 
@@ -226,7 +211,7 @@ The versatile CHORUS effect gives the impression of "widening", or with more ext
 
 ### ENSEMBLE（合奏效果）/ ENSEMBLE
 
-合奏效果（Ensemble——模擬多人演奏同一個音符時的微小音高差異感）是仿照老式 Eminent 風琴效果器設計的。聲音被送進三條獨立、相互交叉連接的調製延遲線，形成非常有特色的音色。VARIATION 是單聲道版本。
+合奏效果（Ensemble——模擬多人演奏同一個音符時的微小音高差異感）是仿照老式 Eminent 風琴效果器設計的。聲音被送進三條獨立、相互交叉連接的調變延遲線，形成非常有特色的音色。VARIATION 是單聲道版本。
 
 The ENS (Ensemble) effect is modeled after a vintage Eminent organ effect. The very characteristic sound comes from feeding the audio into three separate, modulated delay lines, that are cross-connected with each other. In VARIATION mode the Ensemble effect is in mono.
 
@@ -242,15 +227,18 @@ Like the Rotary Speaker, the SPIN effect emulates the sound of a rotating speake
 
 ## 延遲 / DELAY
 
+
+<img src="img/ch09/delay.png" alt="Delay 速度、回饋、乾濕比與模式控制（原文第 49 頁）" width="325">
+
 延遲（Delay——讓聲音產生回聲/重複效果的效果器）用 **TEMPO** 旋鈕設定延遲時間。按住 Shift 再按 On 可設為全域（GLOBAL）模式，讓延遲套用到所有區段所有音層。
 
 The DELAY unit produces echo/repeat effects. The Delay time is set with the TEMPO knob. The Delay can be set to GLOBAL mode (Shift + On) which applies it to all Layers of all three Sections.
 
-如果主時鐘（MST CLK）已啟用，Tempo 會改以主時鐘節拍的細分值表示。
+如果主節拍時鐘（MST CLK）已啟用，Tempo 會改以主節拍時鐘節拍的細分值表示。
 
 If MST CLK (Master Clock) is active, the Tempo will instead be expressed in subdivisions of the tempo set for the Master Clock.
 
-**FEEDBACK** 旋鈕控制重複次數：最小值只有一次回聲，最大值則是很長的回聲尾巴。**DRY WET** 旋鈕調整乾訊號和延遲訊號的比例。
+**FEEDBACK** 旋鈕控制重複次數：最小值只有一次回聲，最大值則是很長的回聲尾巴。**DRY WET** 旋鈕調整乾音和延遲訊號的比例。
 
 The FEEDBACK knob controls the number of delay repeats. The DRY WET knob adjusts the balance between the dry signal and the delay repeats.
 
@@ -258,13 +246,13 @@ The FEEDBACK knob controls the number of delay repeats. The DRY WET knob adjusts
 
 ### PING PONG（乒乓延遲）/ PING PONG
 
-按 **PING PONG**（Shift + Filter）啟用乒乓模式：延遲的回聲會在左右聲道之間交替出現。短延遲時間下，這些回聲會很「不對稱」，聽起來像混響單元裡的早期反射聲。
+按 **PING PONG**（Shift + Filter）啟用乒乓模式：延遲的回聲會在左右聲道之間交替出現。短延遲時間下，這些回聲會很「不對稱」，聽起來像殘響單元裡的早期反射聲。
 
 Press PING PONG (Shift + Filter) to activate Ping Pong mode. This causes delay repeats to alternate between the left and right channels.
 
 ---
 
-### TAP TEMPO（節拍敲擊）/ TAP TEMPO
+### TAP TEMPO（拍速輸入）/ TAP TEMPO
 
 用 **TAP TEMPO** 按鈕配合歌曲節奏敲擊數次，延遲時間就會自動對齊。就算開了 Analog 模式，敲擊也不會改變目前正在響的回聲音高。
 
@@ -274,13 +262,13 @@ Use TAP TEMPO to set a delay time matching the tempo of a song. Simply tap the T
 
 ### 延遲內建效果 / DELAY EFFECTS
 
-用選擇按鈕可以選擇延遲回饋迴路裡的效果。這些效果只作用在延遲訊號上，不影響乾訊號；隨著每次回聲，效果會越來越強。
+用選擇按鈕可以選擇延遲回授迴路裡的效果。這些效果只作用在延遲訊號上，不影響乾音；隨著每次回聲，效果會越來越強。
 
 Use the selector button to select one of the effects available for the Delay feedback loop. These effects do not affect the sound of the Dry signal, but only the sound fed into the delay, becoming increasingly intense with each delay tap.
 
 - **ENS（合奏）、VIBE、CHOR（合唱）**：與 MOD 2 效果單元裡的對應效果相同。
 - **FLAM**：立體聲乒乓延遲，左右聲道時間稍微錯開，適合做空間感或複雜音色。VARIATION 把兩聲道的時間差從 20ms 加倍到 40ms。
-- **SPACE**：加入類似混響的擴散感，每次回聲越來越濃。標準模式下，效果訊號和乾訊號各佔 50%；VARIATION 模式下效果訊號為 100% 濕訊號。
+- **SPACE**：加入類似殘響的擴散感，每次回聲越來越濃。標準模式下，效果訊號和乾音各佔 50%；VARIATION 模式下效果訊號為 100% 效果音。
 
 The ENS (Ensemble), VIBE and CHOR (Chorus) effects are based on their counterparts in the MOD 2 effects unit. The stereo FLAM effect produces a ping pong delay with offset left and right channels. The SPACE effect introduces reverb-like diffusion, increasing in intensity with each tap.
 
@@ -308,19 +296,20 @@ There are two different delay modes, the normal mode, and the ANALOG (Shift+Tap/
 
 ---
 
-### 延遲與主時鐘同步 / DELAY MASTER CLOCK
+### 延遲與主節拍時鐘同步 / DELAY MASTER CLOCK
 
-把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到程式區段設定的主時鐘節奏。延遲 Tempo 會以主時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。
+把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到音色配置區段設定的主節拍時鐘節奏。延遲 Tempo 會以主節拍時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。
 
 The Master Clock feature for the Delay section is activated by turning MST CLK (Shift + Tempo knob) clockwise. The Delay tempo will now be expressed in subdivisions of the Master Clock tempo, ranging from 1/2 to 1/32 notes, with swing (S), triplet (T) and dotted (D) options.
 
 ---
 
-![Page 50](img/ch09/page_50.png)
-
 ---
 
 ## 擴大機模擬/等化器 / AMP SIM/EQ
+
+
+<img src="img/ch09/amp_eq.png" alt="Amp Sim／EQ 擴大機模擬與等化器面板（原文第 50 頁）" width="398">
 
 AMP SIM/EQ 效果單元結合了三段等化器（EQ——調整不同頻率的音量）和精密的擴大機與喇叭箱模擬，另外還有共振式 24dB 低通和高通濾波器。如果沒有選擇 Amp 模型或濾波器，這個區段就是一個中性的等化器加上電子管風格的過載（overdrive）。
 
@@ -366,8 +355,6 @@ The three different amplifier/speaker simulations are selected with the Selector
 
 ---
 
-![Page 51](img/ch09/page_51.png)
-
 ---
 
 ## 路由至旋轉喇叭 / TO ROTARY
@@ -384,7 +371,7 @@ LP24 是一個共振式低通濾波器（Low Pass Filter——只讓低於截止
 
 The LP24 filter is a resonant 24 dB per octave low-pass filter. Use the morphable FREQ knob to adjust the cutoff frequency, and the RES knob to set the amount of resonance.
 
-> 💡 LP24 可以當踏板哇哇效果來用：用控制踏板（Control Pedal）來 Morph 截止頻率，再調整共鳴到喜歡的感覺。
+> 💡 LP24 可以當踏板哇哇音效果來用：用控制踏板（Control Pedal）來 Morph 截止頻率，再調整共鳴到喜歡的感覺。
 
 ---
 
@@ -401,6 +388,9 @@ The Bass and Treble equalizer bands, as well as the Drive effect are available f
 ---
 
 ## 壓縮器 / COMPRESSOR
+
+
+<img src="img/ch09/compressor.png" alt="Compressor 壓縮量、Fast 與 Global 控制（原文第 51 頁）" width="135">
 
 壓縮器（Compressor——縮小聲音的動態範圍，讓小聲的部分更大聲、大聲的部分更安靜）讓聲音聽起來更緊湊有力，現場演出時整體音量也更好控制。按 **ON** 按鈕啟用，**AMOUNT** 旋鈕控制壓縮量。
 
@@ -420,32 +410,35 @@ The FAST mode (Shift + Amount knob) makes the Compressor recover quicker after b
 
 ---
 
-## 混響 / REVERB
+## 殘響 / REVERB
 
-混響（Reverb——模擬聲音在各種空間中的自然反射效果）提供六種不同長度和密度的混響類型，用六段選擇器的 LED 指示。
+
+<img src="img/ch09/reverb.png" alt="Reverb 類型、乾濕比與 Global 控制（原文第 51 頁）" width="219">
+
+殘響（Reverb——模擬聲音在各種空間中的自然反射效果）提供六種不同長度和密度的殘響類型，用六段選擇器的 LED 指示。
 
 The REVERB unit simulates the natural sound reflections in various acoustic environments. There are six Reverb Types of various lengths and densities.
 
-左側三種類型有 VARIATION；右側三種可設定 **CHORALE（合唱）模式**，增加混響訊號裡的音高調製，讓聲音更有活力。按住 Shift 再按選擇按鈕啟用 Variation/Chorale。
+左側三種類型有 VARIATION；右側三種可設定 **CHORALE（合唱）模式**，增加殘響訊號裡的音高調變，讓聲音更有活力。按住 Shift 再按選擇按鈕啟用 Variation/Chorale。
 
 Reverb Types on the left side of the selector all have a VARIATION. Types on the right side can all be set to CHORALE, which increases the pitch modulation in the Reverb signal. Variation/Chorale is activated with Shift+Selector button.
 
-混響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾訊號和混響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。
+殘響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾音和殘響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。
 
 The Reverb can be set to GLOBAL mode (Shift+On). The morphable DRY/WET control sets the balance between the unprocessed and the processed signal, going all the way to fully wet at its max position.
 
 ---
 
-### 混響類型 / REVERB TYPES
+### 殘響類型 / REVERB TYPES
 
 | 類型 | 說明 |
 |------|------|
-| **SPRING（彈簧混響）** | 重現傳統彈簧混響槽的聲音，常見於音輪風琴、吉他擴大機等設備。VARIATION 提供不同特性，混響時間更長。 |
+| **SPRING（彈簧殘響）** | 重現傳統彈簧殘響槽的聲音，常見於音輪風琴、吉他擴大機等設備。VARIATION 提供不同特性，殘響時間更長。 |
 | **BOOTH（小室）** | 極短衰減時間的小空間感。VARIATION 增加前置延遲時間，即使高 Amount 也能保留清晰的音符發音。 |
-| **ROOM（房間）** | 衰減時間較短的房間感混響。VARIATION 同樣增加前置延遲時間。 |
-| **STAGE（舞台）** | 中等衰減時間，自然的室內空間感。CHORALE 模式增加音高調製，讓混響更有活力。 |
-| **HALL（大廳）** | 寬廣大廳的衰減和音色，衰減時間較長。CHORALE 模式增加音高調製。 |
-| **CATH（大教堂）** | 超大型空間，衰減時間非常長。CHORALE 模式增加音高調製。 |
+| **ROOM（房間）** | 衰減時間較短的房間感殘響。VARIATION 同樣增加前置延遲時間。 |
+| **STAGE（舞台）** | 中等衰減時間，自然的室內空間感。CHORALE 模式增加音高調變，讓殘響更有活力。 |
+| **HALL（大廳）** | 寬廣大廳的衰減和音色，衰減時間較長。CHORALE 模式增加音高調變。 |
+| **CATH（大教堂）** | 超大型空間，衰減時間非常長。CHORALE 模式增加音高調變。 |
 
 | Type | Description |
 |------|-------------|
@@ -462,11 +455,12 @@ The BRIGHT or DARK mode can be used for all Types to alter the frequency respons
 
 ---
 
-![Page 52](img/ch09/page_52.png)
-
 ---
 
 ## 旋轉喇叭 / ROTARY SPEAKER
+
+
+<img src="img/ch09/rotary_speaker.png" alt="Rotary Speaker 旋轉喇叭面板（原文第 52 頁）" width="139">
 
 旋轉喇叭（Rotary Speaker——模擬旋轉喇叭箱的效果器，最著名的是 Leslie 喇叭箱）是傳統音輪風琴的經典搭配，能製造出獨特的都卜勒效應音色。
 
@@ -494,14 +488,19 @@ In STOP mode (Shift+Rotary Speed) the Rotary Speaker simulation freezes to a hal
 
 The Rotary Speaker controls are shared for all Layers that are routed to it.
 
-![ch09 圖 1](img/ch09/fig_01_p47.png)
+<details>
+<summary>原文整頁參考</summary>
 
-![ch09 圖 2](img/ch09/fig_02_p48.png)
+![原文第 47 頁](img/ch09/page_47.png)
 
-![ch09 圖 3](img/ch09/fig_03_p49.png)
+![原文第 48 頁](img/ch09/page_48.png)
 
-![ch09 圖 4](img/ch09/fig_04_p50.png)
+![原文第 49 頁](img/ch09/page_49.png)
 
-![ch09 圖 5](img/ch09/fig_05_p51.png)
+![原文第 50 頁](img/ch09/page_50.png)
 
-![ch09 圖 6](img/ch09/fig_06_p52.png)
+![原文第 51 頁](img/ch09/page_51.png)
+
+![原文第 52 頁](img/ch09/page_52.png)
+
+</details>

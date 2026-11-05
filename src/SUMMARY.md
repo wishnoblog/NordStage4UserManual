@@ -1,5 +1,7 @@
 # Nord Stage 4 使用手冊（中英雙語）
 
+[CH0：關於翻譯資訊](ch00_about_translation.md)
+
 [前言](ch01_introduction.md)
 
 ---
@@ -12,13 +14,13 @@
 
 # 音色區段
 
-- [第四章：風琴區 / Organ Section](ch04_organ_section.md)
+- [第四章：風琴區段 / Organ Section](ch04_organ_section.md)
 - [第五章：鋼琴區段 / Piano Section](ch05_piano_section.md)
 - [第六章：合成器區段 / Synth Section](ch06_synth_section.md)
 
 # 進階功能
 
-- [第七章：程式管理 / Program](ch07_program.md)
+- [第七章：音色配置管理 / Program](ch07_program.md)
 - [第八章：外部模式 / Extern](ch08_extern.md)
 - [第九章：音層效果 / Layer Effects](ch09_layer_effects.md)
 - [第十章：MIDI](ch10_midi.md)
@@ -32,3 +34,5 @@
 # 附錄
 
 - [附錄：接線與 MIDI CC 列表 / Appendix](appendix.md)
+
+- [專有名詞對照](glossary.md)

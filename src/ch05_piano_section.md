@@ -1,15 +1,13 @@
 # 第五章：鋼琴區段 / Chapter 5: Piano Section
 
-![第 23 頁](img/ch05/page_23.png)
-
-![圖 1](img/ch05/fig_01_p23.png)
-
-
 ---
 
 ## 開關與音量 / ON/OFF AND LEVEL
 
-按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區段。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**變形控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。
+
+<img src="img/ch05/piano_panel.png" alt="鋼琴區段面板總覽（原文第 23 頁）" width="348">
+
+按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區段。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**Morph 多參數控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。
 
 The Piano SECTION is turned On or Off by pressing its ON button. The morphable faders control the output level of each Piano Layer.
 
@@ -19,7 +17,10 @@ Press the On button for roughly half a second to perform a SOLO operation, which
 
 ---
 
-## 音層按鈕與效果焦點 / LAYER BUTTONS AND FX FOCUS
+## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS
+
+
+<img src="img/ch05/piano_layers.png" alt="鋼琴音層 A／B 與音量控制（原文第 23 頁）" width="179">
 
 鋼琴區段有兩個音層：**A** 和 **B**。要同時開啟兩個音層，只要同時按下 A 和 B 兩個按鈕即可。若要關閉某個音層，長按該音層按鈕片刻就行了。
 
@@ -35,25 +36,28 @@ Pressing a Layer button also focuses that Layer's effects for editing, indicated
 
 ---
 
-## 八度移調與鍵盤分區 / OCTAVE SHIFT AND KB ZONE
+## 八度移調與鍵盤區域 / OCTAVE SHIFT AND KB ZONE
+
+
+<img src="img/ch05/piano_octave_zone.png" alt="鋼琴八度移調與鍵盤分區（原文第 23 頁）" width="192">
 
 **OCTAVE SHIFT（八度移調）**按鈕可以讓選定的音層往上或往下移動一個八度（即 ±12 個半音）。整個鍵盤範圍可移調一個八度；如果音層只分配在某個小分區，可移調的幅度會有所不同，但始終能涵蓋鋼琴的完整音域。
 
 Use OCTAVE SHIFT to transpose the selected Piano Layer up or down by octaves (+/- 12 semitones). When assigned to the entire keyboard it can be transposed one octave up or down. When assigned to a smaller zone the available transpose values will vary, but always provide access to the entire range of the Piano.
 
-按下 **KB ZONE**（Shift + 八度移調上/下），可以把目前的鋼琴音層分配到特定的**鍵盤分區（KB Zone）**。綠色 LED 會顯示該音層目前分配在哪些分區。關於分區設定的詳細說明，請參考第 38 頁。
+按下 **KB ZONE**（Shift + 八度移調上/下），可以把目前的鋼琴音層分配到特定的**鍵盤區域（KB Zone）**。綠色 LED 會顯示該音層目前分配在哪些分區。關於分區設定的詳細說明，請參考第 38 頁。
 
 Press KB ZONE (Shift+Octave Down/Up), to assign the focused Piano Layer to any of the active keyboard zones. The green LEDs indicate which of the zones a Layer is assigned to. Read more about Split set-ups and keyboard zones on page 38.
 
 ---
 
-## 延音踏板與音高桿 / SUSTPED AND PSTICK
+## 延音踏板與音高控制桿 / SUSTPED AND PSTICK
 
 **SUSTPED**（Shift + 音層 A）可以為鋼琴區段啟用外接的**延音踏板（Sustain Pedal——踩下後，鬆開琴鍵後音符仍持續發聲）**。踏板的詳細設定請參考第 58 頁的選單章節。
 
 SUSTPED (Shift + Layer A) activates any attached sustain pedal for the Piano section. Read more on how to configure attached pedals in the Menus chapter, on page 58.
 
-**PSTICK**（Shift + 音層 B）開啟音高桿功能，讓你可以用音高桿（Pitch Stick）把鋼琴音色上下彎音 2 個半音，做出滑音效果。
+**PSTICK**（Shift + 音層 B）開啟音高控制桿功能，讓你可以用音高控制桿（Pitch Stick）把鋼琴音色上下彎音 2 個半音，做出滑音效果。
 
 PSTICK (Shift + Layer B) turns on pitch stick functionality for the Piano, in which case the Piano sound can be bent 2 semitones up and down, using the pitch stick.
 
@@ -69,21 +73,22 @@ Nord Stage 4 為鋼琴音色提供了 2 GB 的記憶體空間，出廠就包含�
 
 The Nord Stage 4 has 2 GB of memory for Piano sounds and provides an extensive collection of carefully selected pianos of all types, right out of the box. Much effort was made to ensure a nuanced response and sound, matching the original models as closely as possible. Each piano has been sampled with a vast amount of velocity levels, which is one
 
-![第 24 頁](img/ch05/page_24.png)
-
 reason why they all sound and feel so authentic.
 
 用 Nord Sound Manager 下載鋼琴音色後，系統會自動把它放進對應的類型分類中，不需要手動整理。
 
 When you download piano sounds with the Nord Sound Manager, these are automatically placed into their corresponding Type.
 
-如果某個程式（Program）所使用的鋼琴音色目前沒有安裝在琴中，對應的類型 LED 會閃爍，螢幕也會顯示「Piano not found」。這時你可以選擇其他已安裝的鋼琴音色來代替，或是用 Nord Sound Manager 下載缺少的音色。
+如果某個音色配置（Program）所使用的鋼琴音色目前沒有安裝在琴中，對應的類型 LED 會閃爍，螢幕也會顯示「Piano not found」。這時你可以選擇其他已安裝的鋼琴音色來代替，或是用 Nord Sound Manager 下載缺少的音色。
 
 If a Program references a piano that is currently not downloaded onto the Nord Stage 4, the type LED will flash, and the display will read "Piano not found". If this happens, you can either navigate to another instrument Model of the selected (or any other) type and select to use this piano instead, or use the Nord Sound Manager application to download the missing instrument.
 
 ---
 
 ## 關於鋼琴音色的大小 / ABOUT PIANO SIZE
+
+
+<img src="img/ch05/piano_sizes.png" alt="Sml／Med／Lrg／XL 鋼琴音色內容對照（原文第 24 頁）" width="461">
 
 Nord Piano Library 的音色有最多四種不同的檔案大小，大小不同功能也不同。下表是大鋼琴和直立式鋼琴各尺寸的功能比較：
 
@@ -119,7 +124,7 @@ Many pianos are also available in an Extra Large (XL) version. These are "fully 
 
 ## 鋼琴預設音色 / PIANO PRESETS
 
-Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在程式區段的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何程式中快速叫出。
+Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在音色配置區段的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何音色配置中快速叫出。
 
 The Nord Stage 4 comes with a large selection of complete and ready-to-use Piano Presets, including effects. These are browsed and loaded using the PIANO button in the PRESET LIBRARY area of the Program section. User created sounds can be stored to the Preset Library as well, for quick and easy recall regardless of which Program is loaded.
 
@@ -131,12 +136,15 @@ Read more about the Preset Library on page 40.
 
 ## 選擇鋼琴音色 / PIANO SELECT
 
+
+<img src="img/ch05/piano_display.png" alt="鋼琴類型、型號與音色名稱顯示（原文第 24 頁）" width="301">
+
 ### 類型與型號 / TYPE AND MODEL
 
+
+<img src="img/ch05/piano_select.png" alt="鋼琴類型按鈕與 Model 選擇旋鈕（原文第 24 頁）" width="172">
+
 按下 **TYPE** 按鈕可以選擇鋼琴的類型（大分類），共有六種類型：
-
-![圖 2](img/ch05/fig_02_p24.png)
-
 
 Use the TYPE button for selecting the desired type, or category, of piano sound. These are the six types into which all piano sounds are placed:
 
@@ -155,12 +163,6 @@ Use the PIANO SELECT dial to choose a piano sound within the selected Type. The 
 
 ---
 
-
-![圖 3](img/ch05/fig_03_p25.png)
-
-
-![圖 4](img/ch05/fig_04_p26.png)
-
 ### 關於 Clavinet / ABOUT THE CLAVINET
 
 原版 Clavinet D6 用幾個搖桿開關來切換不同的拾音器組合，Nord Stage 4 完整模擬了這個設計，所有原版的拾音器選擇都可以使用：
@@ -178,13 +180,14 @@ Clavinet 也有專屬的音色設定（Timbre），對應原始樂器的 EQ 選�
 
 The Clavinet also has its unique set of Piano Timbre settings, corresponding to EQ options of the original instrument.
 
-![第 25 頁](img/ch05/page_25.png)
-
 ---
 
-## 列表視圖 / LIST VIEW
+## 清單檢視 / LIST VIEW
 
-按住 **SHIFT** 並轉動 **PIANO SELECT** 旋鈕，會進入鋼琴音色的列表視圖，方便你瀏覽所有音色。列表頂部會顯示目前的類型名稱、該類型的音色數量，以及目前選到第幾個音色。
+
+<img src="img/ch05/piano_list.png" alt="鋼琴清單檢視畫面（原文第 25 頁）" width="320">
+
+按住 **SHIFT** 並轉動 **PIANO SELECT** 旋鈕，會進入鋼琴音色的清單檢視，方便你瀏覽所有音色。列表頂部會顯示目前的類型名稱、該類型的音色數量，以及目前選到第幾個音色。
 
 Pressing SHIFT and turning the PIANO SELECT dial activates the LIST view for piano sounds. The Piano list top row displays the current type name ("Grand" in this case), the number of models of that type (9), and the index of the currently selected model (3).
 
@@ -198,7 +201,10 @@ Pressing INFO (Shift + Piano Select) displays some additional info about the cur
 
 ---
 
-## 鍵盤觸感 / KB TOUCH
+## 觸鍵力度反應 / KB TOUCH
+
+
+<img src="img/ch05/kb_touch.png" alt="KB Touch 力度反應選擇（原文第 25 頁）" width="104">
 
 Nord Piano Library 的鋼琴音色動態範圍非常寬廣，你可以用 **KB TOUCH** 來調整鍵盤的觸感靈敏度，讓它更符合你的演奏習慣。
 
@@ -229,9 +235,12 @@ The Dyn Comp feature is compatible with version 6 piano sounds only. The version
 
 ---
 
-## 音響效果 / ACOUSTICS
+## 鋼琴聲音特性 / ACOUSTICS
 
 ### 柔和釋音 / SOFT RELEASE
+
+
+<img src="img/ch05/acoustics.png" alt="Soft Release 與 String Resonance 控制（原文第 25 頁）" width="95">
 
 開啟 **SOFT RELEASE** 後，原聲鋼琴音色鬆開琴鍵後的尾音會稍微延長，聽起來更自然柔和，就像調整了原始鋼琴的制音器張力一樣。每個音符的釋音長度會根據你彈奏的力道而有所不同。電鋼琴音色則相反，開啟後釋音會明顯縮短。
 
@@ -252,7 +261,7 @@ The STRING RES (String Resonance) feature is made up of two distinct components:
 1. **踏板取樣**：Med、Lrg 和 XL 大小的大鋼琴/直立鋼琴包含「踩下延音踏板時錄製」的取樣，重現了踩踏板時鋼琴箱體自然共鳴的氛圍。
    The dedicated pedal down samples, activated when pressing the sustain pedal, included in the Med, Lrg and XL sizes of Grand and Upright piano sounds. These were sampled with the sustain pedal pressed down, capturing the natural ambience and acoustics of the original instrument.
 
-2. **模擬同感共鳴**：當你按住某些音符時，彈奏其他音符會讓這些被按住弦產生共鳴，就像在真實鋼琴上一樣。
+2. **模擬交感共振**：當你按住某些音符時，彈奏其他音符會讓這些被按住弦產生共鳴，就像在真實鋼琴上一樣。
    The simulated "sympathetic" String Resonance which occurs when strings of held notes are caused to vibrate at their fundamental or harmonic frequencies as other notes are being played.
 
 模擬弦共鳴的強度可以在音效選單中調整，詳見第 57 頁。
@@ -265,17 +274,15 @@ If a piano is selected that isn't compatible with the String Resonance feature, 
 
 ---
 
-### 踏板噪音 / PED NOISE (PEDAL NOISE)
+### 踏板機械聲 / PED NOISE (PEDAL NOISE)
 
-**PED NOISE（踏板噪音——真實鋼琴踩踏板時會發出的機械聲音）**（Shift + Soft Release/String Res）需要連接 Nord Triple Pedal 或 Nord Single Pedal 2 才能使用。開啟後，踩下延音踏板時的機械聲音會被重現，踩踏的力道越大，聲音也越明顯。
+**PED NOISE（踏板機械聲——真實鋼琴踩踏板時會發出的機械聲音）**（Shift + Soft Release/String Res）需要連接 Nord Triple Pedal 或 Nord Single Pedal 2 才能使用。開啟後，踩下延音踏板時的機械聲音會被重現，踩踏的力道越大，聲音也越明顯。
 
 PED NOISE (Pedal Noise, Shift + Soft Release/String Res) is available if a Nord Triple Pedal or a Nord Single Pedal 2 is connected to the Nord Stage 4 (see below). When activated, the mechanical noise that occurs with the sustain pedal on an acoustic or electric piano will be recreated. The Pedal Noise responds dynamically to the force used when the sustain pedal is operated.
 
-踏板噪音的音量可在音效選單中調整，詳見第 57 頁。若目前的鋼琴音色不支援此功能，它會自動停用。
+踏板機械聲的音量可在音效選單中調整，詳見第 57 頁。若目前的鋼琴音色不支援此功能，它會自動停用。
 
 The level of the Pedal Noise can be adjusted in the Sound Menu, see page 57. If the selected piano is not compatible with the Pedal Noise feature, this function is disabled.
-
-![第 26 頁](img/ch05/page_26.png)
 
 ---
 
@@ -299,7 +306,7 @@ If both the Nord TP-1 and TP-2 are attached to the Nord Stage 4, the left and mi
 
 ---
 
-### 延音踏板與半踩技巧 / SUSTAIN AND HALF PEDALING
+### 延音踏板與半踏板技巧 / SUSTAIN AND HALF PEDALING
 
 **右踏板**永遠是**延音踏板（Sustain Pedal）**。使用 Nord Triple Pedal 或 Nord Single Pedal 2 時，支援**半踩（Half Pedaling）**技巧——踏板只踩一半時，制音器只提升一半，聲音是半延音狀態，非常接近真實鋼琴的感覺。
 
@@ -307,9 +314,9 @@ The right pedal always functions as sustain pedal. With the Nord Triple Pedals a
 
 ---
 
-### 選擇延音踏板 / SOSTENUTO
+### 特定音延音踏板 / SOSTENUTO
 
-**中間踏板**預設是**選擇延音踏板（Sostenuto——只讓踩下踏板當下已按住的音符延音，之後彈的音不受影響）**。先按住幾個音符，再踩下 Sostenuto 踏板，這些音符會持續延音；之後彈的其他音符則正常發聲和停止。
+**中間踏板**預設是**特定音延音踏板（Sostenuto——只讓踩下踏板當下已按住的音符延音，之後彈的音不受影響）**。先按住幾個音符，再踩下 Sostenuto 踏板，這些音符會持續延音；之後彈的其他音符則正常發聲和停止。
 
 The middle pedal of the Nord Triple Pedals is by default the Sostenuto pedal. Using this, selected notes can be sustained while other notes remain unaffected. Notes that are already held down when the pedal is operated will sustain while subsequent notes, played while the pedal down is, will not be sustained.
 
@@ -319,9 +326,9 @@ There are a number of optional functions for the middle pedal, see page 59 for f
 
 ---
 
-### 弱音踏板 / SOFT PEDAL
+### 柔音踏板 / SOFT PEDAL
 
-**左踏板**預設是**弱音踏板（Soft Pedal，又稱 Una Corda）**。踩下後，所有發聲的音符音量會稍微降低，音色也會變得較為柔和內斂。
+**左踏板**預設是**柔音踏板（Soft Pedal，又稱 Una Corda）**。踩下後，所有發聲的音符音量會稍微降低，音色也會變得較為柔和內斂。
 
 The left pedal on the Nord Triple Pedals is by default the soft pedal, also known as the Una Corda. When it is pressed down, all played notes will be slightly lower in volume and also have a slightly more subdued tone quality.
 
@@ -332,6 +339,9 @@ There are a number of optional functions for the left pedal, see page 59 for fur
 ---
 
 ## 音色特性 / TIMBRE
+
+
+<img src="img/ch05/timbre.png" alt="鋼琴 Timbre 音色特性選擇（原文第 26 頁）" width="104">
 
 用 **TIMBRE** 設定可以快速調整目前鋼琴音色的頻率特性和整體音色風格。
 
@@ -365,9 +375,6 @@ When an Electric Piano is selected, the Timbre settings are tailored specificall
 
 原版 Clavinet 內建 4 個搖桿開關控制 EQ，Nord Stage 4 提供了這些開關大部分的組合選項。
 
-![圖 5](img/ch05/fig_05_p26.png)
-
-
 An original Clavinet is equipped with 4 rocker switches which control the onboard EQ. Most of the combinations produced by these switches are available on the Nord Stage 4.
 
 可用設定：Soft、Treble、Soft+Treble、Brilliant、Soft+Brilliant、Treble+Brilliant、Soft+Treble+Brilliant。
@@ -378,18 +385,24 @@ Available settings are: Soft, Treble, Soft+Treble, Brilliant, Soft+Brilliant, Tr
 
 ## 齊奏效果 / UNISON
 
+
+<img src="img/ch05/piano_unison.png" alt="鋼琴 Unison 控制（原文第 26 頁）" width="98">
+
 **UNISON（齊奏——利用相鄰琴鍵的聲音稍微移調後疊加，產生立體寬廣感）**功能可以讓鋼琴或電鋼琴音色聽起來更有空間感和厚度。最高設定下音高偏移量較大，效果更明顯。共有 1、2、3 三個強度，從細緻的立體感到明顯的去諧音效都有。
 
 The UNISON feature uses transposed voices from neighbouring keys to create a stereo Unison effect. This can be used for stereo widening of mono sources such as electric pianos or for adding width and chorus-like shimmer to acoustic pianos. At the highest setting larger degrees of detune is applied. There are three different degrees of Unison, 1, 2 and 3, ranging from a subtle stereo effect to more obvious detuning.
 
 > 💡 在電鋼琴上開啟 UNISON 1 或 2，可以讓原本較為單薄的音色立刻變得豐厚有層次，非常適合流行樂或 R&B 曲風。
 
-![ch05 圖 1](img/ch05/fig_01_p23.png)
+<details>
+<summary>原文整頁參考</summary>
 
-![ch05 圖 2](img/ch05/fig_02_p24.png)
+![原文第 23 頁](img/ch05/page_23.png)
 
-![ch05 圖 3](img/ch05/fig_03_p25.png)
+![原文第 24 頁](img/ch05/page_24.png)
 
-![ch05 圖 4](img/ch05/fig_04_p26.png)
+![原文第 25 頁](img/ch05/page_25.png)
 
-![ch05 圖 5](img/ch05/fig_05_p26.png)
+![原文第 26 頁](img/ch05/page_26.png)
+
+</details>

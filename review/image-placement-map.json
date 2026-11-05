@@ -1,0 +1,1458 @@
+[
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "ABOUT THE ORGAN SECTION",
+    "image": "img/ch04/organ_panel.png",
+    "page": 18,
+    "box": [
+      67,
+      218,
+      812,
+      665
+    ],
+    "width": 760
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "ON/OFF AND LEVEL",
+    "image": "img/ch04/organ_on_level.png",
+    "page": 18,
+    "box": [
+      164,
+      223,
+      428,
+      421
+    ],
+    "width": 330
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "LAYER BUTTONS AND FX FOCUS",
+    "image": "img/ch04/organ_layers.png",
+    "page": 18,
+    "box": [
+      165,
+      405,
+      293,
+      505
+    ],
+    "width": 160
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "OCTAVE SHIFT AND KB ZONE",
+    "image": "img/ch04/organ_octave_zone.png",
+    "page": 18,
+    "box": [
+      165,
+      578,
+      294,
+      654
+    ],
+    "width": 161
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "SELECTING AN ORGAN MODEL",
+    "image": "img/ch04/organ_model.png",
+    "page": 18,
+    "box": [
+      323,
+      266,
+      429,
+      392
+    ],
+    "width": 132
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "DRAWBARS AND LED GRAPHS",
+    "image": "img/ch04/organ_drawbars.png",
+    "page": 18,
+    "box": [
+      295,
+      402,
+      800,
+      651
+    ],
+    "width": 631
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "B3 DRAWBARS",
+    "image": "img/ch04/b3_harmonics.png",
+    "page": 19,
+    "box": [
+      453,
+      621,
+      814,
+      850
+    ],
+    "width": 451
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "VIBRATO & CHORUS",
+    "image": "img/ch04/vibrato_chorus.png",
+    "page": 19,
+    "box": [
+      453,
+      898,
+      611,
+      1037
+    ],
+    "width": 198
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "PERCUSSION",
+    "image": "img/ch04/percussion.png",
+    "page": 20,
+    "box": [
+      62,
+      108,
+      255,
+      221
+    ],
+    "width": 241
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "VOX DRAWBARS",
+    "image": "img/ch04/vox_harmonics.png",
+    "page": 20,
+    "box": [
+      453,
+      246,
+      815,
+      688
+    ],
+    "width": 452
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "FARF REGISTERS",
+    "image": "img/ch04/farf_registers.png",
+    "page": 21,
+    "box": [
+      62,
+      512,
+      429,
+      788
+    ],
+    "width": 459
+  },
+  {
+    "chapter": 4,
+    "file": "ch04_organ_section.md",
+    "heading": "PRESET AND DRAWBAR LIVE",
+    "image": "img/ch04/drawbar_live.png",
+    "page": 21,
+    "box": [
+      453,
+      678,
+      523,
+      751
+    ],
+    "width": 88
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "ON/OFF AND LEVEL",
+    "image": "img/ch05/piano_panel.png",
+    "page": 23,
+    "box": [
+      305,
+      244,
+      583,
+      677
+    ],
+    "width": 348
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "LAYER BUTTONS AND FX FOCUS",
+    "image": "img/ch05/piano_layers.png",
+    "page": 23,
+    "box": [
+      307,
+      275,
+      450,
+      519
+    ],
+    "width": 179
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "OCTAVE SHIFT AND KB ZONE",
+    "image": "img/ch05/piano_octave_zone.png",
+    "page": 23,
+    "box": [
+      307,
+      597,
+      461,
+      671
+    ],
+    "width": 192
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "ABOUT PIANO SIZE",
+    "image": "img/ch05/piano_sizes.png",
+    "page": 24,
+    "box": [
+      62,
+      400,
+      431,
+      530
+    ],
+    "width": 461
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "TYPE AND MODEL",
+    "image": "img/ch05/piano_select.png",
+    "page": 24,
+    "box": [
+      453,
+      484,
+      591,
+      695
+    ],
+    "width": 172
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "PIANO SELECT",
+    "image": "img/ch05/piano_display.png",
+    "page": 24,
+    "box": [
+      589,
+      642,
+      830,
+      697
+    ],
+    "width": 301
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "LIST VIEW",
+    "image": "img/ch05/piano_list.png",
+    "page": 25,
+    "box": [
+      62,
+      223,
+      318,
+      366
+    ],
+    "width": 320
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "KB TOUCH",
+    "image": "img/ch05/kb_touch.png",
+    "page": 25,
+    "box": [
+      62,
+      599,
+      145,
+      689
+    ],
+    "width": 104
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "SOFT RELEASE",
+    "image": "img/ch05/acoustics.png",
+    "page": 25,
+    "box": [
+      453,
+      188,
+      529,
+      295
+    ],
+    "width": 95
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "TIMBRE",
+    "image": "img/ch05/timbre.png",
+    "page": 26,
+    "box": [
+      453,
+      142,
+      536,
+      218
+    ],
+    "width": 104
+  },
+  {
+    "chapter": 5,
+    "file": "ch05_piano_section.md",
+    "heading": "UNISON",
+    "image": "img/ch05/piano_unison.png",
+    "page": 26,
+    "box": [
+      453,
+      986,
+      531,
+      1082
+    ],
+    "width": 98
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ABOUT THE SYNTH SECTION",
+    "image": "img/ch06/synth_panel.png",
+    "page": 27,
+    "box": [
+      61,
+      258,
+      833,
+      670
+    ],
+    "width": 760
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "SYNTH SECTION MODES",
+    "image": "img/ch06/synth_mode.png",
+    "page": 28,
+    "box": [
+      62,
+      342,
+      139,
+      440
+    ],
+    "width": 96
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "SAMPLES",
+    "image": "img/ch06/sample_library.png",
+    "page": 28,
+    "box": [
+      62,
+      1070,
+      331,
+      1208
+    ],
+    "width": 336
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ANALOG - PURE",
+    "image": "img/ch06/pure_waveforms.png",
+    "page": 29,
+    "box": [
+      62,
+      411,
+      207,
+      681
+    ],
+    "width": 181
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "SYNC",
+    "image": "img/ch06/sync_waveforms.png",
+    "page": 29,
+    "box": [
+      453,
+      83,
+      616,
+      437
+    ],
+    "width": 204
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "SHAPE",
+    "image": "img/ch06/shape_waveforms.png",
+    "page": 29,
+    "box": [
+      453,
+      520,
+      809,
+      730
+    ],
+    "width": 445
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "SHAPE SINE",
+    "image": "img/ch06/shape_sine_waveforms.png",
+    "page": 29,
+    "box": [
+      453,
+      919,
+      809,
+      1208
+    ],
+    "width": 445
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "FILTER TYPE",
+    "image": "img/ch06/filter_display.png",
+    "page": 31,
+    "box": [
+      62,
+      241,
+      334,
+      384
+    ],
+    "width": 340
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "**LP 24 & LP 12（低通濾波器）**",
+    "image": "img/ch06/filter_lp.png",
+    "page": 31,
+    "box": [
+      62,
+      584,
+      282,
+      738
+    ],
+    "width": 275
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "**LP+HP（低通＋高通組合濾波器）**",
+    "image": "img/ch06/filter_lphp.png",
+    "page": 31,
+    "box": [
+      62,
+      1100,
+      282,
+      1250
+    ],
+    "width": 275
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "**HP（高通濾波器）**",
+    "image": "img/ch06/filter_hp.png",
+    "page": 31,
+    "box": [
+      453,
+      183,
+      673,
+      338
+    ],
+    "width": 275
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "**BP（帶通濾波器）**",
+    "image": "img/ch06/filter_bp.png",
+    "page": 31,
+    "box": [
+      453,
+      440,
+      673,
+      596
+    ],
+    "width": 275
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "KEYBOARD TRACKING",
+    "image": "img/ch06/keyboard_tracking.png",
+    "page": 32,
+    "box": [
+      62,
+      129,
+      386,
+      567
+    ],
+    "width": 405
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "FILTER FREQUENCY",
+    "image": "img/ch06/filter_freq.png",
+    "page": 32,
+    "box": [
+      62,
+      865,
+      147,
+      949
+    ],
+    "width": 106
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "FILTER FREQUENCY",
+    "image": "img/ch06/filter_freq_response.png",
+    "page": 32,
+    "box": [
+      62,
+      974,
+      313,
+      1119
+    ],
+    "width": 314
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "FILTER RESONANCE",
+    "image": "img/ch06/filter_res.png",
+    "page": 32,
+    "box": [
+      453,
+      117,
+      537,
+      199
+    ],
+    "width": 105
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ENV AMT (ENVELOPE AMOUNT)",
+    "image": "img/ch06/env_amount.png",
+    "page": 32,
+    "box": [
+      453,
+      380,
+      530,
+      461
+    ],
+    "width": 96
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "THE ENVELOPES",
+    "image": "img/ch06/envelope_curve.png",
+    "page": 32,
+    "box": [
+      453,
+      612,
+      833,
+      844
+    ],
+    "width": 475
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ATTACK, DECAY AND RELEASE TIMES",
+    "image": "img/ch06/envelope_display.png",
+    "page": 32,
+    "box": [
+      453,
+      981,
+      721,
+      1119
+    ],
+    "width": 335
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "OSCILLATOR ENVELOPE",
+    "image": "img/ch06/osc_envelope.png",
+    "page": 33,
+    "box": [
+      62,
+      466,
+      221,
+      538
+    ],
+    "width": 199
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "FILTER ENVELOPE",
+    "image": "img/ch06/filter_envelope.png",
+    "page": 33,
+    "box": [
+      62,
+      993,
+      205,
+      1077
+    ],
+    "width": 179
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "AMP ENVELOPE",
+    "image": "img/ch06/amp_envelope.png",
+    "page": 33,
+    "box": [
+      453,
+      114,
+      531,
+      201
+    ],
+    "width": 98
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "LFO",
+    "image": "img/ch06/lfo_controls.png",
+    "page": 33,
+    "box": [
+      453,
+      438,
+      623,
+      601
+    ],
+    "width": 212
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "LFO WAVEFORM",
+    "image": "img/ch06/lfo_waveforms.png",
+    "page": 34,
+    "box": [
+      62,
+      162,
+      440,
+      386
+    ],
+    "width": 472
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "VOICE",
+    "image": "img/ch06/voice_controls.png",
+    "page": 34,
+    "box": [
+      62,
+      518,
+      222,
+      631
+    ],
+    "width": 200
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "UNISON",
+    "image": "img/ch06/synth_unison.png",
+    "page": 34,
+    "box": [
+      453,
+      415,
+      531,
+      495
+    ],
+    "width": 98
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ARPEGGIATOR/GATE",
+    "image": "img/ch06/arp_gate.png",
+    "page": 34,
+    "box": [
+      453,
+      735,
+      816,
+      853
+    ],
+    "width": 454
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "PATTERN",
+    "image": "img/ch06/pattern_edit.png",
+    "page": 35,
+    "box": [
+      453,
+      360,
+      729,
+      502
+    ],
+    "width": 345
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ARPEGGIATOR MENU",
+    "image": "img/ch06/arp_menu.png",
+    "page": 35,
+    "box": [
+      62,
+      795,
+      343,
+      944
+    ],
+    "width": 351
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "KB HOLD",
+    "image": "img/ch06/kb_hold.png",
+    "page": 36,
+    "box": [
+      62,
+      137,
+      131,
+      202
+    ],
+    "width": 86
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "VIBRATO",
+    "image": "img/ch06/vibrato_controls.png",
+    "page": 36,
+    "box": [
+      62,
+      474,
+      164,
+      571
+    ],
+    "width": 128
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "VIBRATO MENU",
+    "image": "img/ch06/vibrato_menu.png",
+    "page": 36,
+    "box": [
+      62,
+      968,
+      340,
+      1113
+    ],
+    "width": 348
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "OSCILLATOR ENVELOPE",
+    "image": "img/ch06/osc_env_amount.png",
+    "page": 33,
+    "box": [
+      62,
+      774,
+      138,
+      854
+    ],
+    "width": 95
+  },
+  {
+    "chapter": 6,
+    "file": "ch06_synth_section.md",
+    "heading": "ARPEGGIATOR RATE/TIME",
+    "image": "img/ch06/arp_rate_time.png",
+    "page": 35,
+    "box": [
+      453,
+      748,
+      523,
+      836
+    ],
+    "width": 88
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "PROGRAM OVERVIEW",
+    "image": "img/ch07/program_panel.png",
+    "page": 37,
+    "box": [
+      215,
+      248,
+      622,
+      685
+    ],
+    "width": 509
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "MORPH ASSIGN",
+    "image": "img/ch07/morph_assign.png",
+    "page": 37,
+    "box": [
+      453,
+      788,
+      624,
+      864
+    ],
+    "width": 214
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "MORPH INDICATORS",
+    "image": "img/ch07/morph_led.png",
+    "page": 38,
+    "box": [
+      62,
+      699,
+      138,
+      781
+    ],
+    "width": 95
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "SPLIT",
+    "image": "img/ch07/split_controls.png",
+    "page": 38,
+    "box": [
+      62,
+      1072,
+      134,
+      1166
+    ],
+    "width": 90
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "CHOOSING A SPLIT POSITION",
+    "image": "img/ch07/split_display.png",
+    "page": 38,
+    "box": [
+      453,
+      648,
+      713,
+      789
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "TRANSPOSE ON/SET",
+    "image": "img/ch07/transpose.png",
+    "page": 39,
+    "box": [
+      62,
+      865,
+      145,
+      954
+    ],
+    "width": 104
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "STORE",
+    "image": "img/ch07/store_button.png",
+    "page": 39,
+    "box": [
+      453,
+      133,
+      534,
+      210
+    ],
+    "width": 101
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "STORING A PROGRAM",
+    "image": "img/ch07/store_display.png",
+    "page": 39,
+    "box": [
+      479,
+      475,
+      742,
+      615
+    ],
+    "width": 329
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "STORE AS",
+    "image": "img/ch07/store_as.png",
+    "page": 40,
+    "box": [
+      88,
+      259,
+      348,
+      398
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "PROGRAM DIAL",
+    "image": "img/ch07/program_dial.png",
+    "page": 40,
+    "box": [
+      62,
+      651,
+      153,
+      726
+    ],
+    "width": 114
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "PAGE BUTTONS",
+    "image": "img/ch07/page_buttons.png",
+    "page": 40,
+    "box": [
+      453,
+      137,
+      575,
+      207
+    ],
+    "width": 152
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "MIDI AND EXTERN INDICATORS",
+    "image": "img/ch07/midi_leds.png",
+    "page": 40,
+    "box": [
+      453,
+      378,
+      508,
+      445
+    ],
+    "width": 69
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "PRESET LIBRARY",
+    "image": "img/ch07/preset_library.png",
+    "page": 40,
+    "box": [
+      453,
+      722,
+      635,
+      810
+    ],
+    "width": 228
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "STORING PRESETS TO THE PRESET LIBRARY",
+    "image": "img/ch07/preset_store.png",
+    "page": 41,
+    "box": [
+      62,
+      160,
+      323,
+      299
+    ],
+    "width": 326
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "SOLO",
+    "image": "img/ch07/solo.png",
+    "page": 41,
+    "box": [
+      453,
+      658,
+      524,
+      730
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "SECTION EDIT",
+    "image": "img/ch07/section_edit.png",
+    "page": 42,
+    "box": [
+      453,
+      196,
+      524,
+      268
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "LAYER INIT",
+    "image": "img/ch07/layer_init.png",
+    "page": 42,
+    "box": [
+      62,
+      397,
+      321,
+      533
+    ],
+    "width": 324
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "LAYER SCENE II",
+    "image": "img/ch07/layer_scene.png",
+    "page": 42,
+    "box": [
+      62,
+      963,
+      133,
+      1038
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "MONITOR / COPY / PASTE",
+    "image": "img/ch07/copy_paste.png",
+    "page": 42,
+    "box": [
+      453,
+      482,
+      524,
+      544
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "MONITOR / COPY / PASTE",
+    "image": "img/ch07/paste_display.png",
+    "page": 42,
+    "box": [
+      453,
+      889,
+      713,
+      1025
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "SHIFT / EXIT BUTTONS",
+    "image": "img/ch07/shift_exit.png",
+    "page": 43,
+    "box": [
+      62,
+      518,
+      109,
+      602
+    ],
+    "width": 59
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "HOLD TO SHIFT FUNCTION",
+    "image": "img/ch07/hold_to_shift.png",
+    "page": 43,
+    "box": [
+      62,
+      777,
+      133,
+      837
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "LIVE MODE",
+    "image": "img/ch07/live_mode.png",
+    "page": 43,
+    "box": [
+      62,
+      921,
+      133,
+      996
+    ],
+    "width": 89
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "NUM PAD (NUMERIC PAD)",
+    "image": "img/ch07/program_buttons.png",
+    "page": 43,
+    "box": [
+      453,
+      242,
+      690,
+      380
+    ],
+    "width": 296
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "NUM PAD (NUMERIC PAD)",
+    "image": "img/ch07/numeric_pad.png",
+    "page": 43,
+    "box": [
+      453,
+      685,
+      711,
+      820
+    ],
+    "width": 322
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "ORGANIZE",
+    "image": "img/ch07/organize.png",
+    "page": 44,
+    "box": [
+      88,
+      311,
+      351,
+      451
+    ],
+    "width": 329
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "- **SWAP**",
+    "image": "img/ch07/organize_swap.png",
+    "page": 44,
+    "box": [
+      86,
+      593,
+      346,
+      733
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "- **MOVE**",
+    "image": "img/ch07/organize_move.png",
+    "page": 44,
+    "box": [
+      86,
+      846,
+      347,
+      983
+    ],
+    "width": 326
+  },
+  {
+    "chapter": 7,
+    "file": "ch07_program.md",
+    "heading": "PROGRAM LEVELS",
+    "image": "img/ch07/program_levels.png",
+    "page": 44,
+    "box": [
+      453,
+      123,
+      710,
+      264
+    ],
+    "width": 321
+  },
+  {
+    "chapter": 8,
+    "file": "ch08_extern.md",
+    "heading": "EXTERN MODE",
+    "image": "img/ch08/extern_mode.png",
+    "page": 45,
+    "box": [
+      62,
+      328,
+      144,
+      442
+    ],
+    "width": 102
+  },
+  {
+    "chapter": 8,
+    "file": "ch08_extern.md",
+    "heading": "SETTING UP",
+    "image": "img/ch08/extern_midi.png",
+    "page": 45,
+    "box": [
+      88,
+      898,
+      368,
+      1043
+    ],
+    "width": 350
+  },
+  {
+    "chapter": 8,
+    "file": "ch08_extern.md",
+    "heading": "OCTAVE SHIFT",
+    "image": "img/ch08/extern_octave.png",
+    "page": 45,
+    "box": [
+      453,
+      470,
+      581,
+      552
+    ],
+    "width": 160
+  },
+  {
+    "chapter": 8,
+    "file": "ch08_extern.md",
+    "heading": "EXTERN PARAMETERS",
+    "image": "img/ch08/extern_parameters.png",
+    "page": 46,
+    "box": [
+      62,
+      132,
+      403,
+      471
+    ],
+    "width": 426
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "OVERVIEW",
+    "image": "img/ch09/effects_panel.png",
+    "page": 47,
+    "box": [
+      74,
+      232,
+      719,
+      670
+    ],
+    "width": 760
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "MOD 1",
+    "image": "img/ch09/mod1.png",
+    "page": 48,
+    "box": [
+      62,
+      215,
+      371,
+      331
+    ],
+    "width": 386
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "MOD 2",
+    "image": "img/ch09/mod2.png",
+    "page": 49,
+    "box": [
+      62,
+      216,
+      371,
+      329
+    ],
+    "width": 386
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "DELAY",
+    "image": "img/ch09/delay.png",
+    "page": 49,
+    "box": [
+      453,
+      396,
+      713,
+      628
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "AMP SIM/EQ",
+    "image": "img/ch09/amp_eq.png",
+    "page": 50,
+    "box": [
+      453,
+      238,
+      771,
+      437
+    ],
+    "width": 398
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "COMPRESSOR",
+    "image": "img/ch09/compressor.png",
+    "page": 51,
+    "box": [
+      62,
+      651,
+      170,
+      837
+    ],
+    "width": 135
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "REVERB",
+    "image": "img/ch09/reverb.png",
+    "page": 51,
+    "box": [
+      453,
+      133,
+      628,
+      317
+    ],
+    "width": 219
+  },
+  {
+    "chapter": 9,
+    "file": "ch09_layer_effects.md",
+    "heading": "ROTARY SPEAKER",
+    "image": "img/ch09/rotary_speaker.png",
+    "page": 52,
+    "box": [
+      477,
+      136,
+      588,
+      466
+    ],
+    "width": 139
+  },
+  {
+    "chapter": 10,
+    "file": "ch10_midi.md",
+    "heading": "PANIC",
+    "image": "img/ch10/midi_panic.png",
+    "page": 55,
+    "box": [
+      453,
+      681,
+      528,
+      768
+    ],
+    "width": 94
+  },
+  {
+    "chapter": 11,
+    "file": "ch11_menus.md",
+    "heading": "OVERVIEW",
+    "image": "img/ch11/menu_soft_buttons.png",
+    "page": 56,
+    "box": [
+      62,
+      742,
+      431,
+      1025
+    ],
+    "width": 461
+  },
+  {
+    "chapter": 11,
+    "file": "ch11_menus.md",
+    "heading": "6 - 輸出概覽 / OUTPUT OVERVIEW",
+    "image": "img/ch11/output_overview.png",
+    "page": 58,
+    "box": [
+      453,
+      999,
+      713,
+      1141
+    ],
+    "width": 325
+  },
+  {
+    "chapter": 11,
+    "file": "ch11_menus.md",
+    "heading": "7 - 踏板概覽 / PEDAL OVERVIEW",
+    "image": "img/ch11/pedal_overview.png",
+    "page": 60,
+    "box": [
+      453,
+      167,
+      718,
+      309
+    ],
+    "width": 331
+  },
+  {
+    "chapter": 11,
+    "file": "ch11_menus.md",
+    "heading": "10 - MIDI 概覽 / MIDI OVERVIEW",
+    "image": "img/ch11/midi_overview.png",
+    "page": 61,
+    "box": [
+      453,
+      1123,
+      718,
+      1253
+    ],
+    "width": 331
+  },
+  {
+    "chapter": 12,
+    "file": "ch12_nord_sound_manager.md",
+    "heading": "ABOUT NORD SOUND MANAGER",
+    "image": "img/ch12/sound_manager.png",
+    "page": 63,
+    "box": [
+      61,
+      243,
+      831,
+      730
+    ],
+    "width": 760
+  }
+]

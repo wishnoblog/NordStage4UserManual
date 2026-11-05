@@ -19,11 +19,11 @@
 
 General guide on audio connections: Before turning on your amplifier, make all audio connections. Always turn on the amplifier last, and when shutting down, always turn off your amplifier or active speakers first. Using the Nord Stage 4 at high volumes can damage your hearing.
 
-**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出路由到 CH 1&2 的所有音頻。
+**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出訊號路由到 CH 1&2 的所有音頻。
 
 1/4 inch stereo headphone jack, which outputs any audio routed to CH 1&2.
 
-**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻頻道有獨立的訊號路徑。
+**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻通道有獨立的訊號路徑。
 
 1/4 inch unbalanced line level outputs for amplifier or recording equipment. The Nord Stage 4 is a stereo instrument with separate signal paths for the left and right audio channels.
 
@@ -31,7 +31,7 @@ General guide on audio connections: Before turning on your amplifier, make all a
 
 When shipped, the Nord Stage 4 is configured to output audio through the 1&2 outputs. Refer to the Output Menu section on page 57 for details on how to utilise the 3&4 outputs.
 
-**監聽輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監聽輸入訊號路由到耳機和 Out 1&2。
+**監控輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監控輸入訊號路由到耳機和 Out 1&2。
 
 1/8 inch jack for connecting devices such as smartphones, tablets or computers. The Monitor In signal is routed to the Headphones and Out 1&2.
 
@@ -41,7 +41,7 @@ When shipped, the Nord Stage 4 is configured to output audio through the 1&2 out
 
 ### MIDI 連接 / MIDI CONNECTIONS
 
-**MIDI IN**：5 針 MIDI 輸入連接埠，用於接收從外部裝置（如控制器鍵盤、音序器或電腦）發送的 MIDI 資料。
+**MIDI IN**：5 針 MIDI 輸入連接埠，用於接收從外部裝置（如控制器鍵盤、編曲機或電腦）發送的 MIDI 資料。
 
 The 5 pin MIDI In connection is used for receiving MIDI data sent from external devices such as controller keyboards, sequencers or computers.
 
@@ -77,11 +77,11 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 1/4 inch connector for a continuous expression pedal, used for controlling morphs and/or Organ swell.
 
-**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區的 Swell 踏板、全域音量控制或鏡像調製輪 Morph 功能。
+**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區段的 Swell 踏板、全域音量控制或鏡像調變輪 Morph 功能。
 
 1/4 inch connector for an expression pedal used either as swell pedal with the Organ section, for global Volume control or to mirror the Wheel Morph functionality.
 
-**腳踏開關（FOOT SWITCH）**：1/4 吋連接埠，用於一個或兩個按鈕的瞬時踏板。腳踏開關可以指定多種功能，如切換程式、在音層場景之間切換或控制特定效果。
+**腳踏開關（FOOT SWITCH）**：1/4 吋連接埠，用於一個或兩個按鈕的瞬時踏板。腳踏開關可以指定多種功能，如切換音色配置、在音層場景之間切換或控制特定效果。
 
 1/4 inch connector for a one or two button, momentary pedal, assignable to a variety of functions.
 
@@ -89,7 +89,7 @@ The 5 pin TRIPLE PEDAL input jack is only compatible with the Nord Triple Pedal 
 
 ![第 66 頁](img/appendix/page_66.png)
 
-**旋轉踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。
+**旋轉喇叭控制踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。
 
 1/4 inch connector for a switch type pedal, used for switching between slow/stopped and fast rotor speed for the Rotary Speaker effect.
 
@@ -241,7 +241,7 @@ For complete index, refer to pages 69-70 of the original manual. Below are the k
 
 | 英文 / English | 中文 / Chinese |
 |---|---|
-| Program | 程式 |
+| Program | 音色配置 |
 | Organ | 風琴 |
 | Pipe Organ | 管風琴 |
 | Piano | 鋼琴 |
@@ -249,35 +249,35 @@ For complete index, refer to pages 69-70 of the original manual. Below are the k
 | Layer | 音層 |
 | Preset | 預設音色 |
 | Split | 分區 |
-| Morph | 變形控制 |
+| Morph | Morph 多參數控制 |
 | KB Zone / Keyboard Zone | 鍵盤分區 |
-| Master Clock | 主時鐘 |
+| Master Clock | 主節拍時鐘 |
 | Arpeggiator | 琶音器 |
 | Transpose | 移調 |
 | Live Mode | 即時模式 |
 | Layer Scene | 音層場景 |
-| Solo | 獨奏監聽 |
+| Solo | 獨奏 |
 | Undo | 復原 |
 | Section Edit | 區段編輯 |
 | Rotary Speaker | 旋轉喇叭 |
-| Drawbars | 音桿 |
+| Drawbars | 音栓拉桿 |
 | Compressor | 壓縮效果 |
 | Reverb | 殘響效果 |
 | Delay | 延遲效果 |
 | Extern | 外部 MIDI 控制 |
 | Aux KB | 輔助鍵盤 |
-| Aftertouch | 後觸鍵 |
+| Aftertouch | 二段觸鍵感應 |
 | Velocity | 力度 |
 | LFO | 低頻振盪器 |
 | Filter | 濾波器 |
-| Envelope | 包絡 |
+| Envelope | 包絡線 |
 | Oscillator | 振盪器 |
 | Waveform | 波形 |
 | Glide / Portamento | 滑音 |
 | Unison | 同音疊加 |
 | Vibrato | 顫音 |
 | Tremolo | 音量顫音 |
-| Chorus | 合唱效果 |
+| Chorus | 合聲效果 |
 | Phaser | 移相器 |
 | Flanger | 鑲邊效果 |
-| Ring Modulation | 環形調製 |
+| Ring Modulation | 環形調變 |

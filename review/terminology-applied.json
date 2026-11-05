@@ -1,0 +1,4818 @@
+{
+  "terms": [
+    {
+      "id": "T001",
+      "category": "基本架構",
+      "english": "Program",
+      "current": "程式、音色配置、音色設定",
+      "approved": "音色配置（Program）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T002",
+      "category": "基本架構",
+      "english": "Preset",
+      "current": "預設值、預設音色",
+      "approved": "預設音色（Preset）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T004",
+      "category": "基本架構",
+      "english": "Section",
+      "current": "區段、風琴區、鋼琴區段",
+      "approved": "區段",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T008",
+      "category": "基本架構",
+      "english": "Bank",
+      "current": "音色庫",
+      "approved": "音色庫組（Bank）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T011",
+      "category": "操作介面",
+      "english": "List View",
+      "current": "檢視清單、列表視圖、清單檢視",
+      "approved": "清單檢視（List View）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T012",
+      "category": "操作介面",
+      "english": "Program View",
+      "current": "音色配置顯示模式、程式顯示模式",
+      "approved": "音色配置檢視（Program View）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T013",
+      "category": "操作介面",
+      "english": "Dial / Encoder",
+      "current": "旋鈕、編碼器、無限旋鈕",
+      "approved": "控制旋鈕",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T017",
+      "category": "操作介面",
+      "english": "FX Focus",
+      "current": "效果焦點、效果聚焦",
+      "approved": "目標效果器",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T018",
+      "category": "操作介面",
+      "english": "Monitor",
+      "current": "監聽",
+      "approved": "監控（Monitor）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T024",
+      "category": "鍵盤演奏",
+      "english": "Split",
+      "current": "分割、分區、鍵盤分區",
+      "approved": "鍵盤分區（Split）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T025",
+      "category": "鍵盤演奏",
+      "english": "Split Point",
+      "current": "分割點",
+      "approved": "分區點（Split Point）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T026",
+      "category": "鍵盤演奏",
+      "english": "Keyboard Zone",
+      "current": "鍵盤分區、區域",
+      "approved": "鍵盤區域（Keyboard Zone）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T027",
+      "category": "鍵盤演奏",
+      "english": "Split Cross-fade / Xfade",
+      "current": "交叉漸變",
+      "approved": "分區平滑淡出淡入（Split Xfade）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T030",
+      "category": "鍵盤演奏",
+      "english": "Pitch Stick",
+      "current": "音高桿、音調桿",
+      "approved": "音高控制桿（Pitch Stick）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T031",
+      "category": "鍵盤演奏",
+      "english": "Pitch Bend",
+      "current": "音調彎曲",
+      "approved": "音高彎音（Pitch Bend）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T032",
+      "category": "鍵盤演奏",
+      "english": "Modulation Wheel",
+      "current": "調製輪",
+      "approved": "調變輪（Modulation Wheel）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T033",
+      "category": "鍵盤演奏",
+      "english": "Aftertouch",
+      "current": "後觸鍵",
+      "approved": "二段觸鍵感應（Aftertouch）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T034",
+      "category": "鍵盤演奏",
+      "english": "Velocity",
+      "current": "力度、鍵盤力度、力度感應",
+      "approved": "觸鍵感應力度（Velocity）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T035",
+      "category": "鍵盤演奏",
+      "english": "Keyboard Touch",
+      "current": "鍵盤觸感",
+      "approved": "觸鍵力度反應（KB Touch）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T037",
+      "category": "鍵盤演奏",
+      "english": "Fully Weighted Triple Sensor Keybed",
+      "current": "全配重三段感應琴鍵",
+      "approved": "全配重三感應器鍵盤",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T040",
+      "category": "鋼琴與踏板",
+      "english": "Sostenuto",
+      "current": "選擇延音踏板",
+      "approved": "特定音延音踏板（Sostenuto）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T041",
+      "category": "鋼琴與踏板",
+      "english": "Soft Pedal / Una Corda",
+      "current": "弱音踏板",
+      "approved": "柔音踏板（Soft Pedal／Una Corda）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T043",
+      "category": "鋼琴與踏板",
+      "english": "Swell Pedal",
+      "current": "音量漸變踏板、表情踏板",
+      "approved": "風琴表情踏板（Swell Pedal）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T047",
+      "category": "鋼琴與踏板",
+      "english": "Acoustics",
+      "current": "音響效果",
+      "approved": "鋼琴聲音特性（Acoustics）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T050",
+      "category": "鋼琴與踏板",
+      "english": "Sympathetic Resonance",
+      "current": "同感共鳴",
+      "approved": "交感共振（Sympathetic Resonance）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T054",
+      "category": "風琴",
+      "english": "Drawbar",
+      "current": "音桿",
+      "approved": "音栓拉桿（Drawbar）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T057",
+      "category": "風琴",
+      "english": "Percussion",
+      "current": "擊弦音效、擊弦效果",
+      "approved": "打擊音效（Percussion）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T058",
+      "category": "風琴",
+      "english": "Harmonic / Partial",
+      "current": "泛音、諧波",
+      "approved": "諧音／分音（依語境）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T062",
+      "category": "合成器",
+      "english": "Sample",
+      "current": "樣本、取樣",
+      "approved": "取樣音色／取樣資料（依語境）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T065",
+      "category": "合成器",
+      "english": "Analog - Pure",
+      "current": "類比－純音波",
+      "approved": "類比基本波形（Pure）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T068",
+      "category": "合成器",
+      "english": "FM / Frequency Modulation",
+      "current": "頻率調製",
+      "approved": "頻率調變（FM）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T071",
+      "category": "合成器",
+      "english": "Filter Resonance",
+      "current": "濾波器共鳴",
+      "approved": "濾波器共振（Resonance）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T074",
+      "category": "合成器",
+      "english": "Filter Drive",
+      "current": "濾波器驅動",
+      "approved": "濾波器過載（Drive）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T075",
+      "category": "合成器",
+      "english": "Envelope",
+      "current": "包絡線、包絡",
+      "approved": "包絡線（Envelope）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T076",
+      "category": "合成器",
+      "english": "Envelope Amount",
+      "current": "包絡量",
+      "approved": "包絡線調變量（Env Amt）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T077",
+      "category": "合成器",
+      "english": "Amp Envelope",
+      "current": "擴大機包絡線",
+      "approved": "振幅包絡線（Amp Envelope）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T081",
+      "category": "合成器",
+      "english": "Sustain (Envelope)",
+      "current": "延音",
+      "approved": "持續階段（Sustain）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T088",
+      "category": "合成器",
+      "english": "Gate (Arpeggiator)",
+      "current": "門限器、閘門",
+      "approved": "節奏閘門（Gate）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T091",
+      "category": "合成器",
+      "english": "Vibrato",
+      "current": "顫音",
+      "approved": "音高顫音（Vibrato）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T093",
+      "category": "演奏控制",
+      "english": "Morph",
+      "current": "變形控制、Morph 功能",
+      "approved": "Morph 多參數控制",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T095",
+      "category": "演奏控制",
+      "english": "Master Clock",
+      "current": "主時鐘",
+      "approved": "主節拍時鐘（Master Clock）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T096",
+      "category": "演奏控制",
+      "english": "Tap Tempo",
+      "current": "節拍敲擊、節拍輸入",
+      "approved": "拍速輸入（Tap Tempo）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T097",
+      "category": "效果器",
+      "english": "Modulation",
+      "current": "調製",
+      "approved": "調變（Modulation）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T099",
+      "category": "效果器",
+      "english": "Tremolo",
+      "current": "顫音",
+      "approved": "音量顫音（Tremolo）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T102",
+      "category": "效果器",
+      "english": "Pump",
+      "current": "PUMP",
+      "approved": "Pump 抽吸效果",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T103",
+      "category": "效果器",
+      "english": "Side-chain",
+      "current": "旁鏈、側鏈",
+      "approved": "側鏈（Side-chain）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T105",
+      "category": "效果器",
+      "english": "Flanger",
+      "current": "法蘭效果",
+      "approved": "鑲邊效果（Flanger）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T106",
+      "category": "效果器",
+      "english": "Chorus",
+      "current": "合聲、合唱效果",
+      "approved": "合聲效果（Chorus）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T114",
+      "category": "效果器",
+      "english": "Drive",
+      "current": "過載、驅動",
+      "approved": "過載（Drive）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T117",
+      "category": "效果器",
+      "english": "Reverb",
+      "current": "混響",
+      "approved": "殘響（Reverb）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T118",
+      "category": "效果器",
+      "english": "Rate / Amount",
+      "current": "速率、速度、強度、深度",
+      "approved": "速率／作用量（依效果補明）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T119",
+      "category": "MIDI與路由",
+      "english": "Extern",
+      "current": "外部模式、外部 MIDI 控制模式、外部 MIDI 控制區段",
+      "approved": "外部 MIDI 控制（Extern）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T120",
+      "category": "MIDI與路由",
+      "english": "MIDI Channel",
+      "current": "頻道",
+      "approved": "MIDI 通道（Channel）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T121",
+      "category": "MIDI與路由",
+      "english": "Output Channel",
+      "current": "輸出頻道",
+      "approved": "輸出通道（Output Channel）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T124",
+      "category": "MIDI與路由",
+      "english": "Local Control",
+      "current": "本地控制",
+      "approved": "本機控制（Local Control）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T125",
+      "category": "MIDI與路由",
+      "english": "Program Change",
+      "current": "程式切換",
+      "approved": "音色配置切換（Program Change）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T126",
+      "category": "MIDI與路由",
+      "english": "Bank Select",
+      "current": "音色庫選擇",
+      "approved": "音色庫組選擇（Bank Select）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T127",
+      "category": "MIDI與路由",
+      "english": "Control Change / CC",
+      "current": "控制器變更、控制器",
+      "approved": "控制變更訊息（CC）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T129",
+      "category": "MIDI與路由",
+      "english": "MIDI Echo",
+      "current": "MIDI 回聲、回聲全域到",
+      "approved": "MIDI 轉送（MIDI Echo）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T135",
+      "category": "軟體與檔案",
+      "english": "Partition",
+      "current": "分區",
+      "approved": "儲存分區（Partition）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T003",
+      "category": "基本架構",
+      "english": "Sound",
+      "current": "音色、聲音",
+      "approved": "音色／聲音（依語境）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T005",
+      "category": "基本架構",
+      "english": "Layer",
+      "current": "音層",
+      "approved": "音層（Layer）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T006",
+      "category": "基本架構",
+      "english": "Layer Scene II",
+      "current": "音層場景 II",
+      "approved": "音層場景 II（Layer Scene II）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T007",
+      "category": "基本架構",
+      "english": "Preset Library",
+      "current": "預設音色庫",
+      "approved": "預設音色庫（Preset Library）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T009",
+      "category": "基本架構",
+      "english": "Category",
+      "current": "類別",
+      "approved": "類別",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T010",
+      "category": "基本架構",
+      "english": "Type / Model",
+      "current": "類型與型號、模型",
+      "approved": "類型／型號；模擬模型依語境",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T014",
+      "category": "操作介面",
+      "english": "Potentiometer-type Knob",
+      "current": "電位器式旋鈕",
+      "approved": "電位器式旋鈕（Knob）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T015",
+      "category": "操作介面",
+      "english": "Fader",
+      "current": "音量推桿、推桿",
+      "approved": "音量推桿（Fader）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T016",
+      "category": "操作介面",
+      "english": "Soft Button",
+      "current": "軟按鍵",
+      "approved": "功能鍵（Soft Button）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T019",
+      "category": "操作介面",
+      "english": "Solo",
+      "current": "獨奏監聽",
+      "approved": "獨奏（Solo）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T020",
+      "category": "操作介面",
+      "english": "Live Mode",
+      "current": "即時模式",
+      "approved": "即時模式（Live Mode）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T021",
+      "category": "操作介面",
+      "english": "Store / Store As",
+      "current": "儲存程式、另存新程式並命名",
+      "approved": "儲存／另存新音色配置",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T022",
+      "category": "操作介面",
+      "english": "Panic",
+      "current": "緊急停音",
+      "approved": "緊急停音（Panic）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T023",
+      "category": "操作介面",
+      "english": "On/Off and Level",
+      "current": "開關與音量",
+      "approved": "開關與音量",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T028",
+      "category": "鍵盤演奏",
+      "english": "Octave Shift",
+      "current": "八度移調",
+      "approved": "八度移調",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T029",
+      "category": "鍵盤演奏",
+      "english": "Transpose",
+      "current": "移調",
+      "approved": "移調",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T036",
+      "category": "鍵盤演奏",
+      "english": "Keyboard Curve",
+      "current": "鍵盤曲線",
+      "approved": "觸鍵力度曲線（Keyboard Curve）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T038",
+      "category": "鍵盤演奏",
+      "english": "Waterfall Keybed",
+      "current": "瀑布式",
+      "approved": "瀑布式鍵盤（Waterfall）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T039",
+      "category": "鋼琴與踏板",
+      "english": "Sustain Pedal",
+      "current": "延音踏板",
+      "approved": "延音踏板（Sustain Pedal）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T042",
+      "category": "鋼琴與踏板",
+      "english": "Half Pedaling",
+      "current": "半踩、半踩技巧",
+      "approved": "半踏板技巧（Half Pedaling）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T044",
+      "category": "鋼琴與踏板",
+      "english": "Control Pedal",
+      "current": "控制踏板",
+      "approved": "控制踏板（Control Pedal）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T045",
+      "category": "鋼琴與踏板",
+      "english": "Rotor Pedal",
+      "current": "旋轉踏板",
+      "approved": "旋轉喇叭控制踏板（Rotor Pedal）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T046",
+      "category": "鋼琴與踏板",
+      "english": "Foot Switch",
+      "current": "腳踏開關",
+      "approved": "腳踏開關（Foot Switch）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T048",
+      "category": "鋼琴與踏板",
+      "english": "Soft Release",
+      "current": "柔和釋音",
+      "approved": "柔和釋音（Soft Release）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T049",
+      "category": "鋼琴與踏板",
+      "english": "String Resonance",
+      "current": "弦共鳴、琴弦共鳴",
+      "approved": "琴弦共鳴（String Resonance）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T051",
+      "category": "鋼琴與踏板",
+      "english": "Pedal Noise",
+      "current": "踏板噪音",
+      "approved": "踏板機械聲（Pedal Noise）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T052",
+      "category": "鋼琴與踏板",
+      "english": "Timbre",
+      "current": "音色特性",
+      "approved": "音色特性（Timbre）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T053",
+      "category": "鋼琴與踏板",
+      "english": "Dynamic Compression",
+      "current": "動態壓縮",
+      "approved": "動態壓縮（Dynamic Compression）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T055",
+      "category": "風琴",
+      "english": "Register",
+      "current": "音栓",
+      "approved": "音栓（Register）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T056",
+      "category": "風琴",
+      "english": "Tonewheel",
+      "current": "音輪",
+      "approved": "音輪（Tonewheel）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T059",
+      "category": "風琴",
+      "english": "Key Click",
+      "current": "按鍵雜音、按鍵噪音",
+      "approved": "按鍵咔嗒聲（Key Click）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T060",
+      "category": "風琴",
+      "english": "Rotary Speaker",
+      "current": "旋轉喇叭",
+      "approved": "旋轉喇叭（Rotary Speaker）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T061",
+      "category": "風琴",
+      "english": "Rotor / Horn",
+      "current": "低頻轉子、高頻喇叭",
+      "approved": "低頻轉子／高頻號角",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T063",
+      "category": "合成器",
+      "english": "Oscillator",
+      "current": "振盪器",
+      "approved": "振盪器（Oscillator）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T064",
+      "category": "合成器",
+      "english": "Sub Oscillator",
+      "current": "次振盪器",
+      "approved": "次振盪器（Sub Oscillator）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T066",
+      "category": "合成器",
+      "english": "Shape",
+      "current": "形狀",
+      "approved": "波形塑形（Shape）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T067",
+      "category": "合成器",
+      "english": "Multi / Super",
+      "current": "多重、超級",
+      "approved": "Multi／Super（保留類別原名）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T069",
+      "category": "合成器",
+      "english": "Carrier / Modulator",
+      "current": "載波、調製器",
+      "approved": "載波振盪器／調變振盪器",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T070",
+      "category": "合成器",
+      "english": "Filter Cutoff Frequency",
+      "current": "截止頻率、濾波器頻率",
+      "approved": "濾波器截止頻率（Cutoff）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T072",
+      "category": "合成器",
+      "english": "Low-pass / High-pass / Band-pass",
+      "current": "低通、高通、帶通",
+      "approved": "低通／高通／帶通濾波器",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T073",
+      "category": "合成器",
+      "english": "Keyboard Tracking",
+      "current": "鍵盤追蹤",
+      "approved": "鍵盤音高追蹤（KB Track）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T078",
+      "category": "合成器",
+      "english": "Attack",
+      "current": "起音、起始衝擊感",
+      "approved": "起音／起音時間（Attack）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T079",
+      "category": "合成器",
+      "english": "Decay",
+      "current": "衰減、衰減時間",
+      "approved": "衰減／衰減時間（Decay）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T080",
+      "category": "合成器",
+      "english": "Release",
+      "current": "釋音、釋音時間",
+      "approved": "釋音／釋音時間（Release）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T082",
+      "category": "合成器",
+      "english": "LFO",
+      "current": "低頻振盪器",
+      "approved": "低頻振盪器（LFO）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T083",
+      "category": "合成器",
+      "english": "Voice / Polyphony",
+      "current": "聲部、複音",
+      "approved": "聲部／複音數",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T084",
+      "category": "合成器",
+      "english": "Mono / Legato",
+      "current": "單音與連奏",
+      "approved": "單音／連奏（Mono／Legato）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T085",
+      "category": "合成器",
+      "english": "Glide",
+      "current": "滑音",
+      "approved": "滑音（Glide）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T086",
+      "category": "合成器",
+      "english": "Unison",
+      "current": "齊奏、齊奏效果",
+      "approved": "齊奏（Unison）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T087",
+      "category": "合成器",
+      "english": "Arpeggiator",
+      "current": "琶音器",
+      "approved": "琶音器（Arpeggiator）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T089",
+      "category": "合成器",
+      "english": "Pattern",
+      "current": "節拍型式",
+      "approved": "節奏型（Pattern）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T090",
+      "category": "合成器",
+      "english": "Keyboard Hold",
+      "current": "鍵盤保持",
+      "approved": "音符保持（KB Hold）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T092",
+      "category": "合成器",
+      "english": "KB Sync",
+      "current": "鍵盤同步",
+      "approved": "鍵盤同步觸發（KB Sync）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T094",
+      "category": "演奏控制",
+      "english": "Morph Source / Destination",
+      "current": "控制來源、目標參數",
+      "approved": "Morph 控制來源／目標參數",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T098",
+      "category": "效果器",
+      "english": "Auto Pan",
+      "current": "自動聲像",
+      "approved": "自動聲像擺動（Auto Pan）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T100",
+      "category": "效果器",
+      "english": "Ring Modulation",
+      "current": "環形調製",
+      "approved": "環形調變（Ring Modulation）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T101",
+      "category": "效果器",
+      "english": "Wah / Auto Wah",
+      "current": "哇哇、自動哇哇",
+      "approved": "哇哇音（Wah／Auto Wah）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T104",
+      "category": "效果器",
+      "english": "Phaser",
+      "current": "相位器",
+      "approved": "相位效果（Phaser）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T107",
+      "category": "效果器",
+      "english": "Ensemble",
+      "current": "合奏效果",
+      "approved": "合奏效果（Ensemble）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T108",
+      "category": "效果器",
+      "english": "Vibe / Spin",
+      "current": "VIBE、旋轉效果",
+      "approved": "Vibe／Spin（保留原名）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T109",
+      "category": "效果器",
+      "english": "Delay",
+      "current": "延遲",
+      "approved": "延遲（Delay）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T110",
+      "category": "效果器",
+      "english": "Ping Pong",
+      "current": "乒乓延遲",
+      "approved": "乒乓延遲（Ping Pong）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T111",
+      "category": "效果器",
+      "english": "Feedback",
+      "current": "回饋、feedback、FEEDBACK",
+      "approved": "回授（Feedback）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T112",
+      "category": "效果器",
+      "english": "Dry / Wet",
+      "current": "乾訊號、濕訊號、乾濕比例",
+      "approved": "乾音／效果音（Dry／Wet）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T113",
+      "category": "效果器",
+      "english": "Amp Sim",
+      "current": "擴大機模擬",
+      "approved": "擴大機模擬（Amp Sim）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T115",
+      "category": "效果器",
+      "english": "EQ",
+      "current": "等化器",
+      "approved": "等化器（EQ）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T116",
+      "category": "效果器",
+      "english": "Compressor",
+      "current": "壓縮器",
+      "approved": "壓縮器（Compressor）",
+      "origin": "採用建議"
+    },
+    {
+      "id": "T122",
+      "category": "MIDI與路由",
+      "english": "Bus",
+      "current": "匯流排",
+      "approved": "匯流排（Bus）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T123",
+      "category": "MIDI與路由",
+      "english": "Routing",
+      "current": "路由、指定",
+      "approved": "訊號路由（Routing）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T128",
+      "category": "MIDI與路由",
+      "english": "Auxiliary Keyboard",
+      "current": "輔助鍵盤",
+      "approved": "輔助鍵盤（Aux KB）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T130",
+      "category": "MIDI與路由",
+      "english": "Sequencer",
+      "current": "音序器",
+      "approved": "編曲機（Sequencer）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T131",
+      "category": "軟體與檔案",
+      "english": "Nord Sound Manager",
+      "current": "Nord Sound Manager",
+      "approved": "Nord Sound Manager（官方音色管理工具）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T132",
+      "category": "軟體與檔案",
+      "english": "Nord Sample Editor 4",
+      "current": "Nord Sample Editor 4",
+      "approved": "Nord Sample Editor 4（取樣編輯工具）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T133",
+      "category": "軟體與檔案",
+      "english": "Sample Library",
+      "current": "樣本音色庫",
+      "approved": "取樣音色庫（Sample Library）",
+      "origin": "使用者定案"
+    },
+    {
+      "id": "T134",
+      "category": "軟體與檔案",
+      "english": "Bundle",
+      "current": "組合包",
+      "approved": "音色包（Bundle）",
+      "origin": "使用者定案"
+    }
+  ],
+  "changes": [
+    {
+      "file": "ch01_introduction.md",
+      "line": 9,
+      "before": "感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援樣本播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區段，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。",
+      "after": "感謝您選擇 Nord Stage 4！作為我們對終極舞台鍵盤的願景實現，我們的全新旗艦樂器搭載了多項獲獎技術——包括支援取樣音色播放的 Nord Wave 2 合成引擎、廣受好評的 Nord C2D 風琴引擎、強化的鋼琴區段，以及豐富的即時效果——全部整合於一台卓越的演出鍵盤中。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 21,
+      "before": "- **風琴區**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。",
+      "after": "- **風琴區段**：忠實重現三款經典風琴音色：B3（含專用 B3 Bass 模式）、Vox 和 Farfisa。另有兩款管風琴音色，各具獨特音色特性。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 24,
+      "before": "- **實體風琴音桿**，配備 LED 顯示。",
+      "after": "- **實體風琴音栓拉桿**，配備 LED 顯示。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 33,
+      "before": "- **合成器區段**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援樣本播放、類比波形、多種 FM 演算法、數位波形及超級波形。",
+      "after": "- **合成器區段**，含三個基於 Nord Wave 2 合成器的獨立音層，配備專用 OLED 顯示器，支援取樣音色播放、類比波形、多種 FM 演算法、數位波形及超級波形。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 42,
+      "before": "- **無縫切換**：切換程式（Program）時延音音符持續發聲。",
+      "after": "- **無縫切換**：切換音色配置（Program）時延音音符持續發聲。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 51,
+      "before": "- **四個鍵盤分區**，可調整分割點交叉漸變，讓音色在分割點之間平滑過渡。",
+      "after": "- **四個鍵盤區域**，可調整分區點平滑淡出淡入，讓音色在分區點之間平滑過渡。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 54,
+      "before": "- **兩個音層場景（Layer Scenes）**，允許在同一個程式中使用不同的音層配置。",
+      "after": "- **兩個音層場景（Layer Scenes）**，允許在同一個音色配置中使用不同的音層配置。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 60,
+      "before": "- **Nord Stage 4 HA88 和 HA73 型號**配備全配重三段感應琴鍵。**Nord Stage 4 Compact** 配備 73 鍵半配重三段感應「瀑布式」琴鍵（E-E）。",
+      "after": "- **Nord Stage 4 HA88 和 HA73 型號**配備全配重三感應器鍵盤。**Nord Stage 4 Compact** 配備 73 鍵半配重三段感應「瀑布式」琴鍵（E-E）。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 102,
+      "before": "由於 Nord Stage 4 採用開放系統設計，每一個鋼琴和樣本音色都可以替換為來自持續擴充的 Nord Piano Library 和 Nord Sample Library 的音色。這些免費音色庫可在 www.nordkeyboards.com 找到，同時也提供免費的 Nord Sound Manager 應用程式，用於下載和管理 Nord Stage 4 的內容。",
+      "after": "由於 Nord Stage 4 採用開放系統設計，每一個鋼琴和取樣音色都可以替換為來自持續擴充的 Nord Piano Library 和 Nord Sample Library 的音色。這些免費音色庫可在 www.nordkeyboards.com 找到，同時也提供免費的 Nord Sound Manager 應用程式，用於下載和管理 Nord Stage 4 的內容。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 108,
+      "before": "## 自訂樣本 / CUSTOM SAMPLES",
+      "after": "## 自訂取樣音色 / CUSTOM SAMPLES"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 110,
+      "before": "使用 Nord Sample Editor 4 可以快速輕鬆地為 Nord Stage 4 建立自訂樣本樂器。無論是建立完整對應的樂器、簡單的音效，還是將取樣的歌曲前奏指定到單一琴鍵，Nord Sample Editor 4 與 Nord Stage 4 結合後開創了無限可能。",
+      "after": "使用 Nord Sample Editor 4 可以快速輕鬆地為 Nord Stage 4 建立自訂取樣音色樂器。無論是建立完整對應的樂器、簡單的音效，還是將取樣的歌曲前奏指定到單一琴鍵，Nord Sample Editor 4 與 Nord Stage 4 結合後開創了無限可能。"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 124,
+      "before": "## 恢復原廠預設值 / RESTORING THE FACTORY PRESETS",
+      "after": "## 恢復原廠預設音色 / RESTORING THE FACTORY PRESETS"
+    },
+    {
+      "file": "ch01_introduction.md",
+      "line": 126,
+      "before": "原廠程式、預設值、樣本和鋼琴音色可作為個別的 Nord Sound Manager 備份檔從我們的網站下載。另外也提供整台樂器及其原廠內容的完整備份，以便在需要時將其恢復至原始狀態。",
+      "after": "原廠音色配置、預設值、取樣音色和鋼琴音色可作為個別的 Nord Sound Manager 備份檔從我們的網站下載。另外也提供整台樂器及其原廠內容的完整備份，以便在需要時將其恢復至原始狀態。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 10,
+      "before": "## 風琴區 / ORGAN SECTION",
+      "after": "## 風琴區段 / ORGAN SECTION"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 13,
+      "before": "專屬的風琴區配備兩個獨立音層，擁有實體音桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。",
+      "after": "專屬的風琴區段配備兩個獨立音層，擁有實體音栓拉桿與 LED 顯示，提供直覺的手動控制與便利的操作體驗。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 17,
+      "before": "B3 電風琴模組基於對多台原版 Hammond B3 樂器內部 91 個旋轉碟片所產生訊號的分析，以及對所有原始元件相互作用方式的深入研究。虛擬電路不僅對面板設定有所反應，也會根據您的演奏方式做出回應。Stage 4 忠實重現了重要的折返（foldback）和能量消耗特性；後者將產生溫和的壓縮效果，使那些美妙的滑音演奏起來令人愉悅。三種音輪模式可讓您在全新的樂器音色與飽經風霜的老舊音色之間切換。B3 Bass 模式支援分割或雙鍵盤設置，配有專用低音音桿供左手或腳踏板使用。",
+      "after": "B3 電風琴模組基於對多台原版 Hammond B3 樂器內部 91 個旋轉碟片所產生訊號的分析，以及對所有原始元件相互作用方式的深入研究。虛擬電路不僅對面板設定有所反應，也會根據您的演奏方式做出回應。Stage 4 忠實重現了重要的折返（foldback）和能量消耗特性；後者將產生溫和的壓縮效果，使那些美妙的滑音演奏起來令人愉悅。三種音輪模式可讓您在全新的樂器音色與飽經風霜的老舊音色之間切換。B3 Bass 模式支援分割或雙鍵盤設置，配有專用低音音栓拉桿供左手或腳踏板使用。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 21,
+      "before": "我們也精心建模了兩款 1960 年代最著名的電晶體風琴：Vox Continental 和 Farf（Farfisa）Compact。除了風琴本身，Nord Stage 4 還配備了源自 Nord C2D 的旋轉喇叭模擬。結合物理旋轉揚聲器在房間中傳播聲音時產生的聲學變化，這些效果以卓越的真實感賦予風琴音色生命力。所有 Nord Stage 4 型號均配備實體音桿與 LED 顯示。",
+      "after": "我們也精心建模了兩款 1960 年代最著名的電晶體風琴：Vox Continental 和 Farf（Farfisa）Compact。除了風琴本身，Nord Stage 4 還配備了源自 Nord C2D 的旋轉喇叭模擬。結合物理旋轉揚聲器在房間中傳播聲音時產生的聲學變化，這些效果以卓越的真實感賦予風琴音色生命力。所有 Nord Stage 4 型號均配備實體音栓拉桿與 LED 顯示。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 63,
+      "before": "右側踏板是延音踏板。踩下時，所有正在演奏的音符將持續發聲，直到踏板鬆開。它還提供對機械「踏板噪音」的動態控制，並支援動態「半踏」技術。",
+      "after": "右側踏板是延音踏板。踩下時，所有正在演奏的音符將持續發聲，直到踏板鬆開。它還提供對機械「踏板機械聲」的動態控制，並支援動態「半踏」技術。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 73,
+      "before": "左側踏板是弱音踏板，又稱為 Una Corda。踩下時，所有音符的音量會略微降低，並帶有更柔和、更內斂的音色質感。",
+      "after": "左側踏板是柔音踏板，又稱為 Una Corda。踩下時，所有音符的音量會略微降低，並帶有更柔和、更內斂的音色質感。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 81,
+      "before": "### 踏板噪音 / PEDAL NOISE",
+      "after": "### 踏板機械聲 / PEDAL NOISE"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 109,
+      "before": "## 程式區段 / PROGRAM SECTION",
+      "after": "## 音色配置區段 / PROGRAM SECTION"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 111,
+      "before": "Nord Stage 4 上的一個程式（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——程式區段——是導覽和儲存程式、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設值載入程式的任何音層或區段。",
+      "after": "Nord Stage 4 上的一個音色配置（Program——用來儲存整台樂器所有設定的記憶單位）包含所有音層及其效果的音源引擎設定。樂器中央區域——音色配置區段——是導覽和儲存音色配置、以及存取各種演奏功能和設定選單的地方。此外，風琴、鋼琴和合成器預設音色庫也在這裡，可將包含效果的完整預設音色載入音色配置的任何音層或區段。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 115,
+      "before": "本區段的詳細說明請見第 37 頁起的程式章節。",
+      "after": "本區段的詳細說明請見第 37 頁起的音色配置章節。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 123,
+      "before": "合成器區段包含三個獨立音層，基於廣受好評的 Nord Wave 2。除了類比風格波形、數位波形和 FM 演算法外，Stage 4 合成器還可用於各種基於樣本的音色。它還配備了超級波形（Super Wave）類別，適合那些其他方式無法創造的龐大多振盪器音色。大量的振盪器類型支援多種單或雙振盪器配置、波形整形、頻率調製等功能。",
+      "after": "合成器區段包含三個獨立音層，基於廣受好評的 Nord Wave 2。除了類比風格波形、數位波形和 FM 演算法外，Stage 4 合成器還可用於各種基於取樣音色的音色。它還配備了超級波形（Super Wave）類別，適合那些其他方式無法創造的龐大多振盪器音色。大量的振盪器類型支援多種單或雙振盪器配置、波形整形、頻率調變等功能。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 127,
+      "before": "合成器區段專用的 OLED 顯示器協助管理濾波器、包絡線及其他合成器設定，並提供波形或樣本選擇的良好概覽。",
+      "after": "合成器區段專用的 OLED 顯示器協助管理濾波器、包絡線及其他合成器設定，並提供波形或取樣音色選擇的良好概覽。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 131,
+      "before": "Nord Sample Library 4 為 Stage 4 用戶提供大量免費的世界級音色庫，包括著名的復古 Mellotron 和 Chamberlin 樣本。自訂用戶樣本也可載入樂器，開啟全新的創意音效世界。",
+      "after": "Nord Sample Library 4 為 Stage 4 用戶提供大量免費的世界級音色庫，包括著名的復古 Mellotron 和 Chamberlin 取樣音色。自訂用戶取樣音色也可載入樂器，開啟全新的創意音效世界。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 167,
+      "before": "每個鋼琴和合成器音層以及風琴區都可以獨立使用各種經典效果：",
+      "after": "每個鋼琴和合成器音層以及風琴區段都可以獨立使用各種經典效果："
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 171,
+      "before": "Mod 1 和 Mod 2 單元提供所有基本的調製效果，如顫音（Tremolo）、合唱（Chorus）和相位器（Phaser），這些效果以傳奇的效果踏板和效果單元為原型。每種效果都有變體設定，使可用音色數量比以往更多。",
+      "after": "Mod 1 和 Mod 2 單元提供所有基本的調變效果，如顫音（Tremolo）、合唱（Chorus）和相位效果（Phaser），這些效果以傳奇的效果踏板和效果單元為原型。每種效果都有變體設定，使可用音色數量比以往更多。"
+    },
+    {
+      "file": "ch02_overview.md",
+      "line": 183,
+      "before": "許多效果參數可以通過「Morph」控制，這意味著它們可以由調製輪、踏板或後觸鍵（aftertouch）來控制。這為音源引擎及其效果開啟了各種創意的即時互動可能性。",
+      "after": "許多效果參數可以通過「Morph」控制，這意味著它們可以由調變輪、踏板或二段觸鍵感應（aftertouch）來控制。這為音源引擎及其效果開啟了各種創意的即時互動可能性。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 28,
+      "before": "## 程式 / PROGRAMS",
+      "after": "## 音色配置 / PROGRAMS"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 30,
+      "before": "程式區位於面板中央，中間有一個 OLED 顯示器。Nord Stage 4 面板上每個參數的完整設定都儲存在程式記憶體中，共可容納 512 個程式。",
+      "after": "音色配置區段位於面板中央，中間有一個 OLED 顯示器。Nord Stage 4 面板上每個參數的完整設定都儲存在音色配置記憶體中，共可容納 512 個音色配置。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 34,
+      "before": "程式分為 8 個資料庫，標記為 A-H。所有程式都可以自由編輯和替換。",
+      "after": "音色配置分為 8 個音色庫組組，標記為 A-H。所有音色配置都可以自由編輯和替換。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 38,
+      "before": "> **提示**：完整的原廠程式組可在 www.nordkeyboards.com 網站上取得，這意味著程式記憶體始終可以恢復到原始狀態。",
+      "after": "> **提示**：完整的原廠音色配置組可在 www.nordkeyboards.com 網站上取得，這意味著音色配置記憶體始終可以恢復到原始狀態。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 41,
+      "before": "### 選擇程式 / SELECT A PROGRAM",
+      "after": "### 選擇音色配置 / SELECT A PROGRAM"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 45,
+      "before": "1. 按下顯示器下方的任意八個程式按鈕即可選擇程式。PAGE ◄/► 按鈕用於導覽程式頁面——每頁為一組 8 個程式。Nord Stage 4 上的每個程式資料庫最多可包含 64 個程式，分為 8 個程式頁。",
+      "after": "1. 按下顯示器下方的任意八個音色配置按鈕即可選擇音色配置。PAGE ◄/► 按鈕用於導覽音色配置頁面——每頁為一組 8 個音色配置。Nord Stage 4 上的每個音色配置音色庫組最多可包含 64 個音色配置，分為 8 個音色配置頁。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 48,
+      "before": "> **提示**：部分原廠程式標有 Whl 或 AT，表示調製輪或後觸鍵在音色中有積極作用，邀請您使用這些演奏功能。",
+      "after": "> **提示**：部分原廠音色配置標有 Whl 或 AT，表示調變輪或二段觸鍵感應在音色中有積極作用，邀請您使用這些演奏功能。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 51,
+      "before": "2. 也可以通過轉動程式旋鈕來導覽程式。",
+      "after": "2. 也可以通過轉動音色配置控制旋鈕來導覽音色配置。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 58,
+      "before": "### 旋鈕與刻度旋鈕 / DIALS AND KNOBS",
+      "after": "### 控制旋鈕與電位器式旋鈕 / DIALS AND KNOBS"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 62,
+      "before": "Nord Stage 4 上的旋鈕是沒有固定起點或終點的無限旋鈕，用於以步進方式導覽參數和設定。在本手冊中，旋鈕有時也稱為編碼器。",
+      "after": "Nord Stage 4 上的控制旋鈕沒有固定起點或終點，可逐步切換參數與設定。本手冊中的 Dial 與 Encoder 均稱為控制旋鈕。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 66,
+      "before": "> **提示**：按住程式區中的 MONITOR 按鈕，同時轉動旋鈕，可在顯示器中查看參數的已儲存設定，而不會改變它。",
+      "after": "> **提示**：按住音色配置區段中的 MONITOR 按鈕，同時轉動旋鈕，可在顯示器中查看參數的已儲存設定，而不會改變它。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 71,
+      "before": "電位器式旋鈕用於 Nord Stage 4 上的大多數參數。載入程式時，這些旋鈕的物理位置在大多數情況下不會對應實際的參數值。但是，一旦轉動旋鈕，其關聯的參數值就會「跳到」旋鈕的位置。",
+      "after": "電位器式旋鈕用於 Nord Stage 4 上的大多數參數。載入音色配置時，這些旋鈕的物理位置在大多數情況下不會對應實際的參數值。但是，一旦轉動旋鈕，其關聯的參數值就會「跳到」旋鈕的位置。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 131,
+      "before": "某些按鈕（如主時鐘按鈕）可以按住以存取功能或進行額外設定，以文字旁的向下箭頭（↓）標示。",
+      "after": "某些按鈕（如主節拍時鐘按鈕）可以按住以存取功能或進行額外設定，以文字旁的向下箭頭（↓）標示。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 139,
+      "before": "### 檢視清單 / LIST VIEW",
+      "after": "### 清單檢視 / LIST VIEW"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 143,
+      "before": "任何下方標有 LIST 文字的旋鈕——如程式旋鈕——都可用於存取實用的清單視圖。",
+      "after": "任何下方標有 LIST 文字的旋鈕——如音色配置控制旋鈕——都可用於存取實用的清單檢視。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 147,
+      "before": "1. 按 SHIFT 並轉動 PROGRAM 旋鈕，進入所有程式的清單視圖。",
+      "after": "1. 按 SHIFT 並轉動 PROGRAM 控制旋鈕，進入所有音色配置的清單檢視。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 150,
+      "before": "2. 使用 PROGRAM 旋鈕在 8 個音色庫中瀏覽。",
+      "after": "2. 使用 PROGRAM 控制旋鈕在 8 個音色庫組中瀏覽。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 156,
+      "before": "> **提示**：鋼琴、預設音色庫和波形旋鈕的清單視圖功能方式完全相同。",
+      "after": "> **提示**：鋼琴、預設音色庫和波形控制旋鈕的清單檢視功能方式完全相同。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 159,
+      "before": "### 音色配置顯示模式 / PROGRAM VIEW MODES",
+      "after": "### 音色配置檢視 / PROGRAM VIEW MODES"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 171,
+      "before": "1. 第一種檢視模式僅顯示資料庫字母和程式編號以及程式名稱。顯示器下半部保留用於顯示操作面板控制器時的參數提示。",
+      "after": "1. 第一種檢視模式僅顯示音色庫組字母和音色配置編號以及音色配置名稱。顯示器下半部保留用於顯示操作面板控制器時的參數提示。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 188,
+      "before": "1. 選擇程式 A:21（一個基於鋼琴的程式）進行練習。鋼琴區段的控制器位於面板上程式區的左側。根據程式視圖模式，程式區顯示器會顯示所選鋼琴音色的名稱，六向 PIANO SELECT 指示器設定為 Grand。",
+      "after": "1. 選擇音色配置 A:21（一個基於鋼琴的音色配置）進行練習。鋼琴區段的控制器位於面板上音色配置區段的左側。根據音色配置檢視模式，音色配置區段顯示器會顯示所選鋼琴音色的名稱，六向 PIANO SELECT 指示器設定為 Grand。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 198,
+      "before": "3. 試著從檢視清單(LIST view)中選擇鋼琴音色，按 SHIFT 並轉動 PIANO SELECT 旋鈕即可進入清單視圖。再次按 Shift 退出清單視圖。",
+      "after": "3. 試著從清單檢視(LIST view)中選擇鋼琴音色，按 SHIFT 並轉動 PIANO SELECT 旋鈕即可進入清單檢視。再次按 Shift 退出清單檢視。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 201,
+      "before": "請注意，更改 Nord Stage 4 面板上的任何參數都會導致螢幕中當前程式編號旁出現「E」。這表示程式已被編輯但尚未儲存到記憶體中。如果在執行儲存操作之前選擇了新程式，所有編輯都將丟失，程式在下次載入時將恢復其原始設定。",
+      "after": "請注意，更改 Nord Stage 4 面板上的任何參數都會導致螢幕中當前音色配置編號旁出現「E」。這表示音色配置已被編輯但尚未儲存到記憶體中。如果在執行儲存操作之前選擇了新音色配置，所有編輯都將丟失，音色配置在下次載入時將恢復其原始設定。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 207,
+      "before": "Nord Stage 4 出廠時記憶體受到保護，以防止意外覆蓋原始程式。記憶體保護可通過切換系統選單中的設定來關閉。",
+      "after": "Nord Stage 4 出廠時記憶體受到保護，以防止意外覆蓋原始音色配置。記憶體保護可通過切換系統選單中的設定來關閉。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 217,
+      "before": "3. 通過轉動程式旋鈕將此設定更改為 Off。",
+      "after": "3. 通過轉動音色配置控制旋鈕將此設定更改為 Off。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 226,
+      "before": "### 儲存設定音色設定 / STORE A PROGRAM",
+      "after": "### 儲存音色配置 / STORE A PROGRAM"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 228,
+      "before": "1. 按一下顯示器左側的 STORE 按鈕，開始儲存當前程式的過程。",
+      "after": "1. 按一下顯示器左側的 STORE 按鈕，開始儲存當前音色配置的過程。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 231,
+      "before": "2. STORE LED 將開始閃爍，顯示器將詢問您要儲存程式的位置。",
+      "after": "2. STORE LED 將開始閃爍，顯示器將詢問您要儲存音色配置的位置。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 236,
+      "before": "> **注意**：某些程式（如本例中的 A:21 White Grand）以鋼琴區段中的特定音色命名。請注意，如果您以不同的鋼琴儲存程式，此名稱不會更改，需要通過「另存為」操作或使用 Nord Sound Manager 手動設定。",
+      "after": "> **注意**：某些音色配置（如本例中的 A:21 White Grand）以鋼琴區段中的特定音色命名。請注意，如果您以不同的鋼琴儲存音色配置，此名稱不會更改，需要通過「另存為」操作或使用 Nord Sound Manager 手動設定。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 242,
+      "before": "> **提示**：所選位置的程式將在鍵盤上變為活躍狀態，允許在被儲存的程式替換之前試聽。",
+      "after": "> **提示**：所選位置的音色配置將在鍵盤上變為活躍狀態，允許在被儲存的音色配置替換之前試聽。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 251,
+      "before": "在第 39 頁的程式章節中閱讀更多關於儲存和命名程式的資訊。",
+      "after": "在第 39 頁的音色配置章節中閱讀更多關於儲存和命名音色配置的資訊。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 265,
+      "before": "1. 按 LIVE MODE 並使用程式按鈕導覽八個即時程式。",
+      "after": "1. 按 LIVE MODE 並使用音色配置按鈕導覽八個即時音色配置。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 268,
+      "before": "2. 對其中一個程式進行編輯，例如啟動效果區段之一。",
+      "after": "2. 對其中一個音色配置進行編輯，例如啟動效果區段之一。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 271,
+      "before": "3. 選擇另一個即時程式，然後返回剛才編輯的程式。注意編輯已自動儲存。",
+      "after": "3. 選擇另一個即時音色配置，然後返回剛才編輯的音色配置。注意編輯已自動儲存。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 274,
+      "before": "如果即時模式處於啟動狀態，您決定將設定永久儲存為程式資料庫中的程式，可以使用標準儲存方法（見上文）進行操作。",
+      "after": "如果即時模式處於啟動狀態，您決定將設定永久儲存為音色配置音色庫組中的音色配置，可以使用標準儲存方法（見上文）進行操作。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 278,
+      "before": "您也可以將程式儲存到八個即時模式記憶體位置的任意一個，在這種情況下，程式設定將替換該當前即時模式記憶體設定。",
+      "after": "您也可以將音色配置儲存到八個即時模式記憶體位置的任意一個，在這種情況下，音色配置設定將替換該當前即時模式記憶體設定。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 282,
+      "before": "再次按即時模式按鈕退出即時模式並返回程式資料庫。",
+      "after": "再次按即時模式按鈕退出即時模式並返回音色配置音色庫組。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 286,
+      "before": "> **注意**：Nord Stage 4 出廠時，八個即時模式程式只是程式資料庫中資料庫 A 前八個程式的副本。",
+      "after": "> **注意**：Nord Stage 4 出廠時，八個即時模式音色配置只是音色配置音色庫組中音色庫組 A 前八個音色配置的副本。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 347,
+      "before": "當前效果焦點由每個區段 On 按鈕旁的黃色 FX FOCUS LED 以及 FX Focus 區域的 LED 指示。",
+      "after": "當前目標效果器由每個區段 On 按鈕旁的黃色 FX FOCUS LED 以及 FX Focus 區域的 LED 指示。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 353,
+      "before": "在仍選擇程式 A:21 的情況下，試試以下步驟為乾淨的鋼琴音色添加效果：",
+      "after": "在仍選擇音色配置 A:21 的情況下，試試以下步驟為乾淨的鋼琴音色添加效果："
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 372,
+      "before": "### 載入預設值 / LOAD A PRESET",
+      "after": "### 載入預設音色 / LOAD A PRESET"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 376,
+      "before": "Nord Stage 4 預設音色庫(PRESET LIBRARY) 包含大量風琴、鋼琴和合成器區段的預設音色，可快速簡單地將包含效果的即用音色載入現有音效配置。在仍選擇程式 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色：",
+      "after": "Nord Stage 4 預設音色庫(PRESET LIBRARY) 包含大量風琴、鋼琴和合成器區段的預設音色，可快速簡單地將包含效果的即用音色載入現有音效配置。在仍選擇音色配置 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色："
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 396,
+      "before": "### 載入單一音層預設值 / LOAD A SINGLE LAYER PRESET",
+      "after": "### 載入單一音層預設音色 / LOAD A SINGLE LAYER PRESET"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 398,
+      "before": "除了為整個區段載入預設值（如上例），您還可以為單個音層載入預設值。這在想要保留該區段其他音層中的音色不變時非常有用，例如將新音色與現有音層混合，或在同一程式中存取多種不同音色——使用音層推桿或音層場景功能在它們之間切換。",
+      "after": "除了為整個區段載入預設音色（如上例），您還可以為單個音層載入預設音色。這在想要保留該區段其他音層中的音色不變時非常有用，例如將新音色與現有音層混合，或在同一音色配置中存取多種不同音色——使用音層推桿或音層場景功能在它們之間切換。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 402,
+      "before": "讓我們為鋼琴 B 添加一個單音層預設值，與原聲大鋼琴音色疊加：",
+      "after": "讓我們為鋼琴 B 添加一個單音層預設音色，與原聲大鋼琴音色疊加："
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 412,
+      "before": "3. 轉動程式旋鈕為鋼琴 B 選擇一個音層預設值，也許是一個電鋼琴音色。使用鋼琴 A 和 B 推桿調整兩個音色的平衡。",
+      "after": "3. 轉動音色配置控制旋鈕為鋼琴 B 選擇一個音層預設音色，也許是一個電鋼琴音色。使用鋼琴 A 和 B 推桿調整兩個音色的平衡。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 420,
+      "before": "## 建立分割(分區) / CREATE A SPLIT",
+      "after": "## 建立鍵盤分區 / CREATE A SPLIT"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 428,
+      "before": "1. 按一下位於程式區顯示器上方頂排的 SPLIT ON/SET 按鈕，這將在鍵盤中間「C4」處啟動一個分割點。",
+      "after": "1. 按一下位於音色配置區段顯示器上方頂排的 SPLIT ON/SET 按鈕，這將在鍵盤中間「C4」處啟動一個分區點。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 431,
+      "before": "2. 要調整分割點的位置，按住 SPLIT ON/SET 按鈕。",
+      "after": "2. 要調整分區點的位置，按住 SPLIT ON/SET 按鈕。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 434,
+      "before": "3. 每個分割點有兩個設定：Note 和 xFade。通過按 Program 1 按鈕（對應顯示器中的 ◄/► 符號）確保游標在下排選擇 Note 列。使用旋鈕設定所需的 Mid 分割點。",
+      "after": "3. 每個分區點有兩個設定：Note 和 xFade。通過按 Program 1 按鈕（對應顯示器中的 ◄/► 符號）確保游標在下排選擇 Note 列。使用旋鈕設定所需的 Mid 分區點。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 437,
+      "before": "4. 確保其他兩個分割點（Low 和 High）設為「Off」。",
+      "after": "4. 確保其他兩個分區點（Low 和 High）設為「Off」。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 440,
+      "before": "鍵盤現在分為兩個區域，分割點以鍵盤上方的綠色 LED 指示。SPLIT ON/SET 按鈕上方的 M LED 也將亮起，表示分割已開啟，且只有 Mid 分割點處於啟動狀態。",
+      "after": "鍵盤現在分為兩個區域，分區點以鍵盤上方的綠色 LED 指示。SPLIT ON/SET 按鈕上方的 M LED 也將亮起，表示鍵盤分區已開啟，且只有 Mid 分區點處於啟動狀態。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 459,
+      "before": "> **注意**：通過使用全部三個分割點（Low、Mid 和 High），可以將鍵盤分為最多四個不同區域，任何音層都可以自由指定到這些區域。",
+      "after": "> **注意**：通過使用全部三個分區點（Low、Mid 和 High），可以將鍵盤分為最多四個不同區域，任何音層都可以自由指定到這些區域。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 468,
+      "before": "6. 按下 ON 按鈕開啟風琴區。",
+      "after": "6. 按下 ON 按鈕開啟風琴區段。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 471,
+      "before": "7. 試試已載入的風琴音色並根據需要調整，或按預設音色庫 Organ 按鈕載入一個風琴預設值並選擇預設值（如上例）。",
+      "after": "7. 試試已載入的風琴音色並根據需要調整，或按預設音色庫 Organ 按鈕載入一個風琴預設音色並選擇預設音色（如上例）。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 474,
+      "before": "> **提示**：調整音層音色時，可以通過按程式區中的 SOLO 按鈕並按下該音層的按鈕使其聚焦，單獨監聽該音層。再次按 Solo 或按 Shift/Exit 退出 Solo 模式。",
+      "after": "> **提示**：調整音層音色時，可以通過按音色配置區段中的 SOLO 按鈕並按下該音層的按鈕使其聚焦，單獨監聽該音層。再次按 Solo 或按 Shift/Exit 退出 Solo 模式。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 477,
+      "before": "現在您應該有一個音色，包括指定到整個鍵盤的風琴，以及在分割點左側的合成器音色和右側的鋼琴音色疊加。",
+      "after": "現在您應該有一個音色，包括指定到整個鍵盤的風琴，以及在分區點左側的合成器音色和右側的鋼琴音色疊加。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 494,
+      "before": "2. 按音層場景 II 並開啟鋼琴和合成器區段。同時確保風琴區已關閉。",
+      "after": "2. 按音層場景 II 並開啟鋼琴和合成器區段。同時確保風琴區段已關閉。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 500,
+      "before": "音層場景 II 配置作為程式的一部分儲存，在需要在同一程式中切換兩種不同音層配置時非常有用。",
+      "after": "音層場景 II 配置作為音色配置的一部分儲存，在需要在同一音色配置中切換兩種不同音層配置時非常有用。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 513,
+      "before": "調製輪、控制踏板或鍵盤後觸鍵可在演奏時改變一個或多個參數。這通過選擇 Morph 來源（物理控制器）、目標參數和要包含在 Morph 中的參數範圍來實現。我們再次從程式 A:21 的鋼琴程式開始。",
+      "after": "調變輪、控制踏板或鍵盤二段觸鍵感應可在演奏時改變一個或多個參數。這通過選擇 Morph 來源（物理控制器）、目標參數和要包含在 Morph 中的參數範圍來實現。我們再次從音色配置 A:21 的鋼琴音色配置開始。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 529,
+      "before": "5. 按住程式區旋鈕上方 Morph Assign 組中的 WHEEL 按鈕。",
+      "after": "5. 按住音色配置區旋鈕上方 Morph Assign 組中的 WHEEL 按鈕。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 535,
+      "before": "7. 鬆開 Morph WHEEL 按鈕。演奏幾個音符或和弦，同時移動調製輪。",
+      "after": "7. 鬆開 Morph WHEEL 按鈕。演奏幾個音符或和弦，同時移動調變輪。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 542,
+      "before": "> **提示**：一個 Morph 來源（滾輪、控制踏板或後觸鍵）可以同時控制多個參數。",
+      "after": "> **提示**：一個 Morph 來源（滾輪、控制踏板或二段觸鍵感應）可以同時控制多個參數。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 545,
+      "before": "> **提示**：Morph 來源可以同時增加一個參數的值並減少另一個參數的值，例如可以在樂器之間進行交叉漸變。",
+      "after": "> **提示**：Morph 來源可以同時增加一個參數的值並減少另一個參數的值，例如可以在樂器之間進行平滑淡出淡入。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 582,
+      "before": "6. 轉動 CAT 旋鈕選擇 Multi 類別。WAVE 旋鈕可用於選擇多個鋸齒波的不同組合。選擇 Multi Saw x2，它由兩個相差一個八度的振盪器組成。",
+      "after": "6. 轉動 CAT 控制旋鈕選擇 Multi 類別。WAVE 旋鈕可用於選擇多個鋸齒波的不同組合。選擇 Multi Saw x2，它由兩個相差一個八度的振盪器組成。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 594,
+      "before": "1. 確保濾波器已開啟，暫時將 Filter ENV AMT（包絡量）設為零。",
+      "after": "1. 確保濾波器已開啟，暫時將 Filter ENV AMT（包絡線調變量）設為零。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 597,
+      "before": "2. 按 Filter TYPE 按鈕。在顯示器中，使用最左邊的 TYPE 旋鈕試用不同類型的濾波器。",
+      "after": "2. 按 Filter TYPE 按鈕。在顯示器中，使用最左邊的 TYPE 控制旋鈕試用不同類型的濾波器。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 606,
+      "before": "### 載入和調整樣本 / LOADING AND ADJUSTING A SAMPLE",
+      "after": "### 載入和調整取樣音色 / LOADING AND ADJUSTING A SAMPLE"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 608,
+      "before": "現在讓我們改為基於樣本設置一個弦樂鋪底音色：",
+      "after": "現在讓我們改為基於取樣音色設置一個弦樂鋪底音色："
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 620,
+      "before": "3. 使用顯示器下方的 CAT 旋鈕選擇 Strings Ensemble 類別。使用 SAMPLE 旋鈕選擇您喜歡的音色。",
+      "after": "3. 使用顯示器下方的 CAT 控制旋鈕選擇 Strings Ensemble 類別。使用 SAMPLE 旋鈕選擇您喜歡的音色。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 623,
+      "before": "4. 演奏幾個音符。要將音色製作成鋪底效果，需要進行一些調整。按 AMP ENVELOPE 按鈕，打開顯示器中的放大器包絡線控制。",
+      "after": "4. 演奏幾個音符。要將音色製作成鋪底效果，需要進行一些調整。按 AMP ENVELOPE 按鈕，打開顯示器中的振幅包絡線控制。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 638,
+      "before": "8. 要用不同的樣本試用鋪底音色，按住 WAVEFORM 按鈕並轉動 SAMPLE 旋鈕。正常轉動 Sample 旋鈕會關閉濾波器區段並為所選樣本設置預設的 Amp 包絡線值。",
+      "after": "8. 要用不同的取樣音色試用鋪底音色，按住 WAVEFORM 按鈕並轉動 SAMPLE 旋鈕。正常轉動 Sample 旋鈕會關閉濾波器區段並為所選取樣音色設置預設的 Amp 包絡線值。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 641,
+      "before": "進一步增強這個基本弦樂鋪底音色的方法有很多，例如添加調製或使用效果。在第 33 頁閱讀更多關於調製選項的資訊，從第 48 頁開始了解效果。",
+      "after": "進一步增強這個基本弦樂鋪底音色的方法有很多，例如添加調變或使用效果。在第 33 頁閱讀更多關於調變選項的資訊，從第 48 頁開始了解效果。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 645,
+      "before": "> **提示**：可以使用 Nord Sound Manager 軟體為 Nord Stage 4 添加額外的樣本。",
+      "after": "> **提示**：可以使用 Nord Sound Manager 軟體為 Nord Stage 4 添加額外的取樣音色。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 648,
+      "before": "## 琶音器/門限器 / THE ARPEGGIATOR/GATE",
+      "after": "## 琶音器/節奏閘門 / THE ARPEGGIATOR/GATE"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 652,
+      "before": "作為最後一個練習，讓我們使用合成器區段及其琶音器/門限器（ARPEGGIATOR/GATE）創建一個音色。",
+      "after": "作為最後一個練習，讓我們使用合成器區段及其琶音器/節奏閘門（ARPEGGIATOR/GATE）創建一個音色。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 662,
+      "before": "3. 按琶音器/閘門 MENU 按鈕進行一些額外設定：轉動 DIRECTION 旋鈕試用不同設定。預設的 UP 設定從最低鍵向上演奏音符到最高鍵然後重新開始。其他方向有 DOWN（向下）、UP/DOWN 和 RANDOM（隨機）。",
+      "after": "3. 按琶音器/節奏閘門 MENU 按鈕進行一些額外設定：轉動 DIRECTION 旋鈕試用不同設定。預設的 UP 設定從最低鍵向上演奏音符到最高鍵然後重新開始。其他方向有 DOWN（向下）、UP/DOWN 和 RANDOM（隨機）。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 670,
+      "before": "> **注意**：琶音器/閘門選單的第 2-5 頁涉及 Pattern 模式，其設定只有在啟用 Pattern（Shift+Arp/Gate Mode）時才有效。",
+      "after": "> **注意**：琶音器/節奏閘門選單的第 2-5 頁涉及 Pattern 模式，其設定只有在啟用 Pattern（Shift+Arp/Gate Mode）時才有效。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 673,
+      "before": "> **提示**：琶音器/閘門選單的頂行顯示當前波形或樣本選擇（例子中為「Multi Saw x 2」）。",
+      "after": "> **提示**：琶音器/節奏閘門選單的頂行顯示當前波形或取樣音色選擇（例子中為「Multi Saw x 2」）。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 682,
+      "before": "> **提示**：在琶音器進行時，可以試試 POLY（複音）和 GATE 模式。在複音模式下，重複演奏按住和弦的轉位，而閘門模式以節奏方式開關音符。請注意，在閘門模式下，需要將 Amp 和 Filter Envelope Decay 設為較長的值，因為音符不像 Arp 和 Poly 模式那樣重複演奏。",
+      "after": "> **提示**：在琶音器進行時，可以試試 POLY（複音）和 GATE 模式。在複音模式下，重複演奏按住和弦的轉位，而節奏閘門模式以節奏方式開關音符。請注意，在節奏閘門模式下，需要將 Amp 和 Filter Envelope Decay 設為較長的值，因為音符不像 Arp 和 Poly 模式那樣重複演奏。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 687,
+      "before": "## 主時鐘 / MASTER CLOCK",
+      "after": "## 主節拍時鐘 / MASTER CLOCK"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 689,
+      "before": "現在已有琶音進行中，讓我們試試主時鐘功能來同步琶音並帶入一個效果。",
+      "after": "現在已有琶音進行中，讓我們試試主節拍時鐘功能來同步琶音並帶入一個效果。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 693,
+      "before": "1. 按住 SHIFT 並轉動琶音器 RATE 旋鈕，將琶音鎖定到主時鐘，MST CLK LED 亮起。按住程式區的 Mst Clk TAP/SET 按鈕，使用程式旋鈕輸入速度，顯示器將顯示 BPM。將此練習的速度設為 130 BPM，然後按 SHIFT/EXIT 退出。",
+      "after": "1. 按住 SHIFT 並轉動琶音器 RATE 旋鈕，將琶音鎖定到主節拍時鐘，MST CLK LED 亮起。按住音色配置區段的 Mst Clk TAP/SET 按鈕，使用音色配置控制旋鈕輸入速度，顯示器將顯示 BPM。將此練習的速度設為 130 BPM，然後按 SHIFT/EXIT 退出。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 701,
+      "before": "2. 轉動琶音 RATE 旋鈕選擇琶音應演奏的拍值（或音符值），設定將在旋鈕被轉動時顯示在程式區顯示器中。注意 1/4 是 1/8 「速度」的一半。數字值後的「T」表示三連音。將細分設為 1/8。",
+      "after": "2. 轉動琶音 RATE 旋鈕選擇琶音應演奏的拍值（或音符值），設定將在旋鈕被轉動時顯示在音色配置區段顯示器中。注意 1/4 是 1/8 「速度」的一半。數字值後的「T」表示三連音。將細分設為 1/8。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 707,
+      "before": "4. 按住 SHIFT 並轉動延遲 TEMPO 旋鈕，為延遲啟動主時鐘，MST CLK LED 亮起。",
+      "after": "4. 按住 SHIFT 並轉動延遲 TEMPO 旋鈕，為延遲啟動主節拍時鐘，MST CLK LED 亮起。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 710,
+      "before": "5. 轉動延遲 TEMPO 旋鈕，再次參考程式區顯示器監控設定。",
+      "after": "5. 轉動延遲 TEMPO 旋鈕，再次參考音色配置區段顯示器監控設定。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 716,
+      "before": "琶音器、合成器上的 LFO、延遲和 Mod 1 速率都可以以這種方式同步到主時鐘。",
+      "after": "琶音器、合成器上的 LFO、延遲和 Mod 1 速率都可以以這種方式同步到主節拍時鐘。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 720,
+      "before": "更重要的是，主時鐘同時在所有音層上運作，因此您可以控制所有合成器音層上的琶音和 LFO，以及風琴和鋼琴區段的效果。",
+      "after": "更重要的是，主節拍時鐘同時在所有音層上運作，因此您可以控制所有合成器音層上的琶音和 LFO，以及風琴和鋼琴區段的效果。"
+    },
+    {
+      "file": "ch03_getting_started.md",
+      "line": 724,
+      "before": "部分配備主時鐘的功能有大於 1/1 的除法設定，允許比一小節更長的掃描。當然，您也可以同步某些功能，同時讓其他功能自由運行。",
+      "after": "部分配備主節拍時鐘的功能有大於 1/1 的除法設定，允許比一小節更長的掃描。當然，您也可以同步某些功能，同時讓其他功能自由運行。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 1,
+      "before": "# 第四章：風琴區 / Chapter 4: Organ Section",
+      "after": "# 第四章：風琴區段 / Chapter 4: Organ Section"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 5,
+      "before": "## 關於風琴區 / ABOUT THE ORGAN SECTION",
+      "after": "## 關於風琴區段 / ABOUT THE ORGAN SECTION"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 12,
+      "before": "> 💡 什麼是「數位模擬」？就是用電腦程式精確重現老式機械樂器的聲音特性，讓你不需要真的擁有那些昂貴的老樂器，也能奏出一模一樣的音色。",
+      "after": "> 💡 什麼是「數位模擬」？就是用電腦音色配置精確重現老式機械樂器的聲音特性，讓你不需要真的擁有那些昂貴的老樂器，也能奏出一模一樣的音色。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 27,
+      "before": "按下風琴區的 **ON** 按鈕可以開啟或關閉整個風琴區。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援變形控制（Morph）。",
+      "after": "按下風琴區段的 **ON** 按鈕可以開啟或關閉整個風琴區段。每個風琴音層（Layer）各有一支可以推動的音量推桿，推桿本身也支援Morph 多參數控制（Morph）。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 37,
+      "before": "## 音層按鈕與效果焦點 / LAYER BUTTONS AND FX FOCUS",
+      "after": "## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 42,
+      "before": "風琴區有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。",
+      "after": "風琴區段有兩個音層（Layer——可以想像成兩台各自獨立的風琴），分別標示為 **A** 和 **B**。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 57,
+      "before": "按下音層按鈕時，風琴區頂部的 **FX FOCUS** 指示燈也會亮起，表示目前正在編輯該音層的效果。",
+      "after": "按下音層按鈕時，風琴區段頂部的 **FX FOCUS** 指示燈也會亮起，表示目前正在編輯該音層的效果。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 67,
+      "before": "## 八度移調與鍵盤分區 / OCTAVE SHIFT AND KB ZONE",
+      "after": "## 八度移調與鍵盤區域 / OCTAVE SHIFT AND KB ZONE"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 76,
+      "before": "按下 **KB ZONE**（Shift + 八度升/降鍵），可以將選定的風琴音層指定到任何已啟用的鍵盤分區。綠色 LED 指示燈會顯示目前音層被指定到哪個分區。關於分區設定，請參閱第 38 頁。",
+      "after": "按下 **KB ZONE**（Shift + 八度升/降鍵），可以將選定的風琴音層指定到任何已啟用的鍵盤區域。綠色 LED 指示燈會顯示目前音層被指定到哪個分區。關於分區設定，請參閱第 38 頁。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 82,
+      "before": "## 延音踏板與音高桿 / SUSTPED AND PSTICK",
+      "after": "## 延音踏板與音高控制桿 / SUSTPED AND PSTICK"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 88,
+      "before": "**PSTICK**（Shift + 音層 B 開關）可為選定的音層開啟音高桿功能，讓你用音高桿（Pitch Stick）將風琴音色上下彎音 2 個半音。",
+      "after": "**PSTICK**（Shift + 音層 B 開關）可為選定的音層開啟音高控制桿功能，讓你用音高控制桿（Pitch Stick）將風琴音色上下彎音 2 個半音。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 99,
+      "before": "按下 **ORGAN MODEL** 選擇按鈕，可以挑選要使用的風琴模型。兩個音層 A 和 B 可以各自使用不同的模型——例如用 B3 疊加管風琴，或把 B3 主鍵盤和 B3 Bass 音桿分左右手演奏。",
+      "after": "按下 **ORGAN MODEL** 選擇按鈕，可以挑選要使用的風琴模型。兩個音層 A 和 B 可以各自使用不同的模型——例如用 B3 疊加管風琴，或把 B3 主鍵盤和 B3 Bass 音栓拉桿分左右手演奏。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 107,
+      "before": "Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定好、可以直接使用的音色組合，通常包含效果），可在程式區段中央的 **PRESET LIBRARY** 區域按下 **ORGAN** 按鈕來瀏覽和載入。你自己調整好的音色也可以儲存到預設音色庫，方便在任何程式（Program）中快速呼叫。",
+      "after": "Nord Stage 4 內建大量完整的風琴預設音色（Preset——已經設定好、可以直接使用的音色組合，通常包含效果），可在音色配置區段中央的 **PRESET LIBRARY** 區域按下 **ORGAN** 按鈕來瀏覽和載入。你自己調整好的音色也可以儲存到預設音色庫，方便在任何音色配置（Program）中快速呼叫。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 117,
+      "before": "## 音桿與 LED 顯示 / DRAWBARS AND LED GRAPHS",
+      "after": "## 音栓拉桿與 LED 顯示 / DRAWBARS AND LED GRAPHS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 122,
+      "before": "每支實體音桿（Drawbar——類似滑桿的控制器，拉出越多、該泛音聲音越大）旁邊都有一排 LED 指示燈顯示目前的設定值。載入程式時，LED 會顯示程式中儲存的音桿預設值。",
+      "after": "每支實體音栓拉桿（Drawbar——類似滑桿的控制器，拉出越多、該諧音聲音越大）旁邊都有一排 LED 指示燈顯示目前的設定值。載入音色配置時，LED 會顯示音色配置中儲存的音栓拉桿預設音色。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 124,
+      "before": "> 💡 「泛音」是聲音的組成成分。每支音桿代表不同的頻率成分，透過組合各音桿的位置，你就能調出各種不同特色的風琴音色——這正是風琴最有趣的地方！",
+      "after": "> 💡 「諧音」是聲音的組成成分。每支音栓拉桿代表不同的頻率成分，透過組合各音栓拉桿的位置，你就能調出各種不同特色的風琴音色——這正是風琴最有趣的地方！"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 128,
+      "before": "如果關閉預設音色（Preset Off），風琴就會進入「音桿即時模式（Drawbar Live）」，直接使用實體音桿的實際位置，此時 LED 指示燈全部熄滅。詳細說明請見後續章節。",
+      "after": "如果關閉預設音色（Preset Off），風琴就會進入「音栓拉桿即時模式（Drawbar Live）」，直接使用實體音栓拉桿的實際位置，此時 LED 指示燈全部熄滅。詳細說明請見後續章節。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 132,
+      "before": "> 💡 在預設音色模式下，音桿可以設定變形控制（Morph）——例如透過調制輪或踏板大幅度地即時改變音桿位置，製造戲劇性的音色變化。",
+      "after": "> 💡 在預設音色模式下，音栓拉桿可以設定Morph 多參數控制（Morph）——例如透過調制輪或踏板大幅度地即時改變音栓拉桿位置，製造戲劇性的音色變化。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 146,
+      "before": "- 極度精確的原始合聲與顫音掃描器數位模型。",
+      "after": "- 極度精確的原始合聲與音高顫音掃描器數位模型。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 148,
+      "before": "- 模擬每個泛音的接點彈跳特性。",
+      "after": "- 模擬每個諧音的接點彈跳特性。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 163,
+      "before": "### B3 音桿 / B3 DRAWBARS",
+      "after": "### B3 音栓拉桿 / B3 DRAWBARS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 168,
+      "before": "音輪風琴的泛音音程標示印在面板音桿下方。每支音桿代表一個固定泛音音程，與所彈奏的音符之間維持固定的音高關係。面板上的圖示顯示彈奏 C3 時，九支音桿各自的音高關係。請注意，5⅓′ 音桿實際上是基頻（8′）高五度的泛音，但在多數情況下聽起來反而像在它下方。",
+      "after": "音輪風琴的諧音音程標示印在面板音栓拉桿下方。每支音栓拉桿代表一個固定諧音音程，與所彈奏的音符之間維持固定的音高關係。面板上的圖示顯示彈奏 C3 時，九支音栓拉桿各自的音高關係。請注意，5⅓′ 音栓拉桿實際上是基頻（8′）高五度的諧音，但在多數情況下聽起來反而像在它下方。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 174,
+      "before": "### 顫音與合聲 / VIBRATO & CHORUS",
+      "after": "### 音高顫音與合聲 / VIBRATO & CHORUS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 179,
+      "before": "音輪風琴原本的顫音與合聲掃描器，是由一條調製延遲線與旋轉掃描器組合而成。顫音效果是對訊號施加相位偏移；合聲效果則是將相位調製後的訊號疊加到原始訊號上。",
+      "after": "音輪風琴原本的音高顫音與合聲掃描器，是由一條調變延遲線與旋轉掃描器組合而成。音高顫音效果是對訊號施加相位偏移；合聲效果則是將相位調變後的訊號疊加到原始訊號上。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 183,
+      "before": "共有三種合聲（C1–C3）和三種顫音（V1–V3）可供選擇。按下 **Vibrato/Chorus** 選擇按鈕來切換類型；每個音層的效果可以獨立開關。",
+      "after": "共有三種合聲（C1–C3）和三種音高顫音（V1–V3）可供選擇。按下 **Vibrato/Chorus** 選擇按鈕來切換類型；每個音層的效果可以獨立開關。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 189,
+      "before": "## 擊弦音效 / PERCUSSION",
+      "after": "## 打擊音效 / PERCUSSION"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 194,
+      "before": "按下 **PERCUSSION ON** 按鈕，可以為 B3 音色加上一個短暫的起始衝擊感（Attack）——這是用一個包絡產生器（Envelope Generator）控制第 2 或第 3 泛音所產生的效果。",
+      "after": "按下 **PERCUSSION ON** 按鈕，可以為 B3 音色加上一個短暫的起始衝擊感（Attack）——這是用一個包絡線產生器（Envelope Generator）控制第 2 或第 3 諧音所產生的效果。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 196,
+      "before": "> 💡 「擊弦音效」就像在每個音符開頭加上一個輕微的「叩」聲，讓音色聽起來更有活力和節奏感。這是 B3 風琴的招牌特色之一。",
+      "after": "> 💡 「打擊音效」就像在每個音符開頭加上一個輕微的「叩」聲，讓音色聽起來更有活力和節奏感。這是 B3 風琴的招牌特色之一。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 200,
+      "before": "按鍵時，包絡會在音符開頭短暫「打開」一下。正常情況下，擊弦音效是「單觸發非連奏（Single-triggered Non-legato）」模式：只有在沒有其他音符正在發聲時按鍵，才會觸發擊弦效果。也就是說，如果你按住一個和弦再繼續疊加新的音符，新音符不會有擊弦效果——需要放開所有琴鍵後重新按鍵才行。",
+      "after": "按鍵時，包絡線會在音符開頭短暫「打開」一下。正常情況下，打擊音效是「單觸發非連奏（Single-triggered Non-legato）」模式：只有在沒有其他音符正在發聲時按鍵，才會觸發打擊音效。也就是說，如果你按住一個和弦再繼續疊加新的音符，新音符不會有打擊音效——需要放開所有琴鍵後重新按鍵才行。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 204,
+      "before": "在 **POLY 模式**（Shift+Volume）下，擊弦音效變為「複音（Polyphonic）」——每個新按下的音符都會觸發擊弦效果，不管之前有沒有音符正在發聲。",
+      "after": "在 **POLY 模式**（Shift+Volume）下，打擊音效變為「複音（Polyphonic）」——每個新按下的音符都會觸發打擊音效，不管之前有沒有音符正在發聲。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 212,
+      "before": "- **HARMONIC THIRD** 按鈕：在第 2 泛音和第 3 泛音之間切換，作為擊弦音效的來源。",
+      "after": "- **HARMONIC THIRD** 按鈕：在第 2 諧音和第 3 諧音之間切換，作為打擊音效的來源。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 215,
+      "before": "> ⚠️ 擊弦音效僅適用於 B3 風琴模型。",
+      "after": "> ⚠️ 打擊音效僅適用於 B3 風琴模型。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 221,
+      "before": "## 按鍵雜音控制 / KEY CLICK CONTROL",
+      "after": "## 按鍵咔嗒聲控制 / KEY CLICK CONTROL"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 223,
+      "before": "按鍵雜音（Key Click）是原始 B3 樂器中由接點隨機彈跳產生的聲音特性，很快就成為音樂人喜愛的效果之一。點擊音量可以在音效選單中調整，詳見第 57 頁。",
+      "after": "按鍵咔嗒聲（Key Click）是原始 B3 樂器中由接點隨機彈跳產生的聲音特性，很快就成為音樂人喜愛的效果之一。點擊音量可以在音效選單中調整，詳見第 57 頁。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 239,
+      "before": "### Vox 音桿 / VOX DRAWBARS",
+      "after": "### Vox 音栓拉桿 / VOX DRAWBARS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 244,
+      "before": "Vox 音桿的標籤印在音桿 LED 正上方的那一排。",
+      "after": "Vox 音栓拉桿的標籤印在音栓拉桿 LED 正上方的那一排。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 248,
+      "before": "基本音桿操作請參閱第 19 頁「音桿與 LED 顯示」。左側七支音桿各自控制一個泛音的音量，每個泛音與彈奏音符之間維持固定的音高關係。最右側的音桿控制「柔和暗沉的濾波訊號」與「明亮強烈的未濾波訊號」之間的混音比例。",
+      "after": "基本音栓拉桿操作請參閱第 19 頁「音栓拉桿與 LED 顯示」。左側七支音栓拉桿各自控制一個諧音的音量，每個諧音與彈奏音符之間維持固定的音高關係。最右側的音栓拉桿控制「柔和暗沉的濾波訊號」與「明亮強烈的未濾波訊號」之間的混音比例。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 252,
+      "before": "### 顫音 / VIBRATO",
+      "after": "### 音高顫音 / VIBRATO"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 254,
+      "before": "Vox 模型提供多種顫音和合聲類型，透過顫音區段的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模型的顫音設定和開關狀態由音層 A 和 B 共用。",
+      "after": "Vox 模型提供多種音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V3** 是最接近原版樂器的設定。Vox 模型的音高顫音設定和開關狀態由音層 A 和 B 共用。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 271,
+      "before": "Farf 音桿／音栓的標籤印在音桿 LED 上方的一排。",
+      "after": "Farf 音栓拉桿／音栓的標籤印在音栓拉桿 LED 上方的一排。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 275,
+      "before": "在 Farf 模型下，音桿的作用是**開關切換器**（或稱「音栓選擇器」），而非連續調整音量。原版樂器使用搖桿開關來選擇不同的音色（實際上是不同的濾波設定），分佈在各個音程（八度）範圍內。",
+      "after": "在 Farf 模型下，音栓拉桿的作用是**開關切換器**（或稱「音栓選擇器」），而非連續調整音量。原版樂器使用搖桿開關來選擇不同的音色（實際上是不同的濾波設定），分佈在各個音程（八度）範圍內。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 279,
+      "before": "> 💡 音桿 LED 5–8 亮起表示該音色**已啟用**；LED 1–4 亮起則表示**未啟用**。將音桿拉出超過一半，就可以啟用該音栓。",
+      "after": "> 💡 音栓拉桿 LED 5–8 亮起表示該音色**已啟用**；LED 1–4 亮起則表示**未啟用**。將音栓拉桿拉出超過一半，就可以啟用該音栓。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 283,
+      "before": "依據程式顯示模式（Prog View，見第 41 頁），程式區段的顯示器會顯示目前風琴區的音桿設定。下表列出各音桿對應的原版音栓名稱：",
+      "after": "依據音色配置檢視（Prog View，見第 41 頁），音色配置區段的顯示器會顯示目前風琴區段的音栓拉桿設定。下表列出各音栓拉桿對應的原版音栓名稱："
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 287,
+      "before": "| 音桿 | 音色 | 面板名稱 |",
+      "after": "| 音栓拉桿 | 音色 | 面板名稱 |"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 317,
+      "before": "### 顫音 / VIBRATO",
+      "after": "### 音高顫音 / VIBRATO"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 319,
+      "before": "Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模型提供更多顫音和合聲類型，透過顫音區段的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的顫音由兩個音層共用。",
+      "after": "Farf 原版樂器有「輕（Light）」和「重（Heavy）」兩種基本音高顫音模式，各有不同的速率。Nord Stage 4 的 Farf 模型提供更多音高顫音和合聲類型，透過音高顫音區段的 ON 按鈕啟用。**V1、V2 和 C3** 是最接近原版樂器的設定。Farf 的音高顫音由兩個音層共用。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 339,
+      "before": "### 管風琴顫音／合聲 / PIPE VIBRATO/CHORUS",
+      "after": "### 管風琴音高顫音／合聲 / PIPE VIBRATO/CHORUS"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 355,
+      "before": "B3 Bass 電風琴模組提供傳統 B3 低音的 16′ 和 8′ 兩支音桿。除了單獨使用外，也可以搭配鍵盤左側分區，或透過 MIDI 的 Aux KB 功能由外接鍵盤或踏鍵演奏。",
+      "after": "B3 Bass 電風琴模組提供傳統 B3 低音的 16′ 和 8′ 兩支音栓拉桿。除了單獨使用外，也可以搭配鍵盤左側分區，或透過 MIDI 的 Aux KB 功能由外接鍵盤或踏鍵演奏。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 357,
+      "before": "> 💡 這個模式適合雙鍵盤演奏設定——右手操作主要的 B3 音色，左手或腳踩踏板控制專屬的低音音桿，重現傳統雙層鍵盤 B3 的演奏方式。",
+      "after": "> 💡 這個模式適合雙鍵盤演奏設定——右手操作主要的 B3 音色，左手或腳踩踏板控制專屬的低音音栓拉桿，重現傳統雙層鍵盤 B3 的演奏方式。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 367,
+      "before": "## 預設音色與音桿即時模式 / PRESET AND DRAWBAR LIVE",
+      "after": "## 預設音色與音栓拉桿即時模式 / PRESET AND DRAWBAR LIVE"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 372,
+      "before": "預設音色（Preset）預設為開啟，表示程式中儲存的音桿值、擊弦音效和合聲/顫音開關狀態都會被使用。關閉預設音色後，風琴進入「音桿即時（Drawbar Live）」模式，直接使用實體音桿的物理位置；此時所有音桿 LED 指示燈都會熄滅。",
+      "after": "預設音色（Preset）預設為開啟，表示音色配置中儲存的音栓拉桿值、打擊音效和合聲/音高顫音開關狀態都會被使用。關閉預設音色後，風琴進入「音栓拉桿即時（Drawbar Live）」模式，直接使用實體音栓拉桿的物理位置；此時所有音栓拉桿 LED 指示燈都會熄滅。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 374,
+      "before": "> 💡 簡單說：**Preset 開啟** = 程式記憶的設定；**Drawbar Live** = 音桿實際位置。如果你推動了音桿但 LED 燈沒變，請確認 Preset 是否已關閉。",
+      "after": "> 💡 簡單說：**Preset 開啟** = 音色配置記憶的設定；**Drawbar Live** = 音栓拉桿實際位置。如果你推動了音栓拉桿但 LED 燈沒變，請確認 Preset 是否已關閉。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 380,
+      "before": "按下 **SYNC**（Shift+Preset）或長按 **PRESET** 按鈕，可以將儲存的預設值與實體音桿的現有位置同步。",
+      "after": "按下 **SYNC**（Shift+Preset）或長按 **PRESET** 按鈕，可以將儲存的預設值與實體音栓拉桿的現有位置同步。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 382,
+      "before": "> 💡 當你在 Preset 模式下移動了音桿，但想把當前的物理位置「存入」預設時，就用這個功能。",
+      "after": "> 💡 當你在 Preset 模式下移動了音栓拉桿，但想把當前的物理位置「存入」預設時，就用這個功能。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 388,
+      "before": "## 音量漸變踏板 / SWELL PEDAL",
+      "after": "## 風琴表情踏板 / SWELL PEDAL"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 390,
+      "before": "Swell（音量漸變）是風琴的經典功能，用連續型踏板來控制。它不只是單純的音量控制——對 B3 來說，Swell 還會改變音色的特質。要在 Nord Stage 4 上使用 Swell，只需將標準表情踏板（Expression Pedal）插入後面板的 **Organ Swell** 插孔，並在踏板選單（Pedal Menu）中設定即可（見第 58 頁）。",
+      "after": "Swell（音量漸變）是風琴的經典功能，用連續型踏板來控制。它不只是單純的音量控制——對 B3 來說，Swell 還會改變音色的特質。要在 Nord Stage 4 上使用 Swell，只需將標準風琴表情踏板（Expression Pedal）插入後面板的 **Organ Swell** 插孔，並在踏板選單（Pedal Menu）中設定即可（見第 58 頁）。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 392,
+      "before": "> 💡 「表情踏板」就是那種連續可調的踏板，就像鋼琴踩踏板一樣，踩越深效果越強。和延音踏板（只有開/關兩種狀態）不同。",
+      "after": "> 💡 「風琴表情踏板」就是那種連續可調的踏板，就像鋼琴踩踏板一樣，踩越深效果越強。和延音踏板（只有開/關兩種狀態）不同。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 396,
+      "before": "接在 Organ Swell 插孔的表情踏板，對所有風琴模型都有效。",
+      "after": "接在 Organ Swell 插孔的風琴表情踏板，對所有風琴模型都有效。"
+    },
+    {
+      "file": "ch04_organ_section.md",
+      "line": 404,
+      "before": "如果你只有一支表情踏板，可以將它接到 Control Pedal 插孔，同時控制變形控制（Morph）和 Swell——這也是在踏板選單中設定的。",
+      "after": "如果你只有一支風琴表情踏板，可以將它接到 Control Pedal 插孔，同時控制Morph 多參數控制（Morph）和 Swell——這也是在踏板選單中設定的。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 10,
+      "before": "按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區段。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**變形控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。",
+      "after": "按下 **ON** 按鈕，可以開啟或關閉整個鋼琴區段。每個音層（Layer——可以想像成同時疊加播放的不同樂器聲音）都有一個可推動的音量推桿，可以控制該音層的輸出音量。這些推桿也支援**Morph 多參數控制（Morph）**，意思是可以用滑輪或踏板來即時改變音量大小。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 20,
+      "before": "## 音層按鈕與效果焦點 / LAYER BUTTONS AND FX FOCUS",
+      "after": "## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 39,
+      "before": "## 八度移調與鍵盤分區 / OCTAVE SHIFT AND KB ZONE",
+      "after": "## 八度移調與鍵盤區域 / OCTAVE SHIFT AND KB ZONE"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 48,
+      "before": "按下 **KB ZONE**（Shift + 八度移調上/下），可以把目前的鋼琴音層分配到特定的**鍵盤分區（KB Zone）**。綠色 LED 會顯示該音層目前分配在哪些分區。關於分區設定的詳細說明，請參考第 38 頁。",
+      "after": "按下 **KB ZONE**（Shift + 八度移調上/下），可以把目前的鋼琴音層分配到特定的**鍵盤區域（KB Zone）**。綠色 LED 會顯示該音層目前分配在哪些分區。關於分區設定的詳細說明，請參考第 38 頁。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 54,
+      "before": "## 延音踏板與音高桿 / SUSTPED AND PSTICK",
+      "after": "## 延音踏板與音高控制桿 / SUSTPED AND PSTICK"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 60,
+      "before": "**PSTICK**（Shift + 音層 B）開啟音高桿功能，讓你可以用音高桿（Pitch Stick）把鋼琴音色上下彎音 2 個半音，做出滑音效果。",
+      "after": "**PSTICK**（Shift + 音層 B）開啟音高控制桿功能，讓你可以用音高控制桿（Pitch Stick）把鋼琴音色上下彎音 2 個半音，做出滑音效果。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 82,
+      "before": "如果某個程式（Program）所使用的鋼琴音色目前沒有安裝在琴中，對應的類型 LED 會閃爍，螢幕也會顯示「Piano not found」。這時你可以選擇其他已安裝的鋼琴音色來代替，或是用 Nord Sound Manager 下載缺少的音色。",
+      "after": "如果某個音色配置（Program）所使用的鋼琴音色目前沒有安裝在琴中，對應的類型 LED 會閃爍，螢幕也會顯示「Piano not found」。這時你可以選擇其他已安裝的鋼琴音色來代替，或是用 Nord Sound Manager 下載缺少的音色。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 127,
+      "before": "Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在程式區段的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何程式中快速叫出。",
+      "after": "Nord Stage 4 內建大量完整的**預設音色（Preset——包含音色設定和效果，一鍵載入即可使用）**，可在音色配置區段的 PRESET LIBRARY 區域按下 **PIANO** 按鈕來瀏覽和載入。你自己調好的音色也可以儲存到預設音色庫，方便日後在任何音色配置中快速叫出。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 185,
+      "before": "## 列表視圖 / LIST VIEW",
+      "after": "## 清單檢視 / LIST VIEW"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 190,
+      "before": "按住 **SHIFT** 並轉動 **PIANO SELECT** 旋鈕，會進入鋼琴音色的列表視圖，方便你瀏覽所有音色。列表頂部會顯示目前的類型名稱、該類型的音色數量，以及目前選到第幾個音色。",
+      "after": "按住 **SHIFT** 並轉動 **PIANO SELECT** 旋鈕，會進入鋼琴音色的清單檢視，方便你瀏覽所有音色。列表頂部會顯示目前的類型名稱、該類型的音色數量，以及目前選到第幾個音色。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 204,
+      "before": "## 鍵盤觸感 / KB TOUCH",
+      "after": "## 觸鍵力度反應 / KB TOUCH"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 238,
+      "before": "## 音響效果 / ACOUSTICS",
+      "after": "## 鋼琴聲音特性 / ACOUSTICS"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 264,
+      "before": "2. **模擬同感共鳴**：當你按住某些音符時，彈奏其他音符會讓這些被按住弦產生共鳴，就像在真實鋼琴上一樣。",
+      "after": "2. **模擬交感共振**：當你按住某些音符時，彈奏其他音符會讓這些被按住弦產生共鳴，就像在真實鋼琴上一樣。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 277,
+      "before": "### 踏板噪音 / PED NOISE (PEDAL NOISE)",
+      "after": "### 踏板機械聲 / PED NOISE (PEDAL NOISE)"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 279,
+      "before": "**PED NOISE（踏板噪音——真實鋼琴踩踏板時會發出的機械聲音）**（Shift + Soft Release/String Res）需要連接 Nord Triple Pedal 或 Nord Single Pedal 2 才能使用。開啟後，踩下延音踏板時的機械聲音會被重現，踩踏的力道越大，聲音也越明顯。",
+      "after": "**PED NOISE（踏板機械聲——真實鋼琴踩踏板時會發出的機械聲音）**（Shift + Soft Release/String Res）需要連接 Nord Triple Pedal 或 Nord Single Pedal 2 才能使用。開啟後，踩下延音踏板時的機械聲音會被重現，踩踏的力道越大，聲音也越明顯。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 283,
+      "before": "踏板噪音的音量可在音效選單中調整，詳見第 57 頁。若目前的鋼琴音色不支援此功能，它會自動停用。",
+      "after": "踏板機械聲的音量可在音效選單中調整，詳見第 57 頁。若目前的鋼琴音色不支援此功能，它會自動停用。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 309,
+      "before": "### 延音踏板與半踩技巧 / SUSTAIN AND HALF PEDALING",
+      "after": "### 延音踏板與半踏板技巧 / SUSTAIN AND HALF PEDALING"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 317,
+      "before": "### 選擇延音踏板 / SOSTENUTO",
+      "after": "### 特定音延音踏板 / SOSTENUTO"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 319,
+      "before": "**中間踏板**預設是**選擇延音踏板（Sostenuto——只讓踩下踏板當下已按住的音符延音，之後彈的音不受影響）**。先按住幾個音符，再踩下 Sostenuto 踏板，這些音符會持續延音；之後彈的其他音符則正常發聲和停止。",
+      "after": "**中間踏板**預設是**特定音延音踏板（Sostenuto——只讓踩下踏板當下已按住的音符延音，之後彈的音不受影響）**。先按住幾個音符，再踩下 Sostenuto 踏板，這些音符會持續延音；之後彈的其他音符則正常發聲和停止。"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 329,
+      "before": "### 弱音踏板 / SOFT PEDAL",
+      "after": "### 柔音踏板 / SOFT PEDAL"
+    },
+    {
+      "file": "ch05_piano_section.md",
+      "line": 331,
+      "before": "**左踏板**預設是**弱音踏板（Soft Pedal，又稱 Una Corda）**。踩下後，所有發聲的音符音量會稍微降低，音色也會變得較為柔和內斂。",
+      "after": "**左踏板**預設是**柔音踏板（Soft Pedal，又稱 Una Corda）**。踩下後，所有發聲的音符音量會稍微降低，音色也會變得較為柔和內斂。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 10,
+      "before": "Nord Stage 4 合成器區段共有三個音層（Layer——可以想像成同時疊加播放的不同合成器聲音），每個音層都能產生各種經典類比波形（Analog Waveform）、豐富的數位波形，以及 FM 演算法和樣本音色。",
+      "after": "Nord Stage 4 合成器區段共有三個音層（Layer——可以想像成同時疊加播放的不同合成器聲音），每個音層都能產生各種經典類比波形（Analog Waveform）、豐富的數位波形，以及 FM 演算法和取樣音色。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 18,
+      "before": "合成器區段專用的顯示螢幕及下方三個旋鈕，同時用於瀏覽波形與樣本，以及設定包絡線（Envelope）、濾波器（Filter）等合成器參數。面板上附有紅色外框的按鈕，表示其設定會透過顯示螢幕來操作。",
+      "after": "合成器區段專用的顯示螢幕及下方三個旋鈕，同時用於瀏覽波形與取樣音色，以及設定包絡線（Envelope）、濾波器（Filter）等合成器參數。面板上附有紅色外框的按鈕，表示其設定會透過顯示螢幕來操作。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 22,
+      "before": "將合成器區段切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的程式與參數變更。詳見第 45 頁的外部模式章節。",
+      "after": "將合成器區段切換至外部模式（Extern mode）時，顯示螢幕和旋鈕會改為控制外部設備的音色配置與參數變更。詳見第 45 頁的外部模式章節。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 30,
+      "before": "按下 ON 按鈕可開啟或關閉合成器區段。每個合成器音層的輸出音量，由可進行變形控制（Morph）的音量推桿來調整。",
+      "after": "按下 ON 按鈕可開啟或關閉合成器區段。每個合成器音層的輸出音量，由可進行Morph 多參數控制（Morph）的音量推桿來調整。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 40,
+      "before": "## 音層按鈕與效果聚焦 / LAYER BUTTONS AND FX FOCUS",
+      "after": "## 音層按鈕與目標效果器 / LAYER BUTTONS AND FX FOCUS"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 50,
+      "before": "按下音層按鈕也會將該音層的效果聚焦以便編輯，合成器區段頂部的 FX FOCUS LED 會亮起以示確認。",
+      "after": "按下音層按鈕也會將該音層的目標效果器以便編輯，合成器區段頂部的 FX FOCUS LED 會亮起以示確認。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 56,
+      "before": "## 八度移調與鍵盤分區 / OCTAVE SHIFT AND KB ZONE",
+      "after": "## 八度移調與鍵盤區域 / OCTAVE SHIFT AND KB ZONE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 62,
+      "before": "按下 KB ZONE（Shift+八度移調上下鍵），可將音層指派到任何啟用的鍵盤分區。綠色 KB ZONE LED 會顯示該音層目前指派的分區。關於分區設定，請見第 38 頁。",
+      "after": "按下 KB ZONE（Shift+八度移調上下鍵），可將音層指派到任何啟用的鍵盤區域。綠色 KB ZONE LED 會顯示該音層目前指派的分區。關於分區設定，請見第 38 頁。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 70,
+      "before": "## 延音踏板與音高桿 / SUSTPED AND PSTICK",
+      "after": "## 延音踏板與音高控制桿 / SUSTPED AND PSTICK"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 76,
+      "before": "PSTICK/RNG（音高桿／範圍，Shift+音層 B）可為選定音層開啟音高桿功能。音高桿的彎音範圍可以半音為單位設定，按住按鈕並從顯示列表中選擇數值即可。",
+      "after": "PSTICK/RNG（音高控制桿／範圍，Shift+音層 B）可為選定音層開啟音高控制桿功能。音高控制桿的彎音範圍可以半音為單位設定，按住按鈕並從顯示列表中選擇數值即可。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 87,
+      "before": "Nord Stage 4 合成器區段有三種操作模式：**SAMPLES（樣本）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 45 頁的專屬章節。",
+      "after": "Nord Stage 4 合成器區段有三種操作模式：**SAMPLES（取樣音色）**、**ANALOG（類比）**和 **EXTERN（外部）**。外部模式（Shift+Mode）可對外部設備進行進階 MIDI 控制，詳見第 45 頁的專屬章節。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 95,
+      "before": "Nord Stage 4 內建大量多音層和單音層的合成器預設音色（包含效果）。透過程式區段中央 PRESET LIBRARY 區域的 SYNTH 按鈕，即可瀏覽和載入這些音色。",
+      "after": "Nord Stage 4 內建大量多音層和單音層的合成器預設音色（包含效果）。透過音色配置區段中央 PRESET LIBRARY 區域的 SYNTH 按鈕，即可瀏覽和載入這些音色。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 99,
+      "before": "預設音色當然可以手動微調，並儲存為程式的一部分。修改後或自製的音色也可以儲存到預設音色庫，方便在任何程式中快速調用。詳見第 40 頁的預設音色庫說明。",
+      "after": "預設音色當然可以手動微調，並儲存為音色配置的一部分。修改後或自製的音色也可以儲存到預設音色庫，方便在任何音色配置中快速調用。詳見第 40 頁的預設音色庫說明。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 105,
+      "before": "## 樣本模式 / SAMPLES",
+      "after": "## 取樣音色模式 / SAMPLES"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 110,
+      "before": "Nord Stage 4 內建了大量來自 Nord Sample Library 4 的樣本，涵蓋多種類別。",
+      "after": "Nord Stage 4 內建了大量來自 Nord Sample Library 4 的取樣音色，涵蓋多種類別。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 114,
+      "before": "樣本記憶體容量為 1 GB，可從 www.nordkeyboards.com 下載更多樣本。也可使用 Nord Sample Editor 4 軟體建立自訂樣本並下載到 Nord Stage 4。詳見第 63 頁。",
+      "after": "取樣音色記憶體容量為 1 GB，可從 www.nordkeyboards.com 下載更多取樣音色。也可使用 Nord Sample Editor 4 軟體建立自訂取樣音色並下載到 Nord Stage 4。詳見第 63 頁。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 118,
+      "before": "按下 WAVEFORM 按鈕，再使用合成器顯示螢幕下方的 CAT 和 SAMPLE 旋鈕，即可瀏覽和選擇樣本。",
+      "after": "按下 WAVEFORM 按鈕，再使用合成器顯示螢幕下方的 CAT 和 SAMPLE 旋鈕，即可瀏覽和選擇取樣音色。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 122,
+      "before": "動態亮度濾波器（BRIGHT filter）——將旋鈕轉到 On 即可啟用——可快速增強樣本樂器的高頻成分，讓某些聲音更突出，特別是在與其他樣本或合成器音色疊加時。",
+      "after": "動態亮度濾波器（BRIGHT filter）——將旋鈕轉到 On 即可啟用——可快速增強取樣音色樂器的高頻成分，讓某些聲音更突出，特別是在與其他取樣音色或合成器音色疊加時。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 126,
+      "before": "按下 SHIFT 並轉動 Cat 或 Sample 旋鈕，可進入清單檢視模式，方便全覽樣本庫的內容。",
+      "after": "按下 SHIFT 並轉動 Cat 或 Sample 旋鈕，可進入清單檢視模式，方便全覽取樣音色庫的內容。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 130,
+      "before": "按下 INFO（Shift+左側旋鈕），可切換畫面顯示樣本的詳細資訊，例如大小和版本號。",
+      "after": "按下 INFO（Shift+左側旋鈕），可切換畫面顯示取樣音色的詳細資訊，例如大小和版本號。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 134,
+      "before": "### 樣本預設值 / SAMPLE PRESETS",
+      "after": "### 取樣音色預設值 / SAMPLE PRESETS"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 136,
+      "before": "Nord Sample Library 4 的樣本附帶特定合成器參數的預設值，讓樣本載入後即可立即演奏。這包括 Amp 包絡線和力度感應（Velocity）設定，通常在載入時會套用樣本本身定義的數值；同時，濾波器會關閉，LFO 設定也會停用。",
+      "after": "Nord Sample Library 4 的取樣音色附帶特定合成器參數的預設音色，讓取樣音色載入後即可立即演奏。這包括 Amp 包絡線和觸鍵感應力度（Velocity）設定，通常在載入時會套用取樣音色本身定義的數值；同時，濾波器會關閉，LFO 設定也會停用。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 140,
+      "before": "> 💡 如果你想在不套用預設值的情況下載入樣本（保留所有已編輯的合成器參數），按住 WAVEFORM 按鈕的同時轉動 SAMPLE 旋鈕即可，面板標示為「KEEP EDITS」。",
+      "after": "> 💡 如果你想在不套用預設音色的情況下載入取樣音色（保留所有已編輯的合成器參數），按住 WAVEFORM 按鈕的同時轉動 SAMPLE 旋鈕即可，面板標示為「KEEP EDITS」。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 146,
+      "before": "在 PITCH/SMP 選單中，第三個旋鈕提供更多樣本自訂選項：",
+      "after": "在 PITCH/SMP 選單中，第三個旋鈕提供更多取樣音色自訂選項："
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 150,
+      "before": "- **Natural（自然）**：樣本使用樣本預設值所定義的內建動態行為，可能包含力度控制的濾波器響應等機制。",
+      "after": "- **Natural（自然）**：取樣音色使用取樣音色預設值所定義的內建動態行為，可能包含力度控制的濾波器響應等機制。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 156,
+      "before": "- **Fast Atk（快速起音）**：使用樣本的替代起點，跳過大部分或全部的自然起音階段。",
+      "after": "- **Fast Atk（快速起音）**：使用取樣音色的替代起點，跳過大部分或全部的自然起音階段。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 169,
+      "before": "振盪器控制（OSC CTRL）可根據目前選擇的波形以不同方式改變聲音。OSC CTRL 參數可由振盪器包絡線或 LFO（低頻振盪器——產生緩慢週期性波動，用來讓音色隨時間搖擺變化）調製，也可進行變形控制，讓你即時用調製輪、後觸鍵或踏板來控制音色。",
+      "after": "振盪器控制（OSC CTRL）可根據目前選擇的波形以不同方式改變聲音。OSC CTRL 參數可由振盪器包絡線或 LFO（低頻振盪器——產生緩慢週期性波動，用來讓音色隨時間搖擺變化）調變，也可進行Morph 多參數控制，讓你即時用調變輪、二段觸鍵感應或踏板來控制音色。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 175,
+      "before": "在類比模式下，按下 Waveform Select 按鈕，使用左側 Type 旋鈕可選擇以下類型：",
+      "after": "在類比模式下，按下 Waveform Select 按鈕，使用左側 Type 控制旋鈕可選擇以下類型："
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 182,
+      "before": "- **FM-H（頻率調製－諧波）**：使用 FM（頻率調製）合成的演算法集合。FM-H 模式中，調製器與載波的關係為諧波，適合音調性較強的傳統聲音。",
+      "after": "- **FM-H（頻率調變－諧波）**：使用 FM（頻率調變）合成的演算法集合。FM-H 模式中，調變振盪器與載波的關係為諧波，適合音調性較強的傳統聲音。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 189,
+      "before": "- **FM-I（頻率調製－非諧波）**：與 FM-H 提供相同的演算法，但調製器與載波的關係大多為非諧波，適合更不協調、更具實驗性的音色。",
+      "after": "- **FM-I（頻率調變－非諧波）**：與 FM-H 提供相同的演算法，但調變振盪器與載波的關係大多為非諧波，適合更不協調、更具實驗性的音色。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 195,
+      "before": "中間的 Category（類別）旋鈕用於在指定振盪器類型內選擇類別，右側的 Waveform 旋鈕則用於選擇具體波形。按下 Shift 並轉動 Waveform 旋鈕可進入清單檢視模式。",
+      "after": "中間的 Category（類別）旋鈕用於在指定振盪器類型內選擇類別，右側的 Waveform 控制旋鈕則用於選擇具體波形。按下 Shift 並轉動 Waveform 控制旋鈕可進入清單檢視模式。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 199,
+      "before": "### 類比－純音波（PURE） / ANALOG - PURE",
+      "after": "### 類比基本波形（PURE） / ANALOG - PURE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 231,
+      "before": "使用振盪器同步時，建議讓 OSC CTRL 由變形控制源或振盪器包絡線調製，可產生持續變化諧波的信號。",
+      "after": "使用振盪器同步時，建議讓 OSC CTRL 由Morph 多參數控制源或振盪器包絡線調變，可產生持續變化諧波的信號。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 241,
+      "before": "### 形狀（SHAPE） / SHAPE",
+      "after": "### 波形塑形（SHAPE） / SHAPE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 252,
+      "before": "> 💡 Square 波形可以從方波（50% 脈衝）漸變成非常窄的脈衝波，非常適合使用 LFO 或振盪器包絡線調製 OSC CTRL 來做脈衝寬度調製（PWM）效果。",
+      "after": "> 💡 Square 波形可以從方波（50% 脈衝）漸變成非常窄的脈衝波，非常適合使用 LFO 或振盪器包絡線調變 OSC CTRL 來做脈衝寬度調變（PWM）效果。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 256,
+      "before": "### 形狀正弦（SHAPE SINE） / SHAPE SINE",
+      "after": "### 正弦波塑形（SHAPE SINE） / SHAPE SINE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 300,
+      "before": "- **Bell（鈴聲）**：使用振幅調製產生複雜的鈴聲波形。OSC CTRL 控制調製器的音高，進而影響諧波內容和音色特性。Amplitude modulation is used to create a complex bell-like waveform.",
+      "after": "- **Bell（鈴聲）**：使用振幅調變產生複雜的鈴聲波形。OSC CTRL 控制調變振盪器的音高，進而影響諧波內容和音色特性。Amplitude modulation is used to create a complex bell-like waveform."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 316,
+      "before": "### 頻率調製（FM） / FM",
+      "after": "### 頻率調變（FM） / FM"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 318,
+      "before": "FM 合成的基本原理是：一個正弦振盪器（調製器）調製另一個振盪器（載波）的頻率。載波也可以反過來調製另一個振盪器，以此類推。產生的波形比原始正弦波富含更多諧波，改變調製量可產生音色的巨大變化。",
+      "after": "FM 合成的基本原理是：一個正弦振盪器（調變振盪器）調變另一個振盪器（載波）的頻率。載波也可以反過來調變另一個振盪器，以此類推。產生的波形比原始正弦波富含更多諧波，改變調變量可產生音色的巨大變化。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 328,
+      "before": "OSC CTRL 參數控制所有 FM 類別的頻率調製量。",
+      "after": "OSC CTRL 參數控制所有 FM 類別的頻率調變量。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 332,
+      "before": "**FM-H 諧波演算法** — Partial 參數決定調製器與載波的關係（以根頻的倍數表示）。可用 Partial 範圍：0.5 至 24。",
+      "after": "**FM-H 諧波演算法** — Partial 參數決定調變振盪器與載波的關係（以根頻的倍數表示）。可用 Partial 範圍：0.5 至 24。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 335,
+      "before": "- **FM Harmonic B**：3 個運算子，比例 P:1:1，第一調製階段調製量較大。3-OP algorithm at ratios P:1:1.",
+      "after": "- **FM Harmonic B**：3 個運算子，比例 P:1:1，第一調變階段調變量較大。3-OP algorithm at ratios P:1:1."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 337,
+      "before": "- **FM Harmonic D**：3 個運算子，比例 P:1:1，第二調製階段調製量較大。3-OP algorithm at ratios P:1:1.",
+      "after": "- **FM Harmonic D**：3 個運算子，比例 P:1:1，第二調變階段調變量較大。3-OP algorithm at ratios P:1:1."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 340,
+      "before": "**FM-I 非諧波演算法** — Pitch 參數決定調製器與載波的關係（以半音為單位）。可用音高範圍：-12 至 48。",
+      "after": "**FM-I 非諧波演算法** — Pitch 參數決定調變振盪器與載波的關係（以半音為單位）。可用音高範圍：-12 至 48。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 343,
+      "before": "- **FM Inharmonic B**：3 個運算子，比例 P:1:1，第一調製階段調製量較大。",
+      "after": "- **FM Inharmonic B**：3 個運算子，比例 P:1:1，第一調變階段調變量較大。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 345,
+      "before": "- **FM Inharmonic D**：3 個運算子，比例 P:1:1，第二調製階段調製量較大。",
+      "after": "- **FM Inharmonic D**：3 個運算子，比例 P:1:1，第二調變階段調變量較大。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 354,
+      "before": "濾波器（Filter——控制哪些頻率可以通過，讓聲音變暗或變亮的裝置）是塑造音色的關鍵元件，也可由濾波器包絡線及 LFO 調製。",
+      "after": "濾波器（Filter——控制哪些頻率可以通過，讓聲音變暗或變亮的裝置）是塑造音色的關鍵元件，也可由濾波器包絡線及 LFO 調變。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 358,
+      "before": "大多數濾波器共享相同的參數：**FREQ（頻率）** 控制截止頻率，**RES（共鳴）** 控制濾波器共鳴。例外是組合 LP+HP 濾波器——其 Res 旋鈕控制的是 HP 濾波器的截止頻率。",
+      "after": "大多數濾波器共享相同的參數：**FREQ（頻率）** 控制截止頻率，**RES（共鳴）** 控制濾波器共振。例外是組合 LP+HP 濾波器——其 Res 旋鈕控制的是 HP 濾波器的截止頻率。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 367,
+      "before": "濾波器類型、鍵盤追蹤和濾波器驅動，均透過合成器顯示螢幕設定。按下 Filter TYPE 按鈕，使用下方三個旋鈕進行設定。",
+      "after": "濾波器類型、鍵盤音高追蹤和濾波器過載，均透過合成器顯示螢幕設定。按下 Filter TYPE 按鈕，使用下方三個旋鈕進行設定。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 387,
+      "before": "LP M 濾波器模擬了知名 Mini 合成器的原始電晶體濾波器，由 Robert A. Moog 博士於 1960 年代設計並申請專利。這是一款 4 極、24 dB/八度的共鳴低通濾波器，其特點是保留更多低頻信號，使聲音更溫暖。",
+      "after": "LP M 濾波器模擬了知名 Mini 合成器的原始電晶體濾波器，由 Robert A. Moog 博士於 1960 年代設計並申請專利。這是一款 4 極、24 dB/八度的共振低通濾波器，其特點是保留更多低頻信號，使聲音更溫暖。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 418,
+      "before": "### 鍵盤追蹤 / KEYBOARD TRACKING",
+      "after": "### 鍵盤音高追蹤 / KEYBOARD TRACKING"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 423,
+      "before": "鍵盤追蹤（KBD Track）也從濾波器類型顯示畫面設定，使用中間旋鈕調整。",
+      "after": "鍵盤音高追蹤（KBD Track）也從濾波器類型顯示畫面設定，使用中間旋鈕調整。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 442,
+      "before": "### 濾波器驅動 / FILTER DRIVE",
+      "after": "### 濾波器過載 / FILTER DRIVE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 444,
+      "before": "啟用 DRIVE 會為濾波器階段增加失真效果。設定 1、2、3 分別代表低、中、高驅動量。",
+      "after": "啟用 DRIVE 會為濾波器階段增加失真效果。設定 1、2、3 分別代表低、中、高過載量。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 448,
+      "before": "> 💡 在高共鳴設定下使用驅動可以產生有趣而充滿特色的效果——值得嘗試！",
+      "after": "> 💡 在高共鳴設定下使用過載可以產生有趣而充滿特色的效果——值得嘗試！"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 466,
+      "before": "可進行變形控制的 FREQ 旋鈕用於設定截止頻率點——即濾波器開始處理頻率的位置。實際效果取決於所選的濾波器類型。",
+      "after": "可進行Morph 多參數控制的 FREQ 旋鈕用於設定截止頻率點——即濾波器開始處理頻率的位置。實際效果取決於所選的濾波器類型。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 470,
+      "before": "### 濾波器共鳴 / FILTER RESONANCE",
+      "after": "### 濾波器共振 / FILTER RESONANCE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 475,
+      "before": "可進行變形控制的 RES（共鳴）參數用於進一步調整濾波器特性。增加共鳴會強調截止頻率附近的頻率，使聲音變細薄。",
+      "after": "可進行Morph 多參數控制的 RES（共鳴）參數用於進一步調整濾波器特性。增加共鳴會強調截止頻率附近的頻率，使聲音變細薄。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 483,
+      "before": "### 包絡量（ENV AMT） / ENV AMT (ENVELOPE AMOUNT)",
+      "after": "### 包絡線調變量（ENV AMT） / ENV AMT (ENVELOPE AMOUNT)"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 488,
+      "before": "ENV AMT 旋鈕控制濾波器包絡線對濾波器頻率的調製量，決定濾波器頻率如何隨時間變化。",
+      "after": "ENV AMT 旋鈕控制濾波器包絡線對濾波器頻率的調變量，決定濾波器頻率如何隨時間變化。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 528,
+      "before": "起音階段結束後，只要琴鍵仍然按住，包絡量會開始下降至零。使用 DECAY 旋鈕設定所需時間。若衰減時間設為最大值，包絡線會進入延音（Sustain）模式，維持固定值直到放開琴鍵。",
+      "after": "起音階段結束後，只要琴鍵仍然按住，包絡線調變量會開始下降至零。使用 DECAY 旋鈕設定所需時間。若衰減時間設為最大值，包絡線會進入持續階段（Sustain）模式，維持固定值直到放開琴鍵。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 546,
+      "before": "振盪器包絡線預設套用在 OSC CTRL 參數上，也可透過啟用 ENV TO PITCH（Shift+Pitch/Smp）來改為調製振盪器音高。",
+      "after": "振盪器包絡線預設套用在 OSC CTRL 參數上，也可透過啟用 ENV TO PITCH（Shift+Pitch/Smp）來改為調變振盪器音高。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 550,
+      "before": "**力度感應（VELOCITY）**：開啟 VELOCITY（Shift+Envelope）後，振盪器包絡線的振幅會受演奏力度控制。彈得越用力，包絡線對目標參數的調製量越大。",
+      "after": "**觸鍵感應力度（VELOCITY）**：開啟 VELOCITY（Shift+Envelope）後，振盪器包絡線的振幅會受演奏力度控制。彈得越用力，包絡線對目標參數的調變量越大。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 554,
+      "before": "**ENV AMT（包絡量）**：這個可進行變形控制的參數決定振盪器包絡線對 OSC CTRL（或音高，當 Env To Pitch 啟用時）的調製量。此旋鈕是雙極性的（12 點鐘位置為零），順時針增加調製，逆時針則反轉調製方向。",
+      "after": "**ENV AMT（包絡線調變量）**：這個可進行Morph 多參數控制的參數決定振盪器包絡線對 OSC CTRL（或音高，當 Env To Pitch 啟用時）的調變量。此旋鈕是雙極性的（12 點鐘位置為零），順時針增加調變，逆時針則反轉調變方向。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 563,
+      "before": "濾波器包絡線用於隨時間調製濾波器截止頻率（FREQ）。調製量由 Env Amt 控制器決定。",
+      "after": "濾波器包絡線用於隨時間調變濾波器截止頻率（FREQ）。調變量由 Env Amt 控制器決定。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 567,
+      "before": "**力度感應（VELOCITY）**：開啟後，濾波器包絡線的振幅會隨演奏力度變化。",
+      "after": "**觸鍵感應力度（VELOCITY）**：開啟後，濾波器包絡線的振幅會隨演奏力度變化。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 571,
+      "before": "### 擴大機包絡線（AMP Envelope） / AMP ENVELOPE",
+      "after": "### 振幅包絡線（AMP Envelope） / AMP ENVELOPE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 576,
+      "before": "合成器信號鏈的最後階段是擴大機（AMP），用於控制音量。透過包絡線調製這個擴大機，聲音就有了基本的「時間形狀」。音量形狀是我們識別聲音的最重要因素之一——設定好包絡線可以讓聲音變「柔和」、「硬朗」、「彈撥感」或「靜態」等。",
+      "after": "合成器信號鏈的最後階段是擴大機（AMP），用於控制音量。透過包絡線調變這個擴大機，聲音就有了基本的「時間形狀」。音量形狀是我們識別聲音的最重要因素之一——設定好包絡線可以讓聲音變「柔和」、「硬朗」、「彈撥感」或「靜態」等。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 580,
+      "before": "**力度感應（VELOCITY）**：啟用後，合成器的輸出音量由演奏力度控制。共有四個設定，提供逐漸增加的力度靈敏度。",
+      "after": "**觸鍵感應力度（VELOCITY）**：啟用後，合成器的輸出音量由演奏力度控制。共有四個設定，提供逐漸增加的力度靈敏度。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 593,
+      "before": "LFO（低頻振盪器——產生緩慢週期性波動，用來讓音色隨時間搖擺變化）可產生循環波形，速率通常非常低，不會產生可聽見的音高。LFO 的輸出用於調製其他功能，例如 OSC CTRL 參數或濾波器頻率。LFO 的速率由可進行變形控制的 RATE/TIME 旋鈕設定。",
+      "after": "LFO（低頻振盪器——產生緩慢週期性波動，用來讓音色隨時間搖擺變化）可產生循環波形，速率通常非常低，不會產生可聽見的音高。LFO 的輸出用於調變其他功能，例如 OSC CTRL 參數或濾波器頻率。LFO 的速率由可進行Morph 多參數控制的 RATE/TIME 旋鈕設定。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 597,
+      "before": "可進行變形控制的 MOD AMT 旋鈕控制 LFO 調製的振幅，可指派到以下目標：",
+      "after": "可進行Morph 多參數控制的 MOD AMT 旋鈕控制 LFO 調變的振幅，可指派到以下目標："
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 602,
+      "before": "- **PITCH（音高）**：用 LFO 調製音高，可產生從細微的顫音到誇張的音高效果。Can create anything from subtle Vibrato effects to more extreme Pitch effects.",
+      "after": "- **PITCH（音高）**：用 LFO 調變音高，可產生從細微的音高顫音到誇張的音高效果。Can create anything from subtle Vibrato effects to more extreme Pitch effects."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 603,
+      "before": "- **FILTER（濾波器）**：調製所選濾波器的截止頻率。Modulates the cut-off frequency of the selected Filter.",
+      "after": "- **FILTER（濾波器）**：調變所選濾波器的截止頻率。Modulates the cut-off frequency of the selected Filter."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 609,
+      "before": "**同步主時鐘（MST CLK）**：按住 Shift 並順時針轉動 RATE/TIME 旋鈕，可將 LFO 速率同步到主時鐘。同步後，Rate 旋鈕用於選擇主時鐘拍速的細分值（1/2 = 二分音符，1/4 = 四分音符，1/8 = 八分音符）。",
+      "after": "**同步主節拍時鐘（MST CLK）**：按住 Shift 並順時針轉動 RATE/TIME 旋鈕，可將 LFO 速率同步到主節拍時鐘。同步後，Rate 旋鈕用於選擇主節拍時鐘拍速的細分值（1/2 = 二分音符，1/4 = 四分音符，1/8 = 八分音符）。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 622,
+      "before": "- **Triangle（三角波）** — 適合自然的顫音效果，也常用於脈衝寬度調製。Suitable for natural vibrato effects and also used for classic pulse width modulation.",
+      "after": "- **Triangle（三角波）** — 適合自然的音高顫音效果，也常用於脈衝寬度調變。Suitable for natural vibrato effects and also used for classic pulse width modulation."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 623,
+      "before": "- **Sawtooth 1（鋸齒波 1）** — 用於向下坡形調製。Use for ramp down modulations.",
+      "after": "- **Sawtooth 1（鋸齒波 1）** — 用於向下坡形調變。Use for ramp down modulations."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 624,
+      "before": "- **Sawtooth 2（鋸齒波 2）** — 用於向上坡形調製。Use for ramp up modulations.",
+      "after": "- **Sawtooth 2（鋸齒波 2）** — 用於向上坡形調變。Use for ramp up modulations."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 625,
+      "before": "- **Square（方波）** — 用於突然的調製變化，適合顫音、明顯的抖音等。Use for abrupt modulation changes, suitable for trills, distinct tremolos, etc.",
+      "after": "- **Square（方波）** — 用於突然的調變變化，適合音高顫音、明顯的抖音等。Use for abrupt modulation changes, suitable for trills, distinct tremolos, etc."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 626,
+      "before": "- **Sample & Hold（取樣保持）** — 產生平滑的隨機調製。Creates a smooth random modulation.",
+      "after": "- **Sample & Hold（取樣保持）** — 產生平滑的隨機調變。Creates a smooth random modulation."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 692,
+      "before": "**齊奏與樣本**：在樣本模式下，齊奏功能專門設計來提供逼真的合奏感效果，透過組合多個輕微失諧、並進行立體聲定位的鄰近樣本來實現。",
+      "after": "**齊奏與取樣音色**：在取樣音色模式下，齊奏功能專門設計來提供逼真的合奏感效果，透過組合多個輕微失諧、並進行立體聲定位的鄰近取樣音色來實現。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 698,
+      "before": "## 琶音器 / 閘門 / ARPEGGIATOR/GATE",
+      "after": "## 琶音器 / 節奏閘門 / ARPEGGIATOR/GATE"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 703,
+      "before": "按下 ARP RUN 按鈕開啟琶音器（Arpeggiator——自動依序演奏你按住的音符的功能）／閘門。按下 GROUP（Shift+Menu）可讓所有音層共用相同設定。",
+      "after": "按下 ARP RUN 按鈕開啟琶音器（Arpeggiator——自動依序演奏你按住的音符的功能）／節奏閘門。按下 GROUP（Shift+Menu）可讓所有音層共用相同設定。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 707,
+      "before": "Nord Stage 4 琶音器／閘門區段有三種模式：",
+      "after": "Nord Stage 4 琶音器／節奏閘門區段有三種模式："
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 715,
+      "before": "### 節拍型式（PATTERN） / PATTERN",
+      "after": "### 節奏型（PATTERN） / PATTERN"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 720,
+      "before": "三種模式都可以使用 PATTERN 設定（Shift+琶音器模式）。開啟後，琶音或閘門的步驟會按照所選型式的節奏進行。",
+      "after": "三種模式都可以使用 PATTERN 設定（Shift+琶音器模式）。開啟後，琶音或節奏閘門的步驟會按照所選型式的節奏進行。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 728,
+      "before": "### 音域 / 包絡（RANGE / ENV） / RANGE / ENV",
+      "after": "### 音域 / 包絡線（RANGE / ENV） / RANGE / ENV"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 734,
+      "before": "在 GATE 模式下，此旋鈕控制閘門的包絡（ENV）——零位置時閘門非常柔和，最大位置時閘門非常「硬」（聲音完全開關）。",
+      "after": "在 GATE 模式下，此旋鈕控制節奏閘門的包絡線（ENV）——零位置時節奏閘門非常柔和，最大位置時節奏閘門非常「硬」（聲音完全開關）。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 749,
+      "before": "3. **型式編輯（Pattern Edit）**：使用位置和閘門旋鈕編輯型式步驟。Use Position and Gate dials to edit pattern steps.",
+      "after": "3. **型式編輯（Pattern Edit）**：使用位置和節奏閘門旋鈕編輯型式步驟。Use Position and Gate dials to edit pattern steps."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 750,
+      "before": "4. **型式重音（Pattern Accent）**：為選定步驟添加重音（需要力度感應啟用才有效果）。Add accents to selected steps.",
+      "after": "4. **型式重音（Pattern Accent）**：為選定步驟添加重音（需要觸鍵感應力度啟用才有效果）。Add accents to selected steps."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 762,
+      "before": "**同步主時鐘**：按住 SHIFT 並順時針轉動 RATE/TIME 旋鈕，可將琶音器或閘門同步到主時鐘。",
+      "after": "**同步主節拍時鐘**：按住 SHIFT 並順時針轉動 RATE/TIME 旋鈕，可將琶音器或節奏閘門同步到主節拍時鐘。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 770,
+      "before": "## 鍵盤保持（KB HOLD） / KB HOLD",
+      "after": "## 音符保持（KB HOLD） / KB HOLD"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 775,
+      "before": "在 KB HOLD（鍵盤保持）模式下，即使手指離開琴鍵，音符也會持續發聲。這對於讓琶音持續運行而不需按住琴鍵，或在雙手演奏其他內容時維持和弦或持續音，非常實用。",
+      "after": "在 KB HOLD（音符保持）模式下，即使手指離開琴鍵，音符也會持續發聲。這對於讓琶音持續運行而不需按住琴鍵，或在雙手演奏其他內容時維持和弦或持續音，非常實用。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 789,
+      "before": "## 顫音（VIBRATO） / VIBRATO",
+      "after": "## 音高顫音（VIBRATO） / VIBRATO"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 794,
+      "before": "顫音（VIBRATO）調製振盪器的音高，以產生自然的顫音效果。",
+      "after": "音高顫音（VIBRATO）調變振盪器的音高，以產生自然的音高顫音效果。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 798,
+      "before": "有五種控制合成器顫音的方式：",
+      "after": "有五種控制合成器音高顫音的方式："
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 802,
+      "before": "- **ON**：一按下琴鍵就立即套用顫音。Vibrato will be applied as soon as a note is played.",
+      "after": "- **ON**：一按下琴鍵就立即套用音高顫音。Vibrato will be applied as soon as a note is played."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 803,
+      "before": "- **DLY（延遲）**：演奏音符後短暫延遲才引入顫音。The vibrato is introduced a short amount of time after a note is played.",
+      "after": "- **DLY（延遲）**：演奏音符後短暫延遲才引入音高顫音。The vibrato is introduced a short amount of time after a note is played."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 804,
+      "before": "- **WHL（調製輪）**：顫音量由調製輪控制。The vibrato amount is controlled with the Modulation Wheel.",
+      "after": "- **WHL（調變輪）**：音高顫音量由調變輪控制。The vibrato amount is controlled with the Modulation Wheel."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 805,
+      "before": "- **A.T.（後觸鍵）**：按壓已按住的琴鍵來控制顫音。Vibrato is controlled by pressing down held notes on the keyboard.",
+      "after": "- **A.T.（二段觸鍵感應）**：按壓已按住的琴鍵來控制音高顫音。Vibrato is controlled by pressing down held notes on the keyboard."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 806,
+      "before": "- **PED（踏板）**：由腳踏開關或 Nord Triple Pedal 的左側或中間踏板控制顫音。The Vibrato is controlled by a foot switch or the left or middle pedal of a Nord Triple Pedal.",
+      "after": "- **PED（踏板）**：由腳踏開關或 Nord Triple Pedal 的左側或中間踏板控制音高顫音。The Vibrato is controlled by a foot switch or the left or middle pedal of a Nord Triple Pedal."
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 808,
+      "before": "### 顫音選單 / VIBRATO MENU",
+      "after": "### 音高顫音選單 / VIBRATO MENU"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 813,
+      "before": "顫音選單提供速率（Rate，2.0–8.0 Hz）、量（Amount，0–10）和延遲時間（Dly Time，0.2、0.7、1.2 或 2.0 秒）的設定。",
+      "after": "音高顫音選單提供速率（Rate，2.0–8.0 Hz）、量（Amount，0–10）和延遲時間（Dly Time，0.2、0.7、1.2 或 2.0 秒）的設定。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 817,
+      "before": "### 顫音與樣本 / VIBRATO AND SAMPLES",
+      "after": "### 音高顫音與取樣音色 / VIBRATO AND SAMPLES"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 819,
+      "before": "Nord Sample Library 4 的樣本附帶預定義的顫音設定。一般而言，樣本的顫音設計為盡可能自然和逼真。",
+      "after": "Nord Sample Library 4 的取樣音色附帶預定義的音高顫音設定。一般而言，取樣音色的音高顫音設計為盡可能自然和逼真。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 825,
+      "before": "## 鍵盤同步（KB SYNC） / KB SYNC",
+      "after": "## 鍵盤同步觸發（KB SYNC） / KB SYNC"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 827,
+      "before": "在 KB SYNC 模式（Shift+Arp Run）下，每次所有琴鍵放開後再按下新音符時，琶音器或閘門都會重置。",
+      "after": "在 KB SYNC 模式（Shift+Arp Run）下，每次所有琴鍵放開後再按下新音符時，琶音器或節奏閘門都會重置。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 831,
+      "before": "當主時鐘（MST CLK）啟用時，KB Sync 參數決定是否重置主時鐘。這會影響整個程式中所有同步到主時鐘的參數。",
+      "after": "當主節拍時鐘（MST CLK）啟用時，KB Sync 參數決定是否重置主節拍時鐘。這會影響整個音色配置中所有同步到主節拍時鐘的參數。"
+    },
+    {
+      "file": "ch06_synth_section.md",
+      "line": 841,
+      "before": "按下 SOUND INIT（Shift+Waveform），可重置所有合成器參數（除了合成器模式和已選波形／樣本之外）——非常適合從空白狀態開始設計音色。",
+      "after": "按下 SOUND INIT（Shift+Waveform），可重置所有合成器參數（除了合成器模式和已選波形／取樣音色之外）——非常適合從空白狀態開始設計音色。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 1,
+      "before": "# 第七章：程式區段 / Chapter 7: Program",
+      "after": "# 第七章：音色配置區段 / Chapter 7: Program"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 5,
+      "before": "## 程式區段概覽 / PROGRAM OVERVIEW",
+      "after": "## 音色配置區段概覽 / PROGRAM OVERVIEW"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 10,
+      "before": "中央的**程式區段（Program Area）**是整台琴的操作核心，讓你載入和儲存程式（Program——Nord Stage 4 用來保存所有設定的記憶單位）、使用即時模式（Live Mode）、音層場景（Layer Scene）、鍵盤分區（Split）等功能。",
+      "after": "中央的**音色配置區段（Program Area）**是整台琴的操作核心，讓你載入和儲存音色配置（Program——Nord Stage 4 用來保存所有設定的記憶單位）、使用即時模式（Live Mode）、音層場景（Layer Scene）、鍵盤分區（Split）等功能。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 14,
+      "before": "程式區段也包含**預設音色庫（Preset Library）**，讓你可以將各區段或個別音層的完整音色載入到程式中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 40 頁。",
+      "after": "音色配置區段也包含**預設音色庫（Preset Library）**，讓你可以將各區段或個別音層的完整音色載入到音色配置中。用戶自訂的音色也可以儲存到預設音色庫。詳情請見第 40 頁。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 24,
+      "before": "## 什麼是程式？/ WHAT IS A PROGRAM?",
+      "after": "## 什麼是音色配置？/ WHAT IS A PROGRAM?"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 26,
+      "before": "**程式**儲存了面板上幾乎所有的設定，唯一例外是主音量（Master Level）以及獨奏監聽（Solo）和區段編輯（Section Edit）等臨時模式。程式也包含分區、音層場景、鍵盤分區和變形控制的設定。從預設音色庫載入的預設音色也會存在程式裡。",
+      "after": "**音色配置**儲存了面板上幾乎所有的設定，唯一例外是主音量（Master Level）以及獨奏（Solo）和區段編輯（Section Edit）等臨時模式。音色配置也包含分區、音層場景、鍵盤分區和Morph 多參數控制的設定。從預設音色庫載入的預設音色也會存在音色配置裡。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 30,
+      "before": "程式也儲存了輔助鍵盤（Aux KB）和外部 MIDI（Extern）選單中的所有設定。",
+      "after": "音色配置也儲存了輔助鍵盤（Aux KB）和外部 MIDI（Extern）選單中的所有設定。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 34,
+      "before": "> 💡 可以透過電腦上的 Nord Sound Manager 軟體來存取和整理程式及其他內容，詳見第 62 頁。",
+      "after": "> 💡 可以透過電腦上的 Nord Sound Manager 軟體來存取和整理音色配置及其他內容，詳見第 62 頁。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 40,
+      "before": "## 變形控制指定 / MORPH ASSIGN",
+      "after": "## Morph 多參數控制指定 / MORPH ASSIGN"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 45,
+      "before": "**變形控制（Morph——讓你用一個動作同時控制多個參數的強大功能）**是非常實用的演奏工具，讓你用單一控制來源同時調整多個參數。",
+      "after": "**Morph 多參數控制（Morph——讓你用一個動作同時控制多個參數的強大功能）**是非常實用的演奏工具，讓你用單一控制來源同時調整多個參數。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 49,
+      "before": "三個 **MORPH ASSIGN** 按鈕——WHEEL（調製輪）、A.T.（後觸鍵 Aftertouch）、CTRLPED（控制踏板）——代表三種可用的變形控制來源。",
+      "after": "三個 **MORPH ASSIGN** 按鈕——WHEEL（調變輪）、A.T.（二段觸鍵感應 Aftertouch）、CTRLPED（控制踏板）——代表三種可用的Morph 多參數控制來源。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 53,
+      "before": "> 💡 調製輪的變形控制也可以用連接到 ORGAN SWELL 插孔的表情踏板來鏡像控制。設定方式請見第 58 頁。",
+      "after": "> 💡 調變輪的Morph 多參數控制也可以用連接到 ORGAN SWELL 插孔的表情踏板來鏡像控制。設定方式請見第 58 頁。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 57,
+      "before": "**設定變形控制的方法**：按住 Morph Assign 按鈕，同時將參數控制器（例如旋鈕或音桿）從起始位置移到結束位置。建議先把控制器調到想要的起始位置，再按下 Morph Assign 按鈕。設定過程中顯示幕會顯示起始和結束數值。",
+      "after": "**設定Morph 多參數控制的方法**：按住 Morph Assign 按鈕，同時將參數控制器（例如旋鈕或音栓拉桿）從起始位置移到結束位置。建議先把控制器調到想要的起始位置，再按下 Morph Assign 按鈕。設定過程中顯示幕會顯示起始和結束數值。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 67,
+      "before": "### 可用的變形控制目標參數 / MORPH DESTINATIONS",
+      "after": "### 可用的Morph 多參數控制目標參數 / MORPH DESTINATIONS"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 71,
+      "before": "| 風琴 / Organ | 音層音量 Layer Level、音桿 Drawbars、旋轉喇叭速度 Rotary speed |",
+      "after": "| 風琴 / Organ | 音層音量 Layer Level、音栓拉桿 Drawbars、旋轉喇叭速度 Rotary speed |"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 76,
+      "before": "快速雙擊 Morph Assign 按鈕可以進入鎖定模式（latch mode），讓你不用一直按著按鈕就能設定變形控制。按 EXIT 離開鎖定模式。",
+      "after": "快速雙擊 Morph Assign 按鈕可以進入鎖定模式（latch mode），讓你不用一直按著按鈕就能設定Morph 多參數控制。按 EXIT 離開鎖定模式。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 80,
+      "before": "變形控制可以從一個來源複製到另一個來源，詳見第 42 頁。",
+      "after": "Morph 多參數控制可以從一個來源複製到另一個來源，詳見第 42 頁。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 86,
+      "before": "### 變形控制指示燈 / MORPH INDICATORS",
+      "after": "### Morph 多參數控制指示燈 / MORPH INDICATORS"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 91,
+      "before": "所有可設定變形控制的參數都有某種方式來顯示是否已指定了變形，或者目前正在執行變形。",
+      "after": "所有可設定Morph 多參數控制的參數都有某種方式來顯示是否已指定了變形，或者目前正在執行變形。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 103,
+      "before": "**音桿 LED**——如果音桿被選為變形目標，音桿 LED 會隨著變形執行而相應調整。",
+      "after": "**音栓拉桿 LED**——如果音栓拉桿被選為變形目標，音栓拉桿 LED 會隨著變形執行而相應調整。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 107,
+      "before": "> 💡 注意：在音桿即時模式（Drawbar Live mode）下，變形控制無法作用於音桿。",
+      "after": "> 💡 注意：在音栓拉桿即時模式（Drawbar Live mode）下，Morph 多參數控制無法作用於音栓拉桿。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 113,
+      "before": "### 清除變形控制 / CLEARING A MORPH",
+      "after": "### 清除Morph 多參數控制 / CLEARING A MORPH"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 126,
+      "before": "Nord Stage 4 的鍵盤可以分割成最多四個**鍵盤分區（Split——把琴鍵盤分成幾個區域，讓不同區域發不同的聲音）**（1、2、3、4），由三個分割點分隔：Low（低音）、Mid（中間）和 High（高音）。任何風琴、鋼琴或合成器音層都可以自由指定到任一或多個分區。",
+      "after": "Nord Stage 4 的鍵盤可以分割成最多四個**鍵盤分區（Split——把琴鍵盤分成幾個區域，讓不同區域發不同的聲音）**（1、2、3、4），由三個分區點分隔：Low（低音）、Mid（中間）和 High（高音）。任何風琴、鋼琴或合成器音層都可以自由指定到任一或多個分區。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 134,
+      "before": "按 SHIFT+SET KEY 可移動目前選取的分割點位置。",
+      "after": "按 SHIFT+SET KEY 可移動目前選取的分區點位置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 144,
+      "before": "### 選擇分割點位置 / CHOOSING A SPLIT POSITION",
+      "after": "### 選擇分區點位置 / CHOOSING A SPLIT POSITION"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 149,
+      "before": "在鍵盤分區頁面，可以將三個分割點各自指定到一個鍵盤位置，或停用某個分割點。共有 11 個可用的鍵盤分割位置，從 C2 到 C7。",
+      "after": "在鍵盤分區頁面，可以將三個分區點各自指定到一個鍵盤位置，或停用某個分區點。共有 11 個可用的鍵盤分割位置，從 C2 到 C7。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 153,
+      "before": "### 分割點交叉漸變設定 / SPLIT XFADE SETTINGS",
+      "after": "### 分區點平滑淡出淡入設定 / SPLIT XFADE SETTINGS"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 155,
+      "before": "通常兩個鍵盤分區之間的切換是即時的，沒有重疊。透過調整分割點的 xFade（交叉漸變）設定，可以讓兩個區域的聲音在分割點周圍平滑過渡，而非突然切換。",
+      "after": "通常兩個鍵盤分區之間的切換是即時的，沒有重疊。透過調整分區點的 xFade（平滑淡出淡入）設定，可以讓兩個區域的聲音在分區點周圍平滑過渡，而非突然切換。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 159,
+      "before": "- **「–」設定**：不套用交叉漸變。/ With the – setting no cross-fade is applied.",
+      "after": "- **「–」設定**：不套用平滑淡出淡入。/ With the – setting no cross-fade is applied."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 160,
+      "before": "- **「±6」設定**：分割點兩側各 6 個半音的漸變寬度。/ The ±6 setting represents a width of 6 semitones on each side of the split point.",
+      "after": "- **「±6」設定**：分區點兩側各 6 個半音的漸變寬度。/ The ±6 setting represents a width of 6 semitones on each side of the split point."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 161,
+      "before": "- **「±12」設定**：分割點兩側各 12 個半音的漸變寬度。/ The ±12 setting provides a width of 12 semitones below the split point and 12 above it.",
+      "after": "- **「±12」設定**：分區點兩側各 12 個半音的漸變寬度。/ The ±12 setting provides a width of 12 semitones below the split point and 12 above it."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 165,
+      "before": "## 主時鐘 / MST CLK",
+      "after": "## 主節拍時鐘 / MST CLK"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 167,
+      "before": "**主時鐘（Master Clock）**可以讓你同步琶音器/閘、合成器 LFO、延遲效果和 Mod 1 速率。",
+      "after": "**主節拍時鐘（Master Clock）**可以讓你同步琶音器/閘、合成器 LFO、延遲效果和 Mod 1 速率。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 177,
+      "before": "長按 TAP/SET 按鈕可開啟主時鐘速度和設定頁面。用程式旋鈕調整速度。按 EXIT（Shift）完成設定。設定的速度會隨程式一起儲存，前提是有執行儲存操作。",
+      "after": "長按 TAP/SET 按鈕可開啟主節拍時鐘速度和設定頁面。用音色配置控制旋鈕調整速度。按 EXIT（Shift）完成設定。設定的速度會隨音色配置一起儲存，前提是有執行儲存操作。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 183,
+      "before": "Stage 4 的主時鐘可以接收外部 MIDI 時鐘訊號來控制。這是自動行為：只要 Stage 4 在 MIDI 或 USB MIDI 輸入端接收到 MIDI 時鐘訊號，主時鐘就會自動同步到外部時鐘。",
+      "after": "Stage 4 的主節拍時鐘可以接收外部 MIDI 時鐘訊號來控制。這是自動行為：只要 Stage 4 在 MIDI 或 USB MIDI 輸入端接收到 MIDI 時鐘訊號，主節拍時鐘就會自動同步到外部時鐘。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 187,
+      "before": "### 鍵盤同步 (KBS) / (KBS) KEYBOARD SYNC",
+      "after": "### 鍵盤同步觸發 (KBS) / (KBS) KEYBOARD SYNC"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 189,
+      "before": "在主時鐘速度設定頁面，可以選擇鍵盤同步（Keyboard Sync）的行為：",
+      "after": "在主節拍時鐘速度設定頁面，可以選擇鍵盤同步觸發（Keyboard Sync）的行為："
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 197,
+      "before": "### 踏板節拍輸入 / PEDAL TAP",
+      "after": "### 踏板拍速輸入 / PEDAL TAP"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 199,
+      "before": "按 Shift+Mst Clk 啟用 **PEDAL TAP** 功能。啟用後，可以用連接的踏板反覆踩踏來調整主時鐘速度。",
+      "after": "按 Shift+Mst Clk 啟用 **PEDAL TAP** 功能。啟用後，可以用連接的踏板反覆踩踏來調整主節拍時鐘速度。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 210,
+      "before": "Nord Stage 4 可以對每個程式進行移調（Transpose——將所有音層的音高同步上移或下移），範圍為 +6/-6 個半音。按住 TRANSP 按鈕，同時轉動 Value Dial 來設定移調量。再次按下按鈕可取消移調。",
+      "after": "Nord Stage 4 可以對每個音色配置進行移調（Transpose——將所有音層的音高同步上移或下移），範圍為 +6/-6 個半音。按住 TRANSP 按鈕，同時轉動 Value Dial 來設定移調量。再次按下按鈕可取消移調。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 214,
+      "before": "移調設定會隨程式一起儲存和調用，且永遠影響程式的所有音層。",
+      "after": "移調設定會隨音色配置一起儲存和調用，且永遠影響音色配置的所有音層。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 218,
+      "before": "> 💡 若要設定影響所有程式的移調，請使用系統選單中的 Global Transpose 設定。",
+      "after": "> 💡 若要設定影響所有音色配置的移調，請使用系統選單中的 Global Transpose 設定。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 232,
+      "before": "## 儲存程式 / STORE",
+      "after": "## 儲存音色配置 / STORE"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 237,
+      "before": "**STORE** 按鈕用於將已編輯的程式或預設音色儲存到程式庫或預設音色庫的某個位置。儲存時會覆蓋該記憶位置中原有的資料。",
+      "after": "**STORE** 按鈕用於將已編輯的音色配置或預設音色儲存到音色配置庫或預設音色庫的某個位置。儲存時會覆蓋該記憶位置中原有的資料。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 241,
+      "before": "> 💡 Nord Stage 4 出廠時記憶體是受保護的，以防意外覆蓋原廠程式。若要儲存程式，需要先到系統選單（System Menu）將 Memory Protect 設定為「Off」。",
+      "after": "> 💡 Nord Stage 4 出廠時記憶體是受保護的，以防意外覆蓋原廠音色配置。若要儲存音色配置，需要先到系統選單（System Menu）將 Memory Protect 設定為「Off」。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 245,
+      "before": "### 儲存程式的步驟 / STORING A PROGRAM",
+      "after": "### 儲存音色配置的步驟 / STORING A PROGRAM"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 250,
+      "before": "1. 按一次 STORE 按鈕。STORE 燈開始閃爍，顯示幕會顯示程式名稱和位置。",
+      "after": "1. 按一次 STORE 按鈕。STORE 燈開始閃爍，顯示幕會顯示音色配置名稱和位置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 262,
+      "before": "按下 STORE 後，也可以按 LIVE MODE 按鈕將程式儲存到八個即時模式（Live Mode）位置之一。",
+      "after": "按下 STORE 後，也可以按 LIVE MODE 按鈕將音色配置儲存到八個即時模式（Live Mode）位置之一。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 268,
+      "before": "### 另存新程式並命名 / STORE AS",
+      "after": "### 另存新音色配置並命名 / STORE AS"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 273,
+      "before": "1. 按 STORE AS（Shift + Store）以儲存並命名程式。",
+      "after": "1. 按 STORE AS（Shift + Store）以儲存並命名音色配置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 277,
+      "before": "2. 長按 ABC 軟按鍵調出字母數字字元，用旋鈕選擇字元。放開 ABC 鍵後游標自動移到下一個位置。",
+      "after": "2. 長按 ABC 功能鍵調出字母數字字元，用旋鈕選擇字元。放開 ABC 鍵後游標自動移到下一個位置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 281,
+      "before": "3. 按 Cat 軟按鍵並從清單中選擇類別，可以為程式設定分類，方便日後尋找。",
+      "after": "3. 按 Cat 功能鍵並從清單中選擇類別，可以為音色配置設定分類，方便日後尋找。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 295,
+      "before": "## 程式旋鈕 / PROGRAM DIAL",
+      "after": "## 音色配置控制旋鈕 / PROGRAM DIAL"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 300,
+      "before": "**程式旋鈕**用於選取程式和預設音色、設定選單參數值，以及在命名程式時輸入字元。按住 SHIFT 轉動旋鈕可進入清單（LIST）檢視模式。",
+      "after": "**音色配置控制旋鈕**用於選取音色配置和預設音色、設定選單參數值，以及在命名音色配置時輸入字元。按住 SHIFT 轉動旋鈕可進入清單（LIST）檢視模式。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 315,
+      "before": "用 PAGE 按鈕來切換程式分頁。每個程式庫（Bank）包含 8 個分頁，每頁 8 個程式。按 BANK（Shift + Page 按鈕）在程式庫之間切換。",
+      "after": "用 PAGE 按鈕來切換音色配置分頁。每個音色配置庫（Bank）包含 8 個分頁，每頁 8 個音色配置。按 BANK（Shift + Page 按鈕）在音色配置庫之間切換。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 337,
+      "before": "Nord Stage 4 附有豐富的預設音色庫，涵蓋風琴、鋼琴和合成器區段，讓你可以將包含效果設定的完整音色載入現有程式。用戶自訂音色也可以儲存到預設音色庫中。",
+      "after": "Nord Stage 4 附有豐富的預設音色庫，涵蓋風琴、鋼琴和合成器區段，讓你可以將包含效果設定的完整音色載入現有音色配置。用戶自訂音色也可以儲存到預設音色庫中。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 384,
+      "before": "## 程式顯示模式 / PROG VIEW",
+      "after": "## 音色配置檢視 / PROG VIEW"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 386,
+      "before": "**程式顯示（PROG VIEW）**按鈕可在四種顯示模式之間切換：",
+      "after": "**音色配置顯示（PROG VIEW）**按鈕可在四種顯示模式之間切換："
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 390,
+      "before": "1. **模式一**：只顯示程式名稱和編號，下半部顯示參數提示。/ First mode: Shows only the Program name and number, with parameter hints in lower half.",
+      "after": "1. **模式一**：只顯示音色配置名稱和編號，下半部顯示參數提示。/ First mode: Shows only the Program name and number, with parameter hints in lower half."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 391,
+      "before": "2. **模式二**：顯示程式名稱和目前聚焦音層的音色資訊。/ Second mode: Shows Program name and current Layer selection info.",
+      "after": "2. **模式二**：顯示音色配置名稱和目前聚焦音層的音色資訊。/ Second mode: Shows Program name and current Layer selection info."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 392,
+      "before": "3. **模式三**：顯示完整程式設定，包含所有區段和音層。/ Third mode: Shows complete Program configuration including all Sections and Layers.",
+      "after": "3. **模式三**：顯示完整音色配置設定，包含所有區段和音層。/ Third mode: Shows complete Program configuration including all Sections and Layers."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 393,
+      "before": "4. **模式四**：同時顯示目前分頁的所有八個程式。/ Fourth mode: Shows all eight Programs of the current Page.",
+      "after": "4. **模式四**：同時顯示目前分頁的所有八個音色配置。/ Fourth mode: Shows all eight Programs of the current Page."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 397,
+      "before": "載入預設音色後，顯示幕會顯示其位置和名稱。若要改為顯示音源（風琴型號、鋼琴、波形或樣本），按 PRESET NAME（Shift+Prog View）。",
+      "after": "載入預設音色後，顯示幕會顯示其位置和名稱。若要改為顯示音源（風琴型號、鋼琴、波形或取樣音色），按 PRESET NAME（Shift+Prog View）。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 403,
+      "before": "## 獨奏監聽 / SOLO",
+      "after": "## 獨奏 / SOLO"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 408,
+      "before": "啟用**獨奏監聽（Solo）**後，每次只能聽到一個音層，非常適合在調整音色時單獨監聽各個元素。用各區段的音層按鈕選擇要聆聽的音層。按 Shift/Exit 或 Solo 按鈕離開獨奏模式。",
+      "after": "啟用**獨奏（Solo）**後，每次只能聽到一個音層，非常適合在調整音色時單獨監聽各個元素。用各區段的音層按鈕選擇要聆聽的音層。按 Shift/Exit 或 Solo 按鈕離開獨奏模式。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 412,
+      "before": "> 💡 獨奏模式的狀態不會儲存在程式裡。",
+      "after": "> 💡 獨奏模式的狀態不會儲存在音色配置裡。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 418,
+      "before": "可以使用**復原（Undo）**（Shift+Solo）復原的操作包括：載入預設音色、LFO/濾波器/琶音器/效果的群組功能、全域效果開關、關閉所有效果、清除變形控制、複製/貼上、合成器初始化、音層初始化、從已編輯程式切換程式。",
+      "after": "可以使用**復原（Undo）**（Shift+Solo）復原的操作包括：載入預設音色、LFO/濾波器/琶音器/效果的群組功能、全域效果開關、關閉所有效果、清除Morph 多參數控制、複製/貼上、合成器初始化、音層初始化、從已編輯音色配置切換音色配置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 424,
+      "before": "按 Undo 後，顯示幕會顯示可以復原的操作。按 UNDO 軟按鍵確認復原，或按 Shift/Exit 取消。注意：復原會回到執行該操作之前的程式狀態，這意味著該操作之後的其他編輯也會一併復原。",
+      "after": "按 Undo 後，顯示幕會顯示可以復原的操作。按 UNDO 功能鍵確認復原，或按 Shift/Exit 取消。注意：復原會回到執行該操作之前的音色配置狀態，這意味著該操作之後的其他編輯也會一併復原。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 448,
+      "before": "**LAYER INIT**（Shift+Section Edit）可以快速初始化整個程式或個別音層：",
+      "after": "**LAYER INIT**（Shift+Section Edit）可以快速初始化整個音色配置或個別音層："
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 452,
+      "before": "- **All**：初始化整個程式，只留 Piano A 為啟用狀態，所有效果關閉。/ Initializes the entire Program so that only Piano A is active, with no effects.",
+      "after": "- **All**：初始化整個音色配置，只留 Piano A 為啟用狀態，所有效果關閉。/ Initializes the entire Program so that only Piano A is active, with no effects."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 464,
+      "before": "**音層場景（Layer Scene）**功能讓你在同一個程式中建立兩套獨立的音層設定（每個音層或區段可以分別開啟或關閉），並能即時無縫切換。這樣就不需要切換程式，也能在演奏中快速改變音色組合。",
+      "after": "**音層場景（Layer Scene）**功能讓你在同一個音色配置中建立兩套獨立的音層設定（每個音層或區段可以分別開啟或關閉），並能即時無縫切換。這樣就不需要切換音色配置，也能在演奏中快速改變音色組合。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 485,
+      "before": "## 監聽 / 複製 / 貼上 / MONITOR / COPY / PASTE",
+      "after": "## 監控 / 複製 / 貼上 / MONITOR / COPY / PASTE"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 493,
+      "before": "按住 **MON/COPY**（監聽/複製）按鈕，同時轉動參數旋鈕，可以在不改變數值的情況下查看當前設定值。",
+      "after": "按住 **MON/COPY**（監控/複製）按鈕，同時轉動參數旋鈕，可以在不改變數值的情況下查看當前設定值。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 502,
+      "before": "- 複製變形控制：按住 MON/COPY + 按 WHEEL、A.T. 或 CTRLPED 按鈕 / Copy a Morph: hold MON/COPY + press WHEEL, A.T. or CTRLPED button",
+      "after": "- 複製Morph 多參數控制：按住 MON/COPY + 按 WHEEL、A.T. 或 CTRLPED 按鈕 / Copy a Morph: hold MON/COPY + press WHEEL, A.T. or CTRLPED button"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 503,
+      "before": "- 複製程式：按住 MON/COPY + 按任意 PROGRAM 1-8 按鈕 / Copy a Program: hold MON/COPY + press one of the PROGRAM 1-8 buttons",
+      "after": "- 複製音色配置：按住 MON/COPY + 按任意 PROGRAM 1-8 按鈕 / Copy a Program: hold MON/COPY + press one of the PROGRAM 1-8 buttons"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 505,
+      "before": "**貼上**：按住 PASTE（Shift + Mon/Copy），再按目標按鈕。在同一程式中將音層貼到另一個音層時，可以選擇「Swap」（互換）來替代「Paste」（貼上）。",
+      "after": "**貼上**：按住 PASTE（Shift + Mon/Copy），再按目標按鈕。在同一音色配置中將音層貼到另一個音層時，可以選擇「Swap」（互換）來替代「Paste」（貼上）。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 562,
+      "before": "Nord Stage 4 有八個方便存取的**即時模式（Live Mode）程式（Live Program——一種自動儲存的程式，調整後不需要手動存檔）**位置。對即時模式程式的任何編輯，在離開或關機時都會自動儲存，省去手動存檔的步驟。",
+      "after": "Nord Stage 4 有八個方便存取的**即時模式（Live Mode）音色配置（Live Program——一種自動儲存的音色配置，調整後不需要手動存檔）**位置。對即時模式音色配置的任何編輯，在離開或關機時都會自動儲存，省去手動存檔的步驟。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 566,
+      "before": "按 LIVE MODE，再按 1-8 任一按鈕即可選取即時程式。",
+      "after": "按 LIVE MODE，再按 1-8 任一按鈕即可選取即時音色配置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 578,
+      "before": "按 NUM PAD（Shift+Live Mode）啟用數字鍵盤模式。在此模式下，Program 1-8 按鈕用於輸入當前程式庫中的程式編號（11-88），而非直接切換分頁中的程式。",
+      "after": "按 NUM PAD（Shift+Live Mode）啟用數字鍵盤模式。在此模式下，Program 1-8 按鈕用於輸入當前音色配置庫中的音色配置編號（11-88），而非直接切換分頁中的音色配置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 582,
+      "before": "> 💡 範例：要選取程式 12，先按 Program 1，再按 Program 2。",
+      "after": "> 💡 範例：要選取音色配置 12，先按 Program 1，再按 Program 2。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 596,
+      "before": "## 整理程式順序 / ORGANIZE",
+      "after": "## 整理音色配置順序 / ORGANIZE"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 601,
+      "before": "程式和預設音色的排列順序可以使用**整理（Organize）**（Shift+Program 3）的 Swap（互換）和 Move（移動）功能來重新排列。",
+      "after": "音色配置和預設音色的排列順序可以使用**整理（Organize）**（Shift+Program 3）的 Swap（互換）和 Move（移動）功能來重新排列。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 605,
+      "before": "- **SWAP**（互換）：交換兩個程式的位置。/ Interchanges the positions of two programs.",
+      "after": "- **SWAP**（互換）：交換兩個音色配置的位置。/ Interchanges the positions of two programs."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 609,
+      "before": "- **MOVE**（移動）：將程式移到另一個位置；來源和目的地之間的程式會上移或下移一格。/ Moves a program to another location; programs between source and destination are shifted one step.",
+      "after": "- **MOVE**（移動）：將音色配置移到另一個位置；來源和目的地之間的音色配置會上移或下移一格。/ Moves a program to another location; programs between source and destination are shifted one step."
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 614,
+      "before": "> 💡 也可以透過 Nord Sound Manager 軟體在電腦上整理程式。",
+      "after": "> 💡 也可以透過 Nord Sound Manager 軟體在電腦上整理音色配置。"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 620,
+      "before": "## 程式音量 / PROGRAM LEVELS",
+      "after": "## 音色配置音量 / PROGRAM LEVELS"
+    },
+    {
+      "file": "ch07_program.md",
+      "line": 625,
+      "before": "**程式音量（Program Levels）**功能提供一個快速調整整個程式總音量的方法，讓你在不調整主音量的情況下調高或調低某個程式的整體音量——在準備現場演出的程式時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動程式旋鈕可以等量調整所有區段所有音層的音量。",
+      "after": "**音色配置音量（Program Levels）**功能提供一個快速調整整個音色配置總音量的方法，讓你在不調整主音量的情況下調高或調低某個音色配置的整體音量——在準備現場演出的音色配置時特別實用。此功能在 SOUND 選單（Shift+Program 2）的第一頁。轉動音色配置控制旋鈕可以等量調整所有區段所有音層的音量。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 14,
+      "before": "設定為 Extern 的音層，其開啟/關閉和鍵盤分區的操作方式，與設定為樣本或類比合成器的音層完全相同。音調桿和延音踏板也以相同方式設定。",
+      "after": "設定為 Extern 的音層，其開啟/關閉和鍵盤分區的操作方式，與設定為取樣音色或類比合成器的音層完全相同。音高控制桿和延音踏板也以相同方式設定。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 18,
+      "before": "每個 Extern 音層的 MIDI 頻道設定在 MIDI 選單中，而程式切換（Program Change）、連續控制器（CC）和其他 MIDI 功能的設定則在 EXTERN 選單中存取（詳見第 61 頁）。這些設定也可用於在本機切換程式時，自動向外部裝置發送 MIDI 程式切換訊息。",
+      "after": "每個 Extern 音層的 MIDI 通道設定在 MIDI 選單中，而音色配置切換（Program Change）、連續控制器（CC）和其他 MIDI 功能的設定則在 EXTERN 選單中存取（詳見第 61 頁）。這些設定也可用於在本機切換音色配置時，自動向外部裝置發送 MIDI 音色配置切換訊息。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 22,
+      "before": "> 💡 Extern 的 MIDI 頻道設定在所有程式中共用，而 Extern 選單中的所有設定則是每個程式獨立儲存的。",
+      "after": "> 💡 Extern 的 MIDI 通道設定在所有音色配置中共用，而 Extern 選單中的所有設定則是每個音色配置獨立儲存的。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 45,
+      "before": "4. 用 Program 1-3 軟按鍵選擇對應的 Extern 音層：A、B 或 C。",
+      "after": "4. 用 Program 1-3 功能鍵選擇對應的 Extern 音層：A、B 或 C。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 49,
+      "before": "5. 用程式旋鈕選擇要使用的發送 MIDI 頻道（1-16）。按 EXIT（Shift）離開選單。",
+      "after": "5. 用音色配置控制旋鈕選擇要使用的發送 MIDI 通道（1-16）。按 EXIT（Shift）離開選單。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 53,
+      "before": "6. 將外部裝置設定為接收上一步指定的 MIDI 頻道。",
+      "after": "6. 將外部裝置設定為接收上一步指定的 MIDI 通道。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 80,
+      "before": "### 鍵盤分區 / KEYBOARD ZONES",
+      "after": "### 鍵盤區域 / KEYBOARD ZONES"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 82,
+      "before": "鍵盤分區可以像內部音色一樣用於分區和疊加設定。例如，如果 Extern 音層只指定在分區 1 和 2 中演奏，外部裝置只會回應這些分區中彈奏的音符。",
+      "after": "鍵盤區域可以像內部音色一樣用於分區和疊加設定。例如，如果 Extern 音層只指定在分區 1 和 2 中演奏，外部裝置只會回應這些分區中彈奏的音符。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 86,
+      "before": "> 💡 關於如何設定和使用鍵盤分區，請參閱第 38 頁的分區功能說明。",
+      "after": "> 💡 關於如何設定和使用鍵盤區域，請參閱第 38 頁的分區功能說明。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 98,
+      "before": "### 音調桿和延音踏板訊息 / PITCH STICK AND SUSTAIN PEDAL MESSAGES",
+      "after": "### 音高控制桿和延音踏板訊息 / PITCH STICK AND SUSTAIN PEDAL MESSAGES"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 100,
+      "before": "按住 SHIFT 再按 SUSTPED/PSTICK，可以決定當前聚焦的 Extern 音層是否要透過 Extern MIDI 頻道發送延音踏板和/或音調彎曲訊號，狀態由 SUSTPED 和 PSTICK 指示燈顯示。",
+      "after": "按住 SHIFT 再按 SUSTPED/PSTICK，可以決定當前聚焦的 Extern 音層是否要透過 Extern MIDI 通道發送延音踏板和/或音高彎音訊號，狀態由 SUSTPED 和 PSTICK 指示燈顯示。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 117,
+      "before": "兩個 **CC VAL** 控制可以發送 MIDI 控制器變更（Control Change）訊息，用來控制外部裝置上你選擇的參數。左邊和中間的合成器顯示幕旋鈕分別控制發送的 CC 訊息數值。",
+      "after": "兩個 **CC VAL** 控制可以發送 MIDI 控制變更訊息（Control Change）訊息，用來控制外部裝置上你選擇的參數。左邊和中間的合成器顯示幕旋鈕分別控制發送的 CC 訊息數值。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 133,
+      "before": "3. 用 Num1 和 Num2 軟按鍵分別選擇第一和第二個 CC 編號。",
+      "after": "3. 用 Num1 和 Num2 功能鍵分別選擇第一和第二個 CC 編號。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 137,
+      "before": "4. 用程式旋鈕選擇 MIDI CC 編號（0-119）。請參閱外部裝置的說明書，了解哪些參數對應哪些 CC 編號。",
+      "after": "4. 用音色配置控制旋鈕選擇 MIDI CC 編號（0-119）。請參閱外部裝置的說明書，了解哪些參數對應哪些 CC 編號。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 141,
+      "before": "5. 要設定程式載入時每個 CC 編號的初始數值，使用合成器顯示幕下方的 CC VAL 旋鈕選擇合適的數值。",
+      "after": "5. 要設定音色配置載入時每個 CC 編號的初始數值，使用合成器顯示幕下方的 CC VAL 旋鈕選擇合適的數值。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 153,
+      "before": "### 程式切換 / PROGRAM",
+      "after": "### 音色配置切換 / PROGRAM"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 155,
+      "before": "程式旋鈕可以透過發送「程式切換（Program Change）」訊息來選擇外部裝置中的程式。請注意，外部裝置可能也需要設定為接收 MIDI 程式切換訊息。",
+      "after": "音色配置控制旋鈕可以透過發送「音色配置切換（Program Change）」訊息來選擇外部裝置中的音色配置。請注意，外部裝置可能也需要設定為接收 MIDI 音色配置切換訊息。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 159,
+      "before": "> ⚠️ Stage 4 本身在切換程式時也會發送 MIDI 程式切換訊息。如果這發生在同一個 MIDI 頻道上，可能會對外部裝置造成非預期的結果。請確保全域 MIDI 頻道與 Extern MIDI 頻道不同。有關全域 MIDI 頻道程式切換的相關設定，請見第 59 頁的 MIDI 選單說明。",
+      "after": "> ⚠️ Stage 4 本身在切換音色配置時也會發送 MIDI 音色配置切換訊息。如果這發生在同一個 MIDI 通道上，可能會對外部裝置造成非預期的結果。請確保全域 MIDI 通道與 Extern MIDI 通道不同。有關全域 MIDI 通道音色配置切換的相關設定，請見第 59 頁的 MIDI 選單說明。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 163,
+      "before": "如果外部裝置以音色庫（Bank）組織程式，可以選擇發送音色庫選擇（Bank Select）訊息，這可以在 Extern 選單頁面中設定（詳見第 61 頁「Extern 選單」）。",
+      "after": "如果外部裝置以音色庫（Bank）組織音色配置，可以選擇發送音色庫組選擇（Bank Select）訊息，這可以在 Extern 選單頁面中設定（詳見第 61 頁「Extern 選單」）。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 169,
+      "before": "通常希望在 Nord Stage 4 載入程式時，立即發送某些 MIDI 資料。這讓外部裝置可以與 Nord Stage 4 的程式切換同步切換程式或重置 CC 數值。",
+      "after": "通常希望在 Nord Stage 4 載入音色配置時，立即發送某些 MIDI 資料。這讓外部裝置可以與 Nord Stage 4 的音色配置切換同步切換音色配置或重置 CC 數值。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 187,
+      "before": "## 外部 MIDI 控制區段與 MIDI 回聲 / EXTERN SECTION AND MIDI ECHOING",
+      "after": "## 外部 MIDI 控制區段與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 189,
+      "before": "當外部裝置在 Stage 4 全域頻道上發送 MIDI 音符，且 Extern 區段為啟用狀態時，傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，並發送到啟用的 Extern MIDI 頻道。",
+      "after": "當外部裝置在 Stage 4 全域通道上發送 MIDI 音符，且 Extern 區段為啟用狀態時，傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，並發送到啟用的 Extern MIDI 通道。"
+    },
+    {
+      "file": "ch08_extern.md",
+      "line": 193,
+      "before": "這讓你可以用一台外部裝置控制另一台外部裝置。傳入的音符必須與 Stage 4 中設定的全域 MIDI 頻道相同。",
+      "after": "這讓你可以用一台外部裝置控制另一台外部裝置。傳入的音符必須與 Stage 4 中設定的全域 MIDI 通道相同。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 10,
+      "before": "Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個程式（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。",
+      "after": "Nord Stage 4 的每個音層（Layer）都有一套獨立的效果器（Effects）。唯一的例外是風琴區段的 A 和 B 兩個音層，它們共用同一組效果鏈。也就是說，每個音色配置（Program）裡最多有六套獨立的效果設定，每套都可以有不同的參數。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 14,
+      "before": "旋轉喇叭（Rotary Speaker）效果器位在面板最左側，比較特別——每個程式只有一個旋轉喇叭，但任何音層都可以路由進去。不過旋轉速度和驅動量的設定是共用的，所有通過它的聲音都會套用相同的設定。",
+      "after": "旋轉喇叭（Rotary Speaker）效果器位在面板最左側，比較特別——每個音色配置只有一個旋轉喇叭，但任何音層都可以路由進去。不過旋轉速度和驅動量的設定是共用的，所有通過它的聲音都會套用相同的設定。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 24,
+      "before": "## 效果焦點 / FX FOCUS (EFFECTS FOCUS)",
+      "after": "## 目標效果器 / FX FOCUS (EFFECTS FOCUS)"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 26,
+      "before": "效果焦點（FX Focus）會自動跟著你在面板上按的音層按鈕走。比方說你按了鋼琴區段的 Layer A，效果區段的焦點就會自動切換到那個音層的效果。",
+      "after": "目標效果器（FX Focus）會自動跟著你在面板上按的音層按鈕走。比方說你按了鋼琴區段的 Layer A，效果區段的焦點就會自動切換到那個音層的效果。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 30,
+      "before": "你也可以手動切換焦點：直接按 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，就能把效果焦點指定到那個區段。",
+      "after": "你也可以手動切換焦點：直接按 **ORGAN**、**PIANO** 或 **SYNTH** 按鈕，就能把目標效果器指定到那個區段。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 34,
+      "before": "目前的效果焦點會用黃色 **FX FOCUS LED** 顯示，在各區段 On 按鈕旁邊，以及效果焦點區塊的 LED 上都可以看到。",
+      "after": "目前的目標效果器會用黃色 **FX FOCUS LED** 顯示，在各區段 On 按鈕旁邊，以及目標效果器區塊的 LED 上都可以看到。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 54,
+      "before": "按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和混響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區段的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。",
+      "after": "按效果器的 **ON** 按鈕就能啟用它。延遲（Delay）、壓縮器（Compressor）和殘響（Reverb）還有一個特殊的 **GLOBAL 全域模式**，開啟後這個效果會同時套用到所有區段的所有音層。開啟方式：按住 Shift 再按該效果的 On 按鈕。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 58,
+      "before": "> 💡 全域模式很適合用在混響上——讓整台樂器所有聲音都通過同一個混響空間，聽起來更有整體感。",
+      "after": "> 💡 全域模式很適合用在殘響上——讓整台樂器所有聲音都通過同一個殘響空間，聽起來更有整體感。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 64,
+      "before": "## MOD 1（調製效果 1）/ MOD 1",
+      "after": "## MOD 1（調變效果 1）/ MOD 1"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 69,
+      "before": "MOD 1 提供六種調製效果（Modulation Effects——用來讓聲音產生週期性變化的效果），用選擇按鈕切換。每種效果都有一個 **VARIATION（變奏）** 或 **PED（踏板）** 功能，按住 Shift 再按選擇按鈕就能啟用。",
+      "after": "MOD 1 提供六種調變效果（Modulation Effects——用來讓聲音產生週期性變化的效果），用選擇按鈕切換。每種效果都有一個 **VARIATION（變奏）** 或 **PED（踏板）** 功能，按住 Shift 再按選擇按鈕就能啟用。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 75,
+      "before": "### A-PAN（自動聲像）/ A-PAN (AUTO PAN)",
+      "after": "### A-PAN（自動聲像擺動）/ A-PAN (AUTO PAN)"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 77,
+      "before": "A-PAN 是自動聲像效果，讓聲音在左右聲道之間平滑來回移動，製造立體感的律動。用 **RATE** 旋鈕控制速度，**AMOUNT** 旋鈕控制左右移動的幅度。",
+      "after": "A-PAN 是自動聲像擺動效果，讓聲音在左右聲道之間平滑來回移動，製造立體感的律動。用 **RATE** 旋鈕控制速度，**AMOUNT** 旋鈕控制左右移動的幅度。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 87,
+      "before": "### TREM（顫音）/ TREM (TREMOLO)",
+      "after": "### TREM（音量顫音）/ TREM (TREMOLO)"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 89,
+      "before": "TREM 是顫音效果（Tremolo——讓音量週期性變化，聽起來像在「抖動」），電鋼琴上很常用。**RATE** 控制速度，**AMOUNT** 控制深度。注意：Amount 設為零時，音量反而是最大值。",
+      "after": "TREM 是音量顫音效果（Tremolo——讓音量週期性變化，聽起來像在「抖動」），電鋼琴上很常用。**RATE** 控制速度，**AMOUNT** 控制深度。注意：Amount 設為零時，音量反而是最大值。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 99,
+      "before": "### RM（環形調製）/ RM (RING MODULATION)",
+      "after": "### RM（環形調變）/ RM (RING MODULATION)"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 101,
+      "before": "環形調製（Ring Modulation——把兩個訊號相乘，產生不和諧的金屬鐘聲感）是一種特殊的調製方式。Nord Stage 4 裡，樂器訊號會跟一個正弦波相乘。**Rate** 旋鈕調整正弦波的音高，**Amount** 控制效果的強弱。",
+      "after": "環形調變（Ring Modulation——把兩個訊號相乘，產生不和諧的金屬鐘聲感）是一種特殊的調變方式。Nord Stage 4 裡，樂器訊號會跟一個正弦波相乘。**Rate** 旋鈕調整正弦波的音高，**Amount** 控制效果的強弱。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 105,
+      "before": "VARIATION 提供立體聲版本的環形調製效果。",
+      "after": "VARIATION 提供立體聲版本的環形調變效果。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 111,
+      "before": "### A-WAH（自動哇哇）/ A-WAH",
+      "after": "### A-WAH（自動哇哇音）/ A-WAH"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 113,
+      "before": "A-WAH（Auto-Wah——跟著演奏力度自動變化的哇哇效果）跟下面介紹的 Wah-Wah 是親戚，差別在於它用訊號的音量大小（包絡追蹤器）來驅動濾波器掃描，所以彈得越用力，哇哇效果越明顯。**SENS（Rate）** 旋鈕控制靈敏度和掃描範圍，**Amount** 控制效果的乾/濕混合比例。",
+      "after": "A-WAH（Auto-Wah——跟著演奏力度自動變化的哇哇音效果）跟下面介紹的 Wah-Wah 是親戚，差別在於它用訊號的音量大小（包絡線追蹤器）來驅動濾波器掃描，所以彈得越用力，哇哇音效果越明顯。**SENS（Rate）** 旋鈕控制靈敏度和掃描範圍，**Amount** 控制效果的乾/濕混合比例。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 125,
+      "before": "WAH（Wah-Wah——用共振低通濾波器掃描頻率範圍，產生「哇～哇～」聲的效果器）在預設的非踏板模式下，**RATE** 旋鈕控制 LFO（低頻振盪器——用來產生週期性調製的振盪器）的速度，做出循環的哇哇感，可以模擬踩踏板的上下動作，或做慢速濾波器掃描。**AMOUNT** 旋鈕控制乾濕比例。",
+      "after": "WAH（Wah-Wah——用共振低通濾波器掃描頻率範圍，產生「哇～哇～」聲的效果器）在預設的非踏板模式下，**RATE** 旋鈕控制 LFO（低頻振盪器——用來產生週期性調變的振盪器）的速度，做出循環的哇哇感，可以模擬踩踏板的上下動作，或做慢速濾波器掃描。**AMOUNT** 旋鈕控制乾濕比例。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 141,
+      "before": "PUMP 效果提供一種振幅調製（Amplitude Modulation），效果類似壓縮器被外部旁鏈訊號觸發的感覺：音量快速「壓下去」，然後慢慢恢復。在預設非踏板模式下，**RATE** 旋鈕控制 LFO 速度。",
+      "after": "PUMP 效果提供一種振幅調變（Amplitude Modulation），效果類似壓縮器被外部側鏈訊號觸發的感覺：音量快速「壓下去」，然後慢慢恢復。在預設非踏板模式下，**RATE** 旋鈕控制 LFO 速度。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 145,
+      "before": "> 💡 常見用法：把 PUMP 同步到主時鐘（Master Clock），設定速率為四分音符（1/4），做出舞曲常用的「側鏈壓縮」感。",
+      "after": "> 💡 常見用法：把 PUMP 同步到主節拍時鐘（Master Clock），設定速率為四分音符（1/4），做出舞曲常用的「側鏈壓縮」感。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 155,
+      "before": "### 與主時鐘同步 / MASTER CLOCK",
+      "after": "### 與主節拍時鐘同步 / MASTER CLOCK"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 157,
+      "before": "選擇 A-Pan、Trem、LFO-Wah 或 Pump 效果時，把 **RATE** 旋鈕往右轉到底，就可以把 Mod 1 的速率同步到主時鐘（Master Clock——全局節奏控制器）。在 MST CLK 模式下，速率會以主時鐘節拍的細分值來顯示。",
+      "after": "選擇 A-Pan、Trem、LFO-Wah 或 Pump 效果時，把 **RATE** 旋鈕往右轉到底，就可以把 Mod 1 的速率同步到主節拍時鐘（Master Clock——全局節奏控制器）。在 MST CLK 模式下，速率會以主節拍時鐘節拍的細分值來顯示。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 165,
+      "before": "## MOD 2（調製效果 2）/ MOD 2",
+      "after": "## MOD 2（調變效果 2）/ MOD 2"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 170,
+      "before": "MOD 2 提供多種經典和創新的調製效果，每種都有 VARIATION，按住 Shift 再按選擇按鈕啟用。**RATE** 旋鈕控制速率，**AMOUNT** 旋鈕（支援變形 Morph）控制強度。",
+      "after": "MOD 2 提供多種經典和創新的調變效果，每種都有 VARIATION，按住 Shift 再按選擇按鈕啟用。**RATE** 旋鈕控制速率，**AMOUNT** 旋鈕（支援變形 Morph）控制強度。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 176,
+      "before": "### PHASER（相位器）/ PHASER",
+      "after": "### PHASER（相位效果）/ PHASER"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 178,
+      "before": "相位器（Phaser——通過移動音訊訊號的相位，產生「掃頻」的沙沙感）常用在電鋼琴音色上。標準設定基於經典的 Small Stone 效果器，Amount 最小時 feedback 為零，調大 Amount 可增加 feedback 和音色「顏色」。",
+      "after": "相位效果（Phaser——通過移動音訊訊號的相位，產生「掃頻」的沙沙感）常用在電鋼琴音色上。標準設定基於經典的 Small Stone 效果器，Amount 最小時 feedback 為零，調大 Amount 可增加 feedback 和音色「顏色」。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 188,
+      "before": "### FLANGER（法蘭效果）/ FLANGER",
+      "after": "### FLANGER（鑲邊效果）/ FLANGER"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 190,
+      "before": "法蘭效果（Flanger——把訊號和一個微小延遲的副本疊加，產生「梳狀濾波」的金屬掃頻感）能讓聲音聽起來很「飄」，帶有共鳴感。Amount 為零時，只有靜態的共鳴峰。VARIATION 是單聲道版本。",
+      "after": "鑲邊效果（Flanger——把訊號和一個微小延遲的副本疊加，產生「梳狀濾波」的金屬掃頻感）能讓聲音聽起來很「飄」，帶有共鳴感。Amount 為零時，只有靜態的共鳴峰。VARIATION 是單聲道版本。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 198,
+      "before": "VIBE 效果靈感來自經典腳踏板效果器，同時結合音高彎曲和相位的特性，音色獨特。它是透過一系列錯位的相位濾波器模型製作，跟一般相位器有所不同。VARIATION 是單聲道版本。",
+      "after": "VIBE 效果靈感來自經典腳踏板效果器，同時結合音高彎曲和相位的特性，音色獨特。它是透過一系列錯位的相位濾波器模型製作，跟一般相位效果有所不同。VARIATION 是單聲道版本。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 204,
+      "before": "### CHORUS（合唱效果）/ CHORUS",
+      "after": "### CHORUS（合聲效果）/ CHORUS"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 206,
+      "before": "合唱效果（Chorus——把聲音複製多份並稍微調音，讓音色聽起來更厚、更寬廣）讓聲音更豐富。Amount 超過 50% 後還會加入延遲線，聲音更複雜。VARIATION 基於一款老式效果踏板，可以從豐潤的立體加寬感，調到高速率、高 Amount 下明顯的顫音（vibrato）效果。",
+      "after": "合聲效果（Chorus——把聲音複製多份並稍微調音，讓音色聽起來更厚、更寬廣）讓聲音更豐富。Amount 超過 50% 後還會加入延遲線，聲音更複雜。VARIATION 基於一款老式效果踏板，可以從豐潤的立體加寬感，調到高速率、高 Amount 下明顯的顫音（vibrato）效果。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 214,
+      "before": "合奏效果（Ensemble——模擬多人演奏同一個音符時的微小音高差異感）是仿照老式 Eminent 風琴效果器設計的。聲音被送進三條獨立、相互交叉連接的調製延遲線，形成非常有特色的音色。VARIATION 是單聲道版本。",
+      "after": "合奏效果（Ensemble——模擬多人演奏同一個音符時的微小音高差異感）是仿照老式 Eminent 風琴效果器設計的。聲音被送進三條獨立、相互交叉連接的調變延遲線，形成非常有特色的音色。VARIATION 是單聲道版本。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 237,
+      "before": "如果主時鐘（MST CLK）已啟用，Tempo 會改以主時鐘節拍的細分值表示。",
+      "after": "如果主節拍時鐘（MST CLK）已啟用，Tempo 會改以主節拍時鐘節拍的細分值表示。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 241,
+      "before": "**FEEDBACK** 旋鈕控制重複次數：最小值只有一次回聲，最大值則是很長的回聲尾巴。**DRY WET** 旋鈕調整乾訊號和延遲訊號的比例。",
+      "after": "**FEEDBACK** 旋鈕控制重複次數：最小值只有一次回聲，最大值則是很長的回聲尾巴。**DRY WET** 旋鈕調整乾音和延遲訊號的比例。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 249,
+      "before": "按 **PING PONG**（Shift + Filter）啟用乒乓模式：延遲的回聲會在左右聲道之間交替出現。短延遲時間下，這些回聲會很「不對稱」，聽起來像混響單元裡的早期反射聲。",
+      "after": "按 **PING PONG**（Shift + Filter）啟用乒乓模式：延遲的回聲會在左右聲道之間交替出現。短延遲時間下，這些回聲會很「不對稱」，聽起來像殘響單元裡的早期反射聲。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 255,
+      "before": "### TAP TEMPO（節拍敲擊）/ TAP TEMPO",
+      "after": "### TAP TEMPO（拍速輸入）/ TAP TEMPO"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 265,
+      "before": "用選擇按鈕可以選擇延遲回饋迴路裡的效果。這些效果只作用在延遲訊號上，不影響乾訊號；隨著每次回聲，效果會越來越強。",
+      "after": "用選擇按鈕可以選擇延遲回授迴路裡的效果。這些效果只作用在延遲訊號上，不影響乾音；隨著每次回聲，效果會越來越強。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 271,
+      "before": "- **SPACE**：加入類似混響的擴散感，每次回聲越來越濃。標準模式下，效果訊號和乾訊號各佔 50%；VARIATION 模式下效果訊號為 100% 濕訊號。",
+      "after": "- **SPACE**：加入類似殘響的擴散感，每次回聲越來越濃。標準模式下，效果訊號和乾音各佔 50%；VARIATION 模式下效果訊號為 100% 效果音。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 299,
+      "before": "### 延遲與主時鐘同步 / DELAY MASTER CLOCK",
+      "after": "### 延遲與主節拍時鐘同步 / DELAY MASTER CLOCK"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 301,
+      "before": "把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到程式區段設定的主時鐘節奏。延遲 Tempo 會以主時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。",
+      "after": "把 **MST CLK**（Shift + Tempo 旋鈕）往右轉到底，延遲就會同步到音色配置區段設定的主節拍時鐘節奏。延遲 Tempo 會以主節拍時鐘節拍的細分值表示，從 1/2 到 1/32 拍，另外還有 swing（S）、三連音（T）和附點（D）可以選擇。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 374,
+      "before": "> 💡 LP24 可以當踏板哇哇效果來用：用控制踏板（Control Pedal）來 Morph 截止頻率，再調整共鳴到喜歡的感覺。",
+      "after": "> 💡 LP24 可以當踏板哇哇音效果來用：用控制踏板（Control Pedal）來 Morph 截止頻率，再調整共鳴到喜歡的感覺。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 413,
+      "before": "## 混響 / REVERB",
+      "after": "## 殘響 / REVERB"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 418,
+      "before": "混響（Reverb——模擬聲音在各種空間中的自然反射效果）提供六種不同長度和密度的混響類型，用六段選擇器的 LED 指示。",
+      "after": "殘響（Reverb——模擬聲音在各種空間中的自然反射效果）提供六種不同長度和密度的殘響類型，用六段選擇器的 LED 指示。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 422,
+      "before": "左側三種類型有 VARIATION；右側三種可設定 **CHORALE（合唱）模式**，增加混響訊號裡的音高調製，讓聲音更有活力。按住 Shift 再按選擇按鈕啟用 Variation/Chorale。",
+      "after": "左側三種類型有 VARIATION；右側三種可設定 **CHORALE（合唱）模式**，增加殘響訊號裡的音高調變，讓聲音更有活力。按住 Shift 再按選擇按鈕啟用 Variation/Chorale。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 426,
+      "before": "混響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾訊號和混響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。",
+      "after": "殘響可設為全域（GLOBAL）模式（Shift + On），套用到所有區段所有音層。可 Morph 的 **DRY/WET** 旋鈕調整乾音和殘響訊號的比例，可以調到 100% 全濕，對 Morph 效果或音層混合很有幫助。"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 432,
+      "before": "### 混響類型 / REVERB TYPES",
+      "after": "### 殘響類型 / REVERB TYPES"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 436,
+      "before": "| **SPRING（彈簧混響）** | 重現傳統彈簧混響槽的聲音，常見於音輪風琴、吉他擴大機等設備。VARIATION 提供不同特性，混響時間更長。 |",
+      "after": "| **SPRING（彈簧殘響）** | 重現傳統彈簧殘響槽的聲音，常見於音輪風琴、吉他擴大機等設備。VARIATION 提供不同特性，殘響時間更長。 |"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 438,
+      "before": "| **ROOM（房間）** | 衰減時間較短的房間感混響。VARIATION 同樣增加前置延遲時間。 |",
+      "after": "| **ROOM（房間）** | 衰減時間較短的房間感殘響。VARIATION 同樣增加前置延遲時間。 |"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 439,
+      "before": "| **STAGE（舞台）** | 中等衰減時間，自然的室內空間感。CHORALE 模式增加音高調製，讓混響更有活力。 |",
+      "after": "| **STAGE（舞台）** | 中等衰減時間，自然的室內空間感。CHORALE 模式增加音高調變，讓殘響更有活力。 |"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 440,
+      "before": "| **HALL（大廳）** | 寬廣大廳的衰減和音色，衰減時間較長。CHORALE 模式增加音高調製。 |",
+      "after": "| **HALL（大廳）** | 寬廣大廳的衰減和音色，衰減時間較長。CHORALE 模式增加音高調變。 |"
+    },
+    {
+      "file": "ch09_layer_effects.md",
+      "line": 441,
+      "before": "| **CATH（大教堂）** | 超大型空間，衰減時間非常長。CHORALE 模式增加音高調製。 |",
+      "after": "| **CATH（大教堂）** | 超大型空間，衰減時間非常長。CHORALE 模式增加音高調變。 |"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 7,
+      "before": "Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵盤來控制其他硬體裝置或軟體音源，或讓風琴、鋼琴和合成器區段中的各音層由外部裝置（如電腦或音序器）個別控制，也可以在每個程式的基礎上，讓另一台鍵盤只控制 Nord Stage 4 的部分功能，甚至可以同時做所有這些事情。",
+      "after": "Nord Stage 4 在 MIDI 功能方面設計得盡可能靈活，可用作主控鍵盤來控制其他硬體裝置或軟體音源，或讓風琴、鋼琴和合成器區段中的各音層由外部裝置（如電腦或編曲機）個別控制，也可以在每個音色配置的基礎上，讓另一台鍵盤只控制 Nord Stage 4 的部分功能，甚至可以同時做所有這些事情。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 11,
+      "before": "Nord Stage 4 的 MIDI 功能分為四個主要區域：**全域（Global）**、**音層（Layer，風琴/鋼琴/合成器 A/B/C）**、**輔助鍵盤（Aux KB）**和**外部 MIDI（Extern）**。每個都可以獨立指定到任意 MIDI 頻道。將相關頻道設定為 Off 也可以停用 MIDI 功能。所有 MIDI 頻道都在 MIDI 選單中定義，詳見第 59 頁。",
+      "after": "Nord Stage 4 的 MIDI 功能分為四個主要區域：**全域（Global）**、**音層（Layer，風琴/鋼琴/合成器 A/B/C）**、**輔助鍵盤（Aux KB）**和**外部 MIDI（Extern）**。每個都可以獨立指定到任意 MIDI 通道。將相關通道設定為 Off 也可以停用 MIDI 功能。所有 MIDI 通道都在 MIDI 選單中定義，詳見第 59 頁。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 15,
+      "before": "全域頻道用於同時發送和接收 MIDI；Extern 頻道只發送；音層和 Aux KB 頻道只接收 MIDI 資料。大多數 MIDI 相關設定在 MIDI 選單中進行，Extern 設定在 Extern 選單中，Aux KB 設定在 Aux KB 選單中。",
+      "after": "全域通道用於同時發送和接收 MIDI；Extern 通道只發送；音層和 Aux KB 通道只接收 MIDI 資料。大多數 MIDI 相關設定在 MIDI 選單中進行，Extern 設定在 Extern 選單中，Aux KB 設定在 Aux KB 選單中。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 21,
+      "before": "## 全域頻道 / GLOBAL CHANNEL",
+      "after": "## 全域通道 / GLOBAL CHANNEL"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 23,
+      "before": "**全域 MIDI 頻道（Global MIDI Channel）**同時用於發送和接收 MIDI 資訊，讓外部裝置可以完全控制 Nord Stage 4——就像在自己的鍵盤上演奏一樣——也可以用於發送鍵盤、踏板和面板操作。",
+      "after": "**全域 MIDI 通道（Global MIDI Channel）**同時用於發送和接收 MIDI 資訊，讓外部裝置可以完全控制 Nord Stage 4——就像在自己的鍵盤上演奏一樣——也可以用於發送鍵盤、踏板和面板操作。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 27,
+      "before": "全域頻道同時發送鍵盤和面板產生的 MIDI 資料。例如，轉動合成器區段的旋鈕或使用調製輪、後觸鍵、連接的踏板或音調桿，都會產生在全域頻道上傳輸的 MIDI 資料。",
+      "after": "全域通道同時發送鍵盤和面板產生的 MIDI 資料。例如，轉動合成器區段的旋鈕或使用調變輪、二段觸鍵感應、連接的踏板或音高控制桿，都會產生在全域通道上傳輸的 MIDI 資料。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 31,
+      "before": "> 💡 全域 MIDI 可以在 MIDI 選單中關閉，這會同時停用全域頻道上 MIDI 的發送和接收。",
+      "after": "> 💡 全域 MIDI 可以在 MIDI 選單中關閉，這會同時停用全域通道上 MIDI 的發送和接收。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 37,
+      "before": "## 音層頻道 / LAYER CHANNELS",
+      "after": "## 音層通道 / LAYER CHANNELS"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 39,
+      "before": "每個音層的風琴、鋼琴和合成器 MIDI 頻道**只接收** MIDI，讓外部裝置可以演奏個別音層或整個區段。每個風琴、鋼琴和合成器音層的設定都在 Nord Stage 4 MIDI 選單中找到。",
+      "after": "每個音層的風琴、鋼琴和合成器 MIDI 通道**只接收** MIDI，讓外部裝置可以演奏個別音層或整個區段。每個風琴、鋼琴和合成器音層的設定都在 Nord Stage 4 MIDI 選單中找到。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 55,
+      "before": "把設定為 Extern 模式的音層想成一個普通的合成器音層，在分配鍵盤分區、啟用音調桿和延音踏板等方面都是一樣的。也可以為 Extern 音層儲存程式切換、音色庫選擇或音量等的「初始值」。",
+      "after": "把設定為 Extern 模式的音層想成一個普通的合成器音層，在分配鍵盤分區、啟用音高控制桿和延音踏板等方面都是一樣的。也可以為 Extern 音層儲存音色配置切換、音色庫組選擇或音量等的「初始值」。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 61,
+      "before": "1. 選擇一個需要整合外部音色的 Nord Stage 4 程式。/ Select a Nord Stage 4 program where external sounds should be integrated.",
+      "after": "1. 選擇一個需要整合外部音色的 Nord Stage 4 音色配置。/ Select a Nord Stage 4 program where external sounds should be integrated."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 62,
+      "before": "2. 為合成器音層啟用 Extern 模式，並將其 MIDI 頻道以及外部裝置（例如機架合成器模組）的 MIDI 頻道設定為相同頻道。在 Nord Stage 4 上，這在 MIDI 選單（Shift + Program 7 按鈕）中設定。/ Activate Extern Mode for a Synth Layer and set its MIDI Channel as well as the one for the external device to the same channel in the MIDI menu (Shift+Program 7 button).",
+      "after": "2. 為合成器音層啟用 Extern 模式，並將其 MIDI 通道以及外部裝置（例如機架合成器模組）的 MIDI 通道設定為相同通道。在 Nord Stage 4 上，這在 MIDI 選單（Shift + Program 7 按鈕）中設定。/ Activate Extern Mode for a Synth Layer and set its MIDI Channel as well as the one for the external device to the same channel in the MIDI menu (Shift+Program 7 button)."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 64,
+      "before": "   > ⚠️ 確保 Extern 頻道與 Nord Stage 4 全域頻道不同。",
+      "after": "   > ⚠️ 確保 Extern 通道與 Nord Stage 4 全域通道不同。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 69,
+      "before": "6. 轉動合成器顯示幕下方最右側的 PROGRAM 旋鈕，直到在外部裝置上選到所需的程式。如果存取程式需要音色庫選擇資料，這些資料需要手動輸入 Extern 選單。/ Turn the PROGRAM dial until the desired program is selected on the external device.",
+      "after": "6. 轉動合成器顯示幕下方最右側的 PROGRAM 控制旋鈕，直到在外部裝置上選到所需的音色配置。如果存取音色配置需要音色庫組選擇資料，這些資料需要手動輸入 Extern 選單。/ Turn the PROGRAM dial until the desired program is selected on the external device."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 71,
+      "before": "8. 如需要，在 Nord Stage 4 上儲存程式。/ Store the program on the Nord Stage 4 if desired.",
+      "after": "8. 如需要，在 Nord Stage 4 上儲存音色配置。/ Store the program on the Nord Stage 4 if desired."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 77,
+      "before": "在 Extern 選單中啟用「Send On Load（載入時發送）」後，每次選取這個程式時，所有儲存的資料（程式切換、音色庫選擇、MIDI CC 和音量）都會自動從 Nord Stage 4 發送。如需要，可以在 Extern 選單中定義兩個額外的連續控制器訊息。",
+      "after": "在 Extern 選單中啟用「Send On Load（載入時發送）」後，每次選取這個音色配置時，所有儲存的資料（音色配置切換、音色庫組選擇、MIDI CC 和音量）都會自動從 Nord Stage 4 發送。如需要，可以在 Extern 選單中定義兩個額外的連續控制器訊息。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 81,
+      "before": "和面板上的其他音層一樣，Extern 音層彼此完全獨立，可以程式化為同時在相同或不同分區進行不同的操作。",
+      "after": "和面板上的其他音層一樣，Extern 音層彼此完全獨立，可以音色配置化為同時在相同或不同分區進行不同的操作。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 93,
+      "before": "透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個程式獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的程式章節，以下是基本設定示範（僅控制風琴區的音層 B）：",
+      "after": "透過此功能，可以使用外部鍵盤演奏 Nord Stage 4 上的任意音層組合。Aux KB 設定每個音色配置獨立儲存，使其非常適合現場演出使用。Aux KB 的完整概覽在第 42 頁的音色配置章節，以下是基本設定示範（僅控制風琴區段的音層 B）："
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 100,
+      "before": "4. 用 PAGE 上移按鈕到第二頁。按 ORG（風琴）軟按鍵並用旋鈕設定為「-B」。/ Go to the second page. Press the ORG (Organ) soft button and set it to -B, using the dial.",
+      "after": "4. 用 PAGE 上移按鈕到第二頁。按 ORG（風琴）功能鍵並用旋鈕設定為「-B」。/ Go to the second page. Press the ORG (Organ) soft button and set it to -B, using the dial."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 101,
+      "before": "5. 在 Nord Stage 4 MIDI 選單中，將 Aux KB MIDI 頻道設定為發送 MIDI 裝置的頻道（預設為 MIDI 頻道 16）。/ Set the Aux KB MIDI channel to that of the transmitting MIDI device from the Nord Stage 4 MIDI menu. Default is MIDI channel 16.",
+      "after": "5. 在 Nord Stage 4 MIDI 選單中，將 Aux KB MIDI 通道設定為發送 MIDI 裝置的通道（預設為 MIDI 通道 16）。/ Set the Aux KB MIDI channel to that of the transmitting MIDI device from the Nord Stage 4 MIDI menu. Default is MIDI channel 16."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 104,
+      "before": "> ⚠️ 如果 Stage 4 使用面板移調功能，輔助鍵盤（Aux KB）頻道上傳入的 MIDI 也會被移調——無論 MIDI 選單中的「Transpose MIDI at」設定如何。",
+      "after": "> ⚠️ 如果 Stage 4 使用面板移調功能，輔助鍵盤（Aux KB）通道上傳入的 MIDI 也會被移調——無論 MIDI 選單中的「Transpose MIDI at」設定如何。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 110,
+      "before": "從外部裝置控制 Stage 4 部分功能的第二個選項是使用每個音層的 MIDI 能力，允許在不同 MIDI 頻道上定址任意音層。如需要，所有音層仍可在 Nord Stage 4 鍵盤上「本地」演奏。",
+      "after": "從外部裝置控制 Stage 4 部分功能的第二個選項是使用每個音層的 MIDI 能力，允許在不同 MIDI 通道上定址任意音層。如需要，所有音層仍可在 Nord Stage 4 鍵盤上「本地」演奏。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 114,
+      "before": "在 MIDI 選單（Shift + Program 7 按鈕）中為每個風琴、鋼琴和合成器音層指定 MIDI 頻道。",
+      "after": "在 MIDI 選單（Shift + Program 7 按鈕）中為每個風琴、鋼琴和合成器音層指定 MIDI 通道。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 120,
+      "before": "透過 MIDI 控制 Nord Stage 4 的第三個選項是使用全域 MIDI 功能。如果外部裝置的發送 MIDI 頻道與 Nord Stage 4 的全域 MIDI 頻道相同，演奏外部裝置就非常類似在 Nord Stage 4 自己的鍵盤上演奏。",
+      "after": "透過 MIDI 控制 Nord Stage 4 的第三個選項是使用全域 MIDI 功能。如果外部裝置的發送 MIDI 通道與 Nord Stage 4 的全域 MIDI 通道相同，演奏外部裝置就非常類似在 Nord Stage 4 自己的鍵盤上演奏。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 128,
+      "before": "Stage 4 的主時鐘可以接收傳入的 MIDI 時鐘訊息控制。這是自動行為：一旦在 MIDI In 或 USB MIDI 輸入上接收到 MIDI 時鐘，主時鐘的速率設定就會同步到傳入的外部時鐘。",
+      "after": "Stage 4 的主節拍時鐘可以接收傳入的 MIDI 時鐘訊息控制。這是自動行為：一旦在 MIDI In 或 USB MIDI 輸入上接收到 MIDI 時鐘，主節拍時鐘的速率設定就會同步到傳入的外部時鐘。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 132,
+      "before": "當主時鐘鎖定到傳入時鐘時，主時鐘頁面（按住 MST CLK 按鈕訪問）會顯示「external」以及以 BPM 表示的傳入速度。",
+      "after": "當主節拍時鐘鎖定到傳入時鐘時，主節拍時鐘頁面（按住 MST CLK 按鈕訪問）會顯示「external」以及以 BPM 表示的傳入速度。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 138,
+      "before": "## 外部 MIDI 控制區段與 MIDI 回聲 / EXTERN SECTION AND MIDI ECHOING",
+      "after": "## 外部 MIDI 控制區段與 MIDI 轉送 / EXTERN SECTION AND MIDI ECHOING"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 140,
+      "before": "當一個或多個 Extern 音層處於活躍狀態時，全域 MIDI 頻道上傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，發送到一個或多個 Extern MIDI 頻道。這需要將 Extern 選單中的「Echo Global To Extern Ch」設定設為 On。",
+      "after": "當一個或多個 Extern 音層處於活躍狀態時，全域 MIDI 通道上傳入的 MIDI 音符可以被重新導向到 Stage 4 的 MIDI 輸出，發送到一個或多個 Extern MIDI 通道。這需要將 Extern 選單中的「Echo Global To Extern Ch」設定設為 On。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 144,
+      "before": "每個 Extern 音層的鍵盤分區指定也影響哪些傳入 MIDI 被重新導向到每個頻道。",
+      "after": "每個 Extern 音層的鍵盤分區指定也影響哪些傳入 MIDI 被重新導向到每個通道。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 150,
+      "before": "## 將 Stage 4 演奏錄製到 MIDI 音序器 / RECORDING A STAGE 4 PERFORMANCE TO A MIDI SEQUENCER",
+      "after": "## 將 Stage 4 演奏錄製到 MIDI 編曲機 / RECORDING A STAGE 4 PERFORMANCE TO A MIDI SEQUENCER"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 152,
+      "before": "以下是如何將 Stage 4 的完整演奏（包含所有踏板動作、變形控制和其他操作）錄製到 DAW 或 MIDI 音序器——最好使用全域 MIDI 頻道：",
+      "after": "以下是如何將 Stage 4 的完整演奏（包含所有踏板動作、Morph 多參數控制和其他操作）錄製到 DAW 或 MIDI 編曲機——最好使用全域 MIDI 通道："
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 156,
+      "before": "1. 將 DAW 或音序器軌道設定為路由全域頻道上傳入的 MIDI。/ Set the DAW or sequencer track to route back incoming MIDI on the Global Channel.",
+      "after": "1. 將 DAW 或編曲機軌道設定為路由全域通道上傳入的 MIDI。/ Set the DAW or sequencer track to route back incoming MIDI on the Global Channel."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 159,
+      "before": "4. 在 Nord Stage 4 上選擇要使用的程式。/ Select the Program on the Nord Stage 4.",
+      "after": "4. 在 Nord Stage 4 上選擇要使用的音色配置。/ Select the Program on the Nord Stage 4."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 160,
+      "before": "5. 在音序器上開始錄製。/ Start the recording on the sequencer.",
+      "after": "5. 在編曲機上開始錄製。/ Start the recording on the sequencer."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 176,
+      "before": "- **Pitch Bend**：音調彎曲（發送和接收）/ Pitch Bend messages are transmitted and received.",
+      "after": "- **Pitch Bend**：音高彎音（發送和接收）/ Pitch Bend messages are transmitted and received."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 177,
+      "before": "- 在 MIDI 選單中可以決定 Nord Stage 4 是否應發送和/或接收控制器變更（CC）訊息。/ From the MIDI Menu, it can be determined whether the Nord Stage 4 should transmit and/or receive Control Change messages.",
+      "after": "- 在 MIDI 選單中可以決定 Nord Stage 4 是否應發送和/或接收控制變更訊息（CC）訊息。/ From the MIDI Menu, it can be determined whether the Nord Stage 4 should transmit and/or receive Control Change messages."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 182,
+      "before": "- 面板上幾乎所有其他控制器（旋鈕和按鈕）也以控制器變更或 NRPN 訊息發送和接收，可用於將面板操作錄製到 MIDI 音序器。請參閱第 66 頁的完整對應列表。/ Almost all other controls are also transmitted and received as Control Change or NRPN messages. Refer to page 66 for a full list.",
+      "after": "- 面板上幾乎所有其他控制器（旋鈕和按鈕）也以控制變更訊息或 NRPN 訊息發送和接收，可用於將面板操作錄製到 MIDI 編曲機。請參閱第 66 頁的完整對應列表。/ Almost all other controls are also transmitted and received as Control Change or NRPN messages. Refer to page 66 for a full list."
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 186,
+      "before": "## 鍵盤力度 / KEYBOARD VELOCITY",
+      "after": "## 觸鍵感應力度 / KEYBOARD VELOCITY"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 188,
+      "before": "Nord Stage 4 可以發送和接收鍵盤力度訊息。無論傳入的 MIDI 力度資料為何，管風琴音色始終以標準音量播放。發送離鍵力度，但在 MIDI In 上忽略。",
+      "after": "Nord Stage 4 可以發送和接收觸鍵感應力度訊息。無論傳入的 MIDI 力度資料為何，管風琴音色始終以標準音量播放。發送離鍵力度，但在 MIDI In 上忽略。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 194,
+      "before": "## 後觸鍵 / AFTERTOUCH",
+      "after": "## 二段觸鍵感應 / AFTERTOUCH"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 196,
+      "before": "Nord Stage 4 鍵盤可以發送後觸鍵訊息（有時稱為「頻道壓力」）。按住琴鍵時施加更多壓力即可觸發後觸鍵，產生可用於控制參數的訊號。",
+      "after": "Nord Stage 4 鍵盤可以發送二段觸鍵感應訊息（有時稱為「通道壓力」）。按住琴鍵時施加更多壓力即可觸發二段觸鍵感應，產生可用於控制參數的訊號。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 202,
+      "before": "## 程式切換操作 / PROGRAM CHANGE OPERATIONS",
+      "after": "## 音色配置切換操作 / PROGRAM CHANGE OPERATIONS"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 204,
+      "before": "程式切換訊息用於程式和即時模式音色庫，以及合成器、鋼琴和風琴預設音色庫——由使用的 Bank MSB 編號來識別。",
+      "after": "音色配置切換訊息用於音色配置和即時模式音色庫，以及合成器、鋼琴和風琴預設音色庫——由使用的 Bank MSB 編號來識別。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 218,
+      "before": "> 💡 未伴隨音色庫選擇訊息的程式切換訊息，會在目前選取的程式音色庫中生效。",
+      "after": "> 💡 未伴隨音色庫組選擇訊息的音色配置切換訊息，會在目前選取的音色配置音色庫中生效。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 222,
+      "before": "> 💡 如果您想向外部裝置發送程式切換訊息而不改變 Nord Stage 4 的狀態，請使用 Extern 模式的程式切換功能。",
+      "after": "> 💡 如果您想向外部裝置發送音色配置切換訊息而不改變 Nord Stage 4 的狀態，請使用 Extern 模式的音色配置切換功能。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 226,
+      "before": "## 本地控制開啟/關閉 / LOCAL CONTROL ON/OFF",
+      "after": "## 本機控制開啟/關閉 / LOCAL CONTROL ON/OFF"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 228,
+      "before": "**本地控制關閉（Local Control Off）**可以「斷開」Nord Stage 4 的鍵盤和面板與其音色引擎的連接。如果您在演奏時遇到「雙重觸發」音符（同時來自鍵盤內部和通過 MIDI「回路」），請關閉本地控制。本地控制的開啟/關閉在 MIDI 選單中設定（詳見第 59 頁）。",
+      "after": "**本機控制關閉（Local Control Off）**可以「斷開」Nord Stage 4 的鍵盤和面板與其音色引擎的連接。如果您在演奏時遇到「雙重觸發」音符（同時來自鍵盤內部和通過 MIDI「回路」），請關閉本機控制。本機控制的開啟/關閉在 MIDI 選單中設定（詳見第 59 頁）。"
+    },
+    {
+      "file": "ch10_midi.md",
+      "line": 232,
+      "before": "> ⚠️ 除標準控制器變更訊息外，某些面板控制器使用 NRPN 訊息來實現其 MIDI 功能。如果在本地控制關閉模式下操作 Nord Stage 4，確保 MIDI 選單中的 NRPN 設定為「Send/Receive」。",
+      "after": "> ⚠️ 除標準控制變更訊息訊息外，某些面板控制器使用 NRPN 訊息來實現其 MIDI 功能。如果在本機控制關閉模式下操作 Nord Stage 4，確保 MIDI 選單中的 NRPN 設定為「Send/Receive」。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 10,
+      "before": "選單透過按住 SHIFT 再按對應的程式按鈕（1-8）來存取，提供與 Nord Stage 4 所有功能相關的廣泛設定。在選單中所做的設定會立即生效，並儲存直到再次更改為止。",
+      "after": "選單透過按住 SHIFT 再按對應的音色配置按鈕（1-8）來存取，提供與 Nord Stage 4 所有功能相關的廣泛設定。在選單中所做的設定會立即生效，並儲存直到再次更改為止。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 14,
+      "before": "> 💡 MIDI 本地控制的開啟/關閉設定是例外，每次 Nord Stage 4 開機時都會恢復為本地控制開啟（Local Control On）。",
+      "after": "> 💡 MIDI 本機控制的開啟/關閉設定是例外，每次 Nord Stage 4 開機時都會恢復為本機控制開啟（Local Control On）。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 18,
+      "before": "大多數設定是全域性的（無論目前載入哪個程式都適用），而其他設定——例如每程式輸出路由設定、Extern 和 Aux KB 選單設定——則每個程式獨立儲存。",
+      "after": "大多數設定是全域性的（無論目前載入哪個音色配置都適用），而其他設定——例如每音色配置輸出訊號路由設定、Extern 和 Aux KB 選單設定——則每個音色配置獨立儲存。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 22,
+      "before": "**進入選單**：按住 SHIFT 再按對應的程式按鈕。用 PAGE 3 和 4 按鈕瀏覽頁面，用 PROGRAM 旋鈕更改設定。按 EXIT（Shift）離開選單。",
+      "after": "**進入選單**：按住 SHIFT 再按對應的音色配置按鈕。用 PAGE 3 和 4 按鈕瀏覽頁面，用 PROGRAM 控制旋鈕更改設定。按 EXIT（Shift）離開選單。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 36,
+      "before": "Nord Stage 4 出廠時記憶體保護設定為「開啟（On）」，以防止意外覆蓋程式或合成器預設音色。設定為「關閉（Off）」可啟用所有儲存操作。選單設定和八個即時程式不受此設定影響。",
+      "after": "Nord Stage 4 出廠時記憶體保護設定為「開啟（On）」，以防止意外覆蓋音色配置或合成器預設音色。設定為「關閉（Off）」可啟用所有儲存操作。選單設定和八個即時音色配置不受此設定影響。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 44,
+      "before": "此設定允許以半音為單位移調整個 Nord Stage 4。此設定會加到程式中儲存的面板移調值上。",
+      "after": "此設定允許以半音為單位移調整個 Nord Stage 4。此設定會加到音色配置中儲存的面板移調值上。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 68,
+      "before": "此操作將所有選單設定（系統、音色、輸出、踏板、MIDI 和 Extern）恢復為預設值。每程式儲存的設定（如 Aux KB 指定和每區段/音層的輸出匯流排設定）不受影響。",
+      "after": "此操作將所有選單設定（系統、音色、輸出、踏板、MIDI 和 Extern）恢復為預設值。每音色配置儲存的設定（如 Aux KB 指定和每區段/音層的輸出匯流排設定）不受影響。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 72,
+      "before": "按重置軟按鍵（Program 4），然後按「Yes」（Program 3 按鈕）確認，將所有選單設定恢復為原廠預設值。",
+      "after": "按重置功能鍵（Program 4），然後按「Yes」（Program 3 按鈕）確認，將所有選單設定恢復為原廠預設音色。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 92,
+      "before": "### 1 - 程式音量 / PROGRAM LEVELS",
+      "after": "### 1 - 音色配置音量 / PROGRAM LEVELS"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 94,
+      "before": "透過調整所有音層音量來調整目前載入程式的總輸出音量。注意：需要儲存程式才能保留調整。",
+      "after": "透過調整所有音層音量來調整目前載入音色配置的總輸出音量。注意：需要儲存音色配置才能保留調整。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 98,
+      "before": "### 2 - 鋼琴踏板噪音音量 / PIANO PEDAL NOISE LEVEL",
+      "after": "### 2 - 鋼琴踏板機械聲音量 / PIANO PEDAL NOISE LEVEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 100,
+      "before": "設定踏板噪音的音量，此功能在連接了 Nord Triple Pedal 後，可為特定鋼琴音色開啟。",
+      "after": "設定踏板機械聲的音量，此功能在連接了 Nord Triple Pedal 後，可為特定鋼琴音色開啟。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 130,
+      "before": "### 6 - B3 風琴按鍵噪音 / B3 ORGAN CLICK LEVEL",
+      "after": "### 6 - B3 風琴按鍵咔嗒聲 / B3 ORGAN CLICK LEVEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 132,
+      "before": "設定 B3 風琴模型的按鍵噪音音量。",
+      "after": "設定 B3 風琴模型的按鍵咔嗒聲音量。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 140,
+      "before": "設定低頻轉子和高頻喇叭之間的平衡，以百分比定義。",
+      "after": "設定低頻轉子和高頻號角之間的平衡，以百分比定義。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 162,
+      "before": "### 10 - 旋轉喇叭高頻喇叭速度 / ROTARY HORN SPEED",
+      "after": "### 10 - 旋轉喇叭高頻號角速度 / ROTARY HORN SPEED"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 164,
+      "before": "決定旋轉喇叭高頻喇叭的速度。",
+      "after": "決定旋轉喇叭高頻號角的速度。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 170,
+      "before": "### 11 - 旋轉喇叭高頻喇叭加速度 / ROTARY HORN ACCELERATION",
+      "after": "### 11 - 旋轉喇叭高頻號角加速度 / ROTARY HORN ACCELERATION"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 172,
+      "before": "決定旋轉喇叭高頻喇叭的加速和減速時間。",
+      "after": "決定旋轉喇叭高頻號角的加速和減速時間。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 186,
+      "before": "> 💡 記得儲存選取的程式，以保留 Aux KB 設定。Aux KB MIDI 頻道在 MIDI 選單中設定。",
+      "after": "> 💡 記得儲存選取的音色配置，以保留 Aux KB 設定。Aux KB MIDI 通道在 MIDI 選單中設定。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 192,
+      "before": "決定目前選取的程式是否啟用 Aux KB 功能。第二頁的配置設定需要將此設定為「On」才能生效。",
+      "after": "決定目前選取的音色配置是否啟用 Aux KB 功能。第二頁的配置設定需要將此設定為「On」才能生效。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 200,
+      "before": "使用風琴、鋼琴和合成器軟按鍵，轉動程式旋鈕調整每個區段各音層的配置。例如：要從輔助鍵盤控制風琴的音層 B，將風琴設定為「-B」。不屬於 Aux KB 配置的音層以破折號「-」表示。",
+      "after": "使用風琴、鋼琴和合成器功能鍵，轉動音色配置控制旋鈕調整每個區段各音層的配置。例如：要從輔助鍵盤控制風琴的音層 B，將風琴設定為「-B」。不屬於 Aux KB 配置的音層以破折號「-」表示。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 208,
+      "before": "### 3 - 鍵盤曲線 / KEYBOARD CURVE",
+      "after": "### 3 - 觸鍵力度曲線 / KEYBOARD CURVE"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 210,
+      "before": "決定 Aux KB 頻道傳入 MIDI 音符的力度縮放。根據輔助鍵盤是否具有非配重或全配重琴鍵，以及製造商的不同，可能需要調整此設定以在演奏 NS4 音色時獲得適當控制。",
+      "after": "決定 Aux KB 通道傳入 MIDI 音符的力度縮放。根據輔助鍵盤是否具有非配重或全配重琴鍵，以及製造商的不同，可能需要調整此設定以在演奏 NS4 音色時獲得適當控制。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 226,
+      "before": "### 1 - 輸出路由模式 / OUTPUT ROUTING MODE",
+      "after": "### 1 - 輸出訊號路由模式 / OUTPUT ROUTING MODE"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 228,
+      "before": "有兩種不同的輸出路由選項：**全域（Global）**和**每程式（Per Program）**。在全域模式下，區段和音層直接指定到實體輸出（1-4）。在每程式模式下，區段和音層指定到每程式儲存的匯流排，再由匯流排指定到實體輸出。",
+      "after": "有兩種不同的輸出訊號路由選項：**全域（Global）**和**每音色配置（Per Program）**。在全域模式下，區段和音層直接指定到實體輸出（1-4）。在每音色配置模式下，區段和音層指定到每音色配置儲存的匯流排，再由匯流排指定到實體輸出。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 234,
+      "before": "### 2 - 輸出匯流排頻道（每程式）/ OUTPUT BUS CHANNELS (PER PROGRAM)",
+      "after": "### 2 - 輸出匯流排通道（每音色配置）/ OUTPUT BUS CHANNELS (PER PROGRAM)"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 236,
+      "before": "在每程式輸出路由模式下，輸出路由透過匯流排系統管理。有一個主匯流排（Main Bus）和三個子匯流排，標記為 I、II 和 III。預設情況下，所有區段和音層指定到主匯流排，主匯流排預設路由到輸出 1+2。",
+      "after": "在每音色配置輸出訊號路由模式下，輸出訊號路由透過匯流排系統管理。有一個主匯流排（Main Bus）和三個子匯流排，標記為 I、II 和 III。預設情況下，所有區段和音層指定到主匯流排，主匯流排預設路由到輸出 1+2。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 240,
+      "before": "**單聲道輸出**：若需要單聲道輸出，將使用中的匯流排設定為使用單一輸出頻道（1、2、3 或 4），鋼琴音色會針對單聲道優化，立體聲效果也會調整為單聲道使用。",
+      "after": "**單聲道輸出**：若需要單聲道輸出，將使用中的匯流排設定為使用單一輸出通道（1、2、3 或 4），鋼琴音色會針對單聲道優化，立體聲效果也會調整為單聲道使用。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 249,
+      "before": "### 3 - 風琴/旋轉喇叭輸出頻道/匯流排 / ORGAN/ROTARY OUTPUT CHANNEL/BUS",
+      "after": "### 3 - 風琴/旋轉喇叭輸出通道/匯流排 / ORGAN/ROTARY OUTPUT CHANNEL/BUS"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 251,
+      "before": "此設定決定兩個風琴音層和旋轉喇叭分別使用哪個輸出頻道（全域模式）或匯流排（每程式模式）。",
+      "after": "此設定決定兩個風琴音層和旋轉喇叭分別使用哪個輸出通道（全域模式）或匯流排（每音色配置模式）。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 255,
+      "before": "為旋轉喇叭選擇箭頭（←）時，其輸出頻道或匯流排將跟隨風琴。設定為「Auto」時，旋轉喇叭對應風琴、鋼琴 A/B 或合成器 A/B/C 的輸出設定——按優先順序排列。",
+      "after": "為旋轉喇叭選擇箭頭（←）時，其輸出通道或匯流排將跟隨風琴。設定為「Auto」時，旋轉喇叭對應風琴、鋼琴 A/B 或合成器 A/B/C 的輸出設定——按優先順序排列。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 259,
+      "before": "### 4 - 鋼琴輸出頻道/匯流排 / PIANO OUTPUT CHANNEL/BUS",
+      "after": "### 4 - 鋼琴輸出通道/匯流排 / PIANO OUTPUT CHANNEL/BUS"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 261,
+      "before": "決定鋼琴 A 和 B 音層各自的輸出頻道或匯流排。為鋼琴 B 選擇箭頭（←）時，其輸出頻道或匯流排對應鋼琴 A 的設定。",
+      "after": "決定鋼琴 A 和 B 音層各自的輸出通道或匯流排。為鋼琴 B 選擇箭頭（←）時，其輸出通道或匯流排對應鋼琴 A 的設定。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 265,
+      "before": "### 5 - 合成器輸出頻道/匯流排 / SYNTH OUTPUT CHANNEL/BUS",
+      "after": "### 5 - 合成器輸出通道/匯流排 / SYNTH OUTPUT CHANNEL/BUS"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 267,
+      "before": "決定合成器 A、B 和 C 音層各自的輸出頻道或匯流排。為合成器 B 或 C 選擇箭頭（←）時，其輸出頻道或匯流排對應左側音層。",
+      "after": "決定合成器 A、B 和 C 音層各自的輸出通道或匯流排。為合成器 B 或 C 選擇箭頭（←）時，其輸出通道或匯流排對應左側音層。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 276,
+      "before": "輸出概覽頁面顯示所有目前的輸出設定，並允許從單一頁面更改任何這些設定。在每程式輸出路由模式下顯示每個音層指定的匯流排，在全域模式下顯示實體輸出編號（1-4）。",
+      "after": "輸出概覽頁面顯示所有目前的輸出設定，並允許從單一頁面更改任何這些設定。在每音色配置輸出訊號路由模式下顯示每個音層指定的匯流排，在全域模式下顯示實體輸出編號（1-4）。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 308,
+      "before": "### 2 - 表情踏板 / SWELL PEDAL",
+      "after": "### 2 - 風琴表情踏板 / SWELL PEDAL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 314,
+      "before": "**功能（FUNC）**：設定 Swell 踏板的目標。設為「Swell」讓踏板作為風琴的 Swell 踏板；設為「Volume」讓其控制所有 Nord Stage 4 音色引擎的音量；設為「Wheel Morph」讓 Swell 踏板鏡像調製輪的 Morph 功能。",
+      "after": "**功能（FUNC）**：設定 Swell 踏板的目標。設為「Swell」讓踏板作為風琴的 Swell 踏板；設為「Volume」讓其控制所有 Nord Stage 4 音色引擎的音量；設為「Wheel Morph」讓 Swell 踏板鏡像調變輪的 Morph 功能。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 338,
+      "before": "**關於「用戶指定（User Assigned）」設定**：設定為「User Assigned」時，左踏板或中間踏板用於以下在 Nord Stage 4 面板上活躍的功能：主時鐘踏板節拍輸入、音層場景 II 踏板、合成器顫音踏板、踏板模式下的 Pump 效果。",
+      "after": "**關於「用戶指定（User Assigned）」設定**：設定為「User Assigned」時，左踏板或中間踏板用於以下在 Nord Stage 4 面板上活躍的功能：主節拍時鐘踏板拍速輸入、音層場景 II 踏板、合成器音高顫音踏板、踏板模式下的 Pump 效果。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 348,
+      "before": "### 5 - 旋轉踏板 / ROTOR PEDAL",
+      "after": "### 5 - 旋轉喇叭控制踏板 / ROTOR PEDAL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 388,
+      "before": "### 1 - 本地控制 / LOCAL CONTROL",
+      "after": "### 1 - 本機控制 / LOCAL CONTROL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 390,
+      "before": "MIDI 本地控制決定 Nord Stage 4 的鍵盤和面板控制器是否應控制內部樂器和程式，或只發送 MIDI。Local On 是正常的「演奏模式」。在 Local Off 模式下，面板和鍵盤動作只通過 MIDI 傳送。",
+      "after": "MIDI 本機控制決定 Nord Stage 4 的鍵盤和面板控制器是否應控制內部樂器和音色配置，或只發送 MIDI。Local On 是正常的「演奏模式」。在 Local Off 模式下，面板和鍵盤動作只通過 MIDI 傳送。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 396,
+      "before": "> 💡 本地控制在 Nord Stage 4 開機時始終預設為「On」。",
+      "after": "> 💡 本機控制在 Nord Stage 4 開機時始終預設為「On」。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 398,
+      "before": "### 2 - 全域頻道 / 輔助鍵盤 / GLOBAL CHANNEL / AUX KB",
+      "after": "### 2 - 全域通道 / 輔助鍵盤 / GLOBAL CHANNEL / AUX KB"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 400,
+      "before": "**全域頻道**：設定全域頻道的 MIDI 發送和接收頻道。全域頻道以 MIDI 訊號發送所有鍵盤、踏板和面板動作，也可作為接收頻道，完整控制整個 Stage 4。",
+      "after": "**全域通道**：設定全域通道的 MIDI 發送和接收通道。全域通道以 MIDI 訊號發送所有鍵盤、踏板和面板動作，也可作為接收通道，完整控制整個 Stage 4。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 404,
+      "before": "**輔助鍵盤頻道（AUX KEYBOARD CHANNEL）**：設定在使用 Aux KB 模式時接收來自外部鍵盤 MIDI 的頻道（詳見第 43 頁）。",
+      "after": "**輔助鍵盤通道（AUX KEYBOARD CHANNEL）**：設定在使用 Aux KB 模式時接收來自外部鍵盤 MIDI 的通道（詳見第 43 頁）。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 408,
+      "before": "### 3 - 風琴頻道 / ORGAN CHANNEL",
+      "after": "### 3 - 風琴通道 / ORGAN CHANNEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 410,
+      "before": "用此設定決定透過傳入 MIDI 控制兩個風琴音層的 MIDI 頻道。用軟按鍵切換風琴 A 和 B 的設定。使用 Sect（區段）On 設定可在音層 A 設定的頻道上定址風琴區的兩個音層。",
+      "after": "用此設定決定透過傳入 MIDI 控制兩個風琴音層的 MIDI 通道。用功能鍵切換風琴 A 和 B 的設定。使用 Sect（區段）On 設定可在音層 A 設定的通道上定址風琴區段的兩個音層。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 416,
+      "before": "### 4 - 鋼琴頻道 / PIANO CHANNEL",
+      "after": "### 4 - 鋼琴通道 / PIANO CHANNEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 418,
+      "before": "與風琴頻道設定相似，用於控制兩個鋼琴音層的 MIDI 頻道。",
+      "after": "與風琴通道設定相似，用於控制兩個鋼琴音層的 MIDI 通道。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 422,
+      "before": "### 5 - 合成器頻道 / SYNTH CHANNEL",
+      "after": "### 5 - 合成器通道 / SYNTH CHANNEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 424,
+      "before": "用此設定決定透過傳入 MIDI 控制三個合成器音層的 MIDI 頻道。",
+      "after": "用此設定決定透過傳入 MIDI 控制三個合成器音層的 MIDI 通道。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 428,
+      "before": "### 6 - Extern 頻道 / EXTERN CHANNEL",
+      "after": "### 6 - Extern 通道 / EXTERN CHANNEL"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 430,
+      "before": "設定設定為 Extern 模式的合成器音層 A、B 和 C 的發送 MIDI 頻道。用軟按鍵切換 Extern A、B 和 C 的設定。注意：這是全域設定，無論選取哪個程式都會影響 Extern MIDI 頻道。",
+      "after": "設定設定為 Extern 模式的合成器音層 A、B 和 C 的發送 MIDI 通道。用功能鍵切換 Extern A、B 和 C 的設定。注意：這是全域設定，無論選取哪個音色配置都會影響 Extern MIDI 通道。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 436,
+      "before": "**類型（TYPE）**：某些面板控制器（尤其是使用顯示幕的控制器，如合成器顫音、琶音器和 LFO）使用 NRPN 訊息而非標準控制器變更。在本地控制關閉模式下操作 Nord Stage 4 時，確保此設定為「CC & NRPN」以實現完整功能。",
+      "after": "**類型（TYPE）**：某些面板控制器（尤其是使用顯示幕的控制器，如合成器音高顫音、琶音器和 LFO）使用 NRPN 訊息而非標準控制變更訊息。在本機控制關閉模式下操作 Nord Stage 4 時，確保此設定為「CC & NRPN」以實現完整功能。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 440,
+      "before": "**CTRL（控制器）**：設定 Nord Stage 4 是否在全域頻道上發送和/或接收 MIDI CC 和 NRPN 訊息。",
+      "after": "**CTRL（控制器）**：設定 Nord Stage 4 是否在全域通道上發送和/或接收 MIDI CC 和 NRPN 訊息。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 444,
+      "before": "**DEV（裝置）**：設定 Nord Stage 4 是否在全域頻道上發送和/或接收裝置 MIDI 訊息。裝置是指產生和發送 MIDI 但不受控制器變更濾波影響的物理控制器，包括：音調彎曲、調製輪、後觸鍵、延音踏板、控制踏板、表情踏板、音量（Swell 設為 Volume）。",
+      "after": "**DEV（裝置）**：設定 Nord Stage 4 是否在全域通道上發送和/或接收裝置 MIDI 訊息。裝置是指產生和發送 MIDI 但不受控制變更訊息濾波影響的物理控制器，包括：音高彎音、調變輪、二段觸鍵感應、延音踏板、控制踏板、表情踏板、音量（Swell 設為 Volume）。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 448,
+      "before": "### 8 - 程式切換模式 / PROGRAM CHANGE MODE",
+      "after": "### 8 - 音色配置切換模式 / PROGRAM CHANGE MODE"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 450,
+      "before": "**PC（程式切換）**：決定 Nord Stage 4 是否在全域頻道上發送和/或接收 MIDI 程式切換訊息。",
+      "after": "**PC（音色配置切換）**：決定 Nord Stage 4 是否在全域通道上發送和/或接收 MIDI 音色配置切換訊息。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 452,
+      "before": "> 💡 此設定不影響 Extern 頻道上的程式切換訊息。",
+      "after": "> 💡 此設定不影響 Extern 通道上的音色配置切換訊息。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 456,
+      "before": "**PC EXT（擴展程式切換）**：決定預設音色庫音色庫的程式切換和音色庫選擇訊息是否被發送和/或接收。",
+      "after": "**PC EXT（擴展音色配置切換）**：決定預設音色庫音色庫的音色配置切換和音色庫組選擇訊息是否被發送和/或接收。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 462,
+      "before": "設定為「In」時，任何活躍的移調值（全域和/或每程式設定的）不會套用到傳出的 MIDI 資料流，只套用到傳入的 MIDI 資料。設定為「Out」時，移調值影響發送的 MIDI 音符但不影響傳入的音符。",
+      "after": "設定為「In」時，任何活躍的移調值（全域和/或每音色配置設定的）不會套用到傳出的 MIDI 資料流，只套用到傳入的 MIDI 資料。設定為「Out」時，移調值影響發送的 MIDI 音符但不影響傳入的音符。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 485,
+      "before": "> 💡 Extern 選單上的大多數項目在 Extern 音層 A、B 和 C 有各自的條目，使用對應的軟按鍵在它們之間切換。大多數 Extern 選單設定會隨程式儲存，唯一例外是 MIDI 選單中的「Extern MIDI A/B/C Channel」設定。",
+      "after": "> 💡 Extern 選單上的大多數項目在 Extern 音層 A、B 和 C 有各自的條目，使用對應的功能鍵在它們之間切換。大多數 Extern 選單設定會隨音色配置儲存，唯一例外是 MIDI 選單中的「Extern MIDI A/B/C Channel」設定。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 489,
+      "before": "### 1 - 回聲全域到 Extern 頻道 / ECHO GLOBAL TO EXTERN CH",
+      "after": "### 1 - 轉送全域至 Extern 通道 / ECHO GLOBAL TO EXTERN CH"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 491,
+      "before": "傳入的與全域頻道相符的 MIDI，如果 Extern 模式在目前程式中活躍，可以被重新路由，從 Extern 頻道輸出。此設定決定是否應套用此重新路由。",
+      "after": "傳入的與全域通道相符的 MIDI，如果 Extern 模式在目前音色配置中活躍，可以被重新路由，從 Extern 通道輸出。此設定決定是否應套用此重新路由。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 497,
+      "before": "### 2 - 鍵盤力度 A/B/C / KEYBOARD VELOCITY A/B/C",
+      "after": "### 2 - 觸鍵感應力度 A/B/C / KEYBOARD VELOCITY A/B/C"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 499,
+      "before": "此設定決定在 Extern MIDI 頻道上發送資料時，每個面板的鍵盤力度曲線。Soft 設定使產生高力度值更容易，Hard 設定使其更難。",
+      "after": "此設定決定在 Extern MIDI 通道上發送資料時，每個面板的觸鍵感應力度曲線。Soft 設定使產生高力度值更容易，Hard 設定使其更難。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 503,
+      "before": "### 3-5 - 音色庫選擇/程式切換 A/B/C / BANK SELECT / PROG CHANGE A/B/C",
+      "after": "### 3-5 - 音色庫組選擇/音色配置切換 A/B/C / BANK SELECT / PROG CHANGE A/B/C"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 505,
+      "before": "完整的程式切換訊息由三部分組成：音色庫選擇 MSB 值、音色庫選擇 LSB 值和程式切換值。程式切換值也可以在合成器顯示幕中用最右側的旋鈕設定。",
+      "after": "完整的音色配置切換訊息由三部分組成：音色庫組選擇 MSB 值、音色庫組選擇 LSB 值和音色配置切換值。音色配置切換值也可以在合成器顯示幕中用最右側的旋鈕設定。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 509,
+      "before": "> 💡 如果「Send On Load」設定設為「On」，當載入程式時，Nord Stage 4 可以自動發送音色庫選擇/程式切換訊息。",
+      "after": "> 💡 如果「Send On Load」設定設為「On」，當載入音色配置時，Nord Stage 4 可以自動發送音色庫組選擇/音色配置切換訊息。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 511,
+      "before": "**程式切換 MSB 範圍**：0-127、--（關閉）（預設 --）",
+      "after": "**音色配置切換 MSB 範圍**：0-127、--（關閉）（預設 --）"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 512,
+      "before": "**程式切換 LSB 範圍**：0-127、--（關閉）（預設 --）",
+      "after": "**音色配置切換 LSB 範圍**：0-127、--（關閉）（預設 --）"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 517,
+      "before": "可以為每個 Extern 音層定義兩個獨立的控制器變更（CC）編號。其值從合成器顯示幕使用左側和中間旋鈕控制和儲存。",
+      "after": "可以為每個 Extern 音層定義兩個獨立的控制變更訊息（CC）編號。其值從合成器顯示幕使用左側和中間旋鈕控制和儲存。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 525,
+      "before": "對於每個 Extern 音層，可以決定是否發送由調製輪、後觸鍵、控制踏板、表情踏板和音量踏板產生的資料。如果任何設備不應產生 MIDI 資料，將其設定為 Off。",
+      "after": "對於每個 Extern 音層，可以決定是否發送由調變輪、二段觸鍵感應、控制踏板、表情踏板和音量踏板產生的資料。如果任何設備不應產生 MIDI 資料，將其設定為 Off。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 531,
+      "before": "> 💡 音調桿和延音踏板的 MIDI 使用合成器/Extern 區段中的 PSTICK（Shift+音層 B）和 SUSTPED（Shift+音層 A）控制器來開啟或關閉。",
+      "after": "> 💡 音高控制桿和延音踏板的 MIDI 使用合成器/Extern 區段中的 PSTICK（Shift+音層 B）和 SUSTPED（Shift+音層 A）控制器來開啟或關閉。"
+    },
+    {
+      "file": "ch11_menus.md",
+      "line": 535,
+      "before": "此設定切換 Extern 模式中的程式切換（PC）、音量（Vol）或用戶自定義 MIDI CC（UsrCC）訊息設定，是否應在選取程式時自動發送。",
+      "after": "此設定切換 Extern 模式中的音色配置切換（PC）、音量（Vol）或用戶自定義 MIDI CC（UsrCC）訊息設定，是否應在選取音色配置時自動發送。"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 10,
+      "before": "Nord Sound Manager 是每位 Nord Stage 4 用戶的必備應用程式，讓你可以存取、修改和備份 Nord Stage 4 各個記憶體區域中的內容。從版本 9 起，這個應用程式還直接提供 Nord Piano Library（鋼琴音色庫）和 Nord Sample Library（樣本音色庫）的存取功能，讓你可以直接從線上音色庫下載音色到樂器。",
+      "after": "Nord Sound Manager（官方音色管理工具）是每位 Nord Stage 4 用戶的必備應用程式，讓你可以存取、修改和備份 Nord Stage 4 各個記憶體區域中的內容。從版本 9 起，這個應用程式還直接提供 Nord Piano Library（鋼琴音色庫）和 Nord Sample Library（取樣音色庫）的存取功能，讓你可以直接從線上音色庫下載音色到樂器。"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 18,
+      "before": "- 整理和命名程式及預設音色 / Organizing and naming Programs and Presets",
+      "after": "- 整理和命名音色配置及預設音色 / Organizing and naming Programs and Presets"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 19,
+      "before": "- 下載新鋼琴音色到鋼琴分區 / Downloading new Piano sounds to the Piano partition",
+      "after": "- 下載新鋼琴音色到鋼琴儲存分區 / Downloading new Piano sounds to the Piano partition"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 20,
+      "before": "- 下載新樣本到樣本分區 / Downloading new Samples to the Sample partition",
+      "after": "- 下載新取樣音色到取樣音色儲存分區 / Downloading new Samples to the Sample partition"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 21,
+      "before": "- 下載預設音色到風琴、鋼琴和合成器預設音色分區 / Downloading Presets to the Organ, Piano and Synth Preset partitions",
+      "after": "- 下載預設音色到風琴、鋼琴和合成器預設音色儲存分區 / Downloading Presets to the Organ, Piano and Synth Preset partitions"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 22,
+      "before": "- 將程式或預設音色從 Nord Stage 4 上傳到電腦 / Uploading Programs or Presets from the Nord Stage 4 to a computer",
+      "after": "- 將音色配置或預設音色從 Nord Stage 4 上傳到電腦 / Uploading Programs or Presets from the Nord Stage 4 to a computer"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 23,
+      "before": "- 上傳包含程式及其關聯鋼琴和樣本檔案的組合包 / Uploading bundles containing programs and their associated piano and sample files",
+      "after": "- 上傳包含音色配置及其關聯鋼琴和取樣資料檔案的音色包 / Uploading bundles containing programs and their associated piano and sample files"
+    },
+    {
+      "file": "ch12_nord_sound_manager.md",
+      "line": 38,
+      "before": "> 💡 Windows 用戶需要 Nord USB Driver 版本 v4.0 或更新版本。驅動程式已隨 Nord Sound Manager 安裝程式及所有 OS 安裝程式一起提供，也可從 www.nordkeyboards.com 單獨下載。",
+      "after": "> 💡 Windows 用戶需要 Nord USB Driver 版本 v4.0 或更新版本。驅動程式已隨 Nord Sound Manager 安裝音色配置及所有 OS 安裝音色配置一起提供，也可從 www.nordkeyboards.com 單獨下載。"
+    },
+    {
+      "file": "ch13_nord_sample_editor.md",
+      "line": 14,
+      "before": "Nord Sample Editor 4 是一個用於為 Nord Stage 4 建立自訂樣本樂器的工具。只需按下錄音按鈕，或將音頻檔案（.wav 或 .aiff 格式）拖放到所需琴鍵上，在波形編輯器中設定開始點、結束點和循環點，你的自訂樣本就可以傳輸到連接的 Nord Stage 4 了！",
+      "after": "Nord Sample Editor 4（取樣編輯工具）是一個用於為 Nord Stage 4 建立自訂取樣音色樂器的工具。只需按下錄音按鈕，或將音頻檔案（.wav 或 .aiff 格式）拖放到所需琴鍵上，在波形編輯器中設定開始點、結束點和循環點，你的自訂取樣音色就可以傳輸到連接的 Nord Stage 4 了！"
+    },
+    {
+      "file": "ch13_nord_sample_editor.md",
+      "line": 24,
+      "before": "- 拖放單個或多個樣本 / Drag and drop single or multiple samples",
+      "after": "- 拖放單個或多個取樣音色 / Drag and drop single or multiple samples"
+    },
+    {
+      "file": "appendix.md",
+      "line": 22,
+      "before": "**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出路由到 CH 1&2 的所有音頻。",
+      "after": "**耳機（HEADPHONES）**：1/4 吋立體聲耳機插孔，輸出訊號路由到 CH 1&2 的所有音頻。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 26,
+      "before": "**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻頻道有獨立的訊號路徑。",
+      "after": "**OUT 1&2、OUT 3&4**：1/4 吋非平衡線路輸出，用於擴大機或錄音設備。Nord Stage 4 是立體聲樂器，左右音頻通道有獨立的訊號路徑。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 34,
+      "before": "**監聽輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監聽輸入訊號路由到耳機和 Out 1&2。",
+      "after": "**監控輸入（MONITOR IN）**：1/8 吋插孔，用於連接智慧型手機、平板電腦或電腦。適合隨預錄音樂或節拍器練習，或在台上使用額外音源。監控輸入訊號路由到耳機和 Out 1&2。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 44,
+      "before": "**MIDI IN**：5 針 MIDI 輸入連接埠，用於接收從外部裝置（如控制器鍵盤、音序器或電腦）發送的 MIDI 資料。",
+      "after": "**MIDI IN**：5 針 MIDI 輸入連接埠，用於接收從外部裝置（如控制器鍵盤、編曲機或電腦）發送的 MIDI 資料。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 80,
+      "before": "**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區的 Swell 踏板、全域音量控制或鏡像調製輪 Morph 功能。",
+      "after": "**風琴 Swell 插孔（ORGAN SWELL）**：1/4 吋連接埠，用於表情踏板，可作為風琴區段的 Swell 踏板、全域音量控制或鏡像調變輪 Morph 功能。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 84,
+      "before": "**腳踏開關（FOOT SWITCH）**：1/4 吋連接埠，用於一個或兩個按鈕的瞬時踏板。腳踏開關可以指定多種功能，如切換程式、在音層場景之間切換或控制特定效果。",
+      "after": "**腳踏開關（FOOT SWITCH）**：1/4 吋連接埠，用於一個或兩個按鈕的瞬時踏板。腳踏開關可以指定多種功能，如切換音色配置、在音層場景之間切換或控制特定效果。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 92,
+      "before": "**旋轉踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。",
+      "after": "**旋轉喇叭控制踏板（ROTOR PEDAL）**：1/4 吋連接埠，用於開關類型踏板，用於在旋轉喇叭效果的慢速/停止和快速轉子速度之間切換。踏板可以在保持（Hold）或切換（Toggle）模式下工作，在踏板選單中設定。"
+    },
+    {
+      "file": "appendix.md",
+      "line": 244,
+      "before": "| Program | 程式 |",
+      "after": "| Program | 音色配置 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 252,
+      "before": "| Morph | 變形控制 |",
+      "after": "| Morph | Morph 多參數控制 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 254,
+      "before": "| Master Clock | 主時鐘 |",
+      "after": "| Master Clock | 主節拍時鐘 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 259,
+      "before": "| Solo | 獨奏監聽 |",
+      "after": "| Solo | 獨奏 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 263,
+      "before": "| Drawbars | 音桿 |",
+      "after": "| Drawbars | 音栓拉桿 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 269,
+      "before": "| Aftertouch | 後觸鍵 |",
+      "after": "| Aftertouch | 二段觸鍵感應 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 273,
+      "before": "| Envelope | 包絡 |",
+      "after": "| Envelope | 包絡線 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 280,
+      "before": "| Chorus | 合唱效果 |",
+      "after": "| Chorus | 合聲效果 |"
+    },
+    {
+      "file": "appendix.md",
+      "line": 283,
+      "before": "| Ring Modulation | 環形調製 |",
+      "after": "| Ring Modulation | 環形調變 |"
+    },
+    {
+      "file": "SUMMARY.md",
+      "line": 17,
+      "before": "- [第四章：風琴區 / Organ Section](ch04_organ_section.md)",
+      "after": "- [第四章：風琴區段 / Organ Section](ch04_organ_section.md)"
+    },
+    {
+      "file": "SUMMARY.md",
+      "line": 23,
+      "before": "- [第七章：程式管理 / Program](ch07_program.md)",
+      "after": "- [第七章：音色配置管理 / Program](ch07_program.md)"
+    }
+  ]
+}
