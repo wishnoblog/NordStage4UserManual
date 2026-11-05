@@ -2,8 +2,6 @@
 
 ![Page 11](img/ch03/page_11.png)
 
-![圖 1](img/ch03/fig_01_p13.png)
-
 
 ---
 
@@ -42,6 +40,8 @@ Programs are organized into 8 banks, labeled A-H. All programs can be edited and
 
 ### 選擇程式 / SELECT A PROGRAM
 
+![alt text](SELECT_A_PROGRAM.png)
+
 1. 按下顯示器下方的任意八個程式按鈕即可選擇程式。PAGE ◄/► 按鈕用於導覽程式頁面——每頁為一組 8 個程式。Nord Stage 4 上的每個程式資料庫最多可包含 64 個程式，分為 8 個程式頁。  
    Programs are selected by pressing any of the eight PROGRAM buttons, located below the display. The PAGE ◄/► buttons are used to navigate program pages – a page being a group of 8 programs. A Program bank on the Nord Stage 4 can contain up to 64 programs divided into 8 program pages.
 
@@ -55,7 +55,9 @@ Programs are organized into 8 banks, labeled A-H. All programs can be edited and
 
 ## 面板控制器 / PANEL CONTROLS
 
-### 旋鈕與編碼器 / DIALS AND KNOBS
+### 旋鈕與刻度旋鈕 / DIALS AND KNOBS
+
+![alt text](page_11MODEL.png)
 
 Nord Stage 4 上的旋鈕是沒有固定起點或終點的無限旋鈕，用於以步進方式導覽參數和設定。在本手冊中，旋鈕有時也稱為編碼器。
 
@@ -64,9 +66,13 @@ The dials on the Nord Stage 4 are knobs without fixed start or stop positions, u
 > **提示**：按住程式區中的 MONITOR 按鈕，同時轉動旋鈕，可在顯示器中查看參數的已儲存設定，而不會改變它。  
 > Hold the MONITOR button – found in the Program section – and turn a knob to view the stored setting of a parameter in the display without changing it.
 
+![alt text](Potentiometer.png)
+
 電位器式旋鈕用於 Nord Stage 4 上的大多數參數。載入程式時，這些旋鈕的物理位置在大多數情況下不會對應實際的參數值。但是，一旦轉動旋鈕，其關聯的參數值就會「跳到」旋鈕的位置。
 
 Potentiometer-type knobs are used for most parameters on the Nord Stage 4. When a program is loaded the physical positions of these knobs will in most cases not correspond to the actual parameter values. As soon as a knob is turned however, its associated parameter value will "snap" to the knob's position.
+
+![alt text](Knobs.png)
 
 可作為 Morph 目標的旋鈕配備綠色 Morph LED，位於旋鈕左下方，當 Morph 指向該參數時會亮起。更多關於 Morph 的說明請參閱第 37 頁。
 
@@ -74,31 +80,35 @@ Knobs that can serve as a Morph destination are equipped with green Morph LEDs. 
 
 ### 音量推桿 / FADERS
 
+![alt text](FADERS.png)
+
 A/B/C 音層推桿由實體滑桿和 LED 顯示組成，提供該音層當前音量的視覺指示。
 
 Layer A / B / C faders consist of a physical slider and an LED graph which provides a visual indication of the current volume level of a Layer.
 
----
-
-![Page 12](img/ch03/page_12.png)
-
----
-
 ### 按鈕 / BUTTONS
 
-選擇按鈕用於在陣列中選擇設定，配有一組圓形或三角形 LED 指示當前設定。多次按下可循環切換所有可用選項。
+![buttons](buttons.png)
+
+選擇按鈕用於在陣列中選擇設定，配有一組圓形或三角形 LED 指示燈，顯示目前設定。重複按下可循環切換選項。
 
 Selector buttons are used for selecting a setting in an array. They have a set of round or triangular LEDs to indicate its current setting. Press the button several times to cycle through the possible options.
 
-ON 按鈕用於啟動功能或一組功能（如效果），旁邊有 LED 指示開/關狀態。
+![ON按鈕](ON.png)
+
+ON 按鈕用於啟用功能或一組特效，旁邊有 LED 指示開/關狀態。
 
 ON buttons are used for activating a function or a group of functions such as effects and have a LED close to them to indicate the on/off status.
 
-合成器功能按鈕——以紅色框標示——（如所有包絡線按鈕）利用合成器區段顯示器及其三個旋鈕進行設定。
+![alt text](image.png)
+
+合成器功能按鈕——以紅色框標示——（紅框按鈕）利用合成器區段顯示器及其三個旋鈕進行設定。
 
 Synth Function buttons – indicated with a red frame – such as those for all envelopes, utilize the Synth Section display and its three dials for making settings.
 
 ### SHIFT 按鈕 / THE SHIFT BUTTON
+
+![SHIFT按鈕](SHIFT.png)
 
 Nord Stage 4 上的許多面板控制器都有輔助功能，印在控制器正下方。按住 SHIFT 並操作控制器即可存取這些附加功能。
 
@@ -116,6 +126,8 @@ Most Shift functions on the panel can also be activated by pressing down the but
 
 ### 按住與雙擊功能 / BUTTON HOLD AND DOUBLE TAP FUNCTIONS
 
+![DOUBLE TAP](<DOUBLE TAP.png>)
+
 某些按鈕（如主時鐘按鈕）可以按住以存取功能或進行額外設定，以文字旁的向下箭頭（↓）標示。
 
 Some buttons, such as that for the Master Clock, can be held down in order to access a function or make additional settings, indicated by the text being accompanied by a down arrow.
@@ -124,48 +136,52 @@ Some buttons, such as that for the Master Clock, can be held down in order to ac
 
 Button texts with double arrows, such as those for Section Edit and Morph Assign, can be double tapped in order to keep the function in its active state, without having to keep the button pressed down manually. This is sometimes referred to as "latch" or "sticky" mode, which can be exited by either pressing again on the button or on Shift/Exit.
 
-### 清單視圖 / LIST VIEW
+### 檢視清單 / LIST VIEW
+
+![alt text](image-1.png)
 
 任何下方標有 LIST 文字的旋鈕——如程式旋鈕——都可用於存取實用的清單視圖。
 
 Any dial that has LIST written below it - such as the Program dial - can be used to access a useful list view.
 
-1. 按 SHIFT 並轉動程式旋鈕，進入所有程式的清單視圖。  
+1. 按 SHIFT 並轉動 PROGRAM 旋鈕，進入所有程式的清單視圖。  
    Press SHIFT and turn the PROGRAM dial to enter a list view of all the Programs.
 
-2. 使用程式旋鈕在 8 個資料庫的任意程式中瀏覽。  
+2. 使用 PROGRAM 旋鈕在 8 個音色庫中瀏覽。  
    Browse to a Program in any of the 8 banks, using the PROGRAM dial.
 
-3. 再次按 SHIFT 退出清單視圖。  
+3. 再次按 SHIFT 退出LIST VIEW。  
    Press SHIFT again to EXIT the List view.
 
 > **提示**：鋼琴、預設音色庫和波形旋鈕的清單視圖功能方式完全相同。  
 > List views for the Piano, Preset Library and Waveform dials function in just the same way.
 
-### 程式顯示模式 / PROGRAM VIEW MODES
+### 音色配置顯示模式 / PROGRAM VIEW MODES
 
-PROG VIEW（程式視圖）按鈕可讓您在三種不同的顯示模式之間切換，根據需求提供多或少的資訊。
+
+
+PROG VIEW（音色配置檢視 Program View）按鈕可讓您在三種不同的顯示模式之間切換，根據需求提供多或少的資訊。
 
 The PROG VIEW (Program View) button lets you select between three distinct modes for what is shown in the Program display, providing more or less information as needed or desired.
 
-按 Prog View 按鈕試用每種模式：
+按 Prog View 按鈕進行每種模式的測試：
 
 Press the Prog View button to try out each of the modes:
 
-1. 第一種視圖模式僅顯示資料庫字母和程式編號以及程式名稱。顯示器下半部保留用於顯示操作面板控制器時的參數提示。  
+1. 第一種檢視模式僅顯示資料庫字母和程式編號以及程式名稱。顯示器下半部保留用於顯示操作面板控制器時的參數提示。  
    The first view mode shows only the Bank letter and Program number, as well as the Program name. The lower half of the display is reserved for parameter hints, shown when operating a panel control.
 
-2. 第二種視圖模式顯示與第一種模式相同的資訊，但另加了風琴、鋼琴和合成器區段的列，顯示當前聚焦音層中載入內容的資訊。  
+2. 第二種檢視模式顯示與第一種模式相同的資訊，但另加了一列關於風琴、鋼琴和合成器顯示區，顯示目前聚焦音層中內容的資訊。  
    The second view mode shows the same info as the first mode, but adds rows for the Organ, Piano and Synth Sections where information about what is loaded in the currently focused Layers is shown.
 
-3. 第三種視圖模式顯示所有音層的資訊，程式名稱和位置以較小的字型顯示在顯示器頂部。  
+3. 第三種檢視模式顯示所有音層的資訊，音色配置(Program)名稱和位置以較小的字型顯示在顯示器頂部。  
    The third view mode shows information about all Layers, with the Program name and location in smaller print at the top of the display.
 
 ---
 
-## 編輯程式 / EDIT A PROGRAM
+## 編輯音色配置 / EDIT A PROGRAM
 
-編輯程式就像轉動旋鈕或按下按鈕改變現有設定一樣簡單。讓我們快速試試：
+編輯音色配置(PROGRAM)就像轉動旋鈕或按下按鈕改變現有設定一樣簡單。讓我們快速試試：
 
 Editing a program is as easy as turning a knob or pressing a button, to change an existing setting. Let's give it a quick try:
 
@@ -177,16 +193,12 @@ Editing a program is as easy as turning a knob or pressing a button, to change a
 2. 轉動 PIANO SELECT 旋鈕瀏覽鋼琴音色。要切換不同類型的音色（Grand、Upright、Electric Piano 等），請使用 TYPE 按鈕。  
    Turn the PIANO SELECT dial to browse the piano sounds. To switch between sounds of different type (Grand, Upright, Electric Piano etc.) use the TYPE button.
 
----
+![alt text](fig_01_p13-1.png)
 
-![Page 13](img/ch03/page_13.png)
-
----
-
-3. 試著從清單視圖中選擇鋼琴音色，按 SHIFT 並轉動 PIANO SELECT 旋鈕即可進入清單視圖。再次按 Shift 退出清單視圖。  
+3. 試著從檢視清單(LIST view)中選擇鋼琴音色，按 SHIFT 並轉動 PIANO SELECT 旋鈕即可進入清單視圖。再次按 Shift 退出清單視圖。  
    Try selecting a piano sound from the LIST view, accessed by pressing SHIFT and turning the PIANO SELECT dial. Use Shift again to EXIT the list view.
 
-請注意，更改 Nord Stage 4 面板上的任何參數都會導致顯示器中當前程式編號旁出現「E」。這表示程式已被編輯但尚未儲存到記憶體中。如果在執行儲存操作之前選擇了新程式，所有編輯都將丟失，程式在下次載入時將恢復其原始設定。
+請注意，更改 Nord Stage 4 面板上的任何參數都會導致螢幕中當前程式編號旁出現「E」。這表示程式已被編輯但尚未儲存到記憶體中。如果在執行儲存操作之前選擇了新程式，所有編輯都將丟失，程式在下次載入時將恢復其原始設定。
 
 Note that changing any parameter on the Nord Stage 4 panel causes an "E" to appear next to the current program number in the display. This indicates that the program has been edited but not yet saved into memory. If a new program is selected prior to performing a Store operation any edits will be lost and the program will have its original settings the next time it is loaded.
 
@@ -211,16 +223,15 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 > **注意**：此設定與所有其他系統設定一樣，將永久儲存直到再次更改。從第 56 頁開始閱讀更多關於選單設定的資訊。  
 > This setting, like all other System settings, will be permanently stored until it is changed again. Read more about menu settings, starting on page 56.
 
-### 儲存程式 / STORE A PROGRAM
+### 儲存設定音色設定 / STORE A PROGRAM
 
 1. 按一下顯示器左側的 STORE 按鈕，開始儲存當前程式的過程。  
    Press the STORE button to the left of the display once, to begin the process of storing the current program.
 
-![圖 2](img/ch03/fig_02_p13.png)
-
-
 2. STORE LED 將開始閃爍，顯示器將詢問您要儲存程式的位置。  
    The STORE LED will begin to flash and the display will ask you for the location to where you want to store the program.
+
+![alt text](STORE.png)
 
 > **注意**：某些程式（如本例中的 A:21 White Grand）以鋼琴區段中的特定音色命名。請注意，如果您以不同的鋼琴儲存程式，此名稱不會更改，需要通過「另存為」操作或使用 Nord Sound Manager 手動設定。  
 > Some Programs, such as A:21 White Grand in this example, are named after a specific sound in the Piano section. Note that this name does not change if you store the Program with a different Piano selected, but needs to be manually set through a Store As operation, or by using the Nord Sound Manager.
@@ -241,21 +252,13 @@ When the Nord Stage 4 is shipped from factory its memory is protected to prevent
 
 Read more about Store and how to name a program in the Program chapter, on page 39.
 
-
-![圖 3](img/ch03/fig_03_p14.png)
-
-
-![圖 4](img/ch03/fig_04_p15.png)
-
-
-![圖 5](img/ch03/fig_05_p16.png)
-
-
-![圖 6](img/ch03/fig_06_p17.png)
-
 ### 即時模式 / LIVE MODE
 
-八個即時程式與其他程式不同，對其所做的所有編輯都會立即儲存——無需手動執行儲存操作。
+![alt text](LiveMode.png)
+
+> 翻譯:簡單說就是設定會及時儲存在指定的Prog鈕  
+
+八個即時音色配置(LIVE programs)與其他配置(programs)不同，對其所做的所有編輯都會立即儲存——無需手動執行儲存操作。
 
 The eight LIVE programs differ from other programs in that all edits made to them are instantly stored – without the need for a manual Store operation.
 
@@ -287,7 +290,9 @@ Press the Live Mode button again to exit Live Mode and return to the Program ban
 
 ## 區段與音層 / SECTIONS AND LAYERS
 
-Nord Stage 4 上的「區段」分別指面板上的 ORGAN（風琴）、PIANO（鋼琴）和 SYNTH（合成器）區域，包括各自的獨立音層。風琴和鋼琴區段各包含兩個音層，標記為 A 和 B，而合成器區段包含三個音層：A、B 和 C。
+![alt text](SECTIONS_AND_LAYERS.png)
+
+Nord Stage 4 上的「區段 SECTION」分別指面板上的 ORGAN（風琴）、PIANO（鋼琴）和 SYNTH（合成器）區域，包括各自的獨立音層。風琴和鋼琴區段各包含兩個音層，標記為 A 和 B，而合成器區段包含三個音層：A、B 和 C。
 
 A Section on the Nord Stage 4 refers to the ORGAN, PIANO and SYNTH areas of the panel respectively, including their individual Layers. The Organ and Piano Sections contain two Layers each, labeled A and B, while the Synth Section contains three Layers; A, B and C.
 
@@ -295,13 +300,9 @@ A Section on the Nord Stage 4 refers to the ORGAN, PIANO and SYNTH areas of the 
 
 Entire Sections can be turned On or Off by pressing the Section ON button.
 
----
-
-![Page 14](img/ch03/page_14.png)
-
----
-
 ### 開啟和關閉音層 / TURNING LAYERS ON AND OFF
+
+![alt text](<TURNING_LAYERS_ON_AND OFF.png>)
 
 在一個區段內，同時按下應啟動的音層的 ON/OFF 按鈕即可開啟音層。例如，當鋼琴 A 已開啟時，要添加鋼琴 B，同時按下兩個按鈕即可。要在兩個音層之間切換，按下未啟動的音層按鈕。
 
@@ -317,11 +318,13 @@ Layers are turned OFF by holding down a Layer button for a short moment, as indi
 
 ### 音層效果 / LAYER EFFECTS
 
+![alt text](LAYER_EFFECTS.png)
+
 Nord Stage 4 有專用的音層效果區段，提供大量不同效果，可按音層應用於音源。兩個鋼琴音層（A 和 B）和所有三個合成器音層（A、B 和 C）都有各自完整的效果組。兩個風琴音層 A 和 B 共用一個效果鏈。
 
 The Nord Stage 4 has a dedicated LAYER EFFECTS section, with a large selection of different effects that can be applied to sound sources on a per-Layer basis. Both PIANO Layers (A and B) and all three SYNTH Layers (A, B and C) have their own complete sets of effects. The two ORGAN Layers, A and B, share one effects chain.
 
-通過按下 ON 按鈕可以開啟或關閉音層效果區段（旁通所有效果）。
+通過按下 ON 按鈕可以開啟或關閉音層效果區段（關閉所有效果）。
 
 The Layer Effects Section can be turned on or off, which bypasses all effects, by pressing its ON button.
 
@@ -345,7 +348,7 @@ The FX Focus automatically follows the focus of Layer buttons in the Organ, Pian
 
 The current effect focus is indicated both by a yellow FX FOCUS LED next to each Section's On button, as well as by the LEDs in the FX Focus area.
 
-### 啟動效果 / ACTIVATE AN EFFECT
+### 啟用效果 / ACTIVATE AN EFFECT
 
 在仍選擇程式 A:21 的情況下，試試以下步驟為乾淨的鋼琴音色添加效果：
 
@@ -368,7 +371,9 @@ With Program A:21 still selected, try out these steps to add effects to the clea
 
 ### 載入預設值 / LOAD A PRESET
 
-Nord Stage 4 預設音色庫包含大量風琴、鋼琴和合成器區段的預設音色，可快速輕鬆地將包含效果的即用音色載入現有程式。在仍選擇程式 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色：
+![alt text](LOAD_A_PRESET.png)
+
+Nord Stage 4 預設音色庫(PRESET LIBRARY) 包含大量風琴、鋼琴和合成器區段的預設音色，可快速簡單地將包含效果的即用音色載入現有音效配置。在仍選擇程式 A:21 的情況下，讓我們嘗試從預設音色庫添加一個合成器音色：
 
 The Nord Stage 4 PRESET LIBRARY comes with a large number of Preset sounds for the Organ, Piano and Synth sections, making it quick and easy to load ready-to-use sounds, including effects, into existing Programs. With Program A:21 still selected, let's try adding a Synth sound from the Preset Library:
 
@@ -412,17 +417,13 @@ Let's add a Single Layer Preset to Piano B, for layering with the grand piano so
 
 ---
 
-## 建立分割 / CREATE A SPLIT
+## 建立分割(分區) / CREATE A SPLIT
 
 除了像上例那樣疊加音色，還可以使用分割功能將音色指定到鍵盤的不同區域。繼續使用上例的鋼琴和合成器組合，讓我們改為分割這些音色。
 
 Apart from layering sounds, like in the previous example, it is also possible to assign sounds to different zones of the keyboard, by using the SPLIT functionality. Continuing on the Piano and Synth combination from the previous example, let's split these sounds instead.
 
----
 
-![Page 15](img/ch03/page_15.png)
-
----
 
 1. 按一下位於程式區顯示器上方頂排的 SPLIT ON/SET 按鈕，這將在鍵盤中間「C4」處啟動一個分割點。  
    Press once on the SPLIT ON/SET button, located in the top row above the Program area display. This activates a single split point in the middle of the keyboard, at "C4".
@@ -481,6 +482,8 @@ You should now have a sound which consists of the Organ assigned to the entire k
 
 ## 音層場景 II / LAYER SCENE II
 
+![alt text](CREATE_A_SPLIT.png)
+
 音層場景功能允許創建兩個獨立的音層配置，每個配置中的個別音層或區段可以自由開啟或關閉。使用現有的風琴、鋼琴和合成器組合，讓我們改為創建一個設置，在風琴和鋼琴/合成器組合之間切換：
 
 The Layer Scene functionality allows for creating two independent Layer configurations where individual Layers or Sections can be turned On or Off as desired in each. Using our existing Organ, Piano and Synth combination, let's instead create a setup where we can switch between Organ and the Piano and Synth combination:
@@ -504,6 +507,8 @@ The Layer Scene II configuration is stored as part of a Program, and is useful i
 ---
 
 ## Morph 功能 / MORPHS
+
+![alt text](MORPHS.png)
 
 調製輪、控制踏板或鍵盤後觸鍵可在演奏時改變一個或多個參數。這通過選擇 Morph 來源（物理控制器）、目標參數和要包含在 Morph 中的參數範圍來實現。我們再次從程式 A:21 的鋼琴程式開始。
 
@@ -544,12 +549,6 @@ As the wheel moves, the Piano B level increases and the sound changes accordingl
 
 Read more about the Morph functionality on page 38.
 
----
-
-![Page 16](img/ch03/page_16.png)
-
----
-
 ## 合成器 / THE SYNTHESIZER
 
 Nord Stage 4 合成器區段配備三個完整且獨立的合成器——音層 A、B 和 C——可作為單一音源或用於構建更複雜的疊加音色。
@@ -572,6 +571,8 @@ Let's have a look at some of the basic features of the Stage 4 synthesizer, begi
 3. 關閉合成器區段所有已啟動的效果。  
    Turn off any active effects for the Synth section.
 
+![alt text](SYNTHESIZER.png)
+
 4. 確保合成器區段處於 ANALOG 模式（使用 MODE 選擇器）。使用顯示器下方的三個旋鈕，將 TYPE 設為 Analog，CAT（類別）設為 Pure，WAVE 設為 Sawtooth（鋸齒波）。  
    Make sure the Synth Section is in ANALOG Mode, using the MODE selector. Use the three dials under the display and set TYPE to Analog, CAT (Category) to Pure and WAVE to Sawtooth.
 
@@ -580,6 +581,8 @@ Let's have a look at some of the basic features of the Stage 4 synthesizer, begi
 
 6. 轉動 CAT 旋鈕選擇 Multi 類別。WAVE 旋鈕可用於選擇多個鋸齒波的不同組合。選擇 Multi Saw x2，它由兩個相差一個八度的振盪器組成。  
    Turn the CAT dial to and select the Multi category. The WAVE dial can be used to select different combinations of multiple sawtooth waves. Let's stick with Multi Saw x2 which consists of two oscillators an octave apart.
+
+![alt text](SYNTHESIZER2.png)
 
 7. 轉動 OSC CTRL 旋鈕，改變顯示器中顯示的兩個振盪器的 Detune 參數，產生或多或少失調和活躍的音色。  
    Turn the OSC CTRL knob to alter the Detune parameter for the two oscillators, shown in the display, resulting in a more or less detuned and lively sound.
@@ -612,6 +615,8 @@ Now let's instead set up a string pad sound based on a sample:
 2. 按 MODE 按鈕並選擇 SAMPLES。  
    Press the MODE button and select SAMPLES.
 
+![alt text](SYNTHESIZER3.png)
+
 3. 使用顯示器下方的 CAT 旋鈕選擇 Strings Ensemble 類別。使用 SAMPLE 旋鈕選擇您喜歡的音色。  
    Use the CAT dial under the display to select the Strings Ensemble category. Use the SAMPLE dial to select a sound of your choice.
 
@@ -640,15 +645,11 @@ There are several ways to further enhance this basic string pad sound, for insta
 > **提示**：可以使用 Nord Sound Manager 軟體為 Nord Stage 4 添加額外的樣本。  
 > Additional samples can be added to the Nord Stage 4 by using the Nord Sound Manager software.
 
----
+## 琶音器/門限器 / THE ARPEGGIATOR/GATE
 
-![Page 17](img/ch03/page_17.png)
+![alt text](fig_06_p17.png)
 
----
-
-## 琶音器/閘門 / THE ARPEGGIATOR/GATE
-
-作為最後一個練習，讓我們使用合成器區段及其琶音器/閘門（ARPEGGIATOR/GATE）創建一個音色。
+作為最後一個練習，讓我們使用合成器區段及其琶音器/門限器（ARPEGGIATOR/GATE）創建一個音色。
 
 As a final exercise, let's create a sound using the Synth section and its ARPEGGIATOR/GATE.
 
@@ -663,6 +664,8 @@ As a final exercise, let's create a sound using the Synth section and its ARPEGG
 
    啟動 ZIG ZAG（第二個旋鈕）後，演奏的音符將以給定方向跳兩步再退一步。  
    With ZIG ZAG (the second dial) activated, played notes will jump by two steps and then back one, in a given direction.
+
+![alt text](THE_ARPEGGIATORGATE2.png)
 
 > **注意**：琶音器/閘門選單的第 2-5 頁涉及 Pattern 模式，其設定只有在啟用 Pattern（Shift+Arp/Gate Mode）時才有效。  
 > Pages 2-5 of the Arpeggiator/Gate menu concern the Pattern mode, their settings only having effect when Pattern (Shift+Arp/Gate Mode) is enabled.
@@ -689,6 +692,8 @@ Now that we have an arpeggio going, let's try the Master Clock feature to synchr
 
 1. 按住 SHIFT 並轉動琶音器 RATE 旋鈕，將琶音鎖定到主時鐘，MST CLK LED 亮起。按住程式區的 Mst Clk TAP/SET 按鈕，使用程式旋鈕輸入速度，顯示器將顯示 BPM。將此練習的速度設為 130 BPM，然後按 SHIFT/EXIT 退出。  
    Hold SHIFT and turn the Arpeggiator RATE knob to lock the arpeggio to the Master Clock, the MST CLK LED lights up. Press down on the Mst Clk TAP/SET button in the Program area to dial in a tempo with the PROGRAM Dial. The display will indicate the BPM. Set this to 130 BPM for this exercise. Press SHIFT/EXIT to exit.
+
+![alt text](MST_CLK.png)
 
 > **提示**：或者，至少點擊 Mst Clk 按鈕四次即可即時設定速度。也可以使用腳踏開關踏板，或 Nord Triple Pedal 的左或中踏板來點擊速度。設置詳情請參閱第 59 頁。  
 > Alternatively, tap a minimum of four times on the Mst Clk button to set the tempo on the fly. You could also use a foot switch pedal, or the left or middle pedal of a Nord Triple Pedal to tap the tempo. See page 59 for details on how to set this up.
@@ -719,15 +724,3 @@ What's more, the Master Clock operates on all Layers simultaneously so you can c
 部分配備主時鐘的功能有大於 1/1 的除法設定，允許比一小節更長的掃描。當然，您也可以同步某些功能，同時讓其他功能自由運行。
 
 Some of the Mst Clk equipped functions have division settings that are larger than 1/1 that allows for sweeps that are longer than one bar. And you can of course synchronize some functions, while leaving others free-running if you like.
-
-![ch03 圖 1](img/ch03/fig_01_p13.png)
-
-![ch03 圖 2](img/ch03/fig_02_p13.png)
-
-![ch03 圖 3](img/ch03/fig_03_p14.png)
-
-![ch03 圖 4](img/ch03/fig_04_p15.png)
-
-![ch03 圖 5](img/ch03/fig_05_p16.png)
-
-![ch03 圖 6](img/ch03/fig_06_p17.png)
