@@ -13,8 +13,7 @@ git-repository-url = "https://github.com/wishnoblog/NordStage4UserManual"
 edit-url-template = "https://github.com/wishnoblog/NordStage4UserManual/edit/master/versions/v1.6/src/{path}"
 site-url = "/v1.6/"
 
-additional-js = ["theme/attribution.js", "theme/version-selector.js"]
-additional-css = ["theme/attribution.css"]
+additional-js = ["theme/translation-footer.js", "theme/version-selector.js"]
 
 [output.html.search]
 enable = true

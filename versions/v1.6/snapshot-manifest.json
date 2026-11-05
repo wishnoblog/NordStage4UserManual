@@ -283,9 +283,8 @@
     "src\\img\\ch13\\p64_img1.png": "94f052ba04e66c5f6a25f70187cdf925c804cf6c3f0428e0bcdda365f7ada82d",
     "src\\img\\ch13\\page_64.png": "712793c2ff72033e1f515e5598786ae1d41f18ea2c92b049f9bd2633827a827a",
     "src\\img\\ch13\\page_65.png": "68f4b6a9d260dce80b4d86f1323c9c12e55a0a237be8a39f371c489200aba3d4",
-    "theme\\attribution.css": "2ce8e79f4d1b371ece7ca798c94ea098fb16e6c1aa9982e684d59c5f4851e507",
-    "theme\\attribution.js": "2d26a8f8e63fa77011479b35ff719188adaad5c78f9109834aa829ce5e2f4b09",
     "theme\\version-selector.js": "d7408320ba2d3fb1270c2e24898b25662aa5423e687c685faf00bf446a2e6553",
-    "book.toml": "55498262dd70ab9755f0e2f30eaea6ef60d3074942bd85c3a776098761b3a182"
+    "book.toml": "47b19fe191434ebf656ff0c455373934f3d554ac612778d1ecc364a464e2ec04",
+    "theme\\translation-footer.js": "ac7f5fd4e90eed5ad70b53beec8efb02172edca78192ac325ab2721763eea3eb"
   }
 }

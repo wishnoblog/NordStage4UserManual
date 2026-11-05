@@ -274,9 +274,8 @@
     "src\\img\\ch13\\fig_01_p64.png": "0c81583457f8343364475232fa2fc96bf97459f6d500da98b5e62bea57d105ac",
     "src\\img\\ch13\\p64_img1.png": "94f052ba04e66c5f6a25f70187cdf925c804cf6c3f0428e0bcdda365f7ada82d",
     "src\\img\\ch13\\page_64.png": "712793c2ff72033e1f515e5598786ae1d41f18ea2c92b049f9bd2633827a827a",
-    "theme\\attribution.css": "2ce8e79f4d1b371ece7ca798c94ea098fb16e6c1aa9982e684d59c5f4851e507",
-    "theme\\attribution.js": "2d26a8f8e63fa77011479b35ff719188adaad5c78f9109834aa829ce5e2f4b09",
-    "book.toml": "5c53d48be9f1516a36d3fa52addfc919f6b949d8ff86473ece42612e3a5c530a",
-    "README.md": "009c780f23fddddd053c71b8f1cd8450ff01d19ff6cb90b43be384145532a161"
+    "book.toml": "6022feefbb5e9e4131af4623f55391578854937402dfc9d9177bb94d10d52a87",
+    "README.md": "009c780f23fddddd053c71b8f1cd8450ff01d19ff6cb90b43be384145532a161",
+    "theme\\translation-footer.js": "ac7f5fd4e90eed5ad70b53beec8efb02172edca78192ac325ab2721763eea3eb"
   }
 }
