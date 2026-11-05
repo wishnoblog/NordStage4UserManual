@@ -46,6 +46,12 @@ Programs and other content can be accessed and organized from a computer using t
 
 The Morph is a very powerful tool, which allows for controlling multiple parameters at once using one control "source".
 
+
+> **譯註：Morph 是什麼？**  
+> Morph 可理解為「多參數連動控制」：先為各參數設定變化的起點與終點，演奏時再用調變輪、控制踏板或二段觸鍵感應（Aftertouch），以一個動作控制這些變化。  
+> 例如，可以設定推動調變輪時，同時讓鋼琴音量逐漸降低、弦樂音層音量逐漸提高，並增加殘響效果的乾濕比。這些變化需要事先指定；各參數的變化方向與範圍可以不同。
+
+
 三個 **MORPH ASSIGN** 按鈕——WHEEL（調變輪）、A.T.（二段觸鍵感應 Aftertouch）、CTRLPED（控制踏板）——代表三種可用的Morph 多參數控制來源。
 
 The three MORPH ASSIGN buttons, WHEEL, A.T., CTRLPED, represent the three available Morph sources: the modulation wheel, keyboard aftertouch, and control pedal.
